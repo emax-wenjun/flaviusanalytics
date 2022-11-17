@@ -1,0 +1,152 @@
+{
+    "2022-11-12T00:51:58-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Conole": 128837,
+            "Williams": 132762,
+            "total": 261599,
+            "min_turnout": 269687,
+            "max_turnout": 275366
+        },
+        "1": {
+            "county_name": "Madison",
+            "Conole": 10418,
+            "Williams": 14936,
+            "total": 25354,
+            "min_turnout": 26138,
+            "max_turnout": 26688
+        },
+        "2": {
+            "county_name": "Oneida",
+            "Conole": 27101,
+            "Williams": 45186,
+            "total": 72287,
+            "min_turnout": 74523,
+            "max_turnout": 76091
+        },
+        "3": {
+            "county_name": "Onondaga",
+            "Conole": 91292,
+            "Williams": 72538,
+            "total": 163830,
+            "min_turnout": 168897,
+            "max_turnout": 172452
+        },
+        "4": {
+            "county_name": "Oswego",
+            "Conole": 26,
+            "Williams": 102,
+            "total": 128,
+            "min_turnout": 129,
+            "max_turnout": 135
+        }
+    },
+    "2022-11-14T13:09:02-05:00": {
+        "0": {
+            "Conole": 175,
+            "Williams": 270,
+            "total": 445,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Conole": 175,
+            "Williams": 270,
+            "total": 445,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Oneida"
+        }
+    },
+    "2022-11-14T13:51:49-05:00": {
+        "0": {
+            "Conole": 0,
+            "Williams": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 469,
+            "county_name": "Total"
+        },
+        "2": {
+            "Conole": 0,
+            "Williams": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 469,
+            "county_name": "Oneida"
+        }
+    },
+    "2022-11-15T18:17:05-05:00": {
+        "0": {
+            "Conole": 201,
+            "Williams": 370,
+            "total": 571,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Conole": 201,
+            "Williams": 370,
+            "total": 571,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Oneida"
+        }
+    },
+    "2022-11-16T11:48:50-05:00": {
+        "0": {
+            "Conole": 0,
+            "Williams": 0,
+            "total": 0,
+            "min_turnout": 276,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Conole": 0,
+            "Williams": 0,
+            "total": 0,
+            "min_turnout": 276,
+            "max_turnout": 0,
+            "county_name": "Oneida"
+        }
+    },
+    "2022-11-16T17:48:46-05:00": {
+        "0": {
+            "Conole": 2896,
+            "Williams": 1465,
+            "total": 4361,
+            "min_turnout": 0,
+            "max_turnout": 4591,
+            "county_name": "Total"
+        },
+        "3": {
+            "Conole": 2896,
+            "Williams": 1465,
+            "total": 4361,
+            "min_turnout": 0,
+            "max_turnout": 4591,
+            "county_name": "Onondaga"
+        }
+    },
+    "2022-11-17T09:49:08-05:00": {
+        "0": {
+            "Conole": 323,
+            "Williams": 194,
+            "total": 517,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Conole": 323,
+            "Williams": 194,
+            "total": 517,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Oneida"
+        }
+    }
+}

@@ -1,0 +1,1162 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Ryan": 1883583,
+            "Vance": 2147898,
+            "total": 4031481,
+            "min_turnout": 4149563,
+            "max_turnout": 4706204
+        },
+        {
+            "county_name": "Adams",
+            "Ryan": 1942,
+            "Vance": 6654,
+            "total": 8596,
+            "min_turnout": 8862,
+            "max_turnout": 9340
+        },
+        {
+            "county_name": "Allen",
+            "Ryan": 9226,
+            "Vance": 22877,
+            "total": 32103,
+            "min_turnout": 33096,
+            "max_turnout": 37774
+        },
+        {
+            "county_name": "Ashland",
+            "Ryan": 4958,
+            "Vance": 13132,
+            "total": 18090,
+            "min_turnout": 18649,
+            "max_turnout": 20293
+        },
+        {
+            "county_name": "Ashtabula",
+            "Ryan": 12372,
+            "Vance": 17979,
+            "total": 30351,
+            "min_turnout": 31290,
+            "max_turnout": 33991
+        },
+        {
+            "county_name": "Athens",
+            "Ryan": 10773,
+            "Vance": 7219,
+            "total": 17992,
+            "min_turnout": 18548,
+            "max_turnout": 22490
+        },
+        {
+            "county_name": "Auglaize",
+            "Ryan": 3586,
+            "Vance": 14778,
+            "total": 18364,
+            "min_turnout": 18932,
+            "max_turnout": 20677
+        },
+        {
+            "county_name": "Belmont",
+            "Ryan": 7232,
+            "Vance": 14956,
+            "total": 22188,
+            "min_turnout": 22874,
+            "max_turnout": 25923
+        },
+        {
+            "county_name": "Brown",
+            "Ryan": 3257,
+            "Vance": 10625,
+            "total": 13882,
+            "min_turnout": 14311,
+            "max_turnout": 16335
+        },
+        {
+            "county_name": "Butler",
+            "Ryan": 47535,
+            "Vance": 77802,
+            "total": 125337,
+            "min_turnout": 129213,
+            "max_turnout": 145515
+        },
+        {
+            "county_name": "Carroll",
+            "Ryan": 2710,
+            "Vance": 7272,
+            "total": 9982,
+            "min_turnout": 10185,
+            "max_turnout": 11092
+        },
+        {
+            "county_name": "Champaign",
+            "Ryan": 4045,
+            "Vance": 10126,
+            "total": 14171,
+            "min_turnout": 14609,
+            "max_turnout": 16142
+        },
+        {
+            "county_name": "Clark",
+            "Ryan": 16810,
+            "Vance": 26665,
+            "total": 43475,
+            "min_turnout": 44820,
+            "max_turnout": 50489
+        },
+        {
+            "county_name": "Clermont",
+            "Ryan": 26573,
+            "Vance": 51877,
+            "total": 78450,
+            "min_turnout": 80876,
+            "max_turnout": 87654
+        },
+        {
+            "county_name": "Clinton",
+            "Ryan": 3488,
+            "Vance": 10285,
+            "total": 13773,
+            "min_turnout": 14199,
+            "max_turnout": 16089
+        },
+        {
+            "county_name": "Columbiana",
+            "Ryan": 10520,
+            "Vance": 24459,
+            "total": 34979,
+            "min_turnout": 35332,
+            "max_turnout": 37717
+        },
+        {
+            "county_name": "Coshocton",
+            "Ryan": 3208,
+            "Vance": 7876,
+            "total": 11084,
+            "min_turnout": 11427,
+            "max_turnout": 12805
+        },
+        {
+            "county_name": "Crawford",
+            "Ryan": 3884,
+            "Vance": 10671,
+            "total": 14555,
+            "min_turnout": 14702,
+            "max_turnout": 15626
+        },
+        {
+            "county_name": "Cuyahoga",
+            "Ryan": 268703,
+            "Vance": 128603,
+            "total": 397306,
+            "min_turnout": 409594,
+            "max_turnout": 505619
+        },
+        {
+            "county_name": "Darke",
+            "Ryan": 3707,
+            "Vance": 15706,
+            "total": 19413,
+            "min_turnout": 20013,
+            "max_turnout": 20715
+        },
+        {
+            "county_name": "Defiance",
+            "Ryan": 4461,
+            "Vance": 8692,
+            "total": 13153,
+            "min_turnout": 13560,
+            "max_turnout": 14991
+        },
+        {
+            "county_name": "Delaware",
+            "Ryan": 44659,
+            "Vance": 51139,
+            "total": 95798,
+            "min_turnout": 98761,
+            "max_turnout": 107986
+        },
+        {
+            "county_name": "Erie",
+            "Ryan": 13316,
+            "Vance": 15053,
+            "total": 28369,
+            "min_turnout": 29246,
+            "max_turnout": 32539
+        },
+        {
+            "county_name": "Fairfield",
+            "Ryan": 22570,
+            "Vance": 35104,
+            "total": 57674,
+            "min_turnout": 59458,
+            "max_turnout": 66757
+        },
+        {
+            "county_name": "Fayette",
+            "Ryan": 2061,
+            "Vance": 6156,
+            "total": 8217,
+            "min_turnout": 8471,
+            "max_turnout": 9246
+        },
+        {
+            "county_name": "Franklin",
+            "Ryan": 270562,
+            "Vance": 139550,
+            "total": 410112,
+            "min_turnout": 422796,
+            "max_turnout": 500278
+        },
+        {
+            "county_name": "Fulton",
+            "Ryan": 5235,
+            "Vance": 10720,
+            "total": 15955,
+            "min_turnout": 16280,
+            "max_turnout": 17259
+        },
+        {
+            "county_name": "Gallia",
+            "Ryan": 2084,
+            "Vance": 6876,
+            "total": 8960,
+            "min_turnout": 9237,
+            "max_turnout": 10406
+        },
+        {
+            "county_name": "Geauga",
+            "Ryan": 17084,
+            "Vance": 24970,
+            "total": 42054,
+            "min_turnout": 43355,
+            "max_turnout": 46015
+        },
+        {
+            "county_name": "Greene",
+            "Ryan": 25331,
+            "Vance": 37754,
+            "total": 63085,
+            "min_turnout": 65036,
+            "max_turnout": 73139
+        },
+        {
+            "county_name": "Guernsey",
+            "Ryan": 3448,
+            "Vance": 8551,
+            "total": 11999,
+            "min_turnout": 12120,
+            "max_turnout": 13449
+        },
+        {
+            "county_name": "Hamilton",
+            "Ryan": 168564,
+            "Vance": 125140,
+            "total": 293704,
+            "min_turnout": 302788,
+            "max_turnout": 350478
+        },
+        {
+            "county_name": "Hancock",
+            "Ryan": 8553,
+            "Vance": 18029,
+            "total": 26582,
+            "min_turnout": 27404,
+            "max_turnout": 29662
+        },
+        {
+            "county_name": "Hardin",
+            "Ryan": 2422,
+            "Vance": 6407,
+            "total": 8829,
+            "min_turnout": 9102,
+            "max_turnout": 9910
+        },
+        {
+            "county_name": "Harrison",
+            "Ryan": 1441,
+            "Vance": 3668,
+            "total": 5109,
+            "min_turnout": 5267,
+            "max_turnout": 6087
+        },
+        {
+            "county_name": "Henry",
+            "Ryan": 3510,
+            "Vance": 6999,
+            "total": 10509,
+            "min_turnout": 10509,
+            "max_turnout": 11575
+        },
+        {
+            "county_name": "Highland",
+            "Ryan": 2722,
+            "Vance": 9785,
+            "total": 12507,
+            "min_turnout": 12894,
+            "max_turnout": 14685
+        },
+        {
+            "county_name": "Hocking",
+            "Ryan": 3080,
+            "Vance": 6249,
+            "total": 9329,
+            "min_turnout": 9618,
+            "max_turnout": 10726
+        },
+        {
+            "county_name": "Holmes",
+            "Ryan": 1544,
+            "Vance": 6949,
+            "total": 8493,
+            "min_turnout": 8756,
+            "max_turnout": 9971
+        },
+        {
+            "county_name": "Huron",
+            "Ryan": 5936,
+            "Vance": 12217,
+            "total": 18153,
+            "min_turnout": 18714,
+            "max_turnout": 20327
+        },
+        {
+            "county_name": "Jackson",
+            "Ryan": 2229,
+            "Vance": 6435,
+            "total": 8664,
+            "min_turnout": 8932,
+            "max_turnout": 11169
+        },
+        {
+            "county_name": "Jefferson",
+            "Ryan": 7802,
+            "Vance": 14752,
+            "total": 22554,
+            "min_turnout": 23252,
+            "max_turnout": 25505
+        },
+        {
+            "county_name": "Knox",
+            "Ryan": 6721,
+            "Vance": 15748,
+            "total": 22469,
+            "min_turnout": 23164,
+            "max_turnout": 24819
+        },
+        {
+            "county_name": "Lake",
+            "Ryan": 42184,
+            "Vance": 49960,
+            "total": 92144,
+            "min_turnout": 94994,
+            "max_turnout": 103132
+        },
+        {
+            "county_name": "Lawrence",
+            "Ryan": 4705,
+            "Vance": 12520,
+            "total": 17225,
+            "min_turnout": 17758,
+            "max_turnout": 21869
+        },
+        {
+            "county_name": "Licking",
+            "Ryan": 24123,
+            "Vance": 40610,
+            "total": 64733,
+            "min_turnout": 66735,
+            "max_turnout": 75614
+        },
+        {
+            "county_name": "Logan",
+            "Ryan": 3830,
+            "Vance": 12351,
+            "total": 16181,
+            "min_turnout": 16681,
+            "max_turnout": 18318
+        },
+        {
+            "county_name": "Lorain",
+            "Ryan": 55885,
+            "Vance": 53464,
+            "total": 109349,
+            "min_turnout": 112731,
+            "max_turnout": 125824
+        },
+        {
+            "county_name": "Lucas",
+            "Ryan": 76737,
+            "Vance": 51990,
+            "total": 128727,
+            "min_turnout": 132708,
+            "max_turnout": 158131
+        },
+        {
+            "county_name": "Madison",
+            "Ryan": 4230,
+            "Vance": 9556,
+            "total": 13786,
+            "min_turnout": 14212,
+            "max_turnout": 15568
+        },
+        {
+            "county_name": "Mahoning",
+            "Ryan": 40827,
+            "Vance": 43753,
+            "total": 84580,
+            "min_turnout": 87196,
+            "max_turnout": 94320
+        },
+        {
+            "county_name": "Marion",
+            "Ryan": 6198,
+            "Vance": 12441,
+            "total": 18639,
+            "min_turnout": 19215,
+            "max_turnout": 22246
+        },
+        {
+            "county_name": "Medina",
+            "Ryan": 31525,
+            "Vance": 45218,
+            "total": 76743,
+            "min_turnout": 77518,
+            "max_turnout": 83294
+        },
+        {
+            "county_name": "Meigs",
+            "Ryan": 1850,
+            "Vance": 5530,
+            "total": 7380,
+            "min_turnout": 7608,
+            "max_turnout": 8441
+        },
+        {
+            "county_name": "Mercer",
+            "Ryan": 3342,
+            "Vance": 14180,
+            "total": 17522,
+            "min_turnout": 18064,
+            "max_turnout": 18737
+        },
+        {
+            "county_name": "Miami",
+            "Ryan": 11713,
+            "Vance": 29519,
+            "total": 41232,
+            "min_turnout": 41648,
+            "max_turnout": 45191
+        },
+        {
+            "county_name": "Monroe",
+            "Ryan": 1361,
+            "Vance": 3436,
+            "total": 4797,
+            "min_turnout": 4945,
+            "max_turnout": 5548
+        },
+        {
+            "county_name": "Montgomery",
+            "Ryan": 88208,
+            "Vance": 87850,
+            "total": 176058,
+            "min_turnout": 181503,
+            "max_turnout": 213292
+        },
+        {
+            "county_name": "Morgan",
+            "Ryan": 1302,
+            "Vance": 3441,
+            "total": 4743,
+            "min_turnout": 4890,
+            "max_turnout": 5391
+        },
+        {
+            "county_name": "Morrow",
+            "Ryan": 3248,
+            "Vance": 9831,
+            "total": 13079,
+            "min_turnout": 13211,
+            "max_turnout": 14609
+        },
+        {
+            "county_name": "Muskingum",
+            "Ryan": 8497,
+            "Vance": 18389,
+            "total": 26886,
+            "min_turnout": 27718,
+            "max_turnout": 31287
+        },
+        {
+            "county_name": "Noble",
+            "Ryan": 1071,
+            "Vance": 3462,
+            "total": 4533,
+            "min_turnout": 4673,
+            "max_turnout": 5090
+        },
+        {
+            "county_name": "Ottawa",
+            "Ryan": 7646,
+            "Vance": 10497,
+            "total": 18143,
+            "min_turnout": 18704,
+            "max_turnout": 19802
+        },
+        {
+            "county_name": "Paulding",
+            "Ryan": 1566,
+            "Vance": 4792,
+            "total": 6358,
+            "min_turnout": 6555,
+            "max_turnout": 7340
+        },
+        {
+            "county_name": "Perry",
+            "Ryan": 3283,
+            "Vance": 8407,
+            "total": 11690,
+            "min_turnout": 12052,
+            "max_turnout": 12785
+        },
+        {
+            "county_name": "Pickaway",
+            "Ryan": 5581,
+            "Vance": 13609,
+            "total": 19190,
+            "min_turnout": 19783,
+            "max_turnout": 22195
+        },
+        {
+            "county_name": "Pike",
+            "Ryan": 2290,
+            "Vance": 5318,
+            "total": 7608,
+            "min_turnout": 7843,
+            "max_turnout": 9432
+        },
+        {
+            "county_name": "Portage",
+            "Ryan": 27463,
+            "Vance": 31654,
+            "total": 59117,
+            "min_turnout": 60323,
+            "max_turnout": 65459
+        },
+        {
+            "county_name": "Preble",
+            "Ryan": 3476,
+            "Vance": 11978,
+            "total": 15454,
+            "min_turnout": 15932,
+            "max_turnout": 16854
+        },
+        {
+            "county_name": "Putnam",
+            "Ryan": 2624,
+            "Vance": 12180,
+            "total": 14804,
+            "min_turnout": 15262,
+            "max_turnout": 15761
+        },
+        {
+            "county_name": "Richland",
+            "Ryan": 12673,
+            "Vance": 28357,
+            "total": 41030,
+            "min_turnout": 42299,
+            "max_turnout": 47162
+        },
+        {
+            "county_name": "Ross",
+            "Ryan": 7715,
+            "Vance": 14440,
+            "total": 22155,
+            "min_turnout": 22840,
+            "max_turnout": 25406
+        },
+        {
+            "county_name": "Sandusky",
+            "Ryan": 8058,
+            "Vance": 12870,
+            "total": 20928,
+            "min_turnout": 21575,
+            "max_turnout": 23613
+        },
+        {
+            "county_name": "Scioto",
+            "Ryan": 6249,
+            "Vance": 14296,
+            "total": 20545,
+            "min_turnout": 21180,
+            "max_turnout": 24837
+        },
+        {
+            "county_name": "Seneca",
+            "Ryan": 6229,
+            "Vance": 11463,
+            "total": 17692,
+            "min_turnout": 18239,
+            "max_turnout": 20045
+        },
+        {
+            "county_name": "Shelby",
+            "Ryan": 3439,
+            "Vance": 14166,
+            "total": 17605,
+            "min_turnout": 18149,
+            "max_turnout": 19979
+        },
+        {
+            "county_name": "Stark",
+            "Ryan": 55176,
+            "Vance": 75997,
+            "total": 131173,
+            "min_turnout": 133862,
+            "max_turnout": 149322
+        },
+        {
+            "county_name": "Summit",
+            "Ryan": 110642,
+            "Vance": 85140,
+            "total": 195782,
+            "min_turnout": 201837,
+            "max_turnout": 226789
+        },
+        {
+            "county_name": "Trumbull",
+            "Ryan": 33226,
+            "Vance": 38382,
+            "total": 71608,
+            "min_turnout": 73823,
+            "max_turnout": 78116
+        },
+        {
+            "county_name": "Tuscarawas",
+            "Ryan": 10068,
+            "Vance": 19691,
+            "total": 29759,
+            "min_turnout": 30679,
+            "max_turnout": 34657
+        },
+        {
+            "county_name": "Union",
+            "Ryan": 8855,
+            "Vance": 16028,
+            "total": 24883,
+            "min_turnout": 25653,
+            "max_turnout": 28060
+        },
+        {
+            "county_name": "Van Wert",
+            "Ryan": 2162,
+            "Vance": 7890,
+            "total": 10052,
+            "min_turnout": 10363,
+            "max_turnout": 11253
+        },
+        {
+            "county_name": "Vinton",
+            "Ryan": 1019,
+            "Vance": 2948,
+            "total": 3967,
+            "min_turnout": 4090,
+            "max_turnout": 4506
+        },
+        {
+            "county_name": "Warren",
+            "Ryan": 35304,
+            "Vance": 64222,
+            "total": 99526,
+            "min_turnout": 102604,
+            "max_turnout": 110408
+        },
+        {
+            "county_name": "Washington",
+            "Ryan": 6798,
+            "Vance": 15492,
+            "total": 22290,
+            "min_turnout": 22979,
+            "max_turnout": 24417
+        },
+        {
+            "county_name": "Wayne",
+            "Ryan": 12646,
+            "Vance": 25193,
+            "total": 37839,
+            "min_turnout": 39009,
+            "max_turnout": 43175
+        },
+        {
+            "county_name": "Williams",
+            "Ryan": 3846,
+            "Vance": 8816,
+            "total": 12662,
+            "min_turnout": 13054,
+            "max_turnout": 14164
+        },
+        {
+            "county_name": "Wood",
+            "Ryan": 22664,
+            "Vance": 24376,
+            "total": 47040,
+            "min_turnout": 48495,
+            "max_turnout": 52727
+        },
+        {
+            "county_name": "Wyandot",
+            "Ryan": 2185,
+            "Vance": 5690,
+            "total": 7875,
+            "min_turnout": 8119,
+            "max_turnout": 8773
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Allen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ashtabula": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Athens": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Auglaize": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Belmont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Champaign": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clermont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbiana": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Coshocton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Cuyahoga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Darke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Defiance": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Erie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fairfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fulton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gallia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Geauga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Guernsey": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hardin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Harrison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Henry": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Highland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hocking": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Holmes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Huron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Knox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Licking": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lorain": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lucas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mahoning": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Medina": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Meigs": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mercer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Miami": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morrow": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Muskingum": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Noble": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ottawa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Paulding": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pickaway": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Portage": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Preble": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Richland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ross": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sandusky": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Scioto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Seneca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shelby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Summit": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Trumbull": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tuscarawas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Van Wert": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Vinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Williams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyandot": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

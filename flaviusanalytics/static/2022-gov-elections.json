@@ -1,0 +1,234 @@
+{
+    "2022-az-gov-election" : {
+        "name" : "2022 Arizona Governor Election",
+        "candidates" : ["Hobbs", "Lake"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-AZ.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15868/results/county", {"Hobbs" : "26338", "Lake" : "26347"}],
+			"sos" : "https://cdn1.arizona.vote/data/33/0/all_county_races_33_0_en_9733.json"
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/arizona/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-ks-gov-election" : {
+        "name" : "2022 Kansas Governor Election",
+        "candidates" : ["Kelly", "Schmidt"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-kansas-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-KS.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17669/results/county", {"Kelly" : "10148", "Schmidt" : "27132"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/kansas/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-nv-gov-election" : {
+        "name" : "2022 Nevada Governor Election",
+        "candidates" : ["Sisolak", "Lombardo"],
+        "date" : [2022, 11, 8],
+		"time" : 10,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nevada-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-NV.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19192/results/county", {"Sisolak" : "23477", "Lombardo" : "23491"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/nevada/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-mi-gov-election" : {
+        "name" : "2022 Michigan Governor Election",
+        "candidates" : ["Whitmer", "Dixon"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-michigan-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-MI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/18461/results/county", {"Whitmer" : "10309", "Dixon" : "26592"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/michigan/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-ok-gov-election" : {
+        "name" : "2022 Oklahoma Governor Election",
+        "candidates" : ["Hofmeister", "Stitt"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oklahoma-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-OK.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20111/results/county", {"Hofmeister" : "25428", "Stitt" : "9925"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-or-gov-election" : {
+        "name" : "2022 Oregon Governor Election",
+        "candidates" : ["Kotek", "Drazan", "Johnson"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-OR.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20164/results/county", {"Kotek" : "20032", "Drazan" : "20044", "Johnson" : "47470"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/oregon/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-pa-gov-election" : {
+        "name" : "2022 Pennsylvania Governor Election",
+        "candidates" : ["Shapiro", "Mastriano"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-PA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20248/results/county", {"Shapiro" : "15792", "Mastriano" : "20617"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/pennsylvania/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-wi-gov-election" : {
+        "name" : "2022 Wisconsin Governor Election",
+        "candidates" : ["Evers", "Michels"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-wisconsin-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-WI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21694/results/county", {"Evers" : "10484", "Michels" : "29154"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/governor/2022/wisconsin/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-co-gov-election" : {
+        "name" : "2022 Colorado Governor Election",
+        "candidates" : ["Polis", "Ganahl"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-CO.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16251/results/county", {"Polis" : "329", "Ganahl" : "24695"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-fl-gov-election" : {
+        "name" : "2022 Florida Governor Election",
+        "candidates" : ["Crist", "DeSantis"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-FL.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16612/results/county", {"DeSantis" : "649", "Crist" : "11032"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ga-gov-election" : {
+        "name" : "2022 Georgia Governor Election",
+        "candidates" : ["Abrams", "Kemp"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-georgia-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-GA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16747/results/county", {"Abrams" : "9135", "Kemp" : "9130"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-mn-gov-election" : {
+        "name" : "2022 Minnesota Governor Election",
+        "candidates" : ["Walz", "Jensen"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-minnesota-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-MN.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/18626/results/county", {"Walz" : "1250", "Jensen" : "28734"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-nm-gov-election" : {
+        "name" : "2022 New Mexico Governor Election",
+        "candidates" : ["Lujan Grisham", "Ronchetti"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-mexico-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-NM.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19499/results/county", {"Lujan Grisham" : "9599", "Ronchetti" : "12976"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ny-gov-election" : {
+        "name" : "2022 New York Governor Election",
+        "candidates" : ["Hochul", "Zeldin"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-NY.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19576/results/county", {"Hochul" : "25286", "Zeldin" : "25293"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-oh-gov-election" : {
+        "name" : "2022 Ohio Governor Election",
+        "candidates" : ["Whaley", "DeWine"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GG-OH.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19974/results/county", {"Whaley" : "19157", "DeWine" : "8796"}]
+        },
+        "graph-percents" : [0]
+    }
+}

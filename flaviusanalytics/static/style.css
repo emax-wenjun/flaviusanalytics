@@ -1,0 +1,197 @@
+html {
+    background: #eee;
+}
+body {
+    max-width: 1920px;
+    background: white;
+    font-family: "Courier New"
+}
+h1 {
+    font-size: 30px;
+    font-family: serif;
+}
+h2 {
+    font-size: 24px;
+    font-family: serif;
+}
+td {
+    width: 120px;
+    text-align: right;
+    border: 2px solid black;
+    padding: 0;
+}
+td.summary-cell {
+    width: 240px;
+    text-align: left;
+    border: 2px solid black;
+    padding: 10px;
+}
+td.nyt {
+    color: black;
+    border: 2px solid black;
+}
+td.cnn {
+    color: black;
+    border: 2px solid red;
+}
+td.ddhq {
+    color: black;
+    border: 2px solid blue;
+}
+td.sos {
+    color: black;
+    border: 2px dashed black;
+}
+td.history-cell {
+    width: auto;
+    color: black;
+    border: 2px solid black;
+}
+th.history-cell {
+    min-width: 80px;
+    color: black;
+    text-align: center;
+}
+p {
+    white-space: pre-wrap
+}
+th.results-table {
+    width: 120px;
+    text-align: right;
+}
+a {
+    color: #377ba8;
+    display: block;
+}
+hr {
+    border: none;
+    border-top: 1px solid lightgray;
+}
+nav {
+    background: lightgray;
+    align-items: center;
+    padding: 0 0.5rem;
+}
+nav li {
+	padding-right: 25px;
+}
+nav h1 {
+    margin: 0;
+    text-align: center;
+}
+nav p {
+	font-size: 24px;
+    font-family: serif;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+	display: table-cell;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav div {
+	height: 35px;
+    margin: 2.5px;
+	display: table;
+}
+nav div.logo {
+	height: 35px;
+    margin: 2.5px;
+	display: block;
+}
+.content {
+    padding: 16px;
+}
+.dim-input {
+    width: 75px;
+    margin-bottom: 16px;
+}
+.dropdown {
+    font-family: "Courier New";
+}
+.flash {
+    margin: 1em 0;
+    padding: 1em;
+    background: #cae6f6;
+    border: 1px solid #377ba8;
+}
+.graphics {
+    height: auto;
+    max-width: 1920px;
+    padding: 20px;
+}
+.graph {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    height: 500px;
+    vertical-align: top;
+}
+.settings {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    height: 500px;
+    vertical-align: top;
+}
+.history {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    height: 500px;
+    width: auto;
+}
+.flex-child {
+    flex: 1;
+}
+.scroller {
+    overflow-y: auto;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+}
+.settings-button {
+    margin-bottom: 16px;
+}
+.content: last-child {
+    margin-bottom: 0;
+}
+.content label {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+.content input, .content textarea {
+    margin-bottom: 1em;
+}
+#us-map{
+  display: block;
+  width: 960px;
+}
+path:hover, circle:hover {
+  stroke: #00FF00 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #00FF00 !important;
+  cursor: pointer;
+}
+#path67 {
+  fill: none !important;
+  stroke: #A9A9A9 !important;
+  cursor: default;
+}
+#info-box {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: #ffffff;
+  border: 2px solid #BF0A30;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: arial;
+}

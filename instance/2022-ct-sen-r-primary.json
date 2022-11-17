@@ -1,0 +1,2215 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Levy": 47131,
+            "Klarides": 37211,
+            "total": 93079,
+            "min_turnout": 96724,
+            "max_turnout": 103177
+        },
+        {
+            "county_name": "Andover",
+            "Levy": 84,
+            "Klarides": 52,
+            "total": 152,
+            "min_turnout": 153,
+            "max_turnout": 160
+        },
+        {
+            "county_name": "Ansonia",
+            "Levy": 165,
+            "Klarides": 199,
+            "total": 390,
+            "min_turnout": 411,
+            "max_turnout": 513
+        },
+        {
+            "county_name": "Ashford",
+            "Levy": 78,
+            "Klarides": 51,
+            "total": 145,
+            "min_turnout": 146,
+            "max_turnout": 153
+        },
+        {
+            "county_name": "Avon",
+            "Levy": 368,
+            "Klarides": 386,
+            "total": 831,
+            "min_turnout": 854,
+            "max_turnout": 875
+        },
+        {
+            "county_name": "Barkhamsted",
+            "Levy": 112,
+            "Klarides": 76,
+            "total": 223,
+            "min_turnout": 225,
+            "max_turnout": 235
+        },
+        {
+            "county_name": "Beacon Falls",
+            "Levy": 120,
+            "Klarides": 178,
+            "total": 316,
+            "min_turnout": 319,
+            "max_turnout": 333
+        },
+        {
+            "county_name": "Berlin",
+            "Levy": 516,
+            "Klarides": 285,
+            "total": 899,
+            "min_turnout": 946,
+            "max_turnout": 1033
+        },
+        {
+            "county_name": "Bethany",
+            "Levy": 129,
+            "Klarides": 161,
+            "total": 307,
+            "min_turnout": 310,
+            "max_turnout": 323
+        },
+        {
+            "county_name": "Bethel",
+            "Levy": 294,
+            "Klarides": 188,
+            "total": 544,
+            "min_turnout": 573,
+            "max_turnout": 663
+        },
+        {
+            "county_name": "Bethlehem",
+            "Levy": 94,
+            "Klarides": 85,
+            "total": 202,
+            "min_turnout": 204,
+            "max_turnout": 213
+        },
+        {
+            "county_name": "Bloomfield",
+            "Levy": 106,
+            "Klarides": 107,
+            "total": 241,
+            "min_turnout": 254,
+            "max_turnout": 297
+        },
+        {
+            "county_name": "Bolton",
+            "Levy": 136,
+            "Klarides": 96,
+            "total": 256,
+            "min_turnout": 269,
+            "max_turnout": 284
+        },
+        {
+            "county_name": "Bozrah",
+            "Levy": 54,
+            "Klarides": 31,
+            "total": 109,
+            "min_turnout": 110,
+            "max_turnout": 115
+        },
+        {
+            "county_name": "Branford",
+            "Levy": 402,
+            "Klarides": 375,
+            "total": 823,
+            "min_turnout": 831,
+            "max_turnout": 866
+        },
+        {
+            "county_name": "Bridgeport",
+            "Levy": 265,
+            "Klarides": 174,
+            "total": 486,
+            "min_turnout": 511,
+            "max_turnout": 512
+        },
+        {
+            "county_name": "Bridgewater",
+            "Levy": 60,
+            "Klarides": 67,
+            "total": 146,
+            "min_turnout": 147,
+            "max_turnout": 154
+        },
+        {
+            "county_name": "Bristol",
+            "Levy": 981,
+            "Klarides": 658,
+            "total": 1853,
+            "min_turnout": 1871,
+            "max_turnout": 1951
+        },
+        {
+            "county_name": "Brookfield",
+            "Levy": 391,
+            "Klarides": 251,
+            "total": 729,
+            "min_turnout": 765,
+            "max_turnout": 998
+        },
+        {
+            "county_name": "Burlington",
+            "Levy": 294,
+            "Klarides": 152,
+            "total": 508,
+            "min_turnout": 513,
+            "max_turnout": 535
+        },
+        {
+            "county_name": "Canaan",
+            "Levy": 18,
+            "Klarides": 17,
+            "total": 38,
+            "min_turnout": 40,
+            "max_turnout": 146
+        },
+        {
+            "county_name": "Canterbury",
+            "Levy": 131,
+            "Klarides": 56,
+            "total": 232,
+            "min_turnout": 232,
+            "max_turnout": 244
+        },
+        {
+            "county_name": "Canton",
+            "Levy": 228,
+            "Klarides": 172,
+            "total": 440,
+            "min_turnout": 444,
+            "max_turnout": 463
+        },
+        {
+            "county_name": "Chaplin",
+            "Levy": 56,
+            "Klarides": 48,
+            "total": 122,
+            "min_turnout": 123,
+            "max_turnout": 128
+        },
+        {
+            "county_name": "Cheshire",
+            "Levy": 546,
+            "Klarides": 454,
+            "total": 1098,
+            "min_turnout": 1120,
+            "max_turnout": 1156
+        },
+        {
+            "county_name": "Chester",
+            "Levy": 64,
+            "Klarides": 53,
+            "total": 127,
+            "min_turnout": 128,
+            "max_turnout": 134
+        },
+        {
+            "county_name": "Clinton",
+            "Levy": 272,
+            "Klarides": 179,
+            "total": 498,
+            "min_turnout": 503,
+            "max_turnout": 524
+        },
+        {
+            "county_name": "Colchester",
+            "Levy": 340,
+            "Klarides": 264,
+            "total": 667,
+            "min_turnout": 673,
+            "max_turnout": 702
+        },
+        {
+            "county_name": "Colebrook",
+            "Levy": 47,
+            "Klarides": 36,
+            "total": 91,
+            "min_turnout": 91,
+            "max_turnout": 96
+        },
+        {
+            "county_name": "Columbia",
+            "Levy": 133,
+            "Klarides": 75,
+            "total": 240,
+            "min_turnout": 242,
+            "max_turnout": 253
+        },
+        {
+            "county_name": "Cornwall",
+            "Levy": 13,
+            "Klarides": 36,
+            "total": 54,
+            "min_turnout": 54,
+            "max_turnout": 57
+        },
+        {
+            "county_name": "Coventry",
+            "Levy": 315,
+            "Klarides": 110,
+            "total": 471,
+            "min_turnout": 496,
+            "max_turnout": 523
+        },
+        {
+            "county_name": "Cromwell",
+            "Levy": 236,
+            "Klarides": 215,
+            "total": 496,
+            "min_turnout": 522,
+            "max_turnout": 670
+        },
+        {
+            "county_name": "Danbury",
+            "Levy": 688,
+            "Klarides": 360,
+            "total": 1181,
+            "min_turnout": 1230,
+            "max_turnout": 1243
+        },
+        {
+            "county_name": "Darien",
+            "Levy": 347,
+            "Klarides": 746,
+            "total": 1173,
+            "min_turnout": 1234,
+            "max_turnout": 1234
+        },
+        {
+            "county_name": "Deep River",
+            "Levy": 58,
+            "Klarides": 77,
+            "total": 146,
+            "min_turnout": 153,
+            "max_turnout": 154
+        },
+        {
+            "county_name": "Derby",
+            "Levy": 108,
+            "Klarides": 162,
+            "total": 291,
+            "min_turnout": 306,
+            "max_turnout": 306
+        },
+        {
+            "county_name": "Durham",
+            "Levy": 202,
+            "Klarides": 114,
+            "total": 334,
+            "min_turnout": 352,
+            "max_turnout": 433
+        },
+        {
+            "county_name": "East Granby",
+            "Levy": 113,
+            "Klarides": 70,
+            "total": 212,
+            "min_turnout": 223,
+            "max_turnout": 223
+        },
+        {
+            "county_name": "East Haddam",
+            "Levy": 269,
+            "Klarides": 140,
+            "total": 447,
+            "min_turnout": 470,
+            "max_turnout": 471
+        },
+        {
+            "county_name": "East Hampton",
+            "Levy": 263,
+            "Klarides": 183,
+            "total": 483,
+            "min_turnout": 508,
+            "max_turnout": 568
+        },
+        {
+            "county_name": "East Hartford",
+            "Levy": 331,
+            "Klarides": 199,
+            "total": 571,
+            "min_turnout": 576,
+            "max_turnout": 601
+        },
+        {
+            "county_name": "East Haven",
+            "Levy": 368,
+            "Klarides": 216,
+            "total": 613,
+            "min_turnout": 639,
+            "max_turnout": 645
+        },
+        {
+            "county_name": "East Lyme",
+            "Levy": 237,
+            "Klarides": 273,
+            "total": 569,
+            "min_turnout": 599,
+            "max_turnout": 605
+        },
+        {
+            "county_name": "East Windsor",
+            "Levy": 213,
+            "Klarides": 95,
+            "total": 340,
+            "min_turnout": 357,
+            "max_turnout": 358
+        },
+        {
+            "county_name": "Eastford",
+            "Levy": 59,
+            "Klarides": 44,
+            "total": 118,
+            "min_turnout": 124,
+            "max_turnout": 124
+        },
+        {
+            "county_name": "Easton",
+            "Levy": 184,
+            "Klarides": 131,
+            "total": 339,
+            "min_turnout": 356,
+            "max_turnout": 357
+        },
+        {
+            "county_name": "Ellington",
+            "Levy": 299,
+            "Klarides": 195,
+            "total": 544,
+            "min_turnout": 573,
+            "max_turnout": 680
+        },
+        {
+            "county_name": "Enfield",
+            "Levy": 688,
+            "Klarides": 291,
+            "total": 1092,
+            "min_turnout": 1149,
+            "max_turnout": 1149
+        },
+        {
+            "county_name": "Essex",
+            "Levy": 126,
+            "Klarides": 142,
+            "total": 289,
+            "min_turnout": 304,
+            "max_turnout": 395
+        },
+        {
+            "county_name": "Fairfield",
+            "Levy": 698,
+            "Klarides": 859,
+            "total": 1748,
+            "min_turnout": 1765,
+            "max_turnout": 1840
+        },
+        {
+            "county_name": "Farmington",
+            "Levy": 526,
+            "Klarides": 394,
+            "total": 1009,
+            "min_turnout": 1062,
+            "max_turnout": 1062
+        },
+        {
+            "county_name": "Franklin",
+            "Levy": 40,
+            "Klarides": 27,
+            "total": 77,
+            "min_turnout": 81,
+            "max_turnout": 102
+        },
+        {
+            "county_name": "Glastonbury",
+            "Levy": 609,
+            "Klarides": 502,
+            "total": 1220,
+            "min_turnout": 1284,
+            "max_turnout": 1284
+        },
+        {
+            "county_name": "Goshen",
+            "Levy": 118,
+            "Klarides": 107,
+            "total": 237,
+            "min_turnout": 249,
+            "max_turnout": 254
+        },
+        {
+            "county_name": "Granby",
+            "Levy": 319,
+            "Klarides": 239,
+            "total": 604,
+            "min_turnout": 635,
+            "max_turnout": 636
+        },
+        {
+            "county_name": "Greenwich",
+            "Levy": 1720,
+            "Klarides": 979,
+            "total": 2828,
+            "min_turnout": 2856,
+            "max_turnout": 2977
+        },
+        {
+            "county_name": "Griswold",
+            "Levy": 193,
+            "Klarides": 109,
+            "total": 346,
+            "min_turnout": 364,
+            "max_turnout": 397
+        },
+        {
+            "county_name": "Groton",
+            "Levy": 313,
+            "Klarides": 315,
+            "total": 715,
+            "min_turnout": 752,
+            "max_turnout": 753
+        },
+        {
+            "county_name": "Guilford",
+            "Levy": 438,
+            "Klarides": 304,
+            "total": 803,
+            "min_turnout": 845,
+            "max_turnout": 845
+        },
+        {
+            "county_name": "Haddam",
+            "Levy": 261,
+            "Klarides": 142,
+            "total": 456,
+            "min_turnout": 480,
+            "max_turnout": 480
+        },
+        {
+            "county_name": "Hamden",
+            "Levy": 466,
+            "Klarides": 468,
+            "total": 1007,
+            "min_turnout": 1017,
+            "max_turnout": 1060
+        },
+        {
+            "county_name": "Hampton",
+            "Levy": 34,
+            "Klarides": 19,
+            "total": 61,
+            "min_turnout": 64,
+            "max_turnout": 88
+        },
+        {
+            "county_name": "Hartford",
+            "Levy": 97,
+            "Klarides": 70,
+            "total": 195,
+            "min_turnout": 201,
+            "max_turnout": 214
+        },
+        {
+            "county_name": "Hartland",
+            "Levy": 88,
+            "Klarides": 56,
+            "total": 171,
+            "min_turnout": 180,
+            "max_turnout": 180
+        },
+        {
+            "county_name": "Harwinton",
+            "Levy": 163,
+            "Klarides": 121,
+            "total": 326,
+            "min_turnout": 343,
+            "max_turnout": 392
+        },
+        {
+            "county_name": "Hebron",
+            "Levy": 187,
+            "Klarides": 150,
+            "total": 392,
+            "min_turnout": 413,
+            "max_turnout": 496
+        },
+        {
+            "county_name": "Kent",
+            "Levy": 51,
+            "Klarides": 27,
+            "total": 93,
+            "min_turnout": 98,
+            "max_turnout": 125
+        },
+        {
+            "county_name": "Killingly",
+            "Levy": 214,
+            "Klarides": 73,
+            "total": 349,
+            "min_turnout": 367,
+            "max_turnout": 410
+        },
+        {
+            "county_name": "Killingworth",
+            "Levy": 199,
+            "Klarides": 138,
+            "total": 357,
+            "min_turnout": 375,
+            "max_turnout": 376
+        },
+        {
+            "county_name": "Kings",
+            "Levy": 286,
+            "Klarides": 114,
+            "total": 448,
+            "min_turnout": 448,
+            "max_turnout": 472
+        },
+        {
+            "county_name": "Lebanon",
+            "Levy": 186,
+            "Klarides": 85,
+            "total": 342,
+            "min_turnout": 360,
+            "max_turnout": 371
+        },
+        {
+            "county_name": "Ledyard",
+            "Levy": 232,
+            "Klarides": 175,
+            "total": 463,
+            "min_turnout": 487,
+            "max_turnout": 625
+        },
+        {
+            "county_name": "Lisbon",
+            "Levy": 87,
+            "Klarides": 58,
+            "total": 169,
+            "min_turnout": 178,
+            "max_turnout": 183
+        },
+        {
+            "county_name": "Litchfield",
+            "Levy": 244,
+            "Klarides": 235,
+            "total": 546,
+            "min_turnout": 574,
+            "max_turnout": 575
+        },
+        {
+            "county_name": "Lyme",
+            "Levy": 52,
+            "Klarides": 54,
+            "total": 113,
+            "min_turnout": 119,
+            "max_turnout": 131
+        },
+        {
+            "county_name": "Madison",
+            "Levy": 344,
+            "Klarides": 388,
+            "total": 789,
+            "min_turnout": 831,
+            "max_turnout": 906
+        },
+        {
+            "county_name": "Manchester",
+            "Levy": 578,
+            "Klarides": 420,
+            "total": 1122,
+            "min_turnout": 1181,
+            "max_turnout": 1181
+        },
+        {
+            "county_name": "Mansfield",
+            "Levy": 124,
+            "Klarides": 66,
+            "total": 210,
+            "min_turnout": 221,
+            "max_turnout": 276
+        },
+        {
+            "county_name": "Marlborough",
+            "Levy": 139,
+            "Klarides": 98,
+            "total": 268,
+            "min_turnout": 282,
+            "max_turnout": 322
+        },
+        {
+            "county_name": "Meriden",
+            "Levy": 478,
+            "Klarides": 277,
+            "total": 844,
+            "min_turnout": 888,
+            "max_turnout": 1082
+        },
+        {
+            "county_name": "Middlebury",
+            "Levy": 229,
+            "Klarides": 306,
+            "total": 614,
+            "min_turnout": 646,
+            "max_turnout": 653
+        },
+        {
+            "county_name": "Middlefield",
+            "Levy": 93,
+            "Klarides": 61,
+            "total": 166,
+            "min_turnout": 175,
+            "max_turnout": 207
+        },
+        {
+            "county_name": "Middletown",
+            "Levy": 448,
+            "Klarides": 260,
+            "total": 781,
+            "min_turnout": 822,
+            "max_turnout": 1084
+        },
+        {
+            "county_name": "Milford",
+            "Levy": 616,
+            "Klarides": 675,
+            "total": 1405,
+            "min_turnout": 1479,
+            "max_turnout": 1713
+        },
+        {
+            "county_name": "Monroe",
+            "Levy": 318,
+            "Klarides": 236,
+            "total": 614,
+            "min_turnout": 646,
+            "max_turnout": 787
+        },
+        {
+            "county_name": "Montville",
+            "Levy": 291,
+            "Klarides": 161,
+            "total": 498,
+            "min_turnout": 524,
+            "max_turnout": 535
+        },
+        {
+            "county_name": "Morris",
+            "Levy": 63,
+            "Klarides": 62,
+            "total": 140,
+            "min_turnout": 147,
+            "max_turnout": 179
+        },
+        {
+            "county_name": "Naugatuck",
+            "Levy": 497,
+            "Klarides": 573,
+            "total": 1192,
+            "min_turnout": 1254,
+            "max_turnout": 1255
+        },
+        {
+            "county_name": "New Britain",
+            "Levy": 354,
+            "Klarides": 245,
+            "total": 696,
+            "min_turnout": 703,
+            "max_turnout": 729
+        },
+        {
+            "county_name": "New Canaan",
+            "Levy": 282,
+            "Klarides": 527,
+            "total": 869,
+            "min_turnout": 914,
+            "max_turnout": 915
+        },
+        {
+            "county_name": "New Fairfield",
+            "Levy": 294,
+            "Klarides": 141,
+            "total": 484,
+            "min_turnout": 509,
+            "max_turnout": 645
+        },
+        {
+            "county_name": "New Hartford",
+            "Levy": 183,
+            "Klarides": 173,
+            "total": 402,
+            "min_turnout": 423,
+            "max_turnout": 467
+        },
+        {
+            "county_name": "New Haven",
+            "Levy": 235,
+            "Klarides": 125,
+            "total": 392,
+            "min_turnout": 412,
+            "max_turnout": 413
+        },
+        {
+            "county_name": "New London",
+            "Levy": 93,
+            "Klarides": 67,
+            "total": 178,
+            "min_turnout": 187,
+            "max_turnout": 219
+        },
+        {
+            "county_name": "New Milford",
+            "Levy": 488,
+            "Klarides": 279,
+            "total": 847,
+            "min_turnout": 892,
+            "max_turnout": 1192
+        },
+        {
+            "county_name": "Newington",
+            "Levy": 449,
+            "Klarides": 308,
+            "total": 833,
+            "min_turnout": 876,
+            "max_turnout": 877
+        },
+        {
+            "county_name": "Newtown",
+            "Levy": 609,
+            "Klarides": 337,
+            "total": 1038,
+            "min_turnout": 1093,
+            "max_turnout": 1365
+        },
+        {
+            "county_name": "Norfolk",
+            "Levy": 43,
+            "Klarides": 22,
+            "total": 68,
+            "min_turnout": 72,
+            "max_turnout": 72
+        },
+        {
+            "county_name": "North Branford",
+            "Levy": 244,
+            "Klarides": 177,
+            "total": 439,
+            "min_turnout": 462,
+            "max_turnout": 462
+        },
+        {
+            "county_name": "North Canaan",
+            "Levy": 47,
+            "Klarides": 53,
+            "total": 106,
+            "min_turnout": 112,
+            "max_turnout": 147
+        },
+        {
+            "county_name": "North Haven",
+            "Levy": 435,
+            "Klarides": 482,
+            "total": 975,
+            "min_turnout": 1026,
+            "max_turnout": 1095
+        },
+        {
+            "county_name": "North Stonington",
+            "Levy": 90,
+            "Klarides": 50,
+            "total": 152,
+            "min_turnout": 160,
+            "max_turnout": 245
+        },
+        {
+            "county_name": "Norwalk",
+            "Levy": 602,
+            "Klarides": 504,
+            "total": 1214,
+            "min_turnout": 1226,
+            "max_turnout": 1278
+        },
+        {
+            "county_name": "Norwich",
+            "Levy": 308,
+            "Klarides": 161,
+            "total": 567,
+            "min_turnout": 597,
+            "max_turnout": 683
+        },
+        {
+            "county_name": "Old Lyme",
+            "Levy": 165,
+            "Klarides": 186,
+            "total": 388,
+            "min_turnout": 408,
+            "max_turnout": 408
+        },
+        {
+            "county_name": "Old Saybrook",
+            "Levy": 240,
+            "Klarides": 220,
+            "total": 495,
+            "min_turnout": 521,
+            "max_turnout": 562
+        },
+        {
+            "county_name": "Orange",
+            "Levy": 192,
+            "Klarides": 385,
+            "total": 604,
+            "min_turnout": 635,
+            "max_turnout": 636
+        },
+        {
+            "county_name": "Oxford",
+            "Levy": 344,
+            "Klarides": 489,
+            "total": 892,
+            "min_turnout": 938,
+            "max_turnout": 939
+        },
+        {
+            "county_name": "Plainfield",
+            "Levy": 231,
+            "Klarides": 101,
+            "total": 373,
+            "min_turnout": 393,
+            "max_turnout": 428
+        },
+        {
+            "county_name": "Plainville",
+            "Levy": 301,
+            "Klarides": 182,
+            "total": 554,
+            "min_turnout": 583,
+            "max_turnout": 602
+        },
+        {
+            "county_name": "Plymouth",
+            "Levy": 292,
+            "Klarides": 210,
+            "total": 568,
+            "min_turnout": 597,
+            "max_turnout": 598
+        },
+        {
+            "county_name": "Pomfret",
+            "Levy": 75,
+            "Klarides": 43,
+            "total": 142,
+            "min_turnout": 149,
+            "max_turnout": 163
+        },
+        {
+            "county_name": "Portland",
+            "Levy": 181,
+            "Klarides": 120,
+            "total": 328,
+            "min_turnout": 345,
+            "max_turnout": 364
+        },
+        {
+            "county_name": "Preston",
+            "Levy": 87,
+            "Klarides": 56,
+            "total": 155,
+            "min_turnout": 163,
+            "max_turnout": 227
+        },
+        {
+            "county_name": "Prospect",
+            "Levy": 259,
+            "Klarides": 303,
+            "total": 598,
+            "min_turnout": 629,
+            "max_turnout": 629
+        },
+        {
+            "county_name": "Putnam",
+            "Levy": 92,
+            "Klarides": 57,
+            "total": 182,
+            "min_turnout": 192,
+            "max_turnout": 221
+        },
+        {
+            "county_name": "Redding",
+            "Levy": 153,
+            "Klarides": 114,
+            "total": 296,
+            "min_turnout": 312,
+            "max_turnout": 332
+        },
+        {
+            "county_name": "Ridgefield",
+            "Levy": 391,
+            "Klarides": 275,
+            "total": 720,
+            "min_turnout": 758,
+            "max_turnout": 867
+        },
+        {
+            "county_name": "Rocky Hill",
+            "Levy": 306,
+            "Klarides": 196,
+            "total": 552,
+            "min_turnout": 581,
+            "max_turnout": 581
+        },
+        {
+            "county_name": "Roxbury",
+            "Levy": 66,
+            "Klarides": 69,
+            "total": 146,
+            "min_turnout": 154,
+            "max_turnout": 173
+        },
+        {
+            "county_name": "Salem",
+            "Levy": 93,
+            "Klarides": 82,
+            "total": 185,
+            "min_turnout": 194,
+            "max_turnout": 195
+        },
+        {
+            "county_name": "Salisbury",
+            "Levy": 27,
+            "Klarides": 49,
+            "total": 95,
+            "min_turnout": 100,
+            "max_turnout": 151
+        },
+        {
+            "county_name": "Scotland",
+            "Levy": 29,
+            "Klarides": 21,
+            "total": 73,
+            "min_turnout": 76,
+            "max_turnout": 77
+        },
+        {
+            "county_name": "Seymour",
+            "Levy": 259,
+            "Klarides": 450,
+            "total": 738,
+            "min_turnout": 776,
+            "max_turnout": 777
+        },
+        {
+            "county_name": "Sharon",
+            "Levy": 44,
+            "Klarides": 29,
+            "total": 80,
+            "min_turnout": 84,
+            "max_turnout": 123
+        },
+        {
+            "county_name": "Shelton",
+            "Levy": 860,
+            "Klarides": 749,
+            "total": 1740,
+            "min_turnout": 1757,
+            "max_turnout": 1832
+        },
+        {
+            "county_name": "Sherman",
+            "Levy": 81,
+            "Klarides": 39,
+            "total": 142,
+            "min_turnout": 149,
+            "max_turnout": 186
+        },
+        {
+            "county_name": "Simsbury",
+            "Levy": 409,
+            "Klarides": 434,
+            "total": 921,
+            "min_turnout": 969,
+            "max_turnout": 1034
+        },
+        {
+            "county_name": "Somers",
+            "Levy": 290,
+            "Klarides": 145,
+            "total": 473,
+            "min_turnout": 498,
+            "max_turnout": 550
+        },
+        {
+            "county_name": "South Windsor",
+            "Levy": 385,
+            "Klarides": 314,
+            "total": 769,
+            "min_turnout": 809,
+            "max_turnout": 809
+        },
+        {
+            "county_name": "Southbury",
+            "Levy": 556,
+            "Klarides": 817,
+            "total": 1513,
+            "min_turnout": 1592,
+            "max_turnout": 1593
+        },
+        {
+            "county_name": "Southington",
+            "Levy": 1042,
+            "Klarides": 554,
+            "total": 1766,
+            "min_turnout": 1783,
+            "max_turnout": 1859
+        },
+        {
+            "county_name": "Sprague",
+            "Levy": 42,
+            "Klarides": 24,
+            "total": 88,
+            "min_turnout": 93,
+            "max_turnout": 117
+        },
+        {
+            "county_name": "Stafford",
+            "Levy": 222,
+            "Klarides": 78,
+            "total": 319,
+            "min_turnout": 336,
+            "max_turnout": 375
+        },
+        {
+            "county_name": "Stamford",
+            "Levy": 1268,
+            "Klarides": 888,
+            "total": 2364,
+            "min_turnout": 2387,
+            "max_turnout": 2488
+        },
+        {
+            "county_name": "Sterling",
+            "Levy": 65,
+            "Klarides": 25,
+            "total": 110,
+            "min_turnout": 116,
+            "max_turnout": 116
+        },
+        {
+            "county_name": "Stonington",
+            "Levy": 256,
+            "Klarides": 271,
+            "total": 561,
+            "min_turnout": 590,
+            "max_turnout": 591
+        },
+        {
+            "county_name": "Stratford",
+            "Levy": 511,
+            "Klarides": 565,
+            "total": 1152,
+            "min_turnout": 1163,
+            "max_turnout": 1213
+        },
+        {
+            "county_name": "Suffield",
+            "Levy": 278,
+            "Klarides": 194,
+            "total": 517,
+            "min_turnout": 544,
+            "max_turnout": 544
+        },
+        {
+            "county_name": "Thomaston",
+            "Levy": 178,
+            "Klarides": 129,
+            "total": 331,
+            "min_turnout": 348,
+            "max_turnout": 348
+        },
+        {
+            "county_name": "Thompson",
+            "Levy": 165,
+            "Klarides": 51,
+            "total": 251,
+            "min_turnout": 264,
+            "max_turnout": 264
+        },
+        {
+            "county_name": "Tolland",
+            "Levy": 231,
+            "Klarides": 191,
+            "total": 474,
+            "min_turnout": 499,
+            "max_turnout": 615
+        },
+        {
+            "county_name": "Torrington",
+            "Levy": 585,
+            "Klarides": 392,
+            "total": 1097,
+            "min_turnout": 1155,
+            "max_turnout": 1179
+        },
+        {
+            "county_name": "Trumbull",
+            "Levy": 676,
+            "Klarides": 485,
+            "total": 1275,
+            "min_turnout": 1287,
+            "max_turnout": 1342
+        },
+        {
+            "county_name": "Union",
+            "Levy": 40,
+            "Klarides": 27,
+            "total": 73,
+            "min_turnout": 76,
+            "max_turnout": 77
+        },
+        {
+            "county_name": "Vernon",
+            "Levy": 558,
+            "Klarides": 253,
+            "total": 893,
+            "min_turnout": 938,
+            "max_turnout": 940
+        },
+        {
+            "county_name": "Voluntown",
+            "Levy": 74,
+            "Klarides": 29,
+            "total": 121,
+            "min_turnout": 127,
+            "max_turnout": 144
+        },
+        {
+            "county_name": "Wallingford",
+            "Levy": 670,
+            "Klarides": 505,
+            "total": 1282,
+            "min_turnout": 1349,
+            "max_turnout": 1363
+        },
+        {
+            "county_name": "Warren",
+            "Levy": 39,
+            "Klarides": 36,
+            "total": 83,
+            "min_turnout": 87,
+            "max_turnout": 118
+        },
+        {
+            "county_name": "Washington",
+            "Levy": 54,
+            "Klarides": 47,
+            "total": 112,
+            "min_turnout": 118,
+            "max_turnout": 189
+        },
+        {
+            "county_name": "Waterbury",
+            "Levy": 580,
+            "Klarides": 478,
+            "total": 1193,
+            "min_turnout": 1205,
+            "max_turnout": 1256
+        },
+        {
+            "county_name": "Waterford",
+            "Levy": 309,
+            "Klarides": 282,
+            "total": 647,
+            "min_turnout": 681,
+            "max_turnout": 681
+        },
+        {
+            "county_name": "Watertown",
+            "Levy": 488,
+            "Klarides": 466,
+            "total": 1029,
+            "min_turnout": 1083,
+            "max_turnout": 1196
+        },
+        {
+            "county_name": "West Hartford",
+            "Levy": 490,
+            "Klarides": 508,
+            "total": 1101,
+            "min_turnout": 1159,
+            "max_turnout": 1280
+        },
+        {
+            "county_name": "West Haven",
+            "Levy": 379,
+            "Klarides": 260,
+            "total": 697,
+            "min_turnout": 704,
+            "max_turnout": 734
+        },
+        {
+            "county_name": "Westbrook",
+            "Levy": 153,
+            "Klarides": 139,
+            "total": 304,
+            "min_turnout": 320,
+            "max_turnout": 349
+        },
+        {
+            "county_name": "Weston",
+            "Levy": 104,
+            "Klarides": 117,
+            "total": 238,
+            "min_turnout": 251,
+            "max_turnout": 276
+        },
+        {
+            "county_name": "Westport",
+            "Levy": 207,
+            "Klarides": 251,
+            "total": 509,
+            "min_turnout": 514,
+            "max_turnout": 536
+        },
+        {
+            "county_name": "Wethersfield",
+            "Levy": 422,
+            "Klarides": 364,
+            "total": 870,
+            "min_turnout": 915,
+            "max_turnout": 916
+        },
+        {
+            "county_name": "Willington",
+            "Levy": 102,
+            "Klarides": 54,
+            "total": 174,
+            "min_turnout": 183,
+            "max_turnout": 204
+        },
+        {
+            "county_name": "Wilton",
+            "Levy": 206,
+            "Klarides": 259,
+            "total": 528,
+            "min_turnout": 556,
+            "max_turnout": 561
+        },
+        {
+            "county_name": "Winchester",
+            "Levy": 194,
+            "Klarides": 107,
+            "total": 340,
+            "min_turnout": 358,
+            "max_turnout": 365
+        },
+        {
+            "county_name": "Windham",
+            "Levy": 186,
+            "Klarides": 82,
+            "total": 311,
+            "min_turnout": 327,
+            "max_turnout": 330
+        },
+        {
+            "county_name": "Windsor",
+            "Levy": 364,
+            "Klarides": 219,
+            "total": 665,
+            "min_turnout": 700,
+            "max_turnout": 700
+        },
+        {
+            "county_name": "Windsor Locks",
+            "Levy": 216,
+            "Klarides": 115,
+            "total": 381,
+            "min_turnout": 401,
+            "max_turnout": 401
+        },
+        {
+            "county_name": "Wolcott",
+            "Levy": 409,
+            "Klarides": 281,
+            "total": 751,
+            "min_turnout": 791,
+            "max_turnout": 798
+        },
+        {
+            "county_name": "Woodbridge",
+            "Levy": 107,
+            "Klarides": 195,
+            "total": 315,
+            "min_turnout": 332,
+            "max_turnout": 370
+        },
+        {
+            "county_name": "Woodbury",
+            "Levy": 261,
+            "Klarides": 283,
+            "total": 655,
+            "min_turnout": 689,
+            "max_turnout": 735
+        },
+        {
+            "county_name": "Woodstock",
+            "Levy": 196,
+            "Klarides": 93,
+            "total": 326,
+            "min_turnout": 343,
+            "max_turnout": 383
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Andover": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Ansonia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ashford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Avon": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Barkhamsted": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Beacon Falls": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Berlin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bethany": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Bethel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bethlehem": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Bloomfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bolton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bozrah": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Branford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Bridgeport": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Bridgewater": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Bristol": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Brookfield": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Burlington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Canaan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Canterbury": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Canton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Chaplin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cheshire": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Chester": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Colchester": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Colebrook": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cornwall": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Coventry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cromwell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Danbury": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Darien": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Deep River": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Derby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Durham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Granby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "East Haddam": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "East Hampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Hartford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "East Haven": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Lyme": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Windsor": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Eastford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Easton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Ellington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Enfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Essex": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Fairfield": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Farmington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Glastonbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Goshen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Granby": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Greenwich": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Griswold": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Groton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Guilford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Haddam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hamden": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Hampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hartford": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hartland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Harwinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hebron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Killingly": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Killingworth": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Kings": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lebanon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ledyard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lisbon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Litchfield": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lyme": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Manchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mansfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marlborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Meriden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Middlebury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Middlefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Middletown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Milford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Morris": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Naugatuck": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "New Britain": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "New Canaan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "New Fairfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Hartford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Haven": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "New London": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Milford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Newtown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Norfolk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Branford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Canaan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "North Haven": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "North Stonington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Norwalk": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Norwich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Old Lyme": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Old Saybrook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Oxford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Plainfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plainville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plymouth": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Pomfret": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Portland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Preston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Prospect": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Redding": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ridgefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rocky Hill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Roxbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Salem": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Salisbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scotland": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Seymour": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sharon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Shelton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sherman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Simsbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Somers": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "South Windsor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Southbury": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Southington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sprague": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stafford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stamford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sterling": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Stonington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Stratford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Suffield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Thomaston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Thompson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Tolland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Torrington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Trumbull": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Vernon": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Voluntown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wallingford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Waterbury": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Waterford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Watertown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "West Hartford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "West Haven": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Westbrook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Weston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Westport": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wethersfield": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Willington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Winchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Windham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Windsor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Windsor Locks": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wolcott": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woodbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woodbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woodstock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

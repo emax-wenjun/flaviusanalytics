@@ -1,0 +1,616 @@
+{
+    "2022-07-31T03:15:28-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Oz": 420122,
+            "McCormick": 419159,
+            "Barnette": 331956,
+            "total": 1346723,
+            "min_turnout": 1350521,
+            "max_turnout": 1389567
+        },
+        "1": {
+            "county_name": "Adams",
+            "Oz": 5337,
+            "McCormick": 4298,
+            "Barnette": 4369,
+            "total": 16686,
+            "min_turnout": 16812,
+            "max_turnout": 16910
+        },
+        "2": {
+            "county_name": "Allegheny",
+            "Oz": 29656,
+            "McCormick": 36429,
+            "Barnette": 18463,
+            "total": 92789,
+            "min_turnout": 92789,
+            "max_turnout": 97672
+        },
+        "3": {
+            "county_name": "Armstrong",
+            "Oz": 3404,
+            "McCormick": 3836,
+            "Barnette": 2252,
+            "total": 10421,
+            "min_turnout": 10467,
+            "max_turnout": 10526
+        },
+        "4": {
+            "county_name": "Beaver",
+            "Oz": 5670,
+            "McCormick": 6425,
+            "Barnette": 3795,
+            "total": 17746,
+            "min_turnout": 17902,
+            "max_turnout": 19348
+        },
+        "5": {
+            "county_name": "Bedford",
+            "Oz": 2926,
+            "McCormick": 2744,
+            "Barnette": 2832,
+            "total": 10020,
+            "min_turnout": 10056,
+            "max_turnout": 10121
+        },
+        "6": {
+            "county_name": "Berks",
+            "Oz": 12682,
+            "McCormick": 11429,
+            "Barnette": 13383,
+            "total": 42187,
+            "min_turnout": 42187,
+            "max_turnout": 44406
+        },
+        "7": {
+            "county_name": "Blair",
+            "Oz": 5976,
+            "McCormick": 5469,
+            "Barnette": 5171,
+            "total": 20091,
+            "min_turnout": 20170,
+            "max_turnout": 20293
+        },
+        "8": {
+            "county_name": "Bradford",
+            "Oz": 2643,
+            "McCormick": 3109,
+            "Barnette": 2016,
+            "total": 9121,
+            "min_turnout": 9121,
+            "max_turnout": 9213
+        },
+        "9": {
+            "county_name": "Bucks",
+            "Oz": 27485,
+            "McCormick": 22691,
+            "Barnette": 19374,
+            "total": 78337,
+            "min_turnout": 78337,
+            "max_turnout": 82460
+        },
+        "10": {
+            "county_name": "Butler",
+            "Oz": 9443,
+            "McCormick": 11900,
+            "Barnette": 7432,
+            "total": 31736,
+            "min_turnout": 31818,
+            "max_turnout": 32056
+        },
+        "11": {
+            "county_name": "Cambria",
+            "Oz": 6283,
+            "McCormick": 5408,
+            "Barnette": 3226,
+            "total": 17468,
+            "min_turnout": 17546,
+            "max_turnout": 17644
+        },
+        "12": {
+            "county_name": "Cameron",
+            "Oz": 240,
+            "McCormick": 225,
+            "Barnette": 178,
+            "total": 762,
+            "min_turnout": 766,
+            "max_turnout": 770
+        },
+        "13": {
+            "county_name": "Carbon",
+            "Oz": 3011,
+            "McCormick": 2798,
+            "Barnette": 1677,
+            "total": 8293,
+            "min_turnout": 8325,
+            "max_turnout": 8376
+        },
+        "14": {
+            "county_name": "Centre",
+            "Oz": 4711,
+            "McCormick": 5221,
+            "Barnette": 4195,
+            "total": 16741,
+            "min_turnout": 16743,
+            "max_turnout": 19414
+        },
+        "15": {
+            "county_name": "Chester",
+            "Oz": 16751,
+            "McCormick": 18793,
+            "Barnette": 15666,
+            "total": 58782,
+            "min_turnout": 58916,
+            "max_turnout": 59375
+        },
+        "16": {
+            "county_name": "Clarion",
+            "Oz": 1571,
+            "McCormick": 2152,
+            "Barnette": 1688,
+            "total": 6126,
+            "min_turnout": 6126,
+            "max_turnout": 6187
+        },
+        "17": {
+            "county_name": "Clearfield",
+            "Oz": 4120,
+            "McCormick": 3957,
+            "Barnette": 2923,
+            "total": 12762,
+            "min_turnout": 12778,
+            "max_turnout": 12871
+        },
+        "18": {
+            "county_name": "Clinton",
+            "Oz": 1478,
+            "McCormick": 1668,
+            "Barnette": 1302,
+            "total": 4907,
+            "min_turnout": 4925,
+            "max_turnout": 4956
+        },
+        "19": {
+            "county_name": "Columbia",
+            "Oz": 2291,
+            "McCormick": 4326,
+            "Barnette": 1663,
+            "total": 9219,
+            "min_turnout": 9219,
+            "max_turnout": 9262
+        },
+        "20": {
+            "county_name": "Crawford",
+            "Oz": 3288,
+            "McCormick": 3548,
+            "Barnette": 3116,
+            "total": 11392,
+            "min_turnout": 11474,
+            "max_turnout": 12359
+        },
+        "21": {
+            "county_name": "Cumberland",
+            "Oz": 9751,
+            "McCormick": 9940,
+            "Barnette": 8685,
+            "total": 37791,
+            "min_turnout": 37935,
+            "max_turnout": 38172
+        },
+        "22": {
+            "county_name": "Dauphin",
+            "Oz": 8950,
+            "McCormick": 9342,
+            "Barnette": 6930,
+            "total": 31425,
+            "min_turnout": 31554,
+            "max_turnout": 31742
+        },
+        "23": {
+            "county_name": "Delaware",
+            "Oz": 16751,
+            "McCormick": 18381,
+            "Barnette": 11709,
+            "total": 53534,
+            "min_turnout": 53965,
+            "max_turnout": 56351
+        },
+        "24": {
+            "county_name": "Elk",
+            "Oz": 1422,
+            "McCormick": 1426,
+            "Barnette": 1197,
+            "total": 4674,
+            "min_turnout": 4674,
+            "max_turnout": 4721
+        },
+        "25": {
+            "county_name": "Erie",
+            "Oz": 7548,
+            "McCormick": 8208,
+            "Barnette": 6248,
+            "total": 25087,
+            "min_turnout": 25264,
+            "max_turnout": 25510
+        },
+        "26": {
+            "county_name": "Fayette",
+            "Oz": 4960,
+            "McCormick": 3679,
+            "Barnette": 2142,
+            "total": 12869,
+            "min_turnout": 12907,
+            "max_turnout": 12998
+        },
+        "27": {
+            "county_name": "Forest",
+            "Oz": 251,
+            "McCormick": 290,
+            "Barnette": 241,
+            "total": 901,
+            "min_turnout": 906,
+            "max_turnout": 910
+        },
+        "28": {
+            "county_name": "Franklin",
+            "Oz": 7793,
+            "McCormick": 6504,
+            "Barnette": 7678,
+            "total": 26466,
+            "min_turnout": 26571,
+            "max_turnout": 26733
+        },
+        "29": {
+            "county_name": "Fulton",
+            "Oz": 763,
+            "McCormick": 647,
+            "Barnette": 904,
+            "total": 2699,
+            "min_turnout": 2712,
+            "max_turnout": 2726
+        },
+        "30": {
+            "county_name": "Greene",
+            "Oz": 1355,
+            "McCormick": 1297,
+            "Barnette": 691,
+            "total": 3804,
+            "min_turnout": 3804,
+            "max_turnout": 4004
+        },
+        "31": {
+            "county_name": "Huntingdon",
+            "Oz": 2001,
+            "McCormick": 2088,
+            "Barnette": 2814,
+            "total": 8114,
+            "min_turnout": 8114,
+            "max_turnout": 8195
+        },
+        "32": {
+            "county_name": "Indiana",
+            "Oz": 3537,
+            "McCormick": 3978,
+            "Barnette": 2539,
+            "total": 11164,
+            "min_turnout": 11214,
+            "max_turnout": 11276
+        },
+        "33": {
+            "county_name": "Jefferson",
+            "Oz": 2095,
+            "McCormick": 2236,
+            "Barnette": 2527,
+            "total": 7722,
+            "min_turnout": 7760,
+            "max_turnout": 7797
+        },
+        "34": {
+            "county_name": "Juniata",
+            "Oz": 1007,
+            "McCormick": 1281,
+            "Barnette": 1178,
+            "total": 4713,
+            "min_turnout": 4736,
+            "max_turnout": 4760
+        },
+        "35": {
+            "county_name": "Lackawanna",
+            "Oz": 7468,
+            "McCormick": 5512,
+            "Barnette": 3274,
+            "total": 17618,
+            "min_turnout": 17697,
+            "max_turnout": 17795
+        },
+        "36": {
+            "county_name": "Lancaster",
+            "Oz": 19607,
+            "McCormick": 20010,
+            "Barnette": 22397,
+            "total": 73876,
+            "min_turnout": 74326,
+            "max_turnout": 77764
+        },
+        "37": {
+            "county_name": "Lawrence",
+            "Oz": 3614,
+            "McCormick": 3598,
+            "Barnette": 2533,
+            "total": 10891,
+            "min_turnout": 10945,
+            "max_turnout": 11000
+        },
+        "38": {
+            "county_name": "Lebanon",
+            "Oz": 6103,
+            "McCormick": 5959,
+            "Barnette": 5245,
+            "total": 21255,
+            "min_turnout": 21255,
+            "max_turnout": 21469
+        },
+        "39": {
+            "county_name": "Lehigh",
+            "Oz": 9899,
+            "McCormick": 9876,
+            "Barnette": 8394,
+            "total": 31366,
+            "min_turnout": 31515,
+            "max_turnout": 31663
+        },
+        "40": {
+            "county_name": "Luzerne",
+            "Oz": 13968,
+            "McCormick": 11683,
+            "Barnette": 5799,
+            "total": 34511,
+            "min_turnout": 34601,
+            "max_turnout": 36854
+        },
+        "41": {
+            "county_name": "Lycoming",
+            "Oz": 5919,
+            "McCormick": 6896,
+            "Barnette": 4461,
+            "total": 19452,
+            "min_turnout": 19452,
+            "max_turnout": 19550
+        },
+        "42": {
+            "county_name": "McKean",
+            "Oz": 1442,
+            "McCormick": 1572,
+            "Barnette": 1526,
+            "total": 5314,
+            "min_turnout": 5339,
+            "max_turnout": 5366
+        },
+        "43": {
+            "county_name": "Mercer",
+            "Oz": 4037,
+            "McCormick": 4305,
+            "Barnette": 3997,
+            "total": 13771,
+            "min_turnout": 13873,
+            "max_turnout": 15034
+        },
+        "44": {
+            "county_name": "Mifflin",
+            "Oz": 1762,
+            "McCormick": 2378,
+            "Barnette": 1654,
+            "total": 7126,
+            "min_turnout": 7191,
+            "max_turnout": 7802
+        },
+        "45": {
+            "county_name": "Monroe",
+            "Oz": 5008,
+            "McCormick": 4029,
+            "Barnette": 2620,
+            "total": 12997,
+            "min_turnout": 12997,
+            "max_turnout": 13128
+        },
+        "46": {
+            "county_name": "Montgomery",
+            "Oz": 22790,
+            "McCormick": 19283,
+            "Barnette": 27706,
+            "total": 79909,
+            "min_turnout": 79909,
+            "max_turnout": 84114
+        },
+        "47": {
+            "county_name": "Montour",
+            "Oz": 672,
+            "McCormick": 1157,
+            "Barnette": 536,
+            "total": 2678,
+            "min_turnout": 2699,
+            "max_turnout": 3014
+        },
+        "48": {
+            "county_name": "Northampton",
+            "Oz": 9735,
+            "McCormick": 8300,
+            "Barnette": 6768,
+            "total": 27768,
+            "min_turnout": 27795,
+            "max_turnout": 29229
+        },
+        "49": {
+            "county_name": "Northumberland",
+            "Oz": 3755,
+            "McCormick": 4240,
+            "Barnette": 2597,
+            "total": 12250,
+            "min_turnout": 12293,
+            "max_turnout": 12373
+        },
+        "50": {
+            "county_name": "Perry",
+            "Oz": 2278,
+            "McCormick": 2635,
+            "Barnette": 2193,
+            "total": 9175,
+            "min_turnout": 9220,
+            "max_turnout": 9267
+        },
+        "51": {
+            "county_name": "Philadelphia",
+            "Oz": 10718,
+            "McCormick": 7091,
+            "Barnette": 5802,
+            "total": 28328,
+            "min_turnout": 28328,
+            "max_turnout": 29818
+        },
+        "52": {
+            "county_name": "Pike",
+            "Oz": 2764,
+            "McCormick": 1669,
+            "Barnette": 1544,
+            "total": 6583,
+            "min_turnout": 6590,
+            "max_turnout": 6649
+        },
+        "53": {
+            "county_name": "Potter",
+            "Oz": 809,
+            "McCormick": 878,
+            "Barnette": 1058,
+            "total": 3289,
+            "min_turnout": 3302,
+            "max_turnout": 3318
+        },
+        "54": {
+            "county_name": "Schuylkill",
+            "Oz": 7200,
+            "McCormick": 6788,
+            "Barnette": 3862,
+            "total": 20127,
+            "min_turnout": 20192,
+            "max_turnout": 20326
+        },
+        "55": {
+            "county_name": "Snyder",
+            "Oz": 1618,
+            "McCormick": 2221,
+            "Barnette": 1805,
+            "total": 6483,
+            "min_turnout": 6512,
+            "max_turnout": 6548
+        },
+        "56": {
+            "county_name": "Somerset",
+            "Oz": 4356,
+            "McCormick": 4545,
+            "Barnette": 3518,
+            "total": 14059,
+            "min_turnout": 14074,
+            "max_turnout": 14201
+        },
+        "57": {
+            "county_name": "Sullivan",
+            "Oz": 400,
+            "McCormick": 439,
+            "Barnette": 279,
+            "total": 1284,
+            "min_turnout": 1284,
+            "max_turnout": 1296
+        },
+        "58": {
+            "county_name": "Susquehanna",
+            "Oz": 2094,
+            "McCormick": 2212,
+            "Barnette": 1651,
+            "total": 6719,
+            "min_turnout": 6734,
+            "max_turnout": 6786
+        },
+        "59": {
+            "county_name": "Tioga",
+            "Oz": 1794,
+            "McCormick": 2199,
+            "Barnette": 1735,
+            "total": 6758,
+            "min_turnout": 6791,
+            "max_turnout": 6826
+        },
+        "60": {
+            "county_name": "Union",
+            "Oz": 1392,
+            "McCormick": 2187,
+            "Barnette": 1468,
+            "total": 5740,
+            "min_turnout": 5766,
+            "max_turnout": 5795
+        },
+        "61": {
+            "county_name": "Venango",
+            "Oz": 2042,
+            "McCormick": 2623,
+            "Barnette": 2167,
+            "total": 7812,
+            "min_turnout": 7837,
+            "max_turnout": 7890
+        },
+        "62": {
+            "county_name": "Warren",
+            "Oz": 1436,
+            "McCormick": 1888,
+            "Barnette": 1473,
+            "total": 5525,
+            "min_turnout": 5539,
+            "max_turnout": 5580
+        },
+        "63": {
+            "county_name": "Washington",
+            "Oz": 8197,
+            "McCormick": 9230,
+            "Barnette": 5675,
+            "total": 25195,
+            "min_turnout": 25243,
+            "max_turnout": 25449
+        },
+        "64": {
+            "county_name": "Wayne",
+            "Oz": 3044,
+            "McCormick": 2890,
+            "Barnette": 1649,
+            "total": 8515,
+            "min_turnout": 8543,
+            "max_turnout": 8601
+        },
+        "65": {
+            "county_name": "Westmoreland",
+            "Oz": 16719,
+            "McCormick": 16981,
+            "Barnette": 10587,
+            "total": 48858,
+            "min_turnout": 49064,
+            "max_turnout": 49351
+        },
+        "66": {
+            "county_name": "Wyoming",
+            "Oz": 1330,
+            "McCormick": 1682,
+            "Barnette": 971,
+            "total": 4579,
+            "min_turnout": 4602,
+            "max_turnout": 4625
+        },
+        "67": {
+            "county_name": "York",
+            "Oz": 19002,
+            "McCormick": 16480,
+            "Barnette": 14808,
+            "total": 60363,
+            "min_turnout": 60420,
+            "max_turnout": 60972
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hodge": 178446,
+            "Schweikert": 181554,
+            "total": 360000,
+            "min_turnout": 363042,
+            "max_turnout": 378947
+        },
+        {
+            "county_name": "Maricopa",
+            "Hodge": 178446,
+            "Schweikert": 181554,
+            "total": 360000,
+            "min_turnout": 363042,
+            "max_turnout": 378947
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Maricopa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

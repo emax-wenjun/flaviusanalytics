@@ -1,0 +1,7130 @@
+{
+    "2022-07-31T02:53:16-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "1": {
+            "county_name": "Apache",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "2": {
+            "county_name": "Cochise",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "3": {
+            "county_name": "Coconino",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "4": {
+            "county_name": "Gila",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "5": {
+            "county_name": "Graham",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "6": {
+            "county_name": "Greenlee",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "7": {
+            "county_name": "La Paz",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "8": {
+            "county_name": "Maricopa",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "9": {
+            "county_name": "Mohave",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "10": {
+            "county_name": "Navajo",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "11": {
+            "county_name": "Pima",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "12": {
+            "county_name": "Pinal",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "13": {
+            "county_name": "Santa Cruz",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "14": {
+            "county_name": "Yavapai",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        },
+        "15": {
+            "county_name": "Yuma",
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0
+        }
+    },
+    "2022-08-01T23:34:29-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 760713,
+            "max_turnout": 760713,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5627,
+            "max_turnout": 5627,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 19034,
+            "max_turnout": 19034,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 12726,
+            "max_turnout": 12726,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 10653,
+            "max_turnout": 10653,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5131,
+            "max_turnout": 5131,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 762,
+            "max_turnout": 762,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2225,
+            "max_turnout": 2225,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 434098,
+            "max_turnout": 434098,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 35186,
+            "max_turnout": 35186,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 14713,
+            "max_turnout": 14713,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 111887,
+            "max_turnout": 111887,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 39229,
+            "max_turnout": 39229,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2432,
+            "max_turnout": 2432,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 53766,
+            "max_turnout": 53766,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 13244,
+            "max_turnout": 13244,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-02T18:57:06-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -48933,
+            "max_turnout": 52317,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -627,
+            "max_turnout": -262,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2744,
+            "max_turnout": -883,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2726,
+            "max_turnout": -591,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -653,
+            "max_turnout": -495,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -238,
+            "max_turnout": -131,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -36,
+            "max_turnout": 38,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -156,
+            "max_turnout": -104,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -20155,
+            "max_turnout": 55902,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1633,
+            "max_turnout": 814,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2713,
+            "max_turnout": -683,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -11887,
+            "max_turnout": -5195,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1821,
+            "max_turnout": 2499,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -432,
+            "max_turnout": -113,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2497,
+            "max_turnout": -766,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -615,
+            "max_turnout": 2287,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-02T19:26:22-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -18891,
+            "max_turnout": -5558,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -180,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -612,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -409,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -184,
+            "max_turnout": -158,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -165,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -24,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": -52,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -13953,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1131,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -473,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3596,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1261,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -78,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1728,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -426,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-02T22:24:14-04:00": {
+        "0": {
+            "Lake": 147,
+            "Robson": 105,
+            "total": 289,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Lake": 147,
+            "Robson": 105,
+            "total": 289,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-08-02T22:29:07-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4857,
+            "max_turnout": -7213,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1025,
+            "max_turnout": -185,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2847,
+            "max_turnout": -1249,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1012,
+            "max_turnout": -1726,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2292,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 272,
+            "max_turnout": 841,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -163,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -478,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 65710,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -7572,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1609,
+            "max_turnout": -1557,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -20984,
+            "max_turnout": -3096,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -8442,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -282,
+            "max_turnout": -241,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -11570,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2849,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-02T23:02:16-04:00": {
+        "0": {
+            "Lake": 127440,
+            "Robson": 159642,
+            "total": 317227,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 125384,
+            "Robson": 157248,
+            "total": 312261,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 2056,
+            "Robson": 2394,
+            "total": 4966,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-02T23:03:15-04:00": {
+        "0": {
+            "Lake": 401,
+            "Robson": 357,
+            "total": 863,
+            "min_turnout": -25896,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 401,
+            "Robson": 357,
+            "total": 863,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -25896,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-02T23:03:49-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-02T23:04:25-04:00": {
+        "0": {
+            "Lake": 10610,
+            "Robson": 11055,
+            "total": 24196,
+            "min_turnout": 0,
+            "max_turnout": 2335,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 2380,
+            "Robson": 2591,
+            "total": 5569,
+            "min_turnout": 0,
+            "max_turnout": 1602,
+            "county_name": "Coconino"
+        },
+        "9": {
+            "Lake": 8230,
+            "Robson": 8464,
+            "total": 18627,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 733,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-02T23:04:49-04:00": {
+        "0": {
+            "Lake": 3122,
+            "Robson": 2776,
+            "total": 6484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 3122,
+            "Robson": 2776,
+            "total": 6484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-02T23:07:32-04:00": {
+        "0": {
+            "Lake": 8106,
+            "Robson": 8223,
+            "total": 18171,
+            "min_turnout": 11948,
+            "max_turnout": 2734,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 8106,
+            "Robson": 8223,
+            "total": 18171,
+            "min_turnout": 11948,
+            "max_turnout": 2734,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-02T23:08:57-04:00": {
+        "0": {
+            "Lake": 14811,
+            "Robson": 16601,
+            "total": 34484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 14811,
+            "Robson": 16601,
+            "total": 34484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-02T23:11:21-04:00": {
+        "0": {
+            "Lake": 1261,
+            "Robson": 1231,
+            "total": 2783,
+            "min_turnout": -362,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Lake": 1261,
+            "Robson": 1231,
+            "total": 2783,
+            "min_turnout": -362,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-08-02T23:12:09-04:00": {
+        "0": {
+            "Lake": 3919,
+            "Robson": 3975,
+            "total": 9097,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 3919,
+            "Robson": 3975,
+            "total": 9097,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-02T23:13:55-04:00": {
+        "0": {
+            "Lake": 3747,
+            "Robson": 4902,
+            "total": 10184,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 3747,
+            "Robson": 4902,
+            "total": 10184,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-02T23:14:07-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2226,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2226,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-02T23:15:57-04:00": {
+        "0": {
+            "Lake": 388,
+            "Robson": 399,
+            "total": 936,
+            "min_turnout": 0,
+            "max_turnout": 176,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 388,
+            "Robson": 399,
+            "total": 936,
+            "min_turnout": 0,
+            "max_turnout": 176,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-02T23:18:07-04:00": {
+        "0": {
+            "Lake": 722,
+            "Robson": 442,
+            "total": 1270,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Lake": 722,
+            "Robson": 442,
+            "total": 1270,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-08-02T23:19:18-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-08-02T23:21:06-04:00": {
+        "0": {
+            "Lake": 17238,
+            "Robson": 22770,
+            "total": 47438,
+            "min_turnout": 0,
+            "max_turnout": 5417,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 17238,
+            "Robson": 22770,
+            "total": 47438,
+            "min_turnout": 0,
+            "max_turnout": 5417,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-02T23:27:31-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 653,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 653,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:01:09-04:00": {
+        "0": {
+            "Lake": 660,
+            "Robson": 414,
+            "total": 1169,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 660,
+            "Robson": 414,
+            "total": 1169,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-03T00:01:46-04:00": {
+        "0": {
+            "Lake": 527,
+            "Robson": 571,
+            "total": 1285,
+            "min_turnout": 0,
+            "max_turnout": 140,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 527,
+            "Robson": 571,
+            "total": 1285,
+            "min_turnout": 0,
+            "max_turnout": 140,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-03T00:04:03-04:00": {
+        "0": {
+            "Lake": 206,
+            "Robson": 153,
+            "total": 389,
+            "min_turnout": 548,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 206,
+            "Robson": 153,
+            "total": 389,
+            "min_turnout": 548,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-03T00:05:41-04:00": {
+        "0": {
+            "Lake": 57,
+            "Robson": 36,
+            "total": 97,
+            "min_turnout": -3133,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Lake": 57,
+            "Robson": 36,
+            "total": 97,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -3139,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T00:10:11-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -331,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -331,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T00:13:57-04:00": {
+        "0": {
+            "Lake": 221,
+            "Robson": 89,
+            "total": 335,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 221,
+            "Robson": 89,
+            "total": 335,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:15:57-04:00": {
+        "0": {
+            "Lake": 121,
+            "Robson": 55,
+            "total": 207,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Lake": 121,
+            "Robson": 55,
+            "total": 207,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-08-03T00:17:55-04:00": {
+        "0": {
+            "Lake": 777,
+            "Robson": 422,
+            "total": 1296,
+            "min_turnout": 0,
+            "max_turnout": 331,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 777,
+            "Robson": 422,
+            "total": 1296,
+            "min_turnout": 0,
+            "max_turnout": 331,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T00:27:23-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": -1731,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": -37,
+            "county_name": "Greenlee"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1359,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -117,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -147,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -43,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:28:59-04:00": {
+        "0": {
+            "Lake": 226,
+            "Robson": 150,
+            "total": 416,
+            "min_turnout": 0,
+            "max_turnout": 110,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 226,
+            "Robson": 150,
+            "total": 416,
+            "min_turnout": 0,
+            "max_turnout": 110,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-03T00:29:44-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 1731,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 28,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 37,
+            "county_name": "Greenlee"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1359,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 117,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 147,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 43,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:31:58-04:00": {
+        "0": {
+            "Lake": 727,
+            "Robson": 346,
+            "total": 1189,
+            "min_turnout": 614,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 727,
+            "Robson": 346,
+            "total": 1189,
+            "min_turnout": 614,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:39:42-04:00": {
+        "0": {
+            "Lake": 115,
+            "Robson": 74,
+            "total": 208,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 115,
+            "Robson": 74,
+            "total": 208,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-03T00:44:37-04:00": {
+        "0": {
+            "Lake": 101,
+            "Robson": 49,
+            "total": 155,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 101,
+            "Robson": 49,
+            "total": 155,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-03T00:45:46-04:00": {
+        "0": {
+            "Lake": 601,
+            "Robson": 432,
+            "total": 1166,
+            "min_turnout": 66,
+            "max_turnout": 81,
+            "county_name": "Total"
+        },
+        "6": {
+            "Lake": 63,
+            "Robson": 36,
+            "total": 109,
+            "min_turnout": 66,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "10": {
+            "Lake": 538,
+            "Robson": 396,
+            "total": 1057,
+            "min_turnout": 0,
+            "max_turnout": 81,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-03T00:50:03-04:00": {
+        "0": {
+            "Lake": 392,
+            "Robson": 160,
+            "total": 588,
+            "min_turnout": 594,
+            "max_turnout": -1120,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Greenlee"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -864,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -74,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 392,
+            "Robson": 160,
+            "total": 588,
+            "min_turnout": 594,
+            "max_turnout": -93,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:54:01-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -76649,
+            "max_turnout": 88,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 484,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1638,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 994,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 916,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 191,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -96437,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1266,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 9626,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3375,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 210,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1062,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:56:35-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 53,
+            "max_turnout": 1120,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 35,
+            "max_turnout": 44,
+            "county_name": "Greenlee"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 864,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 74,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 93,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T00:57:57-04:00": {
+        "0": {
+            "Lake": 4060,
+            "Robson": 5071,
+            "total": 10048,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 4060,
+            "Robson": 5071,
+            "total": 10048,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T00:58:57-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -294,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -294,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T00:59:57-04:00": {
+        "0": {
+            "Lake": 261,
+            "Robson": 122,
+            "total": 422,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 261,
+            "Robson": 122,
+            "total": 422,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-03T01:03:06-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -294,
+            "max_turnout": -3030,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -50,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -244,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2430,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -209,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -262,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -76,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T01:05:28-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 294,
+            "max_turnout": 3030,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 50,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 244,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2430,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 209,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 262,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 76,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T01:06:50-04:00": {
+        "0": {
+            "Lake": 2381,
+            "Robson": 1394,
+            "total": 4114,
+            "min_turnout": 513,
+            "max_turnout": 123,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 2381,
+            "Robson": 1394,
+            "total": 4114,
+            "min_turnout": 513,
+            "max_turnout": 123,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T01:10:51-04:00": {
+        "0": {
+            "Lake": 831,
+            "Robson": 451,
+            "total": 1449,
+            "min_turnout": 0,
+            "max_turnout": -78,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 831,
+            "Robson": 451,
+            "total": 1449,
+            "min_turnout": 0,
+            "max_turnout": -78,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-03T01:11:39-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -42,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -42,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-03T01:11:51-04:00": {
+        "0": {
+            "Lake": 716,
+            "Robson": 299,
+            "total": 1094,
+            "min_turnout": 0,
+            "max_turnout": 87,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 716,
+            "Robson": 299,
+            "total": 1094,
+            "min_turnout": 0,
+            "max_turnout": 87,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T01:18:46-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 696,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 696,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T01:20:57-04:00": {
+        "0": {
+            "Lake": 569,
+            "Robson": 262,
+            "total": 893,
+            "min_turnout": 0,
+            "max_turnout": -65,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 569,
+            "Robson": 262,
+            "total": 893,
+            "min_turnout": 0,
+            "max_turnout": -65,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-03T01:22:55-04:00": {
+        "0": {
+            "Lake": 1013,
+            "Robson": 1262,
+            "total": 2510,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1013,
+            "Robson": 1262,
+            "total": 2510,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T01:25:06-04:00": {
+        "0": {
+            "Lake": 90,
+            "Robson": 69,
+            "total": 190,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 90,
+            "Robson": 69,
+            "total": 190,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-03T01:26:05-04:00": {
+        "0": {
+            "Lake": 477,
+            "Robson": 195,
+            "total": 720,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 477,
+            "Robson": 195,
+            "total": 720,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-03T01:27:41-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -122,
+            "max_turnout": -2086,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -34,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1673,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -144,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -181,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -52,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T01:28:52-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 406,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 406,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-03T01:29:04-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2695,
+            "max_turnout": 1647,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1647,
+            "county_name": "Cochise"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2695,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T01:29:16-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1317,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1317,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-03T01:29:51-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 373,
+            "max_turnout": 355,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 325,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 373,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 30,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-08-03T01:30:03-04:00": {
+        "0": {
+            "Lake": 1,
+            "Robson": 15,
+            "total": 17,
+            "min_turnout": 0,
+            "max_turnout": 179,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 1,
+            "Robson": 15,
+            "total": 17,
+            "min_turnout": 0,
+            "max_turnout": 179,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-03T01:30:51-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2455,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1263,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1192,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-03T01:31:02-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10048,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10048,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T01:31:14-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 225,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 225,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-03T01:31:50-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 2050,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 34,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1673,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 144,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 181,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 52,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T01:36:59-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -145,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -145,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-03T01:40:56-04:00": {
+        "0": {
+            "Lake": 948,
+            "Robson": 373,
+            "total": 1397,
+            "min_turnout": 267,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 948,
+            "Robson": 373,
+            "total": 1397,
+            "min_turnout": 267,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T01:42:54-04:00": {
+        "0": {
+            "Lake": 711,
+            "Robson": 289,
+            "total": 1058,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 711,
+            "Robson": 289,
+            "total": 1058,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T01:43:06-04:00": {
+        "0": {
+            "Lake": 4724,
+            "Robson": 2740,
+            "total": 8058,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 4724,
+            "Robson": 2740,
+            "total": 8058,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-03T01:45:18-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -539,
+            "max_turnout": -2839,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -539,
+            "max_turnout": -2839,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-03T02:08:01-04:00": {
+        "0": {
+            "Lake": 507,
+            "Robson": 219,
+            "total": 762,
+            "min_turnout": 802,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 507,
+            "Robson": 219,
+            "total": 762,
+            "min_turnout": 802,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T02:11:57-04:00": {
+        "0": {
+            "Lake": 2524,
+            "Robson": 1143,
+            "total": 3920,
+            "min_turnout": 0,
+            "max_turnout": -1526,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 2524,
+            "Robson": 1143,
+            "total": 3920,
+            "min_turnout": 0,
+            "max_turnout": -1526,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T02:13:08-04:00": {
+        "0": {
+            "Lake": 213,
+            "Robson": 170,
+            "total": 512,
+            "min_turnout": 0,
+            "max_turnout": 33,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 213,
+            "Robson": 170,
+            "total": 512,
+            "min_turnout": 0,
+            "max_turnout": 33,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-03T02:26:57-04:00": {
+        "0": {
+            "Lake": 2080,
+            "Robson": 2443,
+            "total": 5038,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 2080,
+            "Robson": 2443,
+            "total": 5038,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T02:32:29-04:00": {
+        "0": {
+            "Lake": -5584,
+            "Robson": -6775,
+            "total": -13854,
+            "min_turnout": -8921,
+            "max_turnout": 255,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": -5584,
+            "Robson": -6775,
+            "total": -13854,
+            "min_turnout": -8921,
+            "max_turnout": 255,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-03T02:34:51-04:00": {
+        "0": {
+            "Lake": 18511,
+            "Robson": 8628,
+            "total": 28653,
+            "min_turnout": 5446,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 18511,
+            "Robson": 8628,
+            "total": 28653,
+            "min_turnout": 5446,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-03T02:37:01-04:00": {
+        "0": {
+            "Lake": 1684,
+            "Robson": 912,
+            "total": 2807,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Total"
+        },
+        "10": {
+            "Lake": 1684,
+            "Robson": 912,
+            "total": 2807,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-03T02:42:55-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 36406,
+            "max_turnout": 5125,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5124,
+            "county_name": "Cochise"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 306,
+            "max_turnout": 1,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 34936,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1164,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T02:43:55-04:00": {
+        "0": {
+            "Lake": 4,
+            "Robson": 0,
+            "total": 7,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "6": {
+            "Lake": 4,
+            "Robson": 0,
+            "total": 7,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-08-03T02:53:58-04:00": {
+        "0": {
+            "Lake": 67,
+            "Robson": 65,
+            "total": 213,
+            "min_turnout": 0,
+            "max_turnout": -11,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 67,
+            "Robson": 65,
+            "total": 213,
+            "min_turnout": 0,
+            "max_turnout": -11,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-03T02:59:02-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 55259,
+            "max_turnout": -5029,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 541,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4126,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1560,
+            "max_turnout": 12,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -107,
+            "max_turnout": -929,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 29646,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5676,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 343,
+            "max_turnout": 15,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 11358,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6328,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -218,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T02:59:49-04:00": {
+        "0": {
+            "Lake": 46,
+            "Robson": 19,
+            "total": 101,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 46,
+            "Robson": 19,
+            "total": 101,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T03:01:49-04:00": {
+        "0": {
+            "Lake": 2654,
+            "Robson": 1344,
+            "total": 4285,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 2654,
+            "Robson": 1344,
+            "total": 4285,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T03:05:10-04:00": {
+        "0": {
+            "Lake": -114,
+            "Robson": 1907,
+            "total": 2307,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": -114,
+            "Robson": 1907,
+            "total": 2307,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T03:05:58-04:00": {
+        "0": {
+            "Lake": 308,
+            "Robson": 147,
+            "total": 495,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 308,
+            "Robson": 147,
+            "total": 495,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-03T03:06:57-04:00": {
+        "0": {
+            "Lake": 1076,
+            "Robson": 393,
+            "total": 1581,
+            "min_turnout": 0,
+            "max_turnout": 57,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 1076,
+            "Robson": 393,
+            "total": 1581,
+            "min_turnout": 0,
+            "max_turnout": 57,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-03T03:09:07-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -682,
+            "max_turnout": -1657,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1351,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -24,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -282,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -118,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -308,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -147,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -41,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T03:15:02-04:00": {
+        "0": {
+            "Lake": 4312,
+            "Robson": 0,
+            "total": 4312,
+            "min_turnout": 0,
+            "max_turnout": 1799,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 4312,
+            "Robson": 0,
+            "total": 4312,
+            "min_turnout": 0,
+            "max_turnout": 1799,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T03:17:00-04:00": {
+        "0": {
+            "Lake": 588,
+            "Robson": 338,
+            "total": 1038,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Total"
+        },
+        "10": {
+            "Lake": 588,
+            "Robson": 338,
+            "total": 1038,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-03T03:21:11-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 682,
+            "max_turnout": 1657,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1351,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 282,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 118,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 308,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 147,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 41,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T03:29:02-04:00": {
+        "0": {
+            "Lake": 973,
+            "Robson": 329,
+            "total": 1391,
+            "min_turnout": 1464,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 973,
+            "Robson": 329,
+            "total": 1391,
+            "min_turnout": 1464,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T03:37:56-04:00": {
+        "0": {
+            "Lake": 31063,
+            "Robson": 14051,
+            "total": 47474,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 31063,
+            "Robson": 14051,
+            "total": 47474,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-03T03:45:59-04:00": {
+        "0": {
+            "Lake": 2187,
+            "Robson": 1262,
+            "total": 3676,
+            "min_turnout": 0,
+            "max_turnout": -521,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 2187,
+            "Robson": 1262,
+            "total": 3676,
+            "min_turnout": 0,
+            "max_turnout": -521,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-03T04:03:04-04:00": {
+        "0": {
+            "Lake": 351,
+            "Robson": 260,
+            "total": 740,
+            "min_turnout": 0,
+            "max_turnout": -57,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 351,
+            "Robson": 260,
+            "total": 740,
+            "min_turnout": 0,
+            "max_turnout": -57,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-03T04:11:02-04:00": {
+        "0": {
+            "Lake": 4010,
+            "Robson": 2116,
+            "total": 6610,
+            "min_turnout": 0,
+            "max_turnout": -596,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 4010,
+            "Robson": 2116,
+            "total": 6610,
+            "min_turnout": 0,
+            "max_turnout": -596,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-03T04:29:05-04:00": {
+        "0": {
+            "Lake": 1406,
+            "Robson": 746,
+            "total": 2302,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1406,
+            "Robson": 746,
+            "total": 2302,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T04:40:43-04:00": {
+        "0": {
+            "Lake": 1505,
+            "Robson": 632,
+            "total": 2254,
+            "min_turnout": 2373,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 1505,
+            "Robson": 632,
+            "total": 2254,
+            "min_turnout": 2373,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T05:17:00-04:00": {
+        "0": {
+            "Lake": 2366,
+            "Robson": 1010,
+            "total": 3618,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 2366,
+            "Robson": 1010,
+            "total": 3618,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T05:23:53-04:00": {
+        "0": {
+            "Lake": 2065,
+            "Robson": 703,
+            "total": 2932,
+            "min_turnout": 3086,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 2065,
+            "Robson": 703,
+            "total": 2932,
+            "min_turnout": 3086,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T05:42:59-04:00": {
+        "0": {
+            "Lake": 2697,
+            "Robson": 1375,
+            "total": 4407,
+            "min_turnout": 0,
+            "max_turnout": 47,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 2697,
+            "Robson": 1375,
+            "total": 4407,
+            "min_turnout": 0,
+            "max_turnout": 47,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-03T05:47:06-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2893,
+            "max_turnout": -4515,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -82,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3809,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1746,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -857,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -360,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -232,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -114,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T06:30:02-04:00": {
+        "0": {
+            "Lake": 2364,
+            "Robson": 1210,
+            "total": 3781,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 2364,
+            "Robson": 1210,
+            "total": 3781,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T06:33:11-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-03T07:11:00-04:00": {
+        "0": {
+            "Lake": 971,
+            "Robson": 317,
+            "total": 1339,
+            "min_turnout": 1410,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 971,
+            "Robson": 317,
+            "total": 1339,
+            "min_turnout": 1410,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T07:14:52-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 98,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 98,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-03T09:16:51-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2893,
+            "max_turnout": 4406,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 82,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 73,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3809,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1746,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 73,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 857,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 349,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 134,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 114,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-03T14:37:48-04:00": {
+        "0": {
+            "Lake": 1,
+            "Robson": 1,
+            "total": 2,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1,
+            "Robson": 1,
+            "total": 2,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-04T19:14:39-04:00": {
+        "0": {
+            "Lake": 11018,
+            "Robson": 10119,
+            "total": 23365,
+            "min_turnout": 48157,
+            "max_turnout": 30,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -745,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Lake": 539,
+            "Robson": 452,
+            "total": 1113,
+            "min_turnout": -25,
+            "max_turnout": -65,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 346,
+            "Robson": 224,
+            "total": 615,
+            "min_turnout": -61,
+            "max_turnout": 15,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Lake": 54,
+            "Robson": 46,
+            "total": 112,
+            "min_turnout": -2,
+            "max_turnout": 5,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Lake": 2535,
+            "Robson": 2253,
+            "total": 5188,
+            "min_turnout": 49035,
+            "max_turnout": -1291,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2522,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 6719,
+            "Robson": 6430,
+            "total": 14640,
+            "min_turnout": -1049,
+            "max_turnout": -485,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -123,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 825,
+            "Robson": 714,
+            "total": 1697,
+            "min_turnout": 1786,
+            "max_turnout": 2763,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1068,
+            "max_turnout": -44,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T19:28:31-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-04T19:31:53-04:00": {
+        "0": {
+            "Lake": 396,
+            "Robson": 304,
+            "total": 771,
+            "min_turnout": 353,
+            "max_turnout": 193,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 396,
+            "Robson": 304,
+            "total": 771,
+            "min_turnout": 353,
+            "max_turnout": 193,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-04T19:35:15-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 156,
+            "max_turnout": 2363,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2093,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 199,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 71,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T19:37:03-04:00": {
+        "0": {
+            "Lake": 2,
+            "Robson": 2,
+            "total": 4,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 2,
+            "Robson": 2,
+            "total": 4,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-04T20:39:54-04:00": {
+        "0": {
+            "Lake": 86,
+            "Robson": 76,
+            "total": 193,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 86,
+            "Robson": 76,
+            "total": 193,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-04T20:40:53-04:00": {
+        "0": {
+            "Lake": 4227,
+            "Robson": 2975,
+            "total": 7985,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 4227,
+            "Robson": 2975,
+            "total": 7985,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-04T20:42:53-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-04T20:43:40-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -523,
+            "max_turnout": -13165,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 330,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -52,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12204,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -58,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -579,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -870,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -139,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -91,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T20:56:00-04:00": {
+        "0": {
+            "Lake": 184,
+            "Robson": 163,
+            "total": 384,
+            "min_turnout": 344,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 184,
+            "Robson": 163,
+            "total": 384,
+            "min_turnout": 344,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-04T20:58:47-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-04T21:00:58-04:00": {
+        "0": {
+            "Lake": 1767,
+            "Robson": 1391,
+            "total": 3450,
+            "min_turnout": 3446,
+            "max_turnout": 311,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 1767,
+            "Robson": 1391,
+            "total": 3450,
+            "min_turnout": 3446,
+            "max_turnout": 311,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-04T21:05:04-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -34361,
+            "max_turnout": -1363,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -132,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -31114,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -207,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2774,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -955,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -408,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T21:27:15-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 34358,
+            "max_turnout": 2234,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 235,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 112,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 31114,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 284,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2677,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1567,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 667,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T21:30:03-04:00": {
+        "0": {
+            "Lake": 1220,
+            "Robson": 684,
+            "total": 2038,
+            "min_turnout": 888,
+            "max_turnout": 1177,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 1220,
+            "Robson": 684,
+            "total": 2038,
+            "min_turnout": 888,
+            "max_turnout": 1177,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-04T21:33:15-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 892,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 116,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 207,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -468,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 507,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 385,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-04T21:51:03-04:00": {
+        "0": {
+            "Lake": 22993,
+            "Robson": 17862,
+            "total": 43925,
+            "min_turnout": 0,
+            "max_turnout": 915,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 22993,
+            "Robson": 17862,
+            "total": 43925,
+            "min_turnout": 0,
+            "max_turnout": 915,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-04T22:00:12-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15984,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15984,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-05T08:00:07-04:00": {
+        "0": {
+            "Lake": 616,
+            "Robson": 505,
+            "total": 1218,
+            "min_turnout": -1731,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2915,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 50,
+            "Robson": 34,
+            "total": 93,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 566,
+            "Robson": 471,
+            "total": 1125,
+            "min_turnout": 1184,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-05T14:22:52-04:00": {
+        "0": {
+            "Lake": 1071,
+            "Robson": 743,
+            "total": 1940,
+            "min_turnout": 1503,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 1071,
+            "Robson": 743,
+            "total": 1940,
+            "min_turnout": 1503,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-05T14:25:17-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-05T14:25:53-04:00": {
+        "0": {
+            "Lake": 894,
+            "Robson": 633,
+            "total": 1647,
+            "min_turnout": 1647,
+            "max_turnout": 48,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 894,
+            "Robson": 633,
+            "total": 1647,
+            "min_turnout": 1647,
+            "max_turnout": 48,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-05T14:28:30-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 841,
+            "max_turnout": 598,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 480,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 433,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 225,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 165,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T15:09:55-04:00": {
+        "0": {
+            "Lake": 19,
+            "Robson": 2,
+            "total": 24,
+            "min_turnout": 24,
+            "max_turnout": 25,
+            "county_name": "Total"
+        },
+        "4": {
+            "Lake": 19,
+            "Robson": 2,
+            "total": 24,
+            "min_turnout": 24,
+            "max_turnout": 25,
+            "county_name": "Gila"
+        }
+    },
+    "2022-08-05T15:12:06-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 88,
+            "max_turnout": 15,
+            "county_name": "Total"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 58,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T15:15:06-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T15:35:52-04:00": {
+        "0": {
+            "Lake": 24,
+            "Robson": 18,
+            "total": 51,
+            "min_turnout": 51,
+            "max_turnout": 53,
+            "county_name": "Total"
+        },
+        "7": {
+            "Lake": 24,
+            "Robson": 18,
+            "total": 51,
+            "min_turnout": 51,
+            "max_turnout": 53,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-08-05T15:39:26-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -514,
+            "max_turnout": -100,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -425,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -95,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -87,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T16:05:57-04:00": {
+        "0": {
+            "Lake": 101,
+            "Robson": 75,
+            "total": 189,
+            "min_turnout": 151,
+            "max_turnout": -5,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 101,
+            "Robson": 75,
+            "total": 189,
+            "min_turnout": 151,
+            "max_turnout": -5,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-05T16:08:08-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3039,
+            "max_turnout": 930,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 51,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 81,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2561,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 771,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 324,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 159,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T17:26:15-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -940,
+            "max_turnout": -2898,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -322,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -277,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -340,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2066,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -832,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T17:32:47-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T17:59:53-04:00": {
+        "0": {
+            "Lake": 964,
+            "Robson": 929,
+            "total": 2063,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Total"
+        },
+        "10": {
+            "Lake": 964,
+            "Robson": 929,
+            "total": 2063,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-05T18:03:59-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -16151,
+            "max_turnout": -1111,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -46,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -11258,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -61,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -4438,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1009,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -355,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -102,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T18:14:20-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16169,
+            "max_turnout": 1111,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 46,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 11258,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 79,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4438,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1009,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 355,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 102,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T18:35:08-04:00": {
+        "0": {
+            "Lake": 1652,
+            "Robson": 1103,
+            "total": 2940,
+            "min_turnout": 2940,
+            "max_turnout": 983,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 1652,
+            "Robson": 1103,
+            "total": 2940,
+            "min_turnout": 2940,
+            "max_turnout": 983,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-05T18:38:31-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 726,
+            "max_turnout": 389,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 68,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 622,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 288,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 101,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T18:48:52-04:00": {
+        "0": {
+            "Lake": 2481,
+            "Robson": 1777,
+            "total": 4658,
+            "min_turnout": 2295,
+            "max_turnout": 89,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 1091,
+            "Robson": 744,
+            "total": 2011,
+            "min_turnout": 1565,
+            "max_turnout": 89,
+            "county_name": "Coconino"
+        },
+        "15": {
+            "Lake": 1390,
+            "Robson": 1033,
+            "total": 2647,
+            "min_turnout": 730,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T18:50:57-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1360,
+            "max_turnout": 299,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 190,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 76,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1090,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 812,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -513,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T19:12:45-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 294,
+            "max_turnout": 6746,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 125,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5272,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 164,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1004,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 470,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T20:29:56-04:00": {
+        "0": {
+            "Lake": 503,
+            "Robson": 334,
+            "total": 922,
+            "min_turnout": 904,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 503,
+            "Robson": 334,
+            "total": 922,
+            "min_turnout": 904,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-05T20:32:29-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 158,
+            "max_turnout": 3563,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 27,
+            "max_turnout": 101,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2932,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 87,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 363,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 138,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T21:17:13-04:00": {
+        "0": {
+            "Lake": 178,
+            "Robson": 71,
+            "total": 274,
+            "min_turnout": 274,
+            "max_turnout": 288,
+            "county_name": "Total"
+        },
+        "9": {
+            "Lake": 178,
+            "Robson": 71,
+            "total": 274,
+            "min_turnout": 274,
+            "max_turnout": 288,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-08-05T21:18:10-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 555,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 423,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 53,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 61,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T21:20:53-04:00": {
+        "0": {
+            "Lake": 4170,
+            "Robson": 2638,
+            "total": 7524,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 4170,
+            "Robson": 2638,
+            "total": 7524,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-05T21:33:10-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 774,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 774,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-05T22:06:47-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-05T22:07:07-04:00": {
+        "0": {
+            "Lake": 27011,
+            "Robson": 17047,
+            "total": 46678,
+            "min_turnout": 29648,
+            "max_turnout": 14429,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 27011,
+            "Robson": 17047,
+            "total": 46678,
+            "min_turnout": 29648,
+            "max_turnout": 14429,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-05T22:08:19-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 288,
+            "max_turnout": 2152,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 114,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 102,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 168,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1149,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 827,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 74,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T22:10:32-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -116,
+            "max_turnout": -649,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -60,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -56,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -492,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -120,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -34,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T22:12:21-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -251,
+            "max_turnout": -1698,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -125,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -167,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -704,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -813,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -56,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T22:16:26-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 293,
+            "max_turnout": 3485,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 173,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2329,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 127,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1222,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -93,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 93,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T22:32:01-04:00": {
+        "0": {
+            "Lake": 2678,
+            "Robson": 1673,
+            "total": 4660,
+            "min_turnout": 3160,
+            "max_turnout": 1682,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 2678,
+            "Robson": 1673,
+            "total": 4660,
+            "min_turnout": 3160,
+            "max_turnout": 1682,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-05T22:35:03-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 117,
+            "max_turnout": 559,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 372,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 35,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 148,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-05T23:01:09-04:00": {
+        "0": {
+            "Lake": 2172,
+            "Robson": 2355,
+            "total": 4922,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 2172,
+            "Robson": 2355,
+            "total": 4922,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-05T23:04:32-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -143,
+            "max_turnout": -3303,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -81,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2163,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -65,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1104,
+            "county_name": "Pinal"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-06T17:52:11-04:00": {
+        "0": {
+            "Lake": 299,
+            "Robson": 177,
+            "total": 526,
+            "min_turnout": 356,
+            "max_turnout": 50,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 299,
+            "Robson": 177,
+            "total": 526,
+            "min_turnout": 356,
+            "max_turnout": 50,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-06T21:24:09-04:00": {
+        "0": {
+            "Lake": 2457,
+            "Robson": 1619,
+            "total": 4400,
+            "min_turnout": 3210,
+            "max_turnout": 4631,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 2457,
+            "Robson": 1619,
+            "total": 4400,
+            "min_turnout": 3210,
+            "max_turnout": 4631,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-06T22:09:10-04:00": {
+        "0": {
+            "Lake": 1176,
+            "Robson": 1126,
+            "total": 2492,
+            "min_turnout": 1683,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1176,
+            "Robson": 1126,
+            "total": 2492,
+            "min_turnout": 1683,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-07T22:58:00-04:00": {
+        "0": {
+            "Lake": 1350,
+            "Robson": 1367,
+            "total": 2949,
+            "min_turnout": 2949,
+            "max_turnout": 407,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1350,
+            "Robson": 1367,
+            "total": 2949,
+            "min_turnout": 2949,
+            "max_turnout": 407,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-08T09:05:24-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -128,
+            "max_turnout": -579,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -78,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -538,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -54,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -41,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T09:07:30-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 125,
+            "max_turnout": 567,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 50,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 535,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 32,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T09:36:40-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -48,
+            "max_turnout": -12,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -21,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -15,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T09:38:44-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 362,
+            "max_turnout": 7017,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 152,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 35,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6477,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 213,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 382,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 123,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T13:56:59-04:00": {
+        "0": {
+            "Lake": 53,
+            "Robson": 65,
+            "total": 129,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 53,
+            "Robson": 65,
+            "total": 129,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-08T14:06:45-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -128,
+            "max_turnout": -2571,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -46,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2452,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Pinal"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -59,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T18:06:00-04:00": {
+        "0": {
+            "Lake": 3,
+            "Robson": 0,
+            "total": 4,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "13": {
+            "Lake": 3,
+            "Robson": 0,
+            "total": 4,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-08T18:08:16-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 4,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-08-08T18:12:03-04:00": {
+        "0": {
+            "Lake": 47,
+            "Robson": 42,
+            "total": 98,
+            "min_turnout": 98,
+            "max_turnout": 103,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 47,
+            "Robson": 42,
+            "total": 98,
+            "min_turnout": 98,
+            "max_turnout": 103,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-08T18:15:52-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 90,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Cochise"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 83,
+            "county_name": "Maricopa"
+        },
+        "10": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Pinal"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T20:06:50-04:00": {
+        "0": {
+            "Lake": 1185,
+            "Robson": 924,
+            "total": 2296,
+            "min_turnout": 1508,
+            "max_turnout": 939,
+            "county_name": "Total"
+        },
+        "10": {
+            "Lake": 1185,
+            "Robson": 924,
+            "total": 2296,
+            "min_turnout": 1508,
+            "max_turnout": 939,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-08-08T20:10:31-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 55,
+            "max_turnout": 8103,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 44,
+            "max_turnout": 111,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 63,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7232,
+            "county_name": "Maricopa"
+        },
+        "12": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 523,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 174,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T20:41:58-04:00": {
+        "0": {
+            "Lake": 1891,
+            "Robson": 1204,
+            "total": 3327,
+            "min_turnout": 3327,
+            "max_turnout": 2800,
+            "county_name": "Total"
+        },
+        "12": {
+            "Lake": 1891,
+            "Robson": 1204,
+            "total": 3327,
+            "min_turnout": 3327,
+            "max_turnout": 2800,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-08-08T20:46:13-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": -3739,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -111,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 38,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3566,
+            "county_name": "Maricopa"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -100,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T21:02:49-04:00": {
+        "0": {
+            "Lake": 505,
+            "Robson": 339,
+            "total": 928,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 505,
+            "Robson": 339,
+            "total": 928,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-08T21:05:56-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -862,
+            "max_turnout": -7238,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -875,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 100,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7115,
+            "county_name": "Maricopa"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -223,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T21:28:10-04:00": {
+        "0": {
+            "Lake": 2370,
+            "Robson": 1662,
+            "total": 4335,
+            "min_turnout": 4335,
+            "max_turnout": 3901,
+            "county_name": "Total"
+        },
+        "8": {
+            "Lake": 2370,
+            "Robson": 1662,
+            "total": 4335,
+            "min_turnout": 4335,
+            "max_turnout": 3901,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-08-08T21:31:41-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": -18,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29,
+            "county_name": "Cochise"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -47,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T21:44:48-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 11,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Cochise"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T21:55:51-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 664,
+            "max_turnout": 1056,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 666,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -69,
+            "county_name": "Cochise"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 999,
+            "county_name": "Maricopa"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 126,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-08T21:57:58-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 287,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Cochise"
+        },
+        "8": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 277,
+            "county_name": "Maricopa"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 17,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-09T18:41:17-04:00": {
+        "0": {
+            "Lake": 255,
+            "Robson": 192,
+            "total": 510,
+            "min_turnout": 0,
+            "max_turnout": 19,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 255,
+            "Robson": 192,
+            "total": 510,
+            "min_turnout": 0,
+            "max_turnout": 19,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-09T19:44:39-04:00": {
+        "0": {
+            "Lake": 337,
+            "Robson": 205,
+            "total": 592,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 337,
+            "Robson": 205,
+            "total": 592,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-09T20:11:53-04:00": {
+        "0": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -669,
+            "county_name": "Total"
+        },
+        "11": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -669,
+            "county_name": "Pima"
+        }
+    },
+    "2022-08-09T20:55:06-04:00": {
+        "0": {
+            "Lake": 71,
+            "Robson": 48,
+            "total": 133,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Lake": 71,
+            "Robson": 48,
+            "total": 133,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-08-09T20:59:56-04:00": {
+        "0": {
+            "Lake": 55,
+            "Robson": 18,
+            "total": 89,
+            "min_turnout": 89,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Lake": 55,
+            "Robson": 18,
+            "total": 89,
+            "min_turnout": 89,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-08-09T21:16:16-04:00": {
+        "0": {
+            "Lake": 217,
+            "Robson": 162,
+            "total": 418,
+            "min_turnout": 136,
+            "max_turnout": 92,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 217,
+            "Robson": 162,
+            "total": 418,
+            "min_turnout": 136,
+            "max_turnout": 92,
+            "county_name": "Apache"
+        }
+    },
+    "2022-08-09T21:31:16-04:00": {
+        "0": {
+            "Lake": 223,
+            "Robson": 127,
+            "total": 378,
+            "min_turnout": 378,
+            "max_turnout": 398,
+            "county_name": "Total"
+        },
+        "14": {
+            "Lake": 223,
+            "Robson": 127,
+            "total": 378,
+            "min_turnout": 378,
+            "max_turnout": 398,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-08-09T22:01:05-04:00": {
+        "0": {
+            "Lake": 62,
+            "Robson": 29,
+            "total": 95,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Total"
+        },
+        "3": {
+            "Lake": 62,
+            "Robson": 29,
+            "total": 95,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-08-16T21:12:39-04:00": {
+        "0": {
+            "Lake": 5616,
+            "Robson": 2961,
+            "total": 9283,
+            "min_turnout": 6823,
+            "max_turnout": 5796,
+            "county_name": "Total"
+        },
+        "1": {
+            "Lake": 44,
+            "Robson": 24,
+            "total": 83,
+            "min_turnout": 83,
+            "max_turnout": 88,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 153,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Lake": 3,
+            "Robson": 0,
+            "total": 3,
+            "min_turnout": 3,
+            "max_turnout": 4,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Lake": 2,
+            "Robson": 1,
+            "total": 3,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Lake": 1566,
+            "Robson": 939,
+            "total": 2681,
+            "min_turnout": 2681,
+            "max_turnout": 1546,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Lake": 31,
+            "Robson": 26,
+            "total": 63,
+            "min_turnout": 63,
+            "max_turnout": 66,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Lake": 10,
+            "Robson": 12,
+            "total": 23,
+            "min_turnout": 23,
+            "max_turnout": 25,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Lake": 1538,
+            "Robson": 704,
+            "total": 2459,
+            "min_turnout": 0,
+            "max_turnout": 189,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Lake": 2422,
+            "Robson": 1255,
+            "total": 3968,
+            "min_turnout": 3968,
+            "max_turnout": 4177,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Lake": 0,
+            "Robson": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -455,
+            "county_name": "Yuma"
+        }
+    }
+}

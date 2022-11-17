@@ -1,0 +1,1629 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Schmitt": 334543,
+            "Greitens": 132407,
+            "Hartzler": 155357,
+            "total": 714075,
+            "min_turnout": 724486,
+            "max_turnout": 828360
+        },
+        {
+            "county_name": "Adair",
+            "Schmitt": 1250,
+            "Greitens": 778,
+            "Hartzler": 420,
+            "total": 2781,
+            "min_turnout": 2809,
+            "max_turnout": 2838
+        },
+        {
+            "county_name": "Andrew",
+            "Schmitt": 1575,
+            "Greitens": 775,
+            "Hartzler": 575,
+            "total": 3359,
+            "min_turnout": 3392,
+            "max_turnout": 3428
+        },
+        {
+            "county_name": "Atchison",
+            "Schmitt": 403,
+            "Greitens": 232,
+            "Hartzler": 183,
+            "total": 1020,
+            "min_turnout": 1030,
+            "max_turnout": 1522
+        },
+        {
+            "county_name": "Audrain",
+            "Schmitt": 903,
+            "Greitens": 398,
+            "Hartzler": 1094,
+            "total": 2524,
+            "min_turnout": 2549,
+            "max_turnout": 2644
+        },
+        {
+            "county_name": "Barry",
+            "Schmitt": 1935,
+            "Greitens": 929,
+            "Hartzler": 776,
+            "total": 5208,
+            "min_turnout": 5234,
+            "max_turnout": 5314
+        },
+        {
+            "county_name": "Barton",
+            "Schmitt": 676,
+            "Greitens": 519,
+            "Hartzler": 1084,
+            "total": 2593,
+            "min_turnout": 2619,
+            "max_turnout": 2646
+        },
+        {
+            "county_name": "Bates",
+            "Schmitt": 918,
+            "Greitens": 501,
+            "Hartzler": 1609,
+            "total": 3307,
+            "min_turnout": 3340,
+            "max_turnout": 3374
+        },
+        {
+            "county_name": "Benton",
+            "Schmitt": 1183,
+            "Greitens": 697,
+            "Hartzler": 1188,
+            "total": 3506,
+            "min_turnout": 3532,
+            "max_turnout": 3857
+        },
+        {
+            "county_name": "Bollinger",
+            "Schmitt": 1030,
+            "Greitens": 495,
+            "Hartzler": 203,
+            "total": 1890,
+            "min_turnout": 1925,
+            "max_turnout": 2392
+        },
+        {
+            "county_name": "Boone",
+            "Schmitt": 5425,
+            "Greitens": 1564,
+            "Hartzler": 5693,
+            "total": 13549,
+            "min_turnout": 13826,
+            "max_turnout": 14262
+        },
+        {
+            "county_name": "Buchanan",
+            "Schmitt": 4031,
+            "Greitens": 1796,
+            "Hartzler": 1417,
+            "total": 8151,
+            "min_turnout": 8233,
+            "max_turnout": 11173
+        },
+        {
+            "county_name": "Butler",
+            "Schmitt": 1987,
+            "Greitens": 1535,
+            "Hartzler": 514,
+            "total": 4358,
+            "min_turnout": 4402,
+            "max_turnout": 5241
+        },
+        {
+            "county_name": "Caldwell",
+            "Schmitt": 930,
+            "Greitens": 462,
+            "Hartzler": 392,
+            "total": 2092,
+            "min_turnout": 2113,
+            "max_turnout": 2301
+        },
+        {
+            "county_name": "Callaway",
+            "Schmitt": 2621,
+            "Greitens": 1144,
+            "Hartzler": 1842,
+            "total": 6201,
+            "min_turnout": 6253,
+            "max_turnout": 6821
+        },
+        {
+            "county_name": "Camden",
+            "Schmitt": 3678,
+            "Greitens": 1915,
+            "Hartzler": 2402,
+            "total": 9704,
+            "min_turnout": 9802,
+            "max_turnout": 10674
+        },
+        {
+            "county_name": "Cape Girardeau",
+            "Schmitt": 5482,
+            "Greitens": 1964,
+            "Hartzler": 1572,
+            "total": 9913,
+            "min_turnout": 10053,
+            "max_turnout": 12548
+        },
+        {
+            "county_name": "Carroll",
+            "Schmitt": 713,
+            "Greitens": 254,
+            "Hartzler": 320,
+            "total": 1402,
+            "min_turnout": 1411,
+            "max_turnout": 1750
+        },
+        {
+            "county_name": "Carter",
+            "Schmitt": 477,
+            "Greitens": 318,
+            "Hartzler": 100,
+            "total": 982,
+            "min_turnout": 998,
+            "max_turnout": 1227
+        },
+        {
+            "county_name": "Cass",
+            "Schmitt": 5085,
+            "Greitens": 1995,
+            "Hartzler": 7061,
+            "total": 15212,
+            "min_turnout": 15430,
+            "max_turnout": 16733
+        },
+        {
+            "county_name": "Cedar",
+            "Schmitt": 921,
+            "Greitens": 651,
+            "Hartzler": 1169,
+            "total": 3266,
+            "min_turnout": 3298,
+            "max_turnout": 3593
+        },
+        {
+            "county_name": "Chariton",
+            "Schmitt": 418,
+            "Greitens": 211,
+            "Hartzler": 362,
+            "total": 1069,
+            "min_turnout": 1091,
+            "max_turnout": 1497
+        },
+        {
+            "county_name": "Christian",
+            "Schmitt": 6422,
+            "Greitens": 2042,
+            "Hartzler": 2638,
+            "total": 14070,
+            "min_turnout": 14212,
+            "max_turnout": 15477
+        },
+        {
+            "county_name": "Clark",
+            "Schmitt": 376,
+            "Greitens": 326,
+            "Hartzler": 122,
+            "total": 1000,
+            "min_turnout": 1031,
+            "max_turnout": 1100
+        },
+        {
+            "county_name": "Clay",
+            "Schmitt": 11312,
+            "Greitens": 3793,
+            "Hartzler": 4143,
+            "total": 21172,
+            "min_turnout": 22551,
+            "max_turnout": 29583
+        },
+        {
+            "county_name": "Clinton",
+            "Schmitt": 1265,
+            "Greitens": 599,
+            "Hartzler": 468,
+            "total": 2657,
+            "min_turnout": 2683,
+            "max_turnout": 3467
+        },
+        {
+            "county_name": "Cole",
+            "Schmitt": 5541,
+            "Greitens": 2016,
+            "Hartzler": 4149,
+            "total": 12677,
+            "min_turnout": 12805,
+            "max_turnout": 14979
+        },
+        {
+            "county_name": "Cooper",
+            "Schmitt": 1001,
+            "Greitens": 523,
+            "Hartzler": 1405,
+            "total": 3227,
+            "min_turnout": 3259,
+            "max_turnout": 3550
+        },
+        {
+            "county_name": "Crawford",
+            "Schmitt": 1645,
+            "Greitens": 881,
+            "Hartzler": 389,
+            "total": 3439,
+            "min_turnout": 3473,
+            "max_turnout": 3783
+        },
+        {
+            "county_name": "Dade",
+            "Schmitt": 614,
+            "Greitens": 299,
+            "Hartzler": 686,
+            "total": 1931,
+            "min_turnout": 1951,
+            "max_turnout": 2124
+        },
+        {
+            "county_name": "Dallas",
+            "Schmitt": 821,
+            "Greitens": 440,
+            "Hartzler": 1090,
+            "total": 2811,
+            "min_turnout": 2826,
+            "max_turnout": 3092
+        },
+        {
+            "county_name": "Daviess",
+            "Schmitt": 581,
+            "Greitens": 310,
+            "Hartzler": 237,
+            "total": 1295,
+            "min_turnout": 1308,
+            "max_turnout": 1425
+        },
+        {
+            "county_name": "DeKalb",
+            "Schmitt": 820,
+            "Greitens": 416,
+            "Hartzler": 362,
+            "total": 1803,
+            "min_turnout": 1821,
+            "max_turnout": 1897
+        },
+        {
+            "county_name": "Dent",
+            "Schmitt": 1112,
+            "Greitens": 806,
+            "Hartzler": 421,
+            "total": 2903,
+            "min_turnout": 2932,
+            "max_turnout": 3193
+        },
+        {
+            "county_name": "Douglas",
+            "Schmitt": 1085,
+            "Greitens": 591,
+            "Hartzler": 346,
+            "total": 2512,
+            "min_turnout": 2537,
+            "max_turnout": 2763
+        },
+        {
+            "county_name": "Dunklin",
+            "Schmitt": 698,
+            "Greitens": 825,
+            "Hartzler": 408,
+            "total": 2024,
+            "min_turnout": 2042,
+            "max_turnout": 3231
+        },
+        {
+            "county_name": "Franklin",
+            "Schmitt": 7567,
+            "Greitens": 2709,
+            "Hartzler": 2127,
+            "total": 15890,
+            "min_turnout": 16050,
+            "max_turnout": 20665
+        },
+        {
+            "county_name": "Gasconade",
+            "Schmitt": 1132,
+            "Greitens": 500,
+            "Hartzler": 654,
+            "total": 2749,
+            "min_turnout": 2776,
+            "max_turnout": 3024
+        },
+        {
+            "county_name": "Gentry",
+            "Schmitt": 557,
+            "Greitens": 263,
+            "Hartzler": 198,
+            "total": 1168,
+            "min_turnout": 1180,
+            "max_turnout": 1292
+        },
+        {
+            "county_name": "Greene",
+            "Schmitt": 14557,
+            "Greitens": 4279,
+            "Hartzler": 7655,
+            "total": 33460,
+            "min_turnout": 34221,
+            "max_turnout": 36806
+        },
+        {
+            "county_name": "Grundy",
+            "Schmitt": 810,
+            "Greitens": 379,
+            "Hartzler": 324,
+            "total": 1807,
+            "min_turnout": 1825,
+            "max_turnout": 1988
+        },
+        {
+            "county_name": "Harrison",
+            "Schmitt": 838,
+            "Greitens": 338,
+            "Hartzler": 245,
+            "total": 1602,
+            "min_turnout": 1618,
+            "max_turnout": 1762
+        },
+        {
+            "county_name": "Henry",
+            "Schmitt": 1218,
+            "Greitens": 587,
+            "Hartzler": 1415,
+            "total": 3891,
+            "min_turnout": 3899,
+            "max_turnout": 4280
+        },
+        {
+            "county_name": "Hickory",
+            "Schmitt": 690,
+            "Greitens": 428,
+            "Hartzler": 630,
+            "total": 2115,
+            "min_turnout": 2136,
+            "max_turnout": 2326
+        },
+        {
+            "county_name": "Holt",
+            "Schmitt": 470,
+            "Greitens": 292,
+            "Hartzler": 180,
+            "total": 1074,
+            "min_turnout": 1085,
+            "max_turnout": 1181
+        },
+        {
+            "county_name": "Howard",
+            "Schmitt": 566,
+            "Greitens": 224,
+            "Hartzler": 676,
+            "total": 1593,
+            "min_turnout": 1609,
+            "max_turnout": 1902
+        },
+        {
+            "county_name": "Howell",
+            "Schmitt": 2133,
+            "Greitens": 1331,
+            "Hartzler": 962,
+            "total": 5411,
+            "min_turnout": 5465,
+            "max_turnout": 5952
+        },
+        {
+            "county_name": "Iron",
+            "Schmitt": 552,
+            "Greitens": 235,
+            "Hartzler": 164,
+            "total": 1057,
+            "min_turnout": 1079,
+            "max_turnout": 1554
+        },
+        {
+            "county_name": "Jackson",
+            "Schmitt": 21819,
+            "Greitens": 6809,
+            "Hartzler": 9898,
+            "total": 42749,
+            "min_turnout": 44998,
+            "max_turnout": 60045
+        },
+        {
+            "county_name": "Jasper",
+            "Schmitt": 5910,
+            "Greitens": 3078,
+            "Hartzler": 2929,
+            "total": 16248,
+            "min_turnout": 16412,
+            "max_turnout": 17873
+        },
+        {
+            "county_name": "Jefferson",
+            "Schmitt": 14367,
+            "Greitens": 5957,
+            "Hartzler": 4381,
+            "total": 28598,
+            "min_turnout": 29473,
+            "max_turnout": 39099
+        },
+        {
+            "county_name": "Johnson",
+            "Schmitt": 1993,
+            "Greitens": 969,
+            "Hartzler": 2907,
+            "total": 6461,
+            "min_turnout": 6521,
+            "max_turnout": 6593
+        },
+        {
+            "county_name": "Knox",
+            "Schmitt": 323,
+            "Greitens": 230,
+            "Hartzler": 114,
+            "total": 754,
+            "min_turnout": 762,
+            "max_turnout": 829
+        },
+        {
+            "county_name": "LaClede",
+            "Schmitt": 1609,
+            "Greitens": 1007,
+            "Hartzler": 2009,
+            "total": 5347,
+            "min_turnout": 5401,
+            "max_turnout": 5882
+        },
+        {
+            "county_name": "Lafayette",
+            "Schmitt": 2135,
+            "Greitens": 754,
+            "Hartzler": 1437,
+            "total": 4705,
+            "min_turnout": 4752,
+            "max_turnout": 5176
+        },
+        {
+            "county_name": "Lawrence",
+            "Schmitt": 2744,
+            "Greitens": 1154,
+            "Hartzler": 1193,
+            "total": 6691,
+            "min_turnout": 6759,
+            "max_turnout": 7360
+        },
+        {
+            "county_name": "Lewis",
+            "Schmitt": 609,
+            "Greitens": 545,
+            "Hartzler": 211,
+            "total": 1696,
+            "min_turnout": 1713,
+            "max_turnout": 1866
+        },
+        {
+            "county_name": "Lincoln",
+            "Schmitt": 4211,
+            "Greitens": 1900,
+            "Hartzler": 1445,
+            "total": 8718,
+            "min_turnout": 8819,
+            "max_turnout": 11081
+        },
+        {
+            "county_name": "Linn",
+            "Schmitt": 751,
+            "Greitens": 346,
+            "Hartzler": 299,
+            "total": 1627,
+            "min_turnout": 1664,
+            "max_turnout": 1790
+        },
+        {
+            "county_name": "Livingston",
+            "Schmitt": 1065,
+            "Greitens": 535,
+            "Hartzler": 532,
+            "total": 2670,
+            "min_turnout": 2697,
+            "max_turnout": 3000
+        },
+        {
+            "county_name": "Macon",
+            "Schmitt": 1088,
+            "Greitens": 636,
+            "Hartzler": 402,
+            "total": 2358,
+            "min_turnout": 2384,
+            "max_turnout": 2594
+        },
+        {
+            "county_name": "Madison",
+            "Schmitt": 836,
+            "Greitens": 452,
+            "Hartzler": 191,
+            "total": 1674,
+            "min_turnout": 1713,
+            "max_turnout": 1841
+        },
+        {
+            "county_name": "Maries",
+            "Schmitt": 657,
+            "Greitens": 367,
+            "Hartzler": 360,
+            "total": 1545,
+            "min_turnout": 1546,
+            "max_turnout": 4018
+        },
+        {
+            "county_name": "Marion",
+            "Schmitt": 1689,
+            "Greitens": 1336,
+            "Hartzler": 598,
+            "total": 4186,
+            "min_turnout": 4213,
+            "max_turnout": 4605
+        },
+        {
+            "county_name": "McDonald",
+            "Schmitt": 887,
+            "Greitens": 549,
+            "Hartzler": 274,
+            "total": 2446,
+            "min_turnout": 2470,
+            "max_turnout": 3139
+        },
+        {
+            "county_name": "Mercer",
+            "Schmitt": 257,
+            "Greitens": 136,
+            "Hartzler": 124,
+            "total": 626,
+            "min_turnout": 629,
+            "max_turnout": 689
+        },
+        {
+            "county_name": "Miller",
+            "Schmitt": 1755,
+            "Greitens": 901,
+            "Hartzler": 998,
+            "total": 4120,
+            "min_turnout": 4147,
+            "max_turnout": 4532
+        },
+        {
+            "county_name": "Mississippi",
+            "Schmitt": 488,
+            "Greitens": 349,
+            "Hartzler": 180,
+            "total": 1085,
+            "min_turnout": 1107,
+            "max_turnout": 1870
+        },
+        {
+            "county_name": "Moniteau",
+            "Schmitt": 935,
+            "Greitens": 439,
+            "Hartzler": 1398,
+            "total": 2965,
+            "min_turnout": 2995,
+            "max_turnout": 3262
+        },
+        {
+            "county_name": "Monroe",
+            "Schmitt": 520,
+            "Greitens": 373,
+            "Hartzler": 348,
+            "total": 1370,
+            "min_turnout": 1387,
+            "max_turnout": 1662
+        },
+        {
+            "county_name": "Montgomery",
+            "Schmitt": 818,
+            "Greitens": 496,
+            "Hartzler": 543,
+            "total": 2123,
+            "min_turnout": 2144,
+            "max_turnout": 2335
+        },
+        {
+            "county_name": "Morgan",
+            "Schmitt": 1161,
+            "Greitens": 642,
+            "Hartzler": 1149,
+            "total": 3222,
+            "min_turnout": 3232,
+            "max_turnout": 3544
+        },
+        {
+            "county_name": "New Madrid",
+            "Schmitt": 650,
+            "Greitens": 680,
+            "Hartzler": 240,
+            "total": 1639,
+            "min_turnout": 1743,
+            "max_turnout": 1803
+        },
+        {
+            "county_name": "Newton",
+            "Schmitt": 3597,
+            "Greitens": 1978,
+            "Hartzler": 1380,
+            "total": 9550,
+            "min_turnout": 9577,
+            "max_turnout": 10505
+        },
+        {
+            "county_name": "Nodaway",
+            "Schmitt": 1602,
+            "Greitens": 855,
+            "Hartzler": 683,
+            "total": 3657,
+            "min_turnout": 3694,
+            "max_turnout": 4023
+        },
+        {
+            "county_name": "Oregon",
+            "Schmitt": 715,
+            "Greitens": 408,
+            "Hartzler": 244,
+            "total": 1755,
+            "min_turnout": 1759,
+            "max_turnout": 1931
+        },
+        {
+            "county_name": "Osage",
+            "Schmitt": 1284,
+            "Greitens": 547,
+            "Hartzler": 842,
+            "total": 2929,
+            "min_turnout": 2959,
+            "max_turnout": 3222
+        },
+        {
+            "county_name": "Ozark",
+            "Schmitt": 610,
+            "Greitens": 420,
+            "Hartzler": 288,
+            "total": 1730,
+            "min_turnout": 1746,
+            "max_turnout": 2369
+        },
+        {
+            "county_name": "Pemiscot",
+            "Schmitt": 424,
+            "Greitens": 471,
+            "Hartzler": 148,
+            "total": 1104,
+            "min_turnout": 1214,
+            "max_turnout": 1397
+        },
+        {
+            "county_name": "Perry",
+            "Schmitt": 1465,
+            "Greitens": 576,
+            "Hartzler": 537,
+            "total": 2871,
+            "min_turnout": 2897,
+            "max_turnout": 3508
+        },
+        {
+            "county_name": "Pettis",
+            "Schmitt": 2078,
+            "Greitens": 882,
+            "Hartzler": 2432,
+            "total": 5885,
+            "min_turnout": 5933,
+            "max_turnout": 6474
+        },
+        {
+            "county_name": "Phelps",
+            "Schmitt": 2309,
+            "Greitens": 1328,
+            "Hartzler": 1218,
+            "total": 5495,
+            "min_turnout": 5550,
+            "max_turnout": 6345
+        },
+        {
+            "county_name": "Pike",
+            "Schmitt": 1151,
+            "Greitens": 704,
+            "Hartzler": 392,
+            "total": 2688,
+            "min_turnout": 2715,
+            "max_turnout": 2957
+        },
+        {
+            "county_name": "Platte",
+            "Schmitt": 5147,
+            "Greitens": 1509,
+            "Hartzler": 2042,
+            "total": 9511,
+            "min_turnout": 9607,
+            "max_turnout": 9918
+        },
+        {
+            "county_name": "Polk",
+            "Schmitt": 1756,
+            "Greitens": 642,
+            "Hartzler": 1154,
+            "total": 4618,
+            "min_turnout": 4647,
+            "max_turnout": 5432
+        },
+        {
+            "county_name": "Pulaski",
+            "Schmitt": 1186,
+            "Greitens": 842,
+            "Hartzler": 1305,
+            "total": 3852,
+            "min_turnout": 4026,
+            "max_turnout": 5205
+        },
+        {
+            "county_name": "Putnam",
+            "Schmitt": 298,
+            "Greitens": 227,
+            "Hartzler": 168,
+            "total": 803,
+            "min_turnout": 804,
+            "max_turnout": 883
+        },
+        {
+            "county_name": "Ralls",
+            "Schmitt": 794,
+            "Greitens": 585,
+            "Hartzler": 165,
+            "total": 1761,
+            "min_turnout": 1776,
+            "max_turnout": 2071
+        },
+        {
+            "county_name": "Randolph",
+            "Schmitt": 884,
+            "Greitens": 537,
+            "Hartzler": 961,
+            "total": 2527,
+            "min_turnout": 2552,
+            "max_turnout": 3127
+        },
+        {
+            "county_name": "Ray",
+            "Schmitt": 1285,
+            "Greitens": 567,
+            "Hartzler": 578,
+            "total": 2698,
+            "min_turnout": 2725,
+            "max_turnout": 3867
+        },
+        {
+            "county_name": "Reynolds",
+            "Schmitt": 480,
+            "Greitens": 287,
+            "Hartzler": 116,
+            "total": 998,
+            "min_turnout": 1014,
+            "max_turnout": 1098
+        },
+        {
+            "county_name": "Ripley",
+            "Schmitt": 854,
+            "Greitens": 560,
+            "Hartzler": 187,
+            "total": 1813,
+            "min_turnout": 1831,
+            "max_turnout": 1994
+        },
+        {
+            "county_name": "Saint Charles",
+            "Schmitt": 25269,
+            "Greitens": 8193,
+            "Hartzler": 7550,
+            "total": 45225,
+            "min_turnout": 45681,
+            "max_turnout": 46148
+        },
+        {
+            "county_name": "Saint Clair",
+            "Schmitt": 540,
+            "Greitens": 350,
+            "Hartzler": 833,
+            "total": 2096,
+            "min_turnout": 2117,
+            "max_turnout": 2206
+        },
+        {
+            "county_name": "Saint Francois",
+            "Schmitt": 3737,
+            "Greitens": 1746,
+            "Hartzler": 905,
+            "total": 7494,
+            "min_turnout": 7647,
+            "max_turnout": 8235
+        },
+        {
+            "county_name": "Saint Louis City",
+            "Schmitt": 38326,
+            "Greitens": 9588,
+            "Hartzler": 11723,
+            "total": 64778,
+            "min_turnout": 64778,
+            "max_turnout": 66100
+        },
+        {
+            "county_name": "Saint Louis County",
+            "Schmitt": 38326,
+            "Greitens": 9588,
+            "Hartzler": 11723,
+            "total": 64778,
+            "min_turnout": 64778,
+            "max_turnout": 69027
+        },
+        {
+            "county_name": "Saline",
+            "Schmitt": 1028,
+            "Greitens": 485,
+            "Hartzler": 554,
+            "total": 2340,
+            "min_turnout": 2363,
+            "max_turnout": 2413
+        },
+        {
+            "county_name": "Schuyler",
+            "Schmitt": 250,
+            "Greitens": 231,
+            "Hartzler": 49,
+            "total": 626,
+            "min_turnout": 636,
+            "max_turnout": 658
+        },
+        {
+            "county_name": "Scotland",
+            "Schmitt": 285,
+            "Greitens": 220,
+            "Hartzler": 121,
+            "total": 705,
+            "min_turnout": 712,
+            "max_turnout": 881
+        },
+        {
+            "county_name": "Scott",
+            "Schmitt": 2654,
+            "Greitens": 1438,
+            "Hartzler": 700,
+            "total": 5172,
+            "min_turnout": 5224,
+            "max_turnout": 5278
+        },
+        {
+            "county_name": "Shannon",
+            "Schmitt": 400,
+            "Greitens": 282,
+            "Hartzler": 100,
+            "total": 961,
+            "min_turnout": 981,
+            "max_turnout": 1779
+        },
+        {
+            "county_name": "Shelby",
+            "Schmitt": 320,
+            "Greitens": 200,
+            "Hartzler": 177,
+            "total": 751,
+            "min_turnout": 766,
+            "max_turnout": 1088
+        },
+        {
+            "county_name": "Ste. Genevieve",
+            "Schmitt": 1089,
+            "Greitens": 379,
+            "Hartzler": 337,
+            "total": 2046,
+            "min_turnout": 2066,
+            "max_turnout": 2163
+        },
+        {
+            "county_name": "Stoddard",
+            "Schmitt": 2217,
+            "Greitens": 1751,
+            "Hartzler": 1108,
+            "total": 5492,
+            "min_turnout": 5547,
+            "max_turnout": 5604
+        },
+        {
+            "county_name": "Stone",
+            "Schmitt": 2630,
+            "Greitens": 1279,
+            "Hartzler": 877,
+            "total": 6505,
+            "min_turnout": 6570,
+            "max_turnout": 6638
+        },
+        {
+            "county_name": "Sullivan",
+            "Schmitt": 338,
+            "Greitens": 244,
+            "Hartzler": 173,
+            "total": 902,
+            "min_turnout": 902,
+            "max_turnout": 925
+        },
+        {
+            "county_name": "Taney",
+            "Schmitt": 3121,
+            "Greitens": 1452,
+            "Hartzler": 1231,
+            "total": 8047,
+            "min_turnout": 8124,
+            "max_turnout": 8852
+        },
+        {
+            "county_name": "Texas",
+            "Schmitt": 1375,
+            "Greitens": 928,
+            "Hartzler": 498,
+            "total": 3405,
+            "min_turnout": 3439,
+            "max_turnout": 3477
+        },
+        {
+            "county_name": "Vernon",
+            "Schmitt": 850,
+            "Greitens": 610,
+            "Hartzler": 1507,
+            "total": 3346,
+            "min_turnout": 3380,
+            "max_turnout": 3681
+        },
+        {
+            "county_name": "Warren",
+            "Schmitt": 2740,
+            "Greitens": 1222,
+            "Hartzler": 854,
+            "total": 5455,
+            "min_turnout": 5500,
+            "max_turnout": 6001
+        },
+        {
+            "county_name": "Washington",
+            "Schmitt": 1311,
+            "Greitens": 703,
+            "Hartzler": 300,
+            "total": 2650,
+            "min_turnout": 2676,
+            "max_turnout": 7097
+        },
+        {
+            "county_name": "Wayne",
+            "Schmitt": 808,
+            "Greitens": 530,
+            "Hartzler": 162,
+            "total": 1641,
+            "min_turnout": 1706,
+            "max_turnout": 2858
+        },
+        {
+            "county_name": "Webster",
+            "Schmitt": 2246,
+            "Greitens": 1173,
+            "Hartzler": 2217,
+            "total": 7018,
+            "min_turnout": 7089,
+            "max_turnout": 7720
+        },
+        {
+            "county_name": "Worth",
+            "Schmitt": 255,
+            "Greitens": 120,
+            "Hartzler": 89,
+            "total": 565,
+            "min_turnout": 571,
+            "max_turnout": 5424
+        },
+        {
+            "county_name": "Wright",
+            "Schmitt": 1208,
+            "Greitens": 565,
+            "Hartzler": 499,
+            "total": 2784,
+            "min_turnout": 2812,
+            "max_turnout": 3062
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adair": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Andrew": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Atchison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Audrain": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Barry": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bates": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bollinger": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Boone": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Buchanan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Caldwell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Callaway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Camden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cape Girardeau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Carter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cass": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cedar": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Chariton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Christian": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Cole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cooper": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Dade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dallas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Daviess": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "DeKalb": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dunklin": {
+            "main": "ddhq",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gasconade": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gentry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Grundy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Harrison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Henry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hickory": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Holt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Howard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Howell": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Jasper": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Knox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "LaClede": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Livingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Macon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Maries": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "McDonald": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Mercer": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Miller": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mississippi": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Moniteau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New Madrid": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Newton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Nodaway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Oregon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Osage": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ozark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pemiscot": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pettis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Phelps": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Platte": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pulaski": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ralls": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Ray": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Reynolds": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ripley": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Saint Charles": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Saint Clair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Francois": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Saint Louis City": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Saint Louis County": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Saline": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Schuyler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scotland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scott": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Shannon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Shelby": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Ste. Genevieve": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Stoddard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stone": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Sullivan": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Taney": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Texas": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Vernon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Worth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wright": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

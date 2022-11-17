@@ -1,0 +1,395 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "McMullin": 377724,
+            "Lee": 496230,
+            "total": 907687,
+            "min_turnout": 1080888,
+            "max_turnout": 1140172
+        },
+        {
+            "county_name": "Beaver",
+            "McMullin": 416,
+            "Lee": 1965,
+            "total": 2438,
+            "min_turnout": 2463,
+            "max_turnout": 2506
+        },
+        {
+            "county_name": "Box Elder",
+            "McMullin": 4271,
+            "Lee": 12817,
+            "total": 17719,
+            "min_turnout": 18267,
+            "max_turnout": 19418
+        },
+        {
+            "county_name": "Cache",
+            "McMullin": 14728,
+            "Lee": 23585,
+            "total": 39997,
+            "min_turnout": 40329,
+            "max_turnout": 40401
+        },
+        {
+            "county_name": "Carbon",
+            "McMullin": 2034,
+            "Lee": 4100,
+            "total": 6461,
+            "min_turnout": 6892,
+            "max_turnout": 7623
+        },
+        {
+            "county_name": "Daggett",
+            "McMullin": 104,
+            "Lee": 355,
+            "total": 473,
+            "min_turnout": 478,
+            "max_turnout": 483
+        },
+        {
+            "county_name": "Davis",
+            "McMullin": 50652,
+            "Lee": 63730,
+            "total": 118637,
+            "min_turnout": 123580,
+            "max_turnout": 127091
+        },
+        {
+            "county_name": "Duchesne",
+            "McMullin": 904,
+            "Lee": 5131,
+            "total": 6232,
+            "min_turnout": 6352,
+            "max_turnout": 6426
+        },
+        {
+            "county_name": "Emery",
+            "McMullin": 708,
+            "Lee": 3251,
+            "total": 4084,
+            "min_turnout": 4125,
+            "max_turnout": 4303
+        },
+        {
+            "county_name": "Garfield",
+            "McMullin": 500,
+            "Lee": 1729,
+            "total": 2295,
+            "min_turnout": 2416,
+            "max_turnout": 2532
+        },
+        {
+            "county_name": "Grand",
+            "McMullin": 2335,
+            "Lee": 1840,
+            "total": 4468,
+            "min_turnout": 4468,
+            "max_turnout": 4513
+        },
+        {
+            "county_name": "Iron",
+            "McMullin": 3627,
+            "Lee": 12504,
+            "total": 16730,
+            "min_turnout": 16899,
+            "max_turnout": 16980
+        },
+        {
+            "county_name": "Juab",
+            "McMullin": 708,
+            "Lee": 3868,
+            "total": 4703,
+            "min_turnout": 4816,
+            "max_turnout": 5879
+        },
+        {
+            "county_name": "Kane",
+            "McMullin": 928,
+            "Lee": 2490,
+            "total": 3574,
+            "min_turnout": 3597,
+            "max_turnout": 3704
+        },
+        {
+            "county_name": "Millard",
+            "McMullin": 673,
+            "Lee": 4104,
+            "total": 4918,
+            "min_turnout": 5010,
+            "max_turnout": 5028
+        },
+        {
+            "county_name": "Morgan",
+            "McMullin": 1332,
+            "Lee": 3574,
+            "total": 5040,
+            "min_turnout": 5275,
+            "max_turnout": 6169
+        },
+        {
+            "county_name": "Piute",
+            "McMullin": 82,
+            "Lee": 692,
+            "total": 783,
+            "min_turnout": 824,
+            "max_turnout": 860
+        },
+        {
+            "county_name": "Rich",
+            "McMullin": 205,
+            "Lee": 831,
+            "total": 1059,
+            "min_turnout": 1138,
+            "max_turnout": 1412
+        },
+        {
+            "county_name": "Salt Lake",
+            "McMullin": 159286,
+            "Lee": 107802,
+            "total": 278106,
+            "min_turnout": 423949,
+            "max_turnout": 441274
+        },
+        {
+            "county_name": "San Juan",
+            "McMullin": 1706,
+            "Lee": 3002,
+            "total": 5267,
+            "min_turnout": 5267,
+            "max_turnout": 5811
+        },
+        {
+            "county_name": "Sanpete",
+            "McMullin": 1876,
+            "Lee": 7707,
+            "total": 9842,
+            "min_turnout": 10087,
+            "max_turnout": 10865
+        },
+        {
+            "county_name": "Sevier",
+            "McMullin": 1051,
+            "Lee": 5748,
+            "total": 6977,
+            "min_turnout": 7471,
+            "max_turnout": 8482
+        },
+        {
+            "county_name": "Summit",
+            "McMullin": 11884,
+            "Lee": 7134,
+            "total": 19691,
+            "min_turnout": 19890,
+            "max_turnout": 20671
+        },
+        {
+            "county_name": "Tooele",
+            "McMullin": 7283,
+            "Lee": 12973,
+            "total": 21402,
+            "min_turnout": 22017,
+            "max_turnout": 23604
+        },
+        {
+            "county_name": "Uintah",
+            "McMullin": 1511,
+            "Lee": 8709,
+            "total": 10572,
+            "min_turnout": 10757,
+            "max_turnout": 11747
+        },
+        {
+            "county_name": "Utah",
+            "McMullin": 60854,
+            "Lee": 108831,
+            "total": 175056,
+            "min_turnout": 180515,
+            "max_turnout": 200907
+        },
+        {
+            "county_name": "Wasatch",
+            "McMullin": 5222,
+            "Lee": 7250,
+            "total": 12961,
+            "min_turnout": 13128,
+            "max_turnout": 13613
+        },
+        {
+            "county_name": "Washington",
+            "McMullin": 16567,
+            "Lee": 45037,
+            "total": 63613,
+            "min_turnout": 64256,
+            "max_turnout": 64846
+        },
+        {
+            "county_name": "Wayne",
+            "McMullin": 412,
+            "Lee": 1042,
+            "total": 1497,
+            "min_turnout": 1512,
+            "max_turnout": 1546
+        },
+        {
+            "county_name": "Weber",
+            "McMullin": 25865,
+            "Lee": 34429,
+            "total": 63092,
+            "min_turnout": 75110,
+            "max_turnout": 81478
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Beaver": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Box Elder": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cache": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Carbon": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Daggett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Davis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Duchesne": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Emery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grand": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Juab": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Kane": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Millard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Piute": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rich": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Salt Lake": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sanpete": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sevier": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Summit": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tooele": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Uintah": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Utah": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wasatch": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Weber": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

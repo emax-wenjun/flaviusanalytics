@@ -1,0 +1,1 @@
+web: gunicorn flaviusanalytics.wsgi:app --workers 1

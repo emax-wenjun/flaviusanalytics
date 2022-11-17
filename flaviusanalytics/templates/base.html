@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Flavius Analytics - {{self.title()}}</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+		<link rel="icon" type="image/png" href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a1801b85-b94c-478d-993b-c405a5efbd4d/d7dxjdx-234c1a9f-7c71-45d8-a1e4-bd6d9b2e5d43.png">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li>
+					<a href="/" style="text-decoration:none; display:flex">
+						<div class="logo">
+							<img style="height:100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a1801b85-b94c-478d-993b-c405a5efbd4d/d7dxjdx-234c1a9f-7c71-45d8-a1e4-bd6d9b2e5d43.png">
+						</div>
+						<div style="color: red">
+							<h1>Flavius Analytics</h1>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="/2022-primaries" style="text-decoration:none; display:flex">
+						<div style="color: black; font-weight: bold">
+							<p>2022 Primaries</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="/2022-house-elections" style="text-decoration:none; display:flex">
+						<div style="color: black; font-weight: bold">
+							<p>2022 House Elections</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="/2022-sen-elections" style="text-decoration:none; display:flex">
+						<div style="color: black; font-weight: bold">
+							<p>2022 Senate Map</p>
+						</div>
+					</a>
+				</li>
+				<li>
+					<a href="/2022-gov-elections" style="text-decoration:none; display:flex">
+						<div style="color: black; font-weight: bold">
+							<p>2022 Governors Map</p>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<section class="content">
+			<header>
+				<h1>{{self.title()}}</h1>
+			</header>
+			{{self.content()}}
+			<p><a href="results/download">Download data</a></p>
+			<p>Property of Wenjun Hou</p>
+		</section>
+	</body>
+</html>

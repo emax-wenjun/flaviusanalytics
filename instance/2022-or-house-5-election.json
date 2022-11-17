@@ -1,0 +1,96 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "McLeod-Skinner": 165816,
+            "Chavez-DeRemer": 173684,
+            "total": 339500,
+            "min_turnout": 343279,
+            "max_turnout": 357368
+        },
+        {
+            "county_name": "Clackamas",
+            "McLeod-Skinner": 71162,
+            "Chavez-DeRemer": 69122,
+            "total": 140284,
+            "min_turnout": 142051,
+            "max_turnout": 147667
+        },
+        {
+            "county_name": "Deschutes",
+            "McLeod-Skinner": 47918,
+            "Chavez-DeRemer": 43000,
+            "total": 90918,
+            "min_turnout": 91836,
+            "max_turnout": 95703
+        },
+        {
+            "county_name": "Jefferson",
+            "McLeod-Skinner": 3,
+            "Chavez-DeRemer": 0,
+            "total": 3,
+            "min_turnout": 3,
+            "max_turnout": 4
+        },
+        {
+            "county_name": "Linn",
+            "McLeod-Skinner": 18838,
+            "Chavez-DeRemer": 39442,
+            "total": 58280,
+            "min_turnout": 58869,
+            "max_turnout": 61347
+        },
+        {
+            "county_name": "Marion",
+            "McLeod-Skinner": 7631,
+            "Chavez-DeRemer": 16993,
+            "total": 24624,
+            "min_turnout": 24873,
+            "max_turnout": 25920
+        },
+        {
+            "county_name": "Multnomah",
+            "McLeod-Skinner": 20264,
+            "Chavez-DeRemer": 5127,
+            "total": 25391,
+            "min_turnout": 25647,
+            "max_turnout": 26727
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Clackamas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Deschutes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Multnomah": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Kelly": 1315813,
+            "Masters": 1190719,
+            "Victor": 53481,
+            "total": 2560013,
+            "min_turnout": 2574282,
+            "max_turnout": 2694997
+        },
+        {
+            "county_name": "Apache",
+            "Kelly": 17662,
+            "Masters": 8008,
+            "Victor": 537,
+            "total": 26207,
+            "min_turnout": 26472,
+            "max_turnout": 28180
+        },
+        {
+            "county_name": "Cochise",
+            "Kelly": 19880,
+            "Masters": 25415,
+            "Victor": 1376,
+            "total": 46671,
+            "min_turnout": 46960,
+            "max_turnout": 49127
+        },
+        {
+            "county_name": "Coconino",
+            "Kelly": 34910,
+            "Masters": 18561,
+            "Victor": 1184,
+            "total": 54655,
+            "min_turnout": 55144,
+            "max_turnout": 57531
+        },
+        {
+            "county_name": "Gila",
+            "Kelly": 7984,
+            "Masters": 13958,
+            "Victor": 601,
+            "total": 22543,
+            "min_turnout": 22554,
+            "max_turnout": 23729
+        },
+        {
+            "county_name": "Graham",
+            "Kelly": 3241,
+            "Masters": 7383,
+            "Victor": 255,
+            "total": 10879,
+            "min_turnout": 10899,
+            "max_turnout": 11451
+        },
+        {
+            "county_name": "Greenlee",
+            "Kelly": 970,
+            "Masters": 1392,
+            "Victor": 100,
+            "total": 2462,
+            "min_turnout": 2462,
+            "max_turnout": 2487
+        },
+        {
+            "county_name": "La Paz",
+            "Kelly": 1709,
+            "Masters": 3652,
+            "Victor": 160,
+            "total": 5521,
+            "min_turnout": 5521,
+            "max_turnout": 5576
+        },
+        {
+            "county_name": "Maricopa",
+            "Kelly": 805869,
+            "Masters": 707220,
+            "Victor": 30943,
+            "total": 1544032,
+            "min_turnout": 1552414,
+            "max_turnout": 1625296
+        },
+        {
+            "county_name": "Mohave",
+            "Kelly": 21014,
+            "Masters": 58665,
+            "Victor": 2110,
+            "total": 81789,
+            "min_turnout": 82489,
+            "max_turnout": 86093
+        },
+        {
+            "county_name": "Navajo",
+            "Kelly": 18691,
+            "Masters": 20886,
+            "Victor": 926,
+            "total": 40503,
+            "min_turnout": 40813,
+            "max_turnout": 42634
+        },
+        {
+            "county_name": "Pima",
+            "Kelly": 247007,
+            "Masters": 144027,
+            "Victor": 7489,
+            "total": 398523,
+            "min_turnout": 400046,
+            "max_turnout": 419497
+        },
+        {
+            "county_name": "Pinal",
+            "Kelly": 61816,
+            "Masters": 78394,
+            "Victor": 3644,
+            "total": 143854,
+            "min_turnout": 144933,
+            "max_turnout": 151425
+        },
+        {
+            "county_name": "Santa Cruz",
+            "Kelly": 8879,
+            "Masters": 3849,
+            "Victor": 304,
+            "total": 13032,
+            "min_turnout": 13164,
+            "max_turnout": 13717
+        },
+        {
+            "county_name": "Yavapai",
+            "Kelly": 45258,
+            "Masters": 75751,
+            "Victor": 2633,
+            "total": 123642,
+            "min_turnout": 124041,
+            "max_turnout": 130149
+        },
+        {
+            "county_name": "Yuma",
+            "Kelly": 20923,
+            "Masters": 23558,
+            "Victor": 1219,
+            "total": 45700,
+            "min_turnout": 46370,
+            "max_turnout": 48105
+        }
+    ],
+    "sources": "nyt, cnn, ddhq, sos",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Apache": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cochise": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Coconino": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gila": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Graham": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Greenlee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "La Paz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Maricopa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mohave": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Navajo": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pima": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pinal": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Santa Cruz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yavapai": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Yuma": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        }
+    }
+}

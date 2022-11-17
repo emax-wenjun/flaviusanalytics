@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}2022 Midterm Elections Grand Dashboard{% endblock %}
+
+{% block content %}
+	<div class="content" id="content">
+		<p>Loading...</p>
+	</div>
+	<script>
+		var dim_x = window.innerWidth;
+		function display_dashboard(){
+			$.ajax({
+				url: "/get_dashboard",
+				type: "POST",
+				data: JSON.stringify({"dim_x" : dim_x}),
+				contentType: 'application/json;charset=UTF-8',
+				success: function(response) {
+					if (response == "No sites available yet"){
+						window.location.href = "/error?error_id=patience";
+					} else {
+						$("#content").html(response)
+					}
+				 }
+			}); 
+		}
+		display_dashboard();
+		setInterval(display_dashboard, 2000);
+	</script>
+{% endblock %}

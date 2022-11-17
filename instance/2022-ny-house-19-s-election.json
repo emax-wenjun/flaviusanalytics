@@ -1,0 +1,161 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Molinaro": 63195,
+            "Ryan": 66140,
+            "total": 129335,
+            "min_turnout": 130634,
+            "max_turnout": 135609
+        },
+        {
+            "county_name": "Broome",
+            "Molinaro": 189,
+            "Ryan": 81,
+            "total": 270,
+            "min_turnout": 272,
+            "max_turnout": 284
+        },
+        {
+            "county_name": "Columbia",
+            "Molinaro": 6704,
+            "Ryan": 9026,
+            "total": 15730,
+            "min_turnout": 15888,
+            "max_turnout": 16238
+        },
+        {
+            "county_name": "Delaware",
+            "Molinaro": 4287,
+            "Ryan": 3033,
+            "total": 7320,
+            "min_turnout": 7393,
+            "max_turnout": 7705
+        },
+        {
+            "county_name": "Dutchess",
+            "Molinaro": 13030,
+            "Ryan": 12257,
+            "total": 25287,
+            "min_turnout": 25542,
+            "max_turnout": 26404
+        },
+        {
+            "county_name": "Greene",
+            "Molinaro": 5626,
+            "Ryan": 3632,
+            "total": 9258,
+            "min_turnout": 9351,
+            "max_turnout": 9745
+        },
+        {
+            "county_name": "Montgomery",
+            "Molinaro": 951,
+            "Ryan": 492,
+            "total": 1443,
+            "min_turnout": 1457,
+            "max_turnout": 1519
+        },
+        {
+            "county_name": "Otsego",
+            "Molinaro": 4434,
+            "Ryan": 4153,
+            "total": 8587,
+            "min_turnout": 8673,
+            "max_turnout": 9039
+        },
+        {
+            "county_name": "Rensselaer",
+            "Molinaro": 4739,
+            "Ryan": 3901,
+            "total": 8640,
+            "min_turnout": 8727,
+            "max_turnout": 9095
+        },
+        {
+            "county_name": "Schoharie",
+            "Molinaro": 3176,
+            "Ryan": 1642,
+            "total": 4818,
+            "min_turnout": 4866,
+            "max_turnout": 5072
+        },
+        {
+            "county_name": "Sullivan",
+            "Molinaro": 5196,
+            "Ryan": 3881,
+            "total": 9077,
+            "min_turnout": 9168,
+            "max_turnout": 9555
+        },
+        {
+            "county_name": "Ulster",
+            "Molinaro": 14863,
+            "Ryan": 24042,
+            "total": 38905,
+            "min_turnout": 39297,
+            "max_turnout": 40953
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Broome": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Dutchess": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Otsego": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Rensselaer": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Schoharie": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Ulster": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

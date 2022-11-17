@@ -1,0 +1,482 @@
+[
+    {
+        "pollster": "Trafalgar Group/InsiderAdvantage",
+        "start": "2021-03-07",
+        "end": "2021-03-09",
+        "add": "2021-03-12",
+        "Warnock": 45.5,
+        "Walker": 47.7
+    },
+    {
+        "pollster": "Public Policy Polling",
+        "start": "2021-08-04",
+        "end": "2021-08-05",
+        "add": "2021-08-06",
+        "Warnock": 48.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Redfield & Wilton Strategies",
+        "start": "2021-11-09",
+        "end": "2021-11-09",
+        "add": "2021-11-29",
+        "Warnock": 45.0,
+        "Walker": 39.0
+    },
+    {
+        "pollster": "Redfield & Wilton Strategies",
+        "start": "2021-11-09",
+        "end": "2021-11-09",
+        "add": "2021-11-29",
+        "Warnock": 48.0,
+        "Walker": 42.0
+    },
+    {
+        "pollster": "NRSC",
+        "start": "2021-12-04",
+        "end": "2021-12-08",
+        "add": "2021-12-23",
+        "Warnock": 48.0,
+        "Walker": 49.0
+    },
+    {
+        "pollster": "Quinnipiac University",
+        "start": "2022-01-19",
+        "end": "2022-01-24",
+        "add": "2022-01-26",
+        "Warnock": 48.0,
+        "Walker": 49.0
+    },
+    {
+        "pollster": "University of Georgia School of Public and International Affairs",
+        "start": "2022-01-13",
+        "end": "2022-01-24",
+        "add": "2022-01-27",
+        "Warnock": 43.6,
+        "Walker": 47.1
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-02-02",
+        "end": "2022-02-06",
+        "add": "2022-02-25",
+        "Warnock": 45.6,
+        "Walker": 46.5
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-03-02",
+        "end": "2022-03-08",
+        "add": "2022-03-08",
+        "Warnock": 45.4,
+        "Walker": 48.5
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-04-01",
+        "end": "2022-04-03",
+        "add": "2022-04-06",
+        "Warnock": 45.2,
+        "Walker": 49.1
+    },
+    {
+        "pollster": "Grassroots Targeting",
+        "start": "2022-04-03",
+        "end": "2022-04-16",
+        "add": "2022-04-27",
+        "Warnock": 41.0,
+        "Walker": 51.4
+    },
+    {
+        "pollster": "SurveyUSA",
+        "start": "2022-04-22",
+        "end": "2022-04-27",
+        "add": "2022-04-28",
+        "Warnock": 50.0,
+        "Walker": 45.0
+    },
+    {
+        "pollster": "East Carolina University",
+        "start": "2022-06-06",
+        "end": "2022-06-09",
+        "add": "2022-06-14",
+        "Warnock": 47.4,
+        "Walker": 46.6
+    },
+    {
+        "pollster": "Quinnipiac University",
+        "start": "2022-06-23",
+        "end": "2022-06-27",
+        "add": "2022-06-29",
+        "Warnock": 54.0,
+        "Walker": 44.0
+    },
+    {
+        "pollster": "Moore Information",
+        "start": "2022-06-11",
+        "end": "2022-06-16",
+        "add": "2022-06-29",
+        "Warnock": 47.0,
+        "Walker": 47.0
+    },
+    {
+        "pollster": "Change Research",
+        "start": "2022-06-24",
+        "end": "2022-06-27",
+        "add": "2022-06-30",
+        "Warnock": 48.0,
+        "Walker": 44.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-07-01",
+        "end": "2022-07-06",
+        "add": "2022-07-08",
+        "Warnock": 47.0,
+        "Walker": 49.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-07-05",
+        "end": "2022-07-11",
+        "add": "2022-07-14",
+        "Warnock": 50.0,
+        "Walker": 47.0
+    },
+    {
+        "pollster": "University of Georgia School of Public and International Affairs",
+        "start": "2022-07-14",
+        "end": "2022-07-22",
+        "add": "2022-07-27",
+        "Warnock": 46.1,
+        "Walker": 42.5
+    },
+    {
+        "pollster": "SurveyUSA",
+        "start": "2022-07-21",
+        "end": "2022-07-24",
+        "add": "2022-07-27",
+        "Warnock": 48.0,
+        "Walker": 39.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-07-22",
+        "end": "2022-07-26",
+        "add": "2022-07-28",
+        "Warnock": 46.0,
+        "Walker": 42.0
+    },
+    {
+        "pollster": "PEM Management Corporation",
+        "start": "2022-07-22",
+        "end": "2022-07-24",
+        "add": "2022-07-28",
+        "Warnock": 41.7,
+        "Walker": 46.3
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Warnock": 48.0,
+        "Walker": 36.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Warnock": 48.0,
+        "Walker": 43.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-07-26",
+        "end": "2022-07-27",
+        "add": "2022-07-29",
+        "Warnock": 48.0,
+        "Walker": 45.0
+    },
+    {
+        "pollster": "Research Affiliates",
+        "start": "2022-07-26",
+        "end": "2022-08-01",
+        "add": "2022-08-09",
+        "Warnock": 49.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-08-03",
+        "end": "2022-08-07",
+        "add": "2022-08-15",
+        "Warnock": 43.6,
+        "Walker": 45.2
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-08-28",
+        "end": "2022-08-29",
+        "add": "2022-08-30",
+        "Warnock": 43.9,
+        "Walker": 45.6
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-08-24",
+        "end": "2022-08-27",
+        "add": "2022-08-30",
+        "Warnock": 46.7,
+        "Walker": 47.5
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-09-06",
+        "end": "2022-09-07",
+        "add": "2022-09-09",
+        "Warnock": 44.0,
+        "Walker": 47.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-08-31",
+        "end": "2022-09-07",
+        "add": "2022-09-13",
+        "Warnock": 50.0,
+        "Walker": 40.0
+    },
+    {
+        "pollster": "Quinnipiac University",
+        "start": "2022-09-08",
+        "end": "2022-09-12",
+        "add": "2022-09-14",
+        "Warnock": 52.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-09",
+        "end": "2022-09-12",
+        "add": "2022-09-15",
+        "Warnock": 49.0,
+        "Walker": 45.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-09",
+        "end": "2022-09-12",
+        "add": "2022-09-15",
+        "Warnock": 50.0,
+        "Walker": 37.0
+    },
+    {
+        "pollster": "University of Georgia School of Public and International Affairs",
+        "start": "2022-09-05",
+        "end": "2022-09-16",
+        "add": "2022-09-20",
+        "Warnock": 44.2,
+        "Walker": 45.8
+    },
+    {
+        "pollster": "Marist College",
+        "start": "2022-09-12",
+        "end": "2022-09-15",
+        "add": "2022-09-20",
+        "Warnock": 47.0,
+        "Walker": 42.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-09-14",
+        "end": "2022-09-19",
+        "add": "2022-09-21",
+        "Warnock": 51.0,
+        "Walker": 49.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-09-16",
+        "end": "2022-09-20",
+        "add": "2022-09-22",
+        "Warnock": 46.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-09-22",
+        "end": "2022-09-26",
+        "add": "2022-09-28",
+        "Warnock": 46.0,
+        "Walker": 41.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-04",
+        "end": "2022-10-04",
+        "add": "2022-10-05",
+        "Warnock": 47.2,
+        "Walker": 43.6
+    },
+    {
+        "pollster": "SurveyUSA",
+        "start": "2022-09-30",
+        "end": "2022-10-04",
+        "add": "2022-10-05",
+        "Warnock": 50.0,
+        "Walker": 38.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-10-06",
+        "end": "2022-10-07",
+        "add": "2022-10-11",
+        "Warnock": 47.8,
+        "Walker": 45.6
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-08",
+        "end": "2022-10-11",
+        "add": "2022-10-11",
+        "Warnock": 46.3,
+        "Walker": 44.8
+    },
+    {
+        "pollster": "University of Georgia School of Public and International Affairs",
+        "start": "2022-09-25",
+        "end": "2022-10-04",
+        "add": "2022-10-12",
+        "Warnock": 46.4,
+        "Walker": 43.4
+    },
+    {
+        "pollster": "Quinnipiac University",
+        "start": "2022-10-07",
+        "end": "2022-10-10",
+        "add": "2022-10-12",
+        "Warnock": 52.0,
+        "Walker": 45.0
+    },
+    {
+        "pollster": "Moore Information",
+        "start": "2022-10-08",
+        "end": "2022-10-11",
+        "add": "2022-10-12",
+        "Warnock": 44.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Civiqs",
+        "start": "2022-10-08",
+        "end": "2022-10-11",
+        "add": "2022-10-13",
+        "Warnock": 49.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-16",
+        "end": "2022-10-16",
+        "add": "2022-10-18",
+        "Warnock": 46.3,
+        "Walker": 43.4
+    },
+    {
+        "pollster": "Landmark Communications",
+        "start": "2022-10-15",
+        "end": "2022-10-17",
+        "add": "2022-10-18",
+        "Warnock": 46.1,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-08",
+        "end": "2022-10-13",
+        "add": "2022-10-22",
+        "Warnock": 46.1,
+        "Walker": 46.1
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-23",
+        "Warnock": 48.0,
+        "Walker": 47.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-21",
+        "end": "2022-10-23",
+        "add": "2022-10-25",
+        "Warnock": 46.5,
+        "Walker": 48.9
+    },
+    {
+        "pollster": "East Carolina University",
+        "start": "2022-10-13",
+        "end": "2022-10-18",
+        "add": "2022-10-25",
+        "Warnock": 48.7,
+        "Walker": 46.5
+    },
+    {
+        "pollster": "Moore Information",
+        "start": "2022-10-22",
+        "end": "2022-10-25",
+        "add": "2022-10-26",
+        "Warnock": 42.0,
+        "Walker": 46.0
+    },
+    {
+        "pollster": "co/efficient",
+        "start": "2022-10-24",
+        "end": "2022-10-25",
+        "add": "2022-10-26",
+        "Warnock": 43.6,
+        "Walker": 47.0
+    },
+    {
+        "pollster": "Rasmussen Reports/Pulse Opinion Research",
+        "start": "2022-10-23",
+        "end": "2022-10-24",
+        "add": "2022-10-27",
+        "Warnock": 43.0,
+        "Walker": 48.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-27",
+        "end": "2022-10-27",
+        "add": "2022-10-28",
+        "Warnock": 45.3,
+        "Walker": 47.5
+    },
+    {
+        "pollster": "Siena College/The New York Times Upshot",
+        "start": "2022-10-24",
+        "end": "2022-10-27",
+        "add": "2022-10-31",
+        "Warnock": 47.0,
+        "Walker": 44.0
+    },
+    {
+        "pollster": "University of Georgia School of Public and International Affairs",
+        "start": "2022-10-16",
+        "end": "2022-10-27",
+        "add": "2022-10-31",
+        "Warnock": 45.2,
+        "Walker": 45.5
+    },
+    {
+        "pollster": "Hart Research Associates",
+        "start": "2022-10-19",
+        "end": "2022-10-21",
+        "add": "2022-10-31",
+        "Warnock": 48.0,
+        "Walker": 45.0
+    }
+]

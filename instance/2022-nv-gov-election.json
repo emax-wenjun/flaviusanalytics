@@ -1,0 +1,239 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Sisolak": 480886,
+            "Lombardo": 494517,
+            "total": 1014776,
+            "min_turnout": 1015668,
+            "max_turnout": 1042957
+        },
+        {
+            "county_name": "Carson City",
+            "Sisolak": 9822,
+            "Lombardo": 12721,
+            "total": 23665,
+            "min_turnout": 23665,
+            "max_turnout": 23904
+        },
+        {
+            "county_name": "Churchill",
+            "Sisolak": 2223,
+            "Lombardo": 7020,
+            "total": 9865,
+            "min_turnout": 9865,
+            "max_turnout": 9965
+        },
+        {
+            "county_name": "Clark",
+            "Sisolak": 347397,
+            "Lombardo": 308760,
+            "total": 680355,
+            "min_turnout": 680355,
+            "max_turnout": 700347
+        },
+        {
+            "county_name": "Douglas",
+            "Sisolak": 8470,
+            "Lombardo": 17779,
+            "total": 27209,
+            "min_turnout": 27481,
+            "max_turnout": 28054
+        },
+        {
+            "county_name": "Elko",
+            "Sisolak": 2622,
+            "Lombardo": 11247,
+            "total": 14814,
+            "min_turnout": 14962,
+            "max_turnout": 15745
+        },
+        {
+            "county_name": "Esmeralda",
+            "Sisolak": 61,
+            "Lombardo": 338,
+            "total": 448,
+            "min_turnout": 448,
+            "max_turnout": 453
+        },
+        {
+            "county_name": "Eureka",
+            "Sisolak": 57,
+            "Lombardo": 659,
+            "total": 752,
+            "min_turnout": 760,
+            "max_turnout": 790
+        },
+        {
+            "county_name": "Humboldt",
+            "Sisolak": 1201,
+            "Lombardo": 4488,
+            "total": 6109,
+            "min_turnout": 6109,
+            "max_turnout": 6171
+        },
+        {
+            "county_name": "Lander",
+            "Sisolak": 316,
+            "Lombardo": 1678,
+            "total": 2208,
+            "min_turnout": 2208,
+            "max_turnout": 2220
+        },
+        {
+            "county_name": "Lincoln",
+            "Sisolak": 249,
+            "Lombardo": 1627,
+            "total": 2050,
+            "min_turnout": 2050,
+            "max_turnout": 2071
+        },
+        {
+            "county_name": "Lyon",
+            "Sisolak": 5812,
+            "Lombardo": 16031,
+            "total": 23116,
+            "min_turnout": 23347,
+            "max_turnout": 23488
+        },
+        {
+            "county_name": "Mineral",
+            "Sisolak": 613,
+            "Lombardo": 1138,
+            "total": 1893,
+            "min_turnout": 1893,
+            "max_turnout": 1914
+        },
+        {
+            "county_name": "Nye",
+            "Sisolak": 5762,
+            "Lombardo": 13703,
+            "total": 20630,
+            "min_turnout": 20836,
+            "max_turnout": 20909
+        },
+        {
+            "county_name": "Pershing",
+            "Sisolak": 384,
+            "Lombardo": 1286,
+            "total": 1774,
+            "min_turnout": 1774,
+            "max_turnout": 1855
+        },
+        {
+            "county_name": "Storey",
+            "Sisolak": 661,
+            "Lombardo": 1710,
+            "total": 2500,
+            "min_turnout": 2525,
+            "max_turnout": 2541
+        },
+        {
+            "county_name": "Washoe",
+            "Sisolak": 94646,
+            "Lombardo": 91862,
+            "total": 194042,
+            "min_turnout": 194042,
+            "max_turnout": 199150
+        },
+        {
+            "county_name": "White Pine",
+            "Sisolak": 590,
+            "Lombardo": 2470,
+            "total": 3346,
+            "min_turnout": 3348,
+            "max_turnout": 3380
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Carson City": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Churchill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clark": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Elko": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Esmeralda": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Eureka": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Humboldt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lander": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lyon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mineral": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nye": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pershing": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Storey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washoe": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "White Pine": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

@@ -1,0 +1,889 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Shapiro": 2985443,
+            "Mastriano": 2224406,
+            "total": 5305501,
+            "min_turnout": 5350501,
+            "max_turnout": 5619950
+        },
+        {
+            "county_name": "Adams",
+            "Shapiro": 18787,
+            "Mastriano": 26796,
+            "total": 46403,
+            "min_turnout": 46403,
+            "max_turnout": 48604
+        },
+        {
+            "county_name": "Allegheny",
+            "Shapiro": 382510,
+            "Mastriano": 166763,
+            "total": 558532,
+            "min_turnout": 564117,
+            "max_turnout": 578182
+        },
+        {
+            "county_name": "Armstrong",
+            "Shapiro": 9380,
+            "Mastriano": 18323,
+            "total": 28211,
+            "min_turnout": 28787,
+            "max_turnout": 29622
+        },
+        {
+            "county_name": "Beaver",
+            "Shapiro": 36691,
+            "Mastriano": 34694,
+            "total": 72938,
+            "min_turnout": 73675,
+            "max_turnout": 76585
+        },
+        {
+            "county_name": "Bedford",
+            "Shapiro": 4701,
+            "Mastriano": 17171,
+            "total": 22170,
+            "min_turnout": 22170,
+            "max_turnout": 23278
+        },
+        {
+            "county_name": "Berks",
+            "Shapiro": 77785,
+            "Mastriano": 71823,
+            "total": 153443,
+            "min_turnout": 155758,
+            "max_turnout": 161115
+        },
+        {
+            "county_name": "Blair",
+            "Shapiro": 17571,
+            "Mastriano": 31725,
+            "total": 50085,
+            "min_turnout": 50591,
+            "max_turnout": 52589
+        },
+        {
+            "county_name": "Bradford",
+            "Shapiro": 7388,
+            "Mastriano": 15528,
+            "total": 23477,
+            "min_turnout": 23477,
+            "max_turnout": 24494
+        },
+        {
+            "county_name": "Bucks",
+            "Shapiro": 182347,
+            "Mastriano": 121640,
+            "total": 309609,
+            "min_turnout": 313770,
+            "max_turnout": 319986
+        },
+        {
+            "county_name": "Butler",
+            "Shapiro": 39759,
+            "Mastriano": 51365,
+            "total": 92962,
+            "min_turnout": 92962,
+            "max_turnout": 97610
+        },
+        {
+            "county_name": "Cambria",
+            "Shapiro": 22795,
+            "Mastriano": 32347,
+            "total": 56150,
+            "min_turnout": 56150,
+            "max_turnout": 58958
+        },
+        {
+            "county_name": "Cameron",
+            "Shapiro": 656,
+            "Mastriano": 1200,
+            "total": 1907,
+            "min_turnout": 1907,
+            "max_turnout": 2002
+        },
+        {
+            "county_name": "Carbon",
+            "Shapiro": 10680,
+            "Mastriano": 14910,
+            "total": 26166,
+            "min_turnout": 26166,
+            "max_turnout": 27474
+        },
+        {
+            "county_name": "Centre",
+            "Shapiro": 35326,
+            "Mastriano": 25145,
+            "total": 61623,
+            "min_turnout": 62245,
+            "max_turnout": 64704
+        },
+        {
+            "county_name": "Chester",
+            "Shapiro": 159482,
+            "Mastriano": 92223,
+            "total": 256323,
+            "min_turnout": 256323,
+            "max_turnout": 260793
+        },
+        {
+            "county_name": "Clarion",
+            "Shapiro": 5100,
+            "Mastriano": 10000,
+            "total": 15372,
+            "min_turnout": 15372,
+            "max_turnout": 16141
+        },
+        {
+            "county_name": "Clearfield",
+            "Shapiro": 10301,
+            "Mastriano": 20506,
+            "total": 31389,
+            "min_turnout": 31684,
+            "max_turnout": 32958
+        },
+        {
+            "county_name": "Clinton",
+            "Shapiro": 5293,
+            "Mastriano": 8512,
+            "total": 14073,
+            "min_turnout": 14215,
+            "max_turnout": 14746
+        },
+        {
+            "county_name": "Columbia",
+            "Shapiro": 10059,
+            "Mastriano": 13944,
+            "total": 24596,
+            "min_turnout": 24844,
+            "max_turnout": 25372
+        },
+        {
+            "county_name": "Crawford",
+            "Shapiro": 12496,
+            "Mastriano": 19474,
+            "total": 32646,
+            "min_turnout": 32976,
+            "max_turnout": 34214
+        },
+        {
+            "county_name": "Cumberland",
+            "Shapiro": 61043,
+            "Mastriano": 52209,
+            "total": 115644,
+            "min_turnout": 115644,
+            "max_turnout": 121426
+        },
+        {
+            "county_name": "Dauphin",
+            "Shapiro": 67962,
+            "Mastriano": 43456,
+            "total": 113623,
+            "min_turnout": 114771,
+            "max_turnout": 119304
+        },
+        {
+            "county_name": "Delaware",
+            "Shapiro": 168387,
+            "Mastriano": 76622,
+            "total": 248783,
+            "min_turnout": 253860,
+            "max_turnout": 266314
+        },
+        {
+            "county_name": "Elk",
+            "Shapiro": 4826,
+            "Mastriano": 8583,
+            "total": 13647,
+            "min_turnout": 13647,
+            "max_turnout": 14329
+        },
+        {
+            "county_name": "Erie",
+            "Shapiro": 62774,
+            "Mastriano": 40164,
+            "total": 105005,
+            "min_turnout": 105219,
+            "max_turnout": 107233
+        },
+        {
+            "county_name": "Fayette",
+            "Shapiro": 19822,
+            "Mastriano": 25947,
+            "total": 46350,
+            "min_turnout": 46818,
+            "max_turnout": 48668
+        },
+        {
+            "county_name": "Forest",
+            "Shapiro": 825,
+            "Mastriano": 1339,
+            "total": 2191,
+            "min_turnout": 2191,
+            "max_turnout": 2301
+        },
+        {
+            "county_name": "Franklin",
+            "Shapiro": 21492,
+            "Mastriano": 42667,
+            "total": 65163,
+            "min_turnout": 65821,
+            "max_turnout": 68421
+        },
+        {
+            "county_name": "Fulton",
+            "Shapiro": 1120,
+            "Mastriano": 5077,
+            "total": 6264,
+            "min_turnout": 6327,
+            "max_turnout": 6577
+        },
+        {
+            "county_name": "Greene",
+            "Shapiro": 5124,
+            "Mastriano": 7696,
+            "total": 13110,
+            "min_turnout": 13242,
+            "max_turnout": 13766
+        },
+        {
+            "county_name": "Huntingdon",
+            "Shapiro": 5586,
+            "Mastriano": 12567,
+            "total": 18425,
+            "min_turnout": 18801,
+            "max_turnout": 19346
+        },
+        {
+            "county_name": "Indiana",
+            "Shapiro": 13032,
+            "Mastriano": 19179,
+            "total": 32742,
+            "min_turnout": 33073,
+            "max_turnout": 34379
+        },
+        {
+            "county_name": "Jefferson",
+            "Shapiro": 5037,
+            "Mastriano": 12433,
+            "total": 17819,
+            "min_turnout": 17999,
+            "max_turnout": 18653
+        },
+        {
+            "county_name": "Juniata",
+            "Shapiro": 2756,
+            "Mastriano": 6836,
+            "total": 9747,
+            "min_turnout": 9845,
+            "max_turnout": 10234
+        },
+        {
+            "county_name": "Lackawanna",
+            "Shapiro": 54071,
+            "Mastriano": 32579,
+            "total": 88339,
+            "min_turnout": 88418,
+            "max_turnout": 92756
+        },
+        {
+            "county_name": "Lancaster",
+            "Shapiro": 106890,
+            "Mastriano": 111163,
+            "total": 222002,
+            "min_turnout": 224244,
+            "max_turnout": 233102
+        },
+        {
+            "county_name": "Lawrence",
+            "Shapiro": 15964,
+            "Mastriano": 19569,
+            "total": 36192,
+            "min_turnout": 36192,
+            "max_turnout": 38002
+        },
+        {
+            "county_name": "Lebanon",
+            "Shapiro": 23436,
+            "Mastriano": 31641,
+            "total": 56157,
+            "min_turnout": 56724,
+            "max_turnout": 58965
+        },
+        {
+            "county_name": "Lehigh",
+            "Shapiro": 79080,
+            "Mastriano": 53178,
+            "total": 135100,
+            "min_turnout": 135100,
+            "max_turnout": 141855
+        },
+        {
+            "county_name": "Luzerne",
+            "Shapiro": 55744,
+            "Mastriano": 54080,
+            "total": 111850,
+            "min_turnout": 112914,
+            "max_turnout": 115604
+        },
+        {
+            "county_name": "Lycoming",
+            "Shapiro": 15558,
+            "Mastriano": 29718,
+            "total": 46154,
+            "min_turnout": 46619,
+            "max_turnout": 48337
+        },
+        {
+            "county_name": "McKean",
+            "Shapiro": 4391,
+            "Mastriano": 10078,
+            "total": 14708,
+            "min_turnout": 14708,
+            "max_turnout": 15413
+        },
+        {
+            "county_name": "Mercer",
+            "Shapiro": 17932,
+            "Mastriano": 26134,
+            "total": 44831,
+            "min_turnout": 45746,
+            "max_turnout": 47073
+        },
+        {
+            "county_name": "Mifflin",
+            "Shapiro": 5084,
+            "Mastriano": 11415,
+            "total": 16766,
+            "min_turnout": 16766,
+            "max_turnout": 17604
+        },
+        {
+            "county_name": "Monroe",
+            "Shapiro": 31951,
+            "Mastriano": 25596,
+            "total": 58760,
+            "min_turnout": 59959,
+            "max_turnout": 61251
+        },
+        {
+            "county_name": "Montgomery",
+            "Shapiro": 282882,
+            "Mastriano": 120778,
+            "total": 409633,
+            "min_turnout": 412491,
+            "max_turnout": 424629
+        },
+        {
+            "county_name": "Montour",
+            "Shapiro": 3640,
+            "Mastriano": 4037,
+            "total": 7857,
+            "min_turnout": 7857,
+            "max_turnout": 8081
+        },
+        {
+            "county_name": "Northampton",
+            "Shapiro": 71584,
+            "Mastriano": 54716,
+            "total": 128975,
+            "min_turnout": 128975,
+            "max_turnout": 135424
+        },
+        {
+            "county_name": "Northumberland",
+            "Shapiro": 12041,
+            "Mastriano": 19077,
+            "total": 32924,
+            "min_turnout": 32924,
+            "max_turnout": 34426
+        },
+        {
+            "county_name": "Perry",
+            "Shapiro": 6908,
+            "Mastriano": 12924,
+            "total": 20231,
+            "min_turnout": 20385,
+            "max_turnout": 21190
+        },
+        {
+            "county_name": "Philadelphia",
+            "Shapiro": 414210,
+            "Mastriano": 64453,
+            "total": 484560,
+            "min_turnout": 494467,
+            "max_turnout": 587683
+        },
+        {
+            "county_name": "Pike",
+            "Shapiro": 10271,
+            "Mastriano": 14326,
+            "total": 25018,
+            "min_turnout": 25018,
+            "max_turnout": 26269
+        },
+        {
+            "county_name": "Potter",
+            "Shapiro": 1508,
+            "Mastriano": 5215,
+            "total": 7080,
+            "min_turnout": 7080,
+            "max_turnout": 7434
+        },
+        {
+            "county_name": "Schuylkill",
+            "Shapiro": 21083,
+            "Mastriano": 32884,
+            "total": 55186,
+            "min_turnout": 55743,
+            "max_turnout": 57945
+        },
+        {
+            "county_name": "Snyder",
+            "Shapiro": 4852,
+            "Mastriano": 10207,
+            "total": 15613,
+            "min_turnout": 15613,
+            "max_turnout": 16394
+        },
+        {
+            "county_name": "Somerset",
+            "Shapiro": 9440,
+            "Mastriano": 22520,
+            "total": 32501,
+            "min_turnout": 32829,
+            "max_turnout": 34126
+        },
+        {
+            "county_name": "Sullivan",
+            "Shapiro": 1020,
+            "Mastriano": 1919,
+            "total": 3014,
+            "min_turnout": 3044,
+            "max_turnout": 3165
+        },
+        {
+            "county_name": "Susquehanna",
+            "Shapiro": 5726,
+            "Mastriano": 11112,
+            "total": 17231,
+            "min_turnout": 17231,
+            "max_turnout": 18093
+        },
+        {
+            "county_name": "Tioga",
+            "Shapiro": 4493,
+            "Mastriano": 11839,
+            "total": 16656,
+            "min_turnout": 16656,
+            "max_turnout": 17460
+        },
+        {
+            "county_name": "Union",
+            "Shapiro": 6836,
+            "Mastriano": 8876,
+            "total": 16029,
+            "min_turnout": 16191,
+            "max_turnout": 16830
+        },
+        {
+            "county_name": "Venango",
+            "Shapiro": 7743,
+            "Mastriano": 12713,
+            "total": 20855,
+            "min_turnout": 21066,
+            "max_turnout": 21898
+        },
+        {
+            "county_name": "Warren",
+            "Shapiro": 5990,
+            "Mastriano": 9695,
+            "total": 16012,
+            "min_turnout": 16012,
+            "max_turnout": 16510
+        },
+        {
+            "county_name": "Washington",
+            "Shapiro": 44815,
+            "Mastriano": 46918,
+            "total": 93261,
+            "min_turnout": 93261,
+            "max_turnout": 97364
+        },
+        {
+            "county_name": "Wayne",
+            "Shapiro": 8466,
+            "Mastriano": 13867,
+            "total": 22741,
+            "min_turnout": 22741,
+            "max_turnout": 23878
+        },
+        {
+            "county_name": "Westmoreland",
+            "Shapiro": 76809,
+            "Mastriano": 87619,
+            "total": 167424,
+            "min_turnout": 167424,
+            "max_turnout": 175795
+        },
+        {
+            "county_name": "Wyoming",
+            "Shapiro": 4502,
+            "Mastriano": 6958,
+            "total": 11752,
+            "min_turnout": 11752,
+            "max_turnout": 12340
+        },
+        {
+            "county_name": "York",
+            "Shapiro": 81630,
+            "Mastriano": 97738,
+            "total": 183501,
+            "min_turnout": 183501,
+            "max_turnout": 192676
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Allegheny": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Armstrong": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Beaver": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bedford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Berks": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Blair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bradford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bucks": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cambria": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cameron": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Carbon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Centre": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clarion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clearfield": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cumberland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dauphin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Elk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Erie": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Forest": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fulton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Huntingdon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Indiana": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Juniata": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lackawanna": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Lancaster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lebanon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lehigh": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Luzerne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lycoming": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "McKean": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Mercer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mifflin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Montour": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Northampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Northumberland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Philadelphia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Potter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Schuylkill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Snyder": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Somerset": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Susquehanna": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tioga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Venango": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Westmoreland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyoming": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "York": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

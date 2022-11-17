@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Goldman": 16686,
+            "Niou": 15380,
+            "Rivera": 10985,
+            "Jones": 11777,
+            "total": 64772,
+            "min_turnout": 67024,
+            "max_turnout": 70404
+        },
+        {
+            "county_name": "Kings",
+            "Goldman": 7836,
+            "Niou": 10115,
+            "Rivera": 6541,
+            "Jones": 7109,
+            "total": 37585,
+            "min_turnout": 39563,
+            "max_turnout": 40853
+        },
+        {
+            "county_name": "New York",
+            "Goldman": 8850,
+            "Niou": 5265,
+            "Rivera": 4444,
+            "Jones": 4668,
+            "total": 27187,
+            "min_turnout": 27461,
+            "max_turnout": 29551
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Kings": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New York": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

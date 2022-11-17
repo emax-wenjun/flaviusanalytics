@@ -1,0 +1,330 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Cox": 212777,
+            "Schulz": 164165,
+            "total": 392818,
+            "min_turnout": 395224,
+            "max_turnout": 490504
+        },
+        {
+            "county_name": "Allegany",
+            "Cox": 8295,
+            "Schulz": 3849,
+            "total": 12806,
+            "min_turnout": 12806,
+            "max_turnout": 13496
+        },
+        {
+            "county_name": "Anne Arundel",
+            "Cox": 18039,
+            "Schulz": 18581,
+            "total": 37844,
+            "min_turnout": 38226,
+            "max_turnout": 57803
+        },
+        {
+            "county_name": "Baltimore",
+            "Cox": 18129,
+            "Schulz": 18247,
+            "total": 37867,
+            "min_turnout": 37867,
+            "max_turnout": 42547
+        },
+        {
+            "county_name": "Baltimore City",
+            "Cox": 1771,
+            "Schulz": 2010,
+            "total": 4105,
+            "min_turnout": 4146,
+            "max_turnout": 5155
+        },
+        {
+            "county_name": "Calvert",
+            "Cox": 11854,
+            "Schulz": 6253,
+            "total": 18952,
+            "min_turnout": 18952,
+            "max_turnout": 20893
+        },
+        {
+            "county_name": "Caroline",
+            "Cox": 5234,
+            "Schulz": 2821,
+            "total": 8217,
+            "min_turnout": 8217,
+            "max_turnout": 8217
+        },
+        {
+            "county_name": "Carroll",
+            "Cox": 20458,
+            "Schulz": 17490,
+            "total": 38927,
+            "min_turnout": 38927,
+            "max_turnout": 47371
+        },
+        {
+            "county_name": "Cecil",
+            "Cox": 4998,
+            "Schulz": 3487,
+            "total": 8816,
+            "min_turnout": 8905,
+            "max_turnout": 16485
+        },
+        {
+            "county_name": "Charles",
+            "Cox": 6529,
+            "Schulz": 2798,
+            "total": 9730,
+            "min_turnout": 9730,
+            "max_turnout": 9730
+        },
+        {
+            "county_name": "Dorchester",
+            "Cox": 2475,
+            "Schulz": 916,
+            "total": 3508,
+            "min_turnout": 3531,
+            "max_turnout": 4169
+        },
+        {
+            "county_name": "Frederick",
+            "Cox": 10898,
+            "Schulz": 9684,
+            "total": 21230,
+            "min_turnout": 21444,
+            "max_turnout": 35653
+        },
+        {
+            "county_name": "Garrett",
+            "Cox": 7061,
+            "Schulz": 2789,
+            "total": 10471,
+            "min_turnout": 10471,
+            "max_turnout": 10471
+        },
+        {
+            "county_name": "Harford",
+            "Cox": 30869,
+            "Schulz": 23574,
+            "total": 55918,
+            "min_turnout": 55918,
+            "max_turnout": 55918
+        },
+        {
+            "county_name": "Howard",
+            "Cox": 6320,
+            "Schulz": 8218,
+            "total": 15202,
+            "min_turnout": 15355,
+            "max_turnout": 17240
+        },
+        {
+            "county_name": "Kent",
+            "Cox": 1797,
+            "Schulz": 2012,
+            "total": 3939,
+            "min_turnout": 3939,
+            "max_turnout": 3939
+        },
+        {
+            "county_name": "Montgomery",
+            "Cox": 10876,
+            "Schulz": 10636,
+            "total": 23493,
+            "min_turnout": 24729,
+            "max_turnout": 26465
+        },
+        {
+            "county_name": "Prince George's",
+            "Cox": 3466,
+            "Schulz": 2607,
+            "total": 6901,
+            "min_turnout": 6901,
+            "max_turnout": 7994
+        },
+        {
+            "county_name": "Queen Anne's",
+            "Cox": 6788,
+            "Schulz": 5239,
+            "total": 12236,
+            "min_turnout": 12236,
+            "max_turnout": 12236
+        },
+        {
+            "county_name": "Saint Mary's",
+            "Cox": 12648,
+            "Schulz": 8915,
+            "total": 22693,
+            "min_turnout": 22693,
+            "max_turnout": 22693
+        },
+        {
+            "county_name": "Somerset",
+            "Cox": 3341,
+            "Schulz": 638,
+            "total": 4125,
+            "min_turnout": 4125,
+            "max_turnout": 23607
+        },
+        {
+            "county_name": "Talbot",
+            "Cox": 5191,
+            "Schulz": 3771,
+            "total": 9176,
+            "min_turnout": 9176,
+            "max_turnout": 9176
+        },
+        {
+            "county_name": "Washington",
+            "Cox": 7675,
+            "Schulz": 5224,
+            "total": 13623,
+            "min_turnout": 13760,
+            "max_turnout": 18498
+        },
+        {
+            "county_name": "Wicomico",
+            "Cox": 4517,
+            "Schulz": 2433,
+            "total": 7286,
+            "min_turnout": 7359,
+            "max_turnout": 8500
+        },
+        {
+            "county_name": "Worcester",
+            "Cox": 3548,
+            "Schulz": 1973,
+            "total": 5753,
+            "min_turnout": 5811,
+            "max_turnout": 12248
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Allegany": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Anne Arundel": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Baltimore": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Baltimore City": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Calvert": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Caroline": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Carroll": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Cecil": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Charles": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Dorchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Frederick": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Garrett": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Harford": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Howard": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Kent": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Prince George's": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Queen Anne's": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Saint Mary's": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Somerset": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Talbot": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Wicomico": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Worcester": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

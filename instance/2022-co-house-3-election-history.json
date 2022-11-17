@@ -1,0 +1,730 @@
+{
+    "2022-11-12T00:47:19-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Frisch": 160918,
+            "Boebert": 162040,
+            "total": 322958,
+            "min_turnout": 326398,
+            "max_turnout": 339589
+        },
+        "1": {
+            "county_name": "Alamosa",
+            "Frisch": 2930,
+            "Boebert": 2872,
+            "total": 5802,
+            "min_turnout": 5942,
+            "max_turnout": 6238
+        },
+        "2": {
+            "county_name": "Archuleta",
+            "Frisch": 3525,
+            "Boebert": 4141,
+            "total": 7666,
+            "min_turnout": 7743,
+            "max_turnout": 7743
+        },
+        "3": {
+            "county_name": "Conejos",
+            "Frisch": 1580,
+            "Boebert": 1771,
+            "total": 3351,
+            "min_turnout": 3385,
+            "max_turnout": 3527
+        },
+        "4": {
+            "county_name": "Costilla",
+            "Frisch": 1090,
+            "Boebert": 533,
+            "total": 1623,
+            "min_turnout": 1639,
+            "max_turnout": 1708
+        },
+        "5": {
+            "county_name": "Delta",
+            "Frisch": 5544,
+            "Boebert": 10084,
+            "total": 15628,
+            "min_turnout": 15786,
+            "max_turnout": 16450
+        },
+        "6": {
+            "county_name": "Dolores",
+            "Frisch": 323,
+            "Boebert": 948,
+            "total": 1271,
+            "min_turnout": 1284,
+            "max_turnout": 1337
+        },
+        "7": {
+            "county_name": "Eagle",
+            "Frisch": 2916,
+            "Boebert": 1150,
+            "total": 4066,
+            "min_turnout": 4107,
+            "max_turnout": 4325
+        },
+        "8": {
+            "county_name": "Garfield",
+            "Frisch": 13375,
+            "Boebert": 10167,
+            "total": 23542,
+            "min_turnout": 23780,
+            "max_turnout": 24781
+        },
+        "9": {
+            "county_name": "Gunnison",
+            "Frisch": 6183,
+            "Boebert": 2747,
+            "total": 8930,
+            "min_turnout": 9020,
+            "max_turnout": 9020
+        },
+        "10": {
+            "county_name": "Hinsdale",
+            "Frisch": 237,
+            "Boebert": 276,
+            "total": 513,
+            "min_turnout": 518,
+            "max_turnout": 540
+        },
+        "11": {
+            "county_name": "Huerfano",
+            "Frisch": 1979,
+            "Boebert": 1782,
+            "total": 3761,
+            "min_turnout": 3799,
+            "max_turnout": 3958
+        },
+        "12": {
+            "county_name": "La Plata",
+            "Frisch": 18539,
+            "Boebert": 10845,
+            "total": 29384,
+            "min_turnout": 29681,
+            "max_turnout": 30930
+        },
+        "13": {
+            "county_name": "Las Animas",
+            "Frisch": 3174,
+            "Boebert": 3358,
+            "total": 6532,
+            "min_turnout": 6598,
+            "max_turnout": 6875
+        },
+        "14": {
+            "county_name": "Mesa",
+            "Frisch": 30348,
+            "Boebert": 41527,
+            "total": 71875,
+            "min_turnout": 72601,
+            "max_turnout": 75657
+        },
+        "15": {
+            "county_name": "Mineral",
+            "Frisch": 304,
+            "Boebert": 392,
+            "total": 696,
+            "min_turnout": 703,
+            "max_turnout": 732
+        },
+        "16": {
+            "county_name": "Moffat",
+            "Frisch": 1081,
+            "Boebert": 4256,
+            "total": 5337,
+            "min_turnout": 5391,
+            "max_turnout": 5617
+        },
+        "17": {
+            "county_name": "Montezuma",
+            "Frisch": 5248,
+            "Boebert": 7038,
+            "total": 12286,
+            "min_turnout": 12410,
+            "max_turnout": 12932
+        },
+        "18": {
+            "county_name": "Montrose",
+            "Frisch": 7510,
+            "Boebert": 12773,
+            "total": 20283,
+            "min_turnout": 20488,
+            "max_turnout": 21350
+        },
+        "19": {
+            "county_name": "Otero",
+            "Frisch": 2889,
+            "Boebert": 4100,
+            "total": 6989,
+            "min_turnout": 7060,
+            "max_turnout": 7680
+        },
+        "20": {
+            "county_name": "Ouray",
+            "Frisch": 2205,
+            "Boebert": 1266,
+            "total": 3471,
+            "min_turnout": 3506,
+            "max_turnout": 3506
+        },
+        "21": {
+            "county_name": "Pitkin",
+            "Frisch": 7364,
+            "Boebert": 1933,
+            "total": 9297,
+            "min_turnout": 9487,
+            "max_turnout": 9786
+        },
+        "22": {
+            "county_name": "Pueblo",
+            "Frisch": 34892,
+            "Boebert": 30727,
+            "total": 65619,
+            "min_turnout": 66282,
+            "max_turnout": 69072
+        },
+        "23": {
+            "county_name": "Rio Blanco",
+            "Frisch": 524,
+            "Boebert": 2455,
+            "total": 2979,
+            "min_turnout": 3009,
+            "max_turnout": 3135
+        },
+        "24": {
+            "county_name": "Rio Grande",
+            "Frisch": 2109,
+            "Boebert": 2797,
+            "total": 4906,
+            "min_turnout": 4956,
+            "max_turnout": 5164
+        },
+        "25": {
+            "county_name": "Saguache",
+            "Frisch": 1541,
+            "Boebert": 1135,
+            "total": 2676,
+            "min_turnout": 2703,
+            "max_turnout": 2816
+        },
+        "26": {
+            "county_name": "San Juan",
+            "Frisch": 343,
+            "Boebert": 153,
+            "total": 496,
+            "min_turnout": 501,
+            "max_turnout": 522
+        },
+        "27": {
+            "county_name": "San Miguel",
+            "Frisch": 3165,
+            "Boebert": 814,
+            "total": 3979,
+            "min_turnout": 4019,
+            "max_turnout": 4188
+        }
+    },
+    "2022-11-13T18:42:07-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 242,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 242,
+            "max_turnout": 0,
+            "county_name": "Garfield"
+        }
+    },
+    "2022-11-14T15:22:25-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -323,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -81,
+            "max_turnout": 0,
+            "county_name": "Alamosa"
+        },
+        "8": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -242,
+            "max_turnout": 0,
+            "county_name": "Garfield"
+        }
+    },
+    "2022-11-14T17:02:56-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -131,
+            "county_name": "Total"
+        },
+        "1": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -131,
+            "county_name": "Alamosa"
+        }
+    },
+    "2022-11-14T17:03:13-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 326,
+            "county_name": "Total"
+        },
+        "2": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 326,
+            "county_name": "Archuleta"
+        }
+    },
+    "2022-11-15T11:30:01-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Alamosa"
+        }
+    },
+    "2022-11-15T11:34:05-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -31,
+            "max_turnout": 0,
+            "county_name": "Conejos"
+        },
+        "4": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Costilla"
+        }
+    },
+    "2022-11-15T11:41:49-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 159,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 159,
+            "max_turnout": 0,
+            "county_name": "Delta"
+        }
+    },
+    "2022-11-15T11:53:57-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "25": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Saguache"
+        }
+    },
+    "2022-11-15T12:05:54-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Eagle"
+        }
+    },
+    "2022-11-15T12:10:11-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 89,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 89,
+            "max_turnout": 0,
+            "county_name": "Eagle"
+        }
+    },
+    "2022-11-15T12:13:56-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "27": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "San Miguel"
+        }
+    },
+    "2022-11-15T12:18:06-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "San Juan"
+        }
+    },
+    "2022-11-15T12:22:04-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 155,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 155,
+            "max_turnout": 0,
+            "county_name": "Garfield"
+        }
+    },
+    "2022-11-15T12:26:07-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -41,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -41,
+            "max_turnout": 0,
+            "county_name": "Gunnison"
+        }
+    },
+    "2022-11-15T12:34:01-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Dolores"
+        }
+    },
+    "2022-11-15T12:37:58-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Pueblo"
+        }
+    },
+    "2022-11-15T12:42:09-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Hinsdale"
+        }
+    },
+    "2022-11-15T12:50:02-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "20": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Ouray"
+        }
+    },
+    "2022-11-15T15:51:26-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 531,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Archuleta"
+        },
+        "11": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Huerfano"
+        },
+        "14": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 338,
+            "max_turnout": 0,
+            "county_name": "Mesa"
+        },
+        "15": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "16": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 0,
+            "county_name": "Moffat"
+        },
+        "17": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -25,
+            "max_turnout": 0,
+            "county_name": "Montezuma"
+        },
+        "18": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 91,
+            "max_turnout": 0,
+            "county_name": "Montrose"
+        },
+        "19": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Otero"
+        },
+        "21": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 53,
+            "max_turnout": 0,
+            "county_name": "Pitkin"
+        },
+        "24": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": -38,
+            "max_turnout": 0,
+            "county_name": "Rio Grande"
+        }
+    },
+    "2022-11-17T11:37:49-05:00": {
+        "0": {
+            "Frisch": 15,
+            "Boebert": 11,
+            "total": 26,
+            "min_turnout": 0,
+            "max_turnout": 28,
+            "county_name": "Total"
+        },
+        "11": {
+            "Frisch": 15,
+            "Boebert": 11,
+            "total": 26,
+            "min_turnout": 0,
+            "max_turnout": 28,
+            "county_name": "Huerfano"
+        }
+    },
+    "2022-11-17T11:45:58-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Huerfano"
+        }
+    },
+    "2022-11-17T11:47:46-05:00": {
+        "0": {
+            "Frisch": 42,
+            "Boebert": 27,
+            "total": 69,
+            "min_turnout": 19,
+            "max_turnout": 73,
+            "county_name": "Total"
+        },
+        "25": {
+            "Frisch": 42,
+            "Boebert": 27,
+            "total": 69,
+            "min_turnout": 19,
+            "max_turnout": 73,
+            "county_name": "Saguache"
+        }
+    },
+    "2022-11-17T11:53:59-05:00": {
+        "0": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "25": {
+            "Frisch": 0,
+            "Boebert": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Saguache"
+        }
+    }
+}

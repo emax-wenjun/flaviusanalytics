@@ -1,0 +1,1318 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Beasley": 1756905,
+            "Budd": 1892205,
+            "total": 3729012,
+            "min_turnout": 3784485,
+            "max_turnout": 4005460
+        },
+        {
+            "county_name": "Alamance",
+            "Beasley": 25589,
+            "Budd": 32704,
+            "total": 59531,
+            "min_turnout": 60132,
+            "max_turnout": 61361
+        },
+        {
+            "county_name": "Alexander",
+            "Beasley": 3014,
+            "Budd": 11813,
+            "total": 15210,
+            "min_turnout": 15364,
+            "max_turnout": 15607
+        },
+        {
+            "county_name": "Alleghany",
+            "Beasley": 1242,
+            "Budd": 3635,
+            "total": 4997,
+            "min_turnout": 4997,
+            "max_turnout": 5047
+        },
+        {
+            "county_name": "Anson",
+            "Beasley": 3296,
+            "Budd": 3690,
+            "total": 7105,
+            "min_turnout": 7177,
+            "max_turnout": 7938
+        },
+        {
+            "county_name": "Ashe",
+            "Beasley": 3144,
+            "Budd": 8327,
+            "total": 11737,
+            "min_turnout": 11856,
+            "max_turnout": 12083
+        },
+        {
+            "county_name": "Avery",
+            "Beasley": 1576,
+            "Budd": 5027,
+            "total": 6745,
+            "min_turnout": 6745,
+            "max_turnout": 6813
+        },
+        {
+            "county_name": "Beaufort",
+            "Beasley": 6214,
+            "Budd": 12298,
+            "total": 18896,
+            "min_turnout": 18896,
+            "max_turnout": 19087
+        },
+        {
+            "county_name": "Bertie",
+            "Beasley": 3469,
+            "Budd": 2769,
+            "total": 6320,
+            "min_turnout": 6384,
+            "max_turnout": 7008
+        },
+        {
+            "county_name": "Bladen",
+            "Beasley": 4774,
+            "Budd": 6738,
+            "total": 11744,
+            "min_turnout": 11863,
+            "max_turnout": 12117
+        },
+        {
+            "county_name": "Brunswick",
+            "Beasley": 26385,
+            "Budd": 44541,
+            "total": 72342,
+            "min_turnout": 72342,
+            "max_turnout": 73073
+        },
+        {
+            "county_name": "Buncombe",
+            "Beasley": 72877,
+            "Budd": 42974,
+            "total": 118833,
+            "min_turnout": 120033,
+            "max_turnout": 121948
+        },
+        {
+            "county_name": "Burke",
+            "Beasley": 8773,
+            "Budd": 20407,
+            "total": 29837,
+            "min_turnout": 30138,
+            "max_turnout": 31376
+        },
+        {
+            "county_name": "Cabarrus",
+            "Beasley": 31567,
+            "Budd": 41079,
+            "total": 74394,
+            "min_turnout": 75145,
+            "max_turnout": 82552
+        },
+        {
+            "county_name": "Caldwell",
+            "Beasley": 6318,
+            "Budd": 20775,
+            "total": 27669,
+            "min_turnout": 27948,
+            "max_turnout": 30441
+        },
+        {
+            "county_name": "Camden",
+            "Beasley": 1001,
+            "Budd": 3119,
+            "total": 4258,
+            "min_turnout": 4301,
+            "max_turnout": 4336
+        },
+        {
+            "county_name": "Carteret",
+            "Beasley": 8730,
+            "Budd": 22590,
+            "total": 31991,
+            "min_turnout": 31991,
+            "max_turnout": 32314
+        },
+        {
+            "county_name": "Caswell",
+            "Beasley": 3117,
+            "Budd": 4855,
+            "total": 8098,
+            "min_turnout": 8180,
+            "max_turnout": 8572
+        },
+        {
+            "county_name": "Catawba",
+            "Beasley": 15919,
+            "Budd": 38135,
+            "total": 55248,
+            "min_turnout": 55806,
+            "max_turnout": 59400
+        },
+        {
+            "county_name": "Chatham",
+            "Beasley": 22190,
+            "Budd": 16173,
+            "total": 39034,
+            "min_turnout": 39145,
+            "max_turnout": 39428
+        },
+        {
+            "county_name": "Cherokee",
+            "Beasley": 2430,
+            "Budd": 9474,
+            "total": 12143,
+            "min_turnout": 12148,
+            "max_turnout": 12530
+        },
+        {
+            "county_name": "Chowan",
+            "Beasley": 2042,
+            "Budd": 3354,
+            "total": 5505,
+            "min_turnout": 5561,
+            "max_turnout": 5680
+        },
+        {
+            "county_name": "Clay",
+            "Beasley": 1329,
+            "Budd": 4056,
+            "total": 5487,
+            "min_turnout": 5542,
+            "max_turnout": 5668
+        },
+        {
+            "county_name": "Cleveland",
+            "Beasley": 10487,
+            "Budd": 21562,
+            "total": 32658,
+            "min_turnout": 32988,
+            "max_turnout": 36419
+        },
+        {
+            "county_name": "Columbus",
+            "Beasley": 6854,
+            "Budd": 11654,
+            "total": 18917,
+            "min_turnout": 19108,
+            "max_turnout": 19482
+        },
+        {
+            "county_name": "Craven",
+            "Beasley": 13998,
+            "Budd": 21928,
+            "total": 36791,
+            "min_turnout": 37163,
+            "max_turnout": 37816
+        },
+        {
+            "county_name": "Cumberland",
+            "Beasley": 45683,
+            "Budd": 35439,
+            "total": 82917,
+            "min_turnout": 104002,
+            "max_turnout": 117456
+        },
+        {
+            "county_name": "Currituck",
+            "Beasley": 2707,
+            "Budd": 8526,
+            "total": 11523,
+            "min_turnout": 11639,
+            "max_turnout": 11824
+        },
+        {
+            "county_name": "Dare",
+            "Beasley": 6975,
+            "Budd": 10160,
+            "total": 17554,
+            "min_turnout": 17554,
+            "max_turnout": 17731
+        },
+        {
+            "county_name": "Davidson",
+            "Beasley": 14336,
+            "Budd": 43102,
+            "total": 58610,
+            "min_turnout": 59202,
+            "max_turnout": 63118
+        },
+        {
+            "county_name": "Davie",
+            "Beasley": 4465,
+            "Budd": 13148,
+            "total": 17961,
+            "min_turnout": 18142,
+            "max_turnout": 18540
+        },
+        {
+            "county_name": "Duplin",
+            "Beasley": 5036,
+            "Budd": 9822,
+            "total": 15131,
+            "min_turnout": 15284,
+            "max_turnout": 16150
+        },
+        {
+            "county_name": "Durham",
+            "Beasley": 101822,
+            "Budd": 21896,
+            "total": 125950,
+            "min_turnout": 127222,
+            "max_turnout": 128872
+        },
+        {
+            "county_name": "Edgecombe",
+            "Beasley": 9183,
+            "Budd": 6028,
+            "total": 15431,
+            "min_turnout": 15587,
+            "max_turnout": 18326
+        },
+        {
+            "county_name": "Forsyth",
+            "Beasley": 72110,
+            "Budd": 57804,
+            "total": 132709,
+            "min_turnout": 134049,
+            "max_turnout": 142762
+        },
+        {
+            "county_name": "Franklin",
+            "Beasley": 11567,
+            "Budd": 15231,
+            "total": 27410,
+            "min_turnout": 27687,
+            "max_turnout": 28208
+        },
+        {
+            "county_name": "Gaston",
+            "Beasley": 25488,
+            "Budd": 46081,
+            "total": 73011,
+            "min_turnout": 73748,
+            "max_turnout": 81328
+        },
+        {
+            "county_name": "Gates",
+            "Beasley": 1746,
+            "Budd": 2427,
+            "total": 4288,
+            "min_turnout": 4288,
+            "max_turnout": 4331
+        },
+        {
+            "county_name": "Graham",
+            "Beasley": 635,
+            "Budd": 2784,
+            "total": 3529,
+            "min_turnout": 3565,
+            "max_turnout": 3598
+        },
+        {
+            "county_name": "Granville",
+            "Beasley": 9835,
+            "Budd": 11690,
+            "total": 22025,
+            "min_turnout": 22247,
+            "max_turnout": 22657
+        },
+        {
+            "county_name": "Greene",
+            "Beasley": 2390,
+            "Budd": 3516,
+            "total": 6021,
+            "min_turnout": 6082,
+            "max_turnout": 6216
+        },
+        {
+            "county_name": "Guilford",
+            "Beasley": 107609,
+            "Budd": 74222,
+            "total": 185616,
+            "min_turnout": 187491,
+            "max_turnout": 202034
+        },
+        {
+            "county_name": "Halifax",
+            "Beasley": 8853,
+            "Budd": 6614,
+            "total": 15656,
+            "min_turnout": 15814,
+            "max_turnout": 18413
+        },
+        {
+            "county_name": "Harnett",
+            "Beasley": 12947,
+            "Budd": 22643,
+            "total": 36475,
+            "min_turnout": 36843,
+            "max_turnout": 41383
+        },
+        {
+            "county_name": "Haywood",
+            "Beasley": 9936,
+            "Budd": 16035,
+            "total": 26674,
+            "min_turnout": 26943,
+            "max_turnout": 27337
+        },
+        {
+            "county_name": "Henderson",
+            "Beasley": 19943,
+            "Budd": 29716,
+            "total": 50827,
+            "min_turnout": 51340,
+            "max_turnout": 52272
+        },
+        {
+            "county_name": "Hertford",
+            "Beasley": 4095,
+            "Budd": 2397,
+            "total": 6592,
+            "min_turnout": 6659,
+            "max_turnout": 7462
+        },
+        {
+            "county_name": "Hoke",
+            "Beasley": 7089,
+            "Budd": 5574,
+            "total": 13037,
+            "min_turnout": 13169,
+            "max_turnout": 15075
+        },
+        {
+            "county_name": "Hyde",
+            "Beasley": 722,
+            "Budd": 1069,
+            "total": 1836,
+            "min_turnout": 1855,
+            "max_turnout": 1885
+        },
+        {
+            "county_name": "Iredell",
+            "Beasley": 21096,
+            "Budd": 46387,
+            "total": 68995,
+            "min_turnout": 69692,
+            "max_turnout": 72562
+        },
+        {
+            "county_name": "Jackson",
+            "Beasley": 6821,
+            "Budd": 8039,
+            "total": 15320,
+            "min_turnout": 15320,
+            "max_turnout": 15475
+        },
+        {
+            "county_name": "Johnston",
+            "Beasley": 27739,
+            "Budd": 46058,
+            "total": 75431,
+            "min_turnout": 76193,
+            "max_turnout": 78507
+        },
+        {
+            "county_name": "Jones",
+            "Beasley": 1385,
+            "Budd": 2373,
+            "total": 3848,
+            "min_turnout": 3887,
+            "max_turnout": 3955
+        },
+        {
+            "county_name": "Lee",
+            "Beasley": 7682,
+            "Budd": 11002,
+            "total": 19096,
+            "min_turnout": 19289,
+            "max_turnout": 20531
+        },
+        {
+            "county_name": "Lenoir",
+            "Beasley": 7812,
+            "Budd": 10422,
+            "total": 18592,
+            "min_turnout": 18780,
+            "max_turnout": 20037
+        },
+        {
+            "county_name": "Lincoln",
+            "Beasley": 9327,
+            "Budd": 26056,
+            "total": 36096,
+            "min_turnout": 36461,
+            "max_turnout": 37245
+        },
+        {
+            "county_name": "Macon",
+            "Beasley": 4564,
+            "Budd": 10648,
+            "total": 15625,
+            "min_turnout": 15783,
+            "max_turnout": 16182
+        },
+        {
+            "county_name": "Madison",
+            "Beasley": 3912,
+            "Budd": 5754,
+            "total": 10000,
+            "min_turnout": 10101,
+            "max_turnout": 14426
+        },
+        {
+            "county_name": "Martin",
+            "Beasley": 3817,
+            "Budd": 4706,
+            "total": 8708,
+            "min_turnout": 8796,
+            "max_turnout": 9264
+        },
+        {
+            "county_name": "McDowell",
+            "Beasley": 3869,
+            "Budd": 11730,
+            "total": 16000,
+            "min_turnout": 16000,
+            "max_turnout": 16162
+        },
+        {
+            "county_name": "Mecklenburg",
+            "Beasley": 230824,
+            "Budd": 116661,
+            "total": 354849,
+            "min_turnout": 358433,
+            "max_turnout": 404052
+        },
+        {
+            "county_name": "Mitchell",
+            "Beasley": 1342,
+            "Budd": 5008,
+            "total": 6498,
+            "min_turnout": 6498,
+            "max_turnout": 6564
+        },
+        {
+            "county_name": "Montgomery",
+            "Beasley": 2650,
+            "Budd": 5823,
+            "total": 8652,
+            "min_turnout": 8739,
+            "max_turnout": 9110
+        },
+        {
+            "county_name": "Moore",
+            "Beasley": 14372,
+            "Budd": 26718,
+            "total": 41905,
+            "min_turnout": 42328,
+            "max_turnout": 43252
+        },
+        {
+            "county_name": "Nash",
+            "Beasley": 16261,
+            "Budd": 18683,
+            "total": 35466,
+            "min_turnout": 35824,
+            "max_turnout": 37174
+        },
+        {
+            "county_name": "New Hanover",
+            "Beasley": 45731,
+            "Budd": 44460,
+            "total": 92299,
+            "min_turnout": 93231,
+            "max_turnout": 94937
+        },
+        {
+            "county_name": "Northampton",
+            "Beasley": 3714,
+            "Budd": 2957,
+            "total": 6763,
+            "min_turnout": 6831,
+            "max_turnout": 7173
+        },
+        {
+            "county_name": "Onslow",
+            "Beasley": 13353,
+            "Budd": 28888,
+            "total": 43532,
+            "min_turnout": 43972,
+            "max_turnout": 50286
+        },
+        {
+            "county_name": "Orange",
+            "Beasley": 50376,
+            "Budd": 14150,
+            "total": 65687,
+            "min_turnout": 66351,
+            "max_turnout": 67922
+        },
+        {
+            "county_name": "Pamlico",
+            "Beasley": 2080,
+            "Budd": 3899,
+            "total": 6114,
+            "min_turnout": 6176,
+            "max_turnout": 6293
+        },
+        {
+            "county_name": "Pasquotank",
+            "Beasley": 6327,
+            "Budd": 7222,
+            "total": 13898,
+            "min_turnout": 14038,
+            "max_turnout": 14262
+        },
+        {
+            "county_name": "Pender",
+            "Beasley": 5813,
+            "Budd": 12839,
+            "total": 19069,
+            "min_turnout": 19262,
+            "max_turnout": 24223
+        },
+        {
+            "county_name": "Perquimans",
+            "Beasley": 1546,
+            "Budd": 3807,
+            "total": 5449,
+            "min_turnout": 5504,
+            "max_turnout": 5634
+        },
+        {
+            "county_name": "Person",
+            "Beasley": 5848,
+            "Budd": 9167,
+            "total": 15344,
+            "min_turnout": 15499,
+            "max_turnout": 15805
+        },
+        {
+            "county_name": "Pitt",
+            "Beasley": 27177,
+            "Budd": 25894,
+            "total": 54163,
+            "min_turnout": 54710,
+            "max_turnout": 62436
+        },
+        {
+            "county_name": "Polk",
+            "Beasley": 3600,
+            "Budd": 5669,
+            "total": 9493,
+            "min_turnout": 9589,
+            "max_turnout": 9756
+        },
+        {
+            "county_name": "Randolph",
+            "Beasley": 9211,
+            "Budd": 37920,
+            "total": 48094,
+            "min_turnout": 48580,
+            "max_turnout": 51792
+        },
+        {
+            "county_name": "Richmond",
+            "Beasley": 5006,
+            "Budd": 7303,
+            "total": 12564,
+            "min_turnout": 12691,
+            "max_turnout": 14653
+        },
+        {
+            "county_name": "Robeson",
+            "Beasley": 10586,
+            "Budd": 15555,
+            "total": 26679,
+            "min_turnout": 26948,
+            "max_turnout": 32676
+        },
+        {
+            "county_name": "Rockingham",
+            "Beasley": 10026,
+            "Budd": 21512,
+            "total": 32330,
+            "min_turnout": 32657,
+            "max_turnout": 33551
+        },
+        {
+            "county_name": "Rowan",
+            "Beasley": 14169,
+            "Budd": 32627,
+            "total": 47900,
+            "min_turnout": 48384,
+            "max_turnout": 51995
+        },
+        {
+            "county_name": "Rutherford",
+            "Beasley": 5509,
+            "Budd": 17293,
+            "total": 23368,
+            "min_turnout": 23604,
+            "max_turnout": 24257
+        },
+        {
+            "county_name": "Sampson",
+            "Beasley": 5942,
+            "Budd": 11520,
+            "total": 17698,
+            "min_turnout": 17877,
+            "max_turnout": 18980
+        },
+        {
+            "county_name": "Scotland",
+            "Beasley": 4316,
+            "Budd": 4891,
+            "total": 9435,
+            "min_turnout": 9530,
+            "max_turnout": 10344
+        },
+        {
+            "county_name": "Stanly",
+            "Beasley": 5084,
+            "Budd": 17776,
+            "total": 23372,
+            "min_turnout": 23608,
+            "max_turnout": 24063
+        },
+        {
+            "county_name": "Stokes",
+            "Beasley": 3780,
+            "Budd": 13847,
+            "total": 18082,
+            "min_turnout": 18265,
+            "max_turnout": 18554
+        },
+        {
+            "county_name": "Surry",
+            "Beasley": 5755,
+            "Budd": 18235,
+            "total": 24532,
+            "min_turnout": 24780,
+            "max_turnout": 25795
+        },
+        {
+            "county_name": "Swain",
+            "Beasley": 1696,
+            "Budd": 2881,
+            "total": 4756,
+            "min_turnout": 4804,
+            "max_turnout": 4921
+        },
+        {
+            "county_name": "Transylvania",
+            "Beasley": 6802,
+            "Budd": 8784,
+            "total": 16042,
+            "min_turnout": 16204,
+            "max_turnout": 16406
+        },
+        {
+            "county_name": "Tyrrell",
+            "Beasley": 480,
+            "Budd": 768,
+            "total": 1276,
+            "min_turnout": 1276,
+            "max_turnout": 1289
+        },
+        {
+            "county_name": "Union",
+            "Beasley": 30724,
+            "Budd": 56311,
+            "total": 88776,
+            "min_turnout": 89673,
+            "max_turnout": 92590
+        },
+        {
+            "county_name": "Vance",
+            "Beasley": 7078,
+            "Budd": 5618,
+            "total": 12938,
+            "min_turnout": 13069,
+            "max_turnout": 14936
+        },
+        {
+            "county_name": "Wake",
+            "Beasley": 275144,
+            "Budd": 158948,
+            "total": 444449,
+            "min_turnout": 448938,
+            "max_turnout": 456938
+        },
+        {
+            "county_name": "Warren",
+            "Beasley": 4308,
+            "Budd": 2726,
+            "total": 7113,
+            "min_turnout": 7185,
+            "max_turnout": 7404
+        },
+        {
+            "county_name": "Washington",
+            "Beasley": 3184,
+            "Budd": 2855,
+            "total": 6039,
+            "min_turnout": 6039,
+            "max_turnout": 6356
+        },
+        {
+            "county_name": "Watauga",
+            "Beasley": 11210,
+            "Budd": 10302,
+            "total": 22112,
+            "min_turnout": 22335,
+            "max_turnout": 22644
+        },
+        {
+            "county_name": "Wayne",
+            "Beasley": 13864,
+            "Budd": 20645,
+            "total": 35085,
+            "min_turnout": 35439,
+            "max_turnout": 39665
+        },
+        {
+            "county_name": "Wilkes",
+            "Beasley": 4728,
+            "Budd": 19219,
+            "total": 24413,
+            "min_turnout": 24660,
+            "max_turnout": 25207
+        },
+        {
+            "county_name": "Wilson",
+            "Beasley": 12444,
+            "Budd": 13254,
+            "total": 26122,
+            "min_turnout": 26386,
+            "max_turnout": 28874
+        },
+        {
+            "county_name": "Yadkin",
+            "Beasley": 2395,
+            "Budd": 11104,
+            "total": 13837,
+            "min_turnout": 13977,
+            "max_turnout": 14209
+        },
+        {
+            "county_name": "Yancey",
+            "Beasley": 2919,
+            "Budd": 5690,
+            "total": 8835,
+            "min_turnout": 8924,
+            "max_turnout": 9062
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alamance": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Alexander": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Alleghany": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Anson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ashe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Avery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Beaufort": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bertie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bladen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Brunswick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Buncombe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Burke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cabarrus": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Caldwell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Camden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carteret": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Caswell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Catawba": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Chatham": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cherokee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Chowan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cleveland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Columbus": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Craven": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cumberland": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Currituck": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dare": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Davidson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Davie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Duplin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Durham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Edgecombe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Forsyth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gaston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gates": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Graham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Granville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Guilford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Halifax": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Harnett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Haywood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Henderson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hertford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hoke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hyde": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Iredell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Johnston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jones": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lenoir": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Macon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Martin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "McDowell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mecklenburg": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mitchell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Moore": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nash": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Hanover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Northampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Onslow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pamlico": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pasquotank": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pender": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Perquimans": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Person": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pitt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Richmond": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Robeson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rockingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rowan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rutherford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sampson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scotland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stanly": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stokes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Surry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Swain": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Transylvania": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tyrrell": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Vance": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Watauga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wilkes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wilson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yadkin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yancey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

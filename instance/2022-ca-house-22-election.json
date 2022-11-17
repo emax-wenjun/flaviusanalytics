@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Salas": 33672,
+            "Valadao": 37637,
+            "total": 71309,
+            "min_turnout": 105866,
+            "max_turnout": 127534
+        },
+        {
+            "county_name": "Kern",
+            "Salas": 19965,
+            "Valadao": 18204,
+            "total": 38169,
+            "min_turnout": 68200,
+            "max_turnout": 88765
+        },
+        {
+            "county_name": "Kings",
+            "Salas": 5120,
+            "Valadao": 6662,
+            "total": 11782,
+            "min_turnout": 11970,
+            "max_turnout": 12402
+        },
+        {
+            "county_name": "Tulare",
+            "Salas": 8587,
+            "Valadao": 12771,
+            "total": 21358,
+            "min_turnout": 25696,
+            "max_turnout": 26367
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Kern": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kings": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tulare": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

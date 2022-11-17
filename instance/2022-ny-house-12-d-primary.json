@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Nadler": 45545,
+            "Maloney": 20038,
+            "total": 82159,
+            "min_turnout": 82988,
+            "max_turnout": 89303
+        },
+        {
+            "county_name": "New York",
+            "Nadler": 45545,
+            "Maloney": 20038,
+            "total": 82159,
+            "min_turnout": 82988,
+            "max_turnout": 89303
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "New York": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

@@ -1,0 +1,1162 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Whaley": 1497966,
+            "DeWine": 2528018,
+            "total": 4025984,
+            "min_turnout": 4144026,
+            "max_turnout": 4706226
+        },
+        {
+            "county_name": "Adams",
+            "Whaley": 1368,
+            "DeWine": 7247,
+            "total": 8615,
+            "min_turnout": 8881,
+            "max_turnout": 9340
+        },
+        {
+            "county_name": "Allen",
+            "Whaley": 6683,
+            "DeWine": 25072,
+            "total": 31755,
+            "min_turnout": 32737,
+            "max_turnout": 37774
+        },
+        {
+            "county_name": "Ashland",
+            "Whaley": 3664,
+            "DeWine": 14270,
+            "total": 17934,
+            "min_turnout": 18489,
+            "max_turnout": 20293
+        },
+        {
+            "county_name": "Ashtabula",
+            "Whaley": 9467,
+            "DeWine": 20587,
+            "total": 30054,
+            "min_turnout": 30984,
+            "max_turnout": 33991
+        },
+        {
+            "county_name": "Athens",
+            "Whaley": 9415,
+            "DeWine": 8595,
+            "total": 18010,
+            "min_turnout": 18567,
+            "max_turnout": 22512
+        },
+        {
+            "county_name": "Auglaize",
+            "Whaley": 2437,
+            "DeWine": 15759,
+            "total": 18196,
+            "min_turnout": 18759,
+            "max_turnout": 20677
+        },
+        {
+            "county_name": "Belmont",
+            "Whaley": 5446,
+            "DeWine": 16645,
+            "total": 22091,
+            "min_turnout": 22774,
+            "max_turnout": 25923
+        },
+        {
+            "county_name": "Brown",
+            "Whaley": 2333,
+            "DeWine": 11452,
+            "total": 13785,
+            "min_turnout": 14211,
+            "max_turnout": 16335
+        },
+        {
+            "county_name": "Butler",
+            "Whaley": 37100,
+            "DeWine": 88492,
+            "total": 125592,
+            "min_turnout": 129476,
+            "max_turnout": 145515
+        },
+        {
+            "county_name": "Carroll",
+            "Whaley": 1944,
+            "DeWine": 7968,
+            "total": 9912,
+            "min_turnout": 10114,
+            "max_turnout": 11092
+        },
+        {
+            "county_name": "Champaign",
+            "Whaley": 2915,
+            "DeWine": 11196,
+            "total": 14111,
+            "min_turnout": 14547,
+            "max_turnout": 16142
+        },
+        {
+            "county_name": "Clark",
+            "Whaley": 12293,
+            "DeWine": 30603,
+            "total": 42896,
+            "min_turnout": 44223,
+            "max_turnout": 50489
+        },
+        {
+            "county_name": "Clermont",
+            "Whaley": 20457,
+            "DeWine": 58056,
+            "total": 78513,
+            "min_turnout": 80941,
+            "max_turnout": 87654
+        },
+        {
+            "county_name": "Clinton",
+            "Whaley": 2520,
+            "DeWine": 11240,
+            "total": 13760,
+            "min_turnout": 14186,
+            "max_turnout": 16089
+        },
+        {
+            "county_name": "Columbiana",
+            "Whaley": 7027,
+            "DeWine": 27601,
+            "total": 34628,
+            "min_turnout": 34977,
+            "max_turnout": 37717
+        },
+        {
+            "county_name": "Coshocton",
+            "Whaley": 2335,
+            "DeWine": 8748,
+            "total": 11083,
+            "min_turnout": 11426,
+            "max_turnout": 12805
+        },
+        {
+            "county_name": "Crawford",
+            "Whaley": 2891,
+            "DeWine": 11585,
+            "total": 14476,
+            "min_turnout": 14622,
+            "max_turnout": 15626
+        },
+        {
+            "county_name": "Cuyahoga",
+            "Whaley": 226810,
+            "DeWine": 171798,
+            "total": 398608,
+            "min_turnout": 410936,
+            "max_turnout": 505619
+        },
+        {
+            "county_name": "Darke",
+            "Whaley": 2417,
+            "DeWine": 16987,
+            "total": 19404,
+            "min_turnout": 20004,
+            "max_turnout": 20715
+        },
+        {
+            "county_name": "Defiance",
+            "Whaley": 3096,
+            "DeWine": 10043,
+            "total": 13139,
+            "min_turnout": 13545,
+            "max_turnout": 14991
+        },
+        {
+            "county_name": "Delaware",
+            "Whaley": 34671,
+            "DeWine": 60965,
+            "total": 95636,
+            "min_turnout": 98594,
+            "max_turnout": 107986
+        },
+        {
+            "county_name": "Erie",
+            "Whaley": 10048,
+            "DeWine": 18385,
+            "total": 28433,
+            "min_turnout": 29312,
+            "max_turnout": 32539
+        },
+        {
+            "county_name": "Fairfield",
+            "Whaley": 17359,
+            "DeWine": 40072,
+            "total": 57431,
+            "min_turnout": 59104,
+            "max_turnout": 66757
+        },
+        {
+            "county_name": "Fayette",
+            "Whaley": 1438,
+            "DeWine": 6778,
+            "total": 8216,
+            "min_turnout": 8470,
+            "max_turnout": 9246
+        },
+        {
+            "county_name": "Franklin",
+            "Whaley": 232672,
+            "DeWine": 177933,
+            "total": 410605,
+            "min_turnout": 423304,
+            "max_turnout": 500278
+        },
+        {
+            "county_name": "Fulton",
+            "Whaley": 3288,
+            "DeWine": 12795,
+            "total": 16083,
+            "min_turnout": 16245,
+            "max_turnout": 17259
+        },
+        {
+            "county_name": "Gallia",
+            "Whaley": 1647,
+            "DeWine": 7110,
+            "total": 8757,
+            "min_turnout": 9028,
+            "max_turnout": 10406
+        },
+        {
+            "county_name": "Geauga",
+            "Whaley": 13128,
+            "DeWine": 28545,
+            "total": 41673,
+            "min_turnout": 42962,
+            "max_turnout": 46015
+        },
+        {
+            "county_name": "Greene",
+            "Whaley": 19394,
+            "DeWine": 43899,
+            "total": 63293,
+            "min_turnout": 65251,
+            "max_turnout": 73139
+        },
+        {
+            "county_name": "Guernsey",
+            "Whaley": 2480,
+            "DeWine": 9354,
+            "total": 11834,
+            "min_turnout": 11953,
+            "max_turnout": 13449
+        },
+        {
+            "county_name": "Hamilton",
+            "Whaley": 142651,
+            "DeWine": 152316,
+            "total": 294967,
+            "min_turnout": 304090,
+            "max_turnout": 350478
+        },
+        {
+            "county_name": "Hancock",
+            "Whaley": 5999,
+            "DeWine": 20611,
+            "total": 26610,
+            "min_turnout": 27433,
+            "max_turnout": 29662
+        },
+        {
+            "county_name": "Hardin",
+            "Whaley": 1676,
+            "DeWine": 7087,
+            "total": 8763,
+            "min_turnout": 9034,
+            "max_turnout": 9910
+        },
+        {
+            "county_name": "Harrison",
+            "Whaley": 1063,
+            "DeWine": 4026,
+            "total": 5089,
+            "min_turnout": 5246,
+            "max_turnout": 6087
+        },
+        {
+            "county_name": "Henry",
+            "Whaley": 1923,
+            "DeWine": 8324,
+            "total": 10247,
+            "min_turnout": 10564,
+            "max_turnout": 11575
+        },
+        {
+            "county_name": "Highland",
+            "Whaley": 1961,
+            "DeWine": 10423,
+            "total": 12384,
+            "min_turnout": 12767,
+            "max_turnout": 14685
+        },
+        {
+            "county_name": "Hocking",
+            "Whaley": 2354,
+            "DeWine": 6939,
+            "total": 9293,
+            "min_turnout": 9580,
+            "max_turnout": 10726
+        },
+        {
+            "county_name": "Holmes",
+            "Whaley": 1095,
+            "DeWine": 7156,
+            "total": 8251,
+            "min_turnout": 8506,
+            "max_turnout": 9971
+        },
+        {
+            "county_name": "Huron",
+            "Whaley": 4414,
+            "DeWine": 13719,
+            "total": 18133,
+            "min_turnout": 18693,
+            "max_turnout": 20327
+        },
+        {
+            "county_name": "Jackson",
+            "Whaley": 1703,
+            "DeWine": 6857,
+            "total": 8560,
+            "min_turnout": 8825,
+            "max_turnout": 11169
+        },
+        {
+            "county_name": "Jefferson",
+            "Whaley": 5768,
+            "DeWine": 16687,
+            "total": 22455,
+            "min_turnout": 23149,
+            "max_turnout": 25505
+        },
+        {
+            "county_name": "Knox",
+            "Whaley": 5301,
+            "DeWine": 16978,
+            "total": 22279,
+            "min_turnout": 22968,
+            "max_turnout": 24819
+        },
+        {
+            "county_name": "Lake",
+            "Whaley": 32266,
+            "DeWine": 60044,
+            "total": 92310,
+            "min_turnout": 95165,
+            "max_turnout": 103132
+        },
+        {
+            "county_name": "Lawrence",
+            "Whaley": 3741,
+            "DeWine": 13411,
+            "total": 17152,
+            "min_turnout": 17682,
+            "max_turnout": 21869
+        },
+        {
+            "county_name": "Licking",
+            "Whaley": 18629,
+            "DeWine": 45810,
+            "total": 64439,
+            "min_turnout": 66432,
+            "max_turnout": 75614
+        },
+        {
+            "county_name": "Logan",
+            "Whaley": 2725,
+            "DeWine": 13345,
+            "total": 16070,
+            "min_turnout": 16567,
+            "max_turnout": 18318
+        },
+        {
+            "county_name": "Lorain",
+            "Whaley": 43280,
+            "DeWine": 65130,
+            "total": 108410,
+            "min_turnout": 111763,
+            "max_turnout": 125824
+        },
+        {
+            "county_name": "Lucas",
+            "Whaley": 58944,
+            "DeWine": 70738,
+            "total": 129682,
+            "min_turnout": 133693,
+            "max_turnout": 158131
+        },
+        {
+            "county_name": "Madison",
+            "Whaley": 3151,
+            "DeWine": 10552,
+            "total": 13703,
+            "min_turnout": 14127,
+            "max_turnout": 15568
+        },
+        {
+            "county_name": "Mahoning",
+            "Whaley": 28987,
+            "DeWine": 54921,
+            "total": 83908,
+            "min_turnout": 86503,
+            "max_turnout": 94320
+        },
+        {
+            "county_name": "Marion",
+            "Whaley": 4701,
+            "DeWine": 13920,
+            "total": 18621,
+            "min_turnout": 19197,
+            "max_turnout": 22246
+        },
+        {
+            "county_name": "Medina",
+            "Whaley": 23658,
+            "DeWine": 52704,
+            "total": 76362,
+            "min_turnout": 77133,
+            "max_turnout": 83294
+        },
+        {
+            "county_name": "Meigs",
+            "Whaley": 1499,
+            "DeWine": 5691,
+            "total": 7190,
+            "min_turnout": 7412,
+            "max_turnout": 8441
+        },
+        {
+            "county_name": "Mercer",
+            "Whaley": 2190,
+            "DeWine": 15189,
+            "total": 17379,
+            "min_turnout": 17916,
+            "max_turnout": 18737
+        },
+        {
+            "county_name": "Miami",
+            "Whaley": 8253,
+            "DeWine": 33035,
+            "total": 41288,
+            "min_turnout": 41705,
+            "max_turnout": 45191
+        },
+        {
+            "county_name": "Monroe",
+            "Whaley": 1006,
+            "DeWine": 3749,
+            "total": 4755,
+            "min_turnout": 4902,
+            "max_turnout": 5548
+        },
+        {
+            "county_name": "Montgomery",
+            "Whaley": 71025,
+            "DeWine": 105903,
+            "total": 176928,
+            "min_turnout": 182400,
+            "max_turnout": 213292
+        },
+        {
+            "county_name": "Morgan",
+            "Whaley": 944,
+            "DeWine": 3758,
+            "total": 4702,
+            "min_turnout": 4847,
+            "max_turnout": 5391
+        },
+        {
+            "county_name": "Morrow",
+            "Whaley": 2427,
+            "DeWine": 10536,
+            "total": 12963,
+            "min_turnout": 13093,
+            "max_turnout": 14609
+        },
+        {
+            "county_name": "Muskingum",
+            "Whaley": 6112,
+            "DeWine": 20764,
+            "total": 26876,
+            "min_turnout": 27707,
+            "max_turnout": 31287
+        },
+        {
+            "county_name": "Noble",
+            "Whaley": 768,
+            "DeWine": 3727,
+            "total": 4495,
+            "min_turnout": 4634,
+            "max_turnout": 5090
+        },
+        {
+            "county_name": "Ottawa",
+            "Whaley": 5104,
+            "DeWine": 13123,
+            "total": 18227,
+            "min_turnout": 18791,
+            "max_turnout": 19802
+        },
+        {
+            "county_name": "Paulding",
+            "Whaley": 1265,
+            "DeWine": 5087,
+            "total": 6352,
+            "min_turnout": 6548,
+            "max_turnout": 7340
+        },
+        {
+            "county_name": "Perry",
+            "Whaley": 2462,
+            "DeWine": 9107,
+            "total": 11569,
+            "min_turnout": 11927,
+            "max_turnout": 12785
+        },
+        {
+            "county_name": "Pickaway",
+            "Whaley": 4191,
+            "DeWine": 14946,
+            "total": 19137,
+            "min_turnout": 19728,
+            "max_turnout": 22195
+        },
+        {
+            "county_name": "Pike",
+            "Whaley": 1808,
+            "DeWine": 5720,
+            "total": 7528,
+            "min_turnout": 7761,
+            "max_turnout": 9432
+        },
+        {
+            "county_name": "Portage",
+            "Whaley": 22065,
+            "DeWine": 36913,
+            "total": 58978,
+            "min_turnout": 60181,
+            "max_turnout": 65459
+        },
+        {
+            "county_name": "Preble",
+            "Whaley": 2469,
+            "DeWine": 12971,
+            "total": 15440,
+            "min_turnout": 15918,
+            "max_turnout": 16854
+        },
+        {
+            "county_name": "Putnam",
+            "Whaley": 1519,
+            "DeWine": 13239,
+            "total": 14758,
+            "min_turnout": 15214,
+            "max_turnout": 15761
+        },
+        {
+            "county_name": "Richland",
+            "Whaley": 10237,
+            "DeWine": 30417,
+            "total": 40654,
+            "min_turnout": 41911,
+            "max_turnout": 47162
+        },
+        {
+            "county_name": "Ross",
+            "Whaley": 5929,
+            "DeWine": 16184,
+            "total": 22113,
+            "min_turnout": 22797,
+            "max_turnout": 25406
+        },
+        {
+            "county_name": "Sandusky",
+            "Whaley": 5527,
+            "DeWine": 15488,
+            "total": 21015,
+            "min_turnout": 21665,
+            "max_turnout": 23613
+        },
+        {
+            "county_name": "Scioto",
+            "Whaley": 4914,
+            "DeWine": 15544,
+            "total": 20458,
+            "min_turnout": 21091,
+            "max_turnout": 24837
+        },
+        {
+            "county_name": "Seneca",
+            "Whaley": 4253,
+            "DeWine": 13494,
+            "total": 17747,
+            "min_turnout": 18296,
+            "max_turnout": 20045
+        },
+        {
+            "county_name": "Shelby",
+            "Whaley": 2239,
+            "DeWine": 15356,
+            "total": 17595,
+            "min_turnout": 18139,
+            "max_turnout": 19979
+        },
+        {
+            "county_name": "Stark",
+            "Whaley": 42217,
+            "DeWine": 88937,
+            "total": 131154,
+            "min_turnout": 133898,
+            "max_turnout": 149322
+        },
+        {
+            "county_name": "Summit",
+            "Whaley": 90120,
+            "DeWine": 103880,
+            "total": 194000,
+            "min_turnout": 200000,
+            "max_turnout": 226789
+        },
+        {
+            "county_name": "Trumbull",
+            "Whaley": 23634,
+            "DeWine": 47649,
+            "total": 71283,
+            "min_turnout": 73488,
+            "max_turnout": 78116
+        },
+        {
+            "county_name": "Tuscarawas",
+            "Whaley": 7517,
+            "DeWine": 21898,
+            "total": 29415,
+            "min_turnout": 30325,
+            "max_turnout": 34657
+        },
+        {
+            "county_name": "Union",
+            "Whaley": 6739,
+            "DeWine": 18050,
+            "total": 24789,
+            "min_turnout": 25556,
+            "max_turnout": 28060
+        },
+        {
+            "county_name": "Van Wert",
+            "Whaley": 1684,
+            "DeWine": 8216,
+            "total": 9900,
+            "min_turnout": 10206,
+            "max_turnout": 11253
+        },
+        {
+            "county_name": "Vinton",
+            "Whaley": 824,
+            "DeWine": 3071,
+            "total": 3895,
+            "min_turnout": 4015,
+            "max_turnout": 4506
+        },
+        {
+            "county_name": "Warren",
+            "Whaley": 26533,
+            "DeWine": 73058,
+            "total": 99591,
+            "min_turnout": 102671,
+            "max_turnout": 110408
+        },
+        {
+            "county_name": "Washington",
+            "Whaley": 5509,
+            "DeWine": 16590,
+            "total": 22099,
+            "min_turnout": 22782,
+            "max_turnout": 24417
+        },
+        {
+            "county_name": "Wayne",
+            "Whaley": 9672,
+            "DeWine": 27857,
+            "total": 37529,
+            "min_turnout": 38690,
+            "max_turnout": 43175
+        },
+        {
+            "county_name": "Williams",
+            "Whaley": 2507,
+            "DeWine": 10191,
+            "total": 12698,
+            "min_turnout": 13091,
+            "max_turnout": 14164
+        },
+        {
+            "county_name": "Wood",
+            "Whaley": 16566,
+            "DeWine": 30805,
+            "total": 47371,
+            "min_turnout": 48836,
+            "max_turnout": 52727
+        },
+        {
+            "county_name": "Wyandot",
+            "Whaley": 1505,
+            "DeWine": 6397,
+            "total": 7902,
+            "min_turnout": 8146,
+            "max_turnout": 8773
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Allen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ashtabula": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Athens": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Auglaize": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Belmont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Champaign": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clermont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbiana": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Coshocton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Cuyahoga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Darke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Defiance": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Erie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fairfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fulton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gallia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Geauga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Guernsey": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hardin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Harrison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Henry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Highland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hocking": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Holmes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Huron": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Knox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Licking": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lorain": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lucas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mahoning": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Medina": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Meigs": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mercer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Miami": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morrow": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Muskingum": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Noble": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ottawa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Paulding": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pickaway": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Portage": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Preble": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Richland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ross": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sandusky": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Scioto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Seneca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shelby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Summit": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Trumbull": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tuscarawas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Van Wert": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Vinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Williams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyandot": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

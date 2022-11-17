@@ -1,0 +1,824 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hochul": 3024440,
+            "Zeldin": 2698914,
+            "total": 5723354,
+            "min_turnout": 5978314,
+            "max_turnout": 6722845
+        },
+        {
+            "county_name": "Albany",
+            "Hochul": 68275,
+            "Zeldin": 47166,
+            "total": 115441,
+            "min_turnout": 116607,
+            "max_turnout": 124859
+        },
+        {
+            "county_name": "Allegany",
+            "Hochul": 3776,
+            "Zeldin": 11752,
+            "total": 15528,
+            "min_turnout": 15845,
+            "max_turnout": 16345
+        },
+        {
+            "county_name": "Bronx",
+            "Hochul": 148817,
+            "Zeldin": 43180,
+            "total": 191997,
+            "min_turnout": 202102,
+            "max_turnout": 309672
+        },
+        {
+            "county_name": "Broome",
+            "Hochul": 28905,
+            "Zeldin": 37574,
+            "total": 66479,
+            "min_turnout": 68535,
+            "max_turnout": 74210
+        },
+        {
+            "county_name": "Cattaraugus",
+            "Hochul": 7531,
+            "Zeldin": 17865,
+            "total": 25396,
+            "min_turnout": 25653,
+            "max_turnout": 26732
+        },
+        {
+            "county_name": "Cayuga",
+            "Hochul": 9969,
+            "Zeldin": 16485,
+            "total": 26454,
+            "min_turnout": 26994,
+            "max_turnout": 29601
+        },
+        {
+            "county_name": "Chautauqua",
+            "Hochul": 14923,
+            "Zeldin": 27904,
+            "total": 42827,
+            "min_turnout": 45081,
+            "max_turnout": 46118
+        },
+        {
+            "county_name": "Chemung",
+            "Hochul": 9184,
+            "Zeldin": 17956,
+            "total": 27140,
+            "min_turnout": 27979,
+            "max_turnout": 31028
+        },
+        {
+            "county_name": "Chenango",
+            "Hochul": 4936,
+            "Zeldin": 11785,
+            "total": 16721,
+            "min_turnout": 16890,
+            "max_turnout": 17996
+        },
+        {
+            "county_name": "Clinton",
+            "Hochul": 11548,
+            "Zeldin": 15289,
+            "total": 26837,
+            "min_turnout": 27108,
+            "max_turnout": 29036
+        },
+        {
+            "county_name": "Columbia",
+            "Hochul": 15613,
+            "Zeldin": 13438,
+            "total": 29051,
+            "min_turnout": 29344,
+            "max_turnout": 30910
+        },
+        {
+            "county_name": "Cortland",
+            "Hochul": 6662,
+            "Zeldin": 9109,
+            "total": 15771,
+            "min_turnout": 16601,
+            "max_turnout": 17608
+        },
+        {
+            "county_name": "Delaware",
+            "Hochul": 6326,
+            "Zeldin": 11836,
+            "total": 18162,
+            "min_turnout": 18474,
+            "max_turnout": 19118
+        },
+        {
+            "county_name": "Dutchess",
+            "Hochul": 53856,
+            "Zeldin": 58424,
+            "total": 112280,
+            "min_turnout": 113414,
+            "max_turnout": 124554
+        },
+        {
+            "county_name": "Erie",
+            "Hochul": 178145,
+            "Zeldin": 158072,
+            "total": 336217,
+            "min_turnout": 350830,
+            "max_turnout": 372711
+        },
+        {
+            "county_name": "Essex",
+            "Hochul": 6836,
+            "Zeldin": 8401,
+            "total": 15237,
+            "min_turnout": 15736,
+            "max_turnout": 16039
+        },
+        {
+            "county_name": "Franklin",
+            "Hochul": 5807,
+            "Zeldin": 9003,
+            "total": 14810,
+            "min_turnout": 15550,
+            "max_turnout": 15589
+        },
+        {
+            "county_name": "Fulton",
+            "Hochul": 5191,
+            "Zeldin": 13478,
+            "total": 18669,
+            "min_turnout": 19602,
+            "max_turnout": 19652
+        },
+        {
+            "county_name": "Genesee",
+            "Hochul": 6112,
+            "Zeldin": 15788,
+            "total": 21900,
+            "min_turnout": 22997,
+            "max_turnout": 23053
+        },
+        {
+            "county_name": "Greene",
+            "Hochul": 7422,
+            "Zeldin": 12231,
+            "total": 19653,
+            "min_turnout": 19851,
+            "max_turnout": 21396
+        },
+        {
+            "county_name": "Hamilton",
+            "Hochul": 830,
+            "Zeldin": 2048,
+            "total": 2878,
+            "min_turnout": 2948,
+            "max_turnout": 3029
+        },
+        {
+            "county_name": "Herkimer",
+            "Hochul": 5584,
+            "Zeldin": 16198,
+            "total": 21782,
+            "min_turnout": 22928,
+            "max_turnout": 24109
+        },
+        {
+            "county_name": "Jefferson",
+            "Hochul": 8946,
+            "Zeldin": 22153,
+            "total": 31099,
+            "min_turnout": 31734,
+            "max_turnout": 32735
+        },
+        {
+            "county_name": "Kings",
+            "Hochul": 378897,
+            "Zeldin": 151354,
+            "total": 530251,
+            "min_turnout": 558159,
+            "max_turnout": 694987
+        },
+        {
+            "county_name": "Lewis",
+            "Hochul": 1891,
+            "Zeldin": 8932,
+            "total": 10823,
+            "min_turnout": 10823,
+            "max_turnout": 10823
+        },
+        {
+            "county_name": "Livingston",
+            "Hochul": 7913,
+            "Zeldin": 15960,
+            "total": 23873,
+            "min_turnout": 25129,
+            "max_turnout": 25383
+        },
+        {
+            "county_name": "Madison",
+            "Hochul": 9875,
+            "Zeldin": 15664,
+            "total": 25539,
+            "min_turnout": 26329,
+            "max_turnout": 27489
+        },
+        {
+            "county_name": "Monroe",
+            "Hochul": 145736,
+            "Zeldin": 125047,
+            "total": 270783,
+            "min_turnout": 285034,
+            "max_turnout": 304905
+        },
+        {
+            "county_name": "Montgomery",
+            "Hochul": 4904,
+            "Zeldin": 10679,
+            "total": 15583,
+            "min_turnout": 16403,
+            "max_turnout": 16738
+        },
+        {
+            "county_name": "Nassau",
+            "Hochul": 228194,
+            "Zeldin": 282378,
+            "total": 510572,
+            "min_turnout": 534478,
+            "max_turnout": 571668
+        },
+        {
+            "county_name": "New York",
+            "Hochul": 347606,
+            "Zeldin": 75066,
+            "total": 422672,
+            "min_turnout": 444913,
+            "max_turnout": 543284
+        },
+        {
+            "county_name": "Niagara",
+            "Hochul": 29126,
+            "Zeldin": 46111,
+            "total": 75237,
+            "min_turnout": 75996,
+            "max_turnout": 80095
+        },
+        {
+            "county_name": "Oneida",
+            "Hochul": 24713,
+            "Zeldin": 48966,
+            "total": 73679,
+            "min_turnout": 75958,
+            "max_turnout": 84192
+        },
+        {
+            "county_name": "Onondaga",
+            "Hochul": 88618,
+            "Zeldin": 76654,
+            "total": 165272,
+            "min_turnout": 170384,
+            "max_turnout": 189070
+        },
+        {
+            "county_name": "Ontario",
+            "Hochul": 19710,
+            "Zeldin": 25570,
+            "total": 45280,
+            "min_turnout": 47663,
+            "max_turnout": 48913
+        },
+        {
+            "county_name": "Orange",
+            "Hochul": 53165,
+            "Zeldin": 68350,
+            "total": 121515,
+            "min_turnout": 127910,
+            "max_turnout": 137691
+        },
+        {
+            "county_name": "Orleans",
+            "Hochul": 3242,
+            "Zeldin": 10270,
+            "total": 13512,
+            "min_turnout": 14038,
+            "max_turnout": 14223
+        },
+        {
+            "county_name": "Oswego",
+            "Hochul": 12750,
+            "Zeldin": 26485,
+            "total": 39235,
+            "min_turnout": 39631,
+            "max_turnout": 43096
+        },
+        {
+            "county_name": "Otsego",
+            "Hochul": 8540,
+            "Zeldin": 12874,
+            "total": 21414,
+            "min_turnout": 22541,
+            "max_turnout": 23013
+        },
+        {
+            "county_name": "Putnam",
+            "Hochul": 16010,
+            "Zeldin": 24557,
+            "total": 40567,
+            "min_turnout": 41395,
+            "max_turnout": 43919
+        },
+        {
+            "county_name": "Queens",
+            "Hochul": 259748,
+            "Zeldin": 152320,
+            "total": 412068,
+            "min_turnout": 433756,
+            "max_turnout": 572316
+        },
+        {
+            "county_name": "Rensselaer",
+            "Hochul": 28107,
+            "Zeldin": 33403,
+            "total": 61510,
+            "min_turnout": 64747,
+            "max_turnout": 66474
+        },
+        {
+            "county_name": "Richmond",
+            "Hochul": 45930,
+            "Zeldin": 92255,
+            "total": 138185,
+            "min_turnout": 145458,
+            "max_turnout": 157238
+        },
+        {
+            "county_name": "Rockland",
+            "Hochul": 46786,
+            "Zeldin": 60133,
+            "total": 106919,
+            "min_turnout": 112518,
+            "max_turnout": 112546
+        },
+        {
+            "county_name": "Saint Lawrence",
+            "Hochul": 11368,
+            "Zeldin": 22272,
+            "total": 33640,
+            "min_turnout": 35410,
+            "max_turnout": 35804
+        },
+        {
+            "county_name": "Saratoga",
+            "Hochul": 47085,
+            "Zeldin": 55048,
+            "total": 102133,
+            "min_turnout": 106254,
+            "max_turnout": 107508
+        },
+        {
+            "county_name": "Schenectady",
+            "Hochul": 27346,
+            "Zeldin": 26527,
+            "total": 53873,
+            "min_turnout": 56708,
+            "max_turnout": 60111
+        },
+        {
+            "county_name": "Schoharie",
+            "Hochul": 3807,
+            "Zeldin": 8742,
+            "total": 12549,
+            "min_turnout": 13209,
+            "max_turnout": 17516
+        },
+        {
+            "county_name": "Schuyler",
+            "Hochul": 2600,
+            "Zeldin": 5028,
+            "total": 7628,
+            "min_turnout": 7864,
+            "max_turnout": 8029
+        },
+        {
+            "county_name": "Seneca",
+            "Hochul": 4460,
+            "Zeldin": 6910,
+            "total": 11370,
+            "min_turnout": 11968,
+            "max_turnout": 12470
+        },
+        {
+            "county_name": "Steuben",
+            "Hochul": 9467,
+            "Zeldin": 24522,
+            "total": 33989,
+            "min_turnout": 35777,
+            "max_turnout": 36624
+        },
+        {
+            "county_name": "Suffolk",
+            "Hochul": 228532,
+            "Zeldin": 323960,
+            "total": 552492,
+            "min_turnout": 581570,
+            "max_turnout": 602480
+        },
+        {
+            "county_name": "Sullivan",
+            "Hochul": 9415,
+            "Zeldin": 14388,
+            "total": 23803,
+            "min_turnout": 24794,
+            "max_turnout": 27237
+        },
+        {
+            "county_name": "Tioga",
+            "Hochul": 5976,
+            "Zeldin": 12709,
+            "total": 18685,
+            "min_turnout": 19066,
+            "max_turnout": 19672
+        },
+        {
+            "county_name": "Tompkins",
+            "Hochul": 24266,
+            "Zeldin": 9371,
+            "total": 33637,
+            "min_turnout": 33976,
+            "max_turnout": 36794
+        },
+        {
+            "county_name": "Ulster",
+            "Hochul": 43308,
+            "Zeldin": 32709,
+            "total": 76017,
+            "min_turnout": 80017,
+            "max_turnout": 84335
+        },
+        {
+            "county_name": "Warren",
+            "Hochul": 12071,
+            "Zeldin": 15483,
+            "total": 27554,
+            "min_turnout": 27832,
+            "max_turnout": 29019
+        },
+        {
+            "county_name": "Washington",
+            "Hochul": 7169,
+            "Zeldin": 14163,
+            "total": 21332,
+            "min_turnout": 21332,
+            "max_turnout": 22454
+        },
+        {
+            "county_name": "Wayne",
+            "Hochul": 9816,
+            "Zeldin": 21859,
+            "total": 31675,
+            "min_turnout": 33342,
+            "max_turnout": 35275
+        },
+        {
+            "county_name": "Westchester",
+            "Hochul": 195399,
+            "Zeldin": 128617,
+            "total": 324016,
+            "min_turnout": 340081,
+            "max_turnout": 369399
+        },
+        {
+            "county_name": "Wyoming",
+            "Hochul": 2877,
+            "Zeldin": 11191,
+            "total": 14068,
+            "min_turnout": 14808,
+            "max_turnout": 15236
+        },
+        {
+            "county_name": "Yates",
+            "Hochul": 2823,
+            "Zeldin": 5252,
+            "total": 8075,
+            "min_turnout": 8240,
+            "max_turnout": 8719
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Albany": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Allegany": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bronx": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Broome": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cattaraugus": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cayuga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chautauqua": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chemung": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chenango": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Cortland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Dutchess": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Erie": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Essex": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Fulton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Genesee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Herkimer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kings": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Livingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Nassau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New York": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Niagara": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Oneida": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Onondaga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ontario": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Orleans": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Oswego": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Otsego": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Queens": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rensselaer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Richmond": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rockland": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Saint Lawrence": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Saratoga": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Schenectady": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Schoharie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Schuyler": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Seneca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Steuben": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Suffolk": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Tioga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tompkins": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Ulster": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Westchester": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyoming": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Yates": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

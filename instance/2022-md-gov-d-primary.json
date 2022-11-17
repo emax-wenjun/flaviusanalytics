@@ -1,0 +1,355 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Moore": 217520,
+            "Perez": 202156,
+            "Franchot": 141594,
+            "total": 671137,
+            "min_turnout": 671522,
+            "max_turnout": 737844
+        },
+        {
+            "county_name": "Allegany",
+            "Moore": 520,
+            "Perez": 710,
+            "Franchot": 1199,
+            "total": 3113,
+            "min_turnout": 3144,
+            "max_turnout": 3995
+        },
+        {
+            "county_name": "Anne Arundel",
+            "Moore": 16221,
+            "Perez": 14711,
+            "Franchot": 12604,
+            "total": 51501,
+            "min_turnout": 51501,
+            "max_turnout": 54211
+        },
+        {
+            "county_name": "Baltimore",
+            "Moore": 33136,
+            "Perez": 24052,
+            "Franchot": 26949,
+            "total": 95530,
+            "min_turnout": 95530,
+            "max_turnout": 107020
+        },
+        {
+            "county_name": "Baltimore City",
+            "Moore": 31910,
+            "Perez": 23056,
+            "Franchot": 21541,
+            "total": 85111,
+            "min_turnout": 85111,
+            "max_turnout": 96333
+        },
+        {
+            "county_name": "Calvert",
+            "Moore": 1827,
+            "Perez": 2334,
+            "Franchot": 1749,
+            "total": 7766,
+            "min_turnout": 7844,
+            "max_turnout": 8597
+        },
+        {
+            "county_name": "Caroline",
+            "Moore": 374,
+            "Perez": 268,
+            "Franchot": 622,
+            "total": 1563,
+            "min_turnout": 1563,
+            "max_turnout": 1645
+        },
+        {
+            "county_name": "Carroll",
+            "Moore": 3435,
+            "Perez": 3063,
+            "Franchot": 3354,
+            "total": 11848,
+            "min_turnout": 11967,
+            "max_turnout": 15140
+        },
+        {
+            "county_name": "Cecil",
+            "Moore": 1001,
+            "Perez": 1098,
+            "Franchot": 1521,
+            "total": 4484,
+            "min_turnout": 4506,
+            "max_turnout": 5785
+        },
+        {
+            "county_name": "Charles",
+            "Moore": 7748,
+            "Perez": 3805,
+            "Franchot": 3744,
+            "total": 19326,
+            "min_turnout": 19326,
+            "max_turnout": 19755
+        },
+        {
+            "county_name": "Dorchester",
+            "Moore": 667,
+            "Perez": 340,
+            "Franchot": 959,
+            "total": 2350,
+            "min_turnout": 2350,
+            "max_turnout": 2380
+        },
+        {
+            "county_name": "Frederick",
+            "Moore": 5848,
+            "Perez": 8105,
+            "Franchot": 4382,
+            "total": 23769,
+            "min_turnout": 23769,
+            "max_turnout": 33085
+        },
+        {
+            "county_name": "Garrett",
+            "Moore": 185,
+            "Perez": 253,
+            "Franchot": 464,
+            "total": 1189,
+            "min_turnout": 1201,
+            "max_turnout": 1653
+        },
+        {
+            "county_name": "Harford",
+            "Moore": 5427,
+            "Perez": 4454,
+            "Franchot": 5972,
+            "total": 19079,
+            "min_turnout": 19079,
+            "max_turnout": 20428
+        },
+        {
+            "county_name": "Howard",
+            "Moore": 13143,
+            "Perez": 13395,
+            "Franchot": 7949,
+            "total": 41042,
+            "min_turnout": 41042,
+            "max_turnout": 41627
+        },
+        {
+            "county_name": "Kent",
+            "Moore": 490,
+            "Perez": 681,
+            "Franchot": 769,
+            "total": 2352,
+            "min_turnout": 2352,
+            "max_turnout": 2375
+        },
+        {
+            "county_name": "Montgomery",
+            "Moore": 28755,
+            "Perez": 67619,
+            "Franchot": 16583,
+            "total": 140923,
+            "min_turnout": 140923,
+            "max_turnout": 148418
+        },
+        {
+            "county_name": "Prince George's",
+            "Moore": 59428,
+            "Perez": 26368,
+            "Franchot": 21034,
+            "total": 127139,
+            "min_turnout": 127139,
+            "max_turnout": 130914
+        },
+        {
+            "county_name": "Queen Anne's",
+            "Moore": 845,
+            "Perez": 1016,
+            "Franchot": 1258,
+            "total": 3619,
+            "min_turnout": 3619,
+            "max_turnout": 3655
+        },
+        {
+            "county_name": "Saint Mary's",
+            "Moore": 1592,
+            "Perez": 1742,
+            "Franchot": 1403,
+            "total": 6735,
+            "min_turnout": 6735,
+            "max_turnout": 6872
+        },
+        {
+            "county_name": "Somerset",
+            "Moore": 146,
+            "Perez": 145,
+            "Franchot": 416,
+            "total": 983,
+            "min_turnout": 992,
+            "max_turnout": 7319
+        },
+        {
+            "county_name": "Talbot",
+            "Moore": 1475,
+            "Perez": 1041,
+            "Franchot": 1196,
+            "total": 4244,
+            "min_turnout": 4244,
+            "max_turnout": 4286
+        },
+        {
+            "county_name": "Washington",
+            "Moore": 1386,
+            "Perez": 2220,
+            "Franchot": 2218,
+            "total": 7686,
+            "min_turnout": 7763,
+            "max_turnout": 11178
+        },
+        {
+            "county_name": "Wicomico",
+            "Moore": 1276,
+            "Perez": 903,
+            "Franchot": 2347,
+            "total": 6120,
+            "min_turnout": 6120,
+            "max_turnout": 7099
+        },
+        {
+            "county_name": "Worcester",
+            "Moore": 685,
+            "Perez": 777,
+            "Franchot": 1361,
+            "total": 3665,
+            "min_turnout": 3702,
+            "max_turnout": 4074
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Allegany": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Anne Arundel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Baltimore": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Baltimore City": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Calvert": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Caroline": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cecil": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Charles": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dorchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Frederick": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Garrett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Harford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Howard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Kent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Prince George's": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Queen Anne's": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Mary's": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Somerset": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Talbot": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wicomico": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Worcester": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

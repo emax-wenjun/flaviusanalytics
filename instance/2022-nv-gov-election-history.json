@@ -1,0 +1,7468 @@
+{
+    "2022-11-07T19:50:56-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1004381,
+            "max_turnout": 1004381
+        },
+        "1": {
+            "county_name": "Carson City",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 22195,
+            "max_turnout": 22195
+        },
+        "2": {
+            "county_name": "Churchill",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9779,
+            "max_turnout": 9779
+        },
+        "3": {
+            "county_name": "Clark",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 682607,
+            "max_turnout": 682607
+        },
+        "4": {
+            "county_name": "Douglas",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 25930,
+            "max_turnout": 25930
+        },
+        "5": {
+            "county_name": "Elko",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 16062,
+            "max_turnout": 16062
+        },
+        "6": {
+            "county_name": "Esmeralda",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 274,
+            "max_turnout": 274
+        },
+        "7": {
+            "county_name": "Eureka",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 794,
+            "max_turnout": 794
+        },
+        "8": {
+            "county_name": "Humboldt",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5698,
+            "max_turnout": 5698
+        },
+        "9": {
+            "county_name": "Lander",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2011,
+            "max_turnout": 2011
+        },
+        "10": {
+            "county_name": "Lincoln",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2030,
+            "max_turnout": 2030
+        },
+        "11": {
+            "county_name": "Lyon",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 22122,
+            "max_turnout": 22122
+        },
+        "12": {
+            "county_name": "Mineral",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1900,
+            "max_turnout": 1900
+        },
+        "13": {
+            "county_name": "Nye",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 18883,
+            "max_turnout": 18883
+        },
+        "14": {
+            "county_name": "Pershing",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1818,
+            "max_turnout": 1818
+        },
+        "15": {
+            "county_name": "Storey",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2373,
+            "max_turnout": 2373
+        },
+        "16": {
+            "county_name": "Washoe",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 186309,
+            "max_turnout": 186309
+        },
+        "17": {
+            "county_name": "White Pine",
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3596,
+            "max_turnout": 3596
+        }
+    },
+    "2022-11-08T15:22:26-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -22161,
+            "max_turnout": -22161,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -375,
+            "max_turnout": -375,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -174,
+            "max_turnout": -174,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16208,
+            "max_turnout": -16208,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -435,
+            "max_turnout": -435,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -351,
+            "max_turnout": -351,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": -9,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": -14,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -112,
+            "max_turnout": -112,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": -35,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": -29,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -487,
+            "max_turnout": -487,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": -26,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -412,
+            "max_turnout": -412,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -31,
+            "max_turnout": -31,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": -35,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3344,
+            "max_turnout": -3344,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -84,
+            "max_turnout": -84,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T15:24:53-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 377035,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8259,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4593,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 263601,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5630,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6358,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 235,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 244,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2414,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 824,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 599,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7627,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 926,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7565,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 413,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 562,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 66097,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1088,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:05:47-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -110789,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1871,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -869,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -81040,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2176,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1757,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -44,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -557,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -173,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2433,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2060,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -155,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -176,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16720,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -420,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:28:15-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -67541,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1187,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -592,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -48435,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1480,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1110,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -46,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -343,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -113,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -106,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1593,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -101,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1359,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -103,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -127,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -10578,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -242,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:54:34-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 78,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1054,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 11,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 200,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 194,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 369,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:13:09-05:00": {
+        "0": {
+            "Sisolak": 242530,
+            "Lombardo": 193448,
+            "total": 449998,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 242530,
+            "Lombardo": 193448,
+            "total": 449998,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T00:21:36-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 51035,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 946,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 374,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 37452,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 880,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 776,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 27,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 64,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 995,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 841,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 75,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7981,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 123,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:24:11-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -23170,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -421,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -191,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -17019,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -410,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -339,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -110,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -512,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -45,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -468,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -38,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3431,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:26:20-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16972,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -237,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -12938,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -232,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -349,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -221,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2734,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:29:18-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 22444,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 392,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 15029,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 497,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 445,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 25,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1375,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 178,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4072,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 49,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:30:37-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1787,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4112,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -284,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1093,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -20,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -559,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -30,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:32:25-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7105,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 192,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 195,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3116,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 519,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 178,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 49,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 50,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 426,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 401,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 54,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1754,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:35:26-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4827,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1006,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -447,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 20149,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1148,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -882,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -36,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -274,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1147,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -79,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -937,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -87,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -100,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8842,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -145,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:36:38-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9292,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 940,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 354,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -22837,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 930,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 778,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 27,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 253,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 84,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 902,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 58,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 705,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 76,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 78,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 8165,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:40:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -43029,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -796,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -301,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -31354,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -780,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -699,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -23,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -219,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -51,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -806,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -47,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -624,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -64,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -7016,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -102,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:41:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 23866,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 489,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 230,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 16048,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 671,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 452,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 136,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 51,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 553,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 415,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 59,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4539,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:42:19-05:00": {
+        "0": {
+            "Sisolak": 599,
+            "Lombardo": 1132,
+            "total": 1872,
+            "min_turnout": 181,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Sisolak": 599,
+            "Lombardo": 1132,
+            "total": 1872,
+            "min_turnout": 181,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-09T00:44:52-05:00": {
+        "0": {
+            "Sisolak": 2088,
+            "Lombardo": 6756,
+            "total": 9077,
+            "min_turnout": 641,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 2088,
+            "Lombardo": 6756,
+            "total": 9077,
+            "min_turnout": 641,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-09T00:45:35-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 15499,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 229,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13007,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 54,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 317,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1411,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:45:45-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -15499,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -229,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -13007,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -133,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -54,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -273,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -317,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -21,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1411,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -20,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:45:55-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 15499,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 229,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13007,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 54,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 317,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1411,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:46:46-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -29227,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -508,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -22379,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -393,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -400,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -133,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -588,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -547,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -45,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -4043,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -63,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:49:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 349,
+            "min_turnout": 349,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 349,
+            "min_turnout": 349,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-09T00:50:41-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13047,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 239,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 10454,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 66,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 193,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1657,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:52:56-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -38905,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -803,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -29193,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -552,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -473,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -193,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -55,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -47,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -684,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -665,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -64,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -50,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5999,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -98,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:55:38-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 34007,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 234,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 32617,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 150,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 276,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 672,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:58:36-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9244,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 157,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7015,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -89,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 243,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -17,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -183,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2086,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:00:36-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1573,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 116,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2212,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 550,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 33,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 846,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 914,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 947,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 62,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:01:09-05:00": {
+        "0": {
+            "Sisolak": 61,
+            "Lombardo": 338,
+            "total": 448,
+            "min_turnout": 230,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Sisolak": 61,
+            "Lombardo": 338,
+            "total": 448,
+            "min_turnout": 230,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        }
+    },
+    "2022-11-09T01:01:52-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5150,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 335,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8436,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 406,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 29,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 41,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -189,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -252,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2735,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:02:44-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -30051,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -30004,
+            "county_name": "Clark"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -47,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-09T01:04:31-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 43845,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 760,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 31948,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 911,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 784,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 220,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 970,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 755,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 68,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7078,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 109,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:07:35-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 36905,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 302,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 31980,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -88,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 553,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 120,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 513,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 359,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3144,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:09:53-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3505,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 58,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3140,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -83,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -189,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:11:34-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 49050,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 805,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 36122,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 995,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 850,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 234,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 85,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1198,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1007,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 95,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7350,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 123,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:13:05-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -97211,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1395,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -75340,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1288,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1592,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -41,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -423,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -123,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -100,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2004,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1626,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -115,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -12864,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -169,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T03:52:31-05:00": {
+        "0": {
+            "Sisolak": 119598,
+            "Lombardo": 179415,
+            "total": 311813,
+            "min_turnout": 115162,
+            "max_turnout": -168672,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 7694,
+            "Lombardo": 10572,
+            "total": 19075,
+            "min_turnout": 1768,
+            "max_turnout": -4646,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 199,
+            "max_turnout": -3725,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 52559,
+            "Lombardo": 84925,
+            "total": 143292,
+            "min_turnout": 84413,
+            "max_turnout": -101953,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2512,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 2350,
+            "Lombardo": 10544,
+            "total": 13756,
+            "min_turnout": 1639,
+            "max_turnout": -6225,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 57,
+            "Lombardo": 659,
+            "total": 752,
+            "min_turnout": 82,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 1012,
+            "Lombardo": 4004,
+            "total": 5376,
+            "min_turnout": 551,
+            "max_turnout": -1675,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 313,
+            "Lombardo": 1653,
+            "total": 2167,
+            "min_turnout": 389,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Sisolak": 249,
+            "Lombardo": 1627,
+            "total": 2050,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2911,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": -673,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 4596,
+            "Lombardo": 9853,
+            "total": 15298,
+            "min_turnout": 2045,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 371,
+            "Lombardo": 1255,
+            "total": 1725,
+            "min_turnout": 174,
+            "max_turnout": -345,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 661,
+            "Lombardo": 1710,
+            "total": 2500,
+            "min_turnout": 395,
+            "max_turnout": -268,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 49146,
+            "Lombardo": 50143,
+            "total": 102476,
+            "min_turnout": 17526,
+            "max_turnout": -48056,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 590,
+            "Lombardo": 2470,
+            "total": 3346,
+            "min_turnout": 342,
+            "max_turnout": -1078,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T03:53:00-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -209,
+            "max_turnout": -64014,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -56431,
+            "county_name": "Clark"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -209,
+            "max_turnout": -7583,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T04:16:40-05:00": {
+        "0": {
+            "Sisolak": 12606,
+            "Lombardo": 28245,
+            "total": 40080,
+            "min_turnout": 0,
+            "max_turnout": -46,
+            "county_name": "Total"
+        },
+        "11": {
+            "Sisolak": 3396,
+            "Lombardo": 11801,
+            "total": 16018,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "16": {
+            "Sisolak": 9210,
+            "Lombardo": 16444,
+            "total": 24062,
+            "min_turnout": 0,
+            "max_turnout": -46,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T04:17:09-05:00": {
+        "0": {
+            "Sisolak": 6353,
+            "Lombardo": 14213,
+            "total": 20858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 6353,
+            "Lombardo": 14213,
+            "total": 20858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T04:17:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 390,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 390,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T04:27:48-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 2386,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 2386,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T04:29:14-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -402,
+            "max_turnout": -8167,
+            "county_name": "Total"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -232,
+            "county_name": "Eureka"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -525,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -402,
+            "max_turnout": -7410,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-09T04:44:54-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 381,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 381,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T05:13:06-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Total"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Storey"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T13:28:15-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -12177,
+            "max_turnout": -1593,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -188,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -104,
+            "max_turnout": -499,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8809,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -124,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1389,
+            "max_turnout": -139,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": -2,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -65,
+            "max_turnout": -601,
+            "county_name": "Humboldt"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -114,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -236,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -50,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1404,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T13:58:30-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7497,
+            "max_turnout": 207,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 153,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5882,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 161,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 127,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 152,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1301,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:00:44-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -7426,
+            "max_turnout": -205,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -144,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5918,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -145,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -123,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -154,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1219,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:18:48-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6712,
+            "max_turnout": 182,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 140,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5230,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 116,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 138,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1191,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:22:31-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -6712,
+            "max_turnout": -182,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -140,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5230,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -116,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1191,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:36:41-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -669,
+            "max_turnout": -14,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -546,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Elko"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -104,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:44:35-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6594,
+            "max_turnout": 178,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 5138,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 149,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 114,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 136,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1169,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T15:30:00-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -14722,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -14722,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T16:00:05-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5425,
+            "max_turnout": -178,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -138,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -5138,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -149,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -114,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -136,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:01:20-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7662,
+            "max_turnout": 249,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 163,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 7360,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 139,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 141,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 180,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:07:23-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -6697,
+            "max_turnout": -235,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -170,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -6343,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -140,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -167,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:11:15-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6697,
+            "max_turnout": 235,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 170,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 6343,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 140,
+            "county_name": "Elko"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 167,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:17:47-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 165,
+            "max_turnout": 10,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 192,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Elko"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:39:39-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2533,
+            "max_turnout": -34,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 307,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1975,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 251,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 53,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Eureka"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -91,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T17:02:10-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 969,
+            "max_turnout": 45,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 919,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 20,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Eureka"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T18:53:35-05:00": {
+        "0": {
+            "Sisolak": 372,
+            "Lombardo": 493,
+            "total": 492,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 372,
+            "Lombardo": 493,
+            "total": 492,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T20:15:43-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 405,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 405,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T20:49:12-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -54825,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -49782,
+            "county_name": "Clark"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5043,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T20:54:53-05:00": {
+        "0": {
+            "Sisolak": 8874,
+            "Lombardo": 4412,
+            "total": 1378,
+            "min_turnout": 0,
+            "max_turnout": -356,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 8874,
+            "Lombardo": 4412,
+            "total": 1378,
+            "min_turnout": 0,
+            "max_turnout": -356,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T21:01:19-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 12594,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 12594,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T23:01:20-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1217,
+            "max_turnout": -3607,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -1217,
+            "max_turnout": -3607,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T23:37:32-05:00": {
+        "0": {
+            "Sisolak": 511,
+            "Lombardo": 2063,
+            "total": 2728,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 511,
+            "Lombardo": 2063,
+            "total": 2728,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T00:05:56-05:00": {
+        "0": {
+            "Sisolak": 2416,
+            "Lombardo": 4230,
+            "total": 6296,
+            "min_turnout": 957,
+            "max_turnout": 1636,
+            "county_name": "Total"
+        },
+        "11": {
+            "Sisolak": 2416,
+            "Lombardo": 4230,
+            "total": 6296,
+            "min_turnout": 957,
+            "max_turnout": 1636,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-10T00:34:37-05:00": {
+        "0": {
+            "Sisolak": 12166,
+            "Lombardo": 7561,
+            "total": 20574,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 12166,
+            "Lombardo": 7561,
+            "total": 20574,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T00:38:23-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 96,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 96,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T07:40:54-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 802,
+            "min_turnout": 984,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 802,
+            "min_turnout": 802,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T08:13:43-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1269,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1269,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T08:21:55-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 249,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 249,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T11:48:49-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3874,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 3874,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T15:12:19-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1404,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1404,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T15:37:59-05:00": {
+        "0": {
+            "Sisolak": 95,
+            "Lombardo": 170,
+            "total": 292,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 95,
+            "Lombardo": 170,
+            "total": 292,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T16:30:54-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T17:05:40-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 282,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 282,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T19:46:18-05:00": {
+        "0": {
+            "Sisolak": 272,
+            "Lombardo": 703,
+            "total": 1058,
+            "min_turnout": 919,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Sisolak": 272,
+            "Lombardo": 703,
+            "total": 1058,
+            "min_turnout": 919,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        }
+    },
+    "2022-11-10T19:52:55-05:00": {
+        "0": {
+            "Sisolak": 2,
+            "Lombardo": 14,
+            "total": 24,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Sisolak": 2,
+            "Lombardo": 14,
+            "total": 24,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        }
+    },
+    "2022-11-10T20:08:01-05:00": {
+        "0": {
+            "Sisolak": 877,
+            "Lombardo": 652,
+            "total": 1645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 877,
+            "Lombardo": 652,
+            "total": 1645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-10T20:17:43-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21904,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21904,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T20:31:53-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13324,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 13324,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T21:12:43-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -845,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -845,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T21:12:59-05:00": {
+        "0": {
+            "Sisolak": 7183,
+            "Lombardo": 4358,
+            "total": 12206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 7183,
+            "Lombardo": 4358,
+            "total": 12206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T21:17:49-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 807,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 229,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -333,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Eureka"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 26,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 233,
+            "max_turnout": 784,
+            "county_name": "Lyon"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -125,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T21:40:50-05:00": {
+        "0": {
+            "Sisolak": 482,
+            "Lombardo": 1441,
+            "total": 2046,
+            "min_turnout": 1784,
+            "max_turnout": 1488,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 482,
+            "Lombardo": 1441,
+            "total": 2046,
+            "min_turnout": 1784,
+            "max_turnout": 1488,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T21:44:42-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -60,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Elko"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T21:45:26-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1004,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1004,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T22:49:48-05:00": {
+        "0": {
+            "Sisolak": 10768,
+            "Lombardo": 6752,
+            "total": 18331,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 10768,
+            "Lombardo": 6752,
+            "total": 18331,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-11T13:07:16-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 353,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 150,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 203,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-11T19:00:46-05:00": {
+        "0": {
+            "Sisolak": 16508,
+            "Lombardo": 9181,
+            "total": 13127,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 16508,
+            "Lombardo": 9181,
+            "total": 13127,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T19:01:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 13971,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 13971,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T19:53:57-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13275,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13275,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T21:05:54-05:00": {
+        "0": {
+            "Sisolak": 1745,
+            "Lombardo": 3073,
+            "total": 4507,
+            "min_turnout": 2046,
+            "max_turnout": 536,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 1745,
+            "Lombardo": 3073,
+            "total": 4507,
+            "min_turnout": 2046,
+            "max_turnout": 536,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-11T21:21:52-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 557,
+            "min_turnout": 557,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 557,
+            "min_turnout": 557,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-11T22:24:43-05:00": {
+        "0": {
+            "Sisolak": 5463,
+            "Lombardo": 4851,
+            "total": 10915,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 5463,
+            "Lombardo": 4851,
+            "total": 10915,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-11T23:58:40-05:00": {
+        "0": {
+            "Sisolak": 1104,
+            "Lombardo": 1296,
+            "total": 2571,
+            "min_turnout": 1510,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 1104,
+            "Lombardo": 1296,
+            "total": 2571,
+            "min_turnout": 1510,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-12T14:01:59-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6616,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6616,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T14:09:53-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 467,
+            "max_turnout": -1358,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -916,
+            "county_name": "Carson City"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 467,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -442,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-12T19:23:01-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 11380,
+            "max_turnout": 420,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 516,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 8603,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 275,
+            "max_turnout": 515,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -469,
+            "max_turnout": -163,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4,
+            "county_name": "Eureka"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2455,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:23:06-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -11380,
+            "max_turnout": -420,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -516,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -8603,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -275,
+            "max_turnout": -515,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 469,
+            "max_turnout": 163,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Eureka"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Mineral"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2455,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:23:10-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 11380,
+            "max_turnout": 420,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 516,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 8603,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 275,
+            "max_turnout": 515,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -469,
+            "max_turnout": -163,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4,
+            "county_name": "Eureka"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Mineral"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 2455,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:45:53-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6563,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6563,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:55:45-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 785,
+            "max_turnout": 133,
+            "county_name": "Total"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 570,
+            "max_turnout": 72,
+            "county_name": "Douglas"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 139,
+            "max_turnout": 61,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 76,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T21:16:19-05:00": {
+        "0": {
+            "Sisolak": 13545,
+            "Lombardo": 8478,
+            "total": 23119,
+            "min_turnout": 3796,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 13545,
+            "Lombardo": 8478,
+            "total": 23119,
+            "min_turnout": 3796,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T21:18:29-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9209,
+            "max_turnout": 8854,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 9209,
+            "max_turnout": 8854,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T21:23:33-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1702,
+            "max_turnout": 13719,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 1702,
+            "max_turnout": 13719,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T22:25:48-05:00": {
+        "0": {
+            "Sisolak": 173,
+            "Lombardo": 346,
+            "total": 558,
+            "min_turnout": 279,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 173,
+            "Lombardo": 346,
+            "total": 558,
+            "min_turnout": 279,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T22:27:50-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 278,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 278,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T22:42:05-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 4,
+            "total": 7,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 4,
+            "total": 7,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        }
+    },
+    "2022-11-12T23:01:35-05:00": {
+        "0": {
+            "Sisolak": 5559,
+            "Lombardo": 4440,
+            "total": 10737,
+            "min_turnout": 3770,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 5559,
+            "Lombardo": 4440,
+            "total": 10737,
+            "min_turnout": 3770,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:06:50-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 202,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 202,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:07:32-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4839,
+            "max_turnout": 4452,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 4839,
+            "max_turnout": 4452,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T08:08:34-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 593,
+            "county_name": "Total"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Lander"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 586,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-13T20:02:07-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2921,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -2921,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:49:06-05:00": {
+        "0": {
+            "Sisolak": 474,
+            "Lombardo": 467,
+            "total": 980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 474,
+            "Lombardo": 467,
+            "total": 980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:49:10-05:00": {
+        "0": {
+            "Sisolak": -474,
+            "Lombardo": -467,
+            "total": -980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": -474,
+            "Lombardo": -467,
+            "total": -980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:49:14-05:00": {
+        "0": {
+            "Sisolak": 474,
+            "Lombardo": 467,
+            "total": 980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 474,
+            "Lombardo": 467,
+            "total": 980,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:42-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1029,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1029,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:50-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1029,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1029,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:54-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1029,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1029,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T15:18:14-05:00": {
+        "0": {
+            "Sisolak": 51,
+            "Lombardo": 69,
+            "total": 132,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 51,
+            "Lombardo": 69,
+            "total": 132,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-14T20:12:18-05:00": {
+        "0": {
+            "Sisolak": 2154,
+            "Lombardo": 910,
+            "total": 3219,
+            "min_turnout": -145,
+            "max_turnout": -61,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -147,
+            "max_turnout": -61,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Sisolak": 2140,
+            "Lombardo": 904,
+            "total": 3198,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "12": {
+            "Sisolak": 14,
+            "Lombardo": 6,
+            "total": 21,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-14T21:22:10-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -916,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -916,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-14T21:47:19-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3358,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3358,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-14T22:00:04-05:00": {
+        "0": {
+            "Sisolak": 574,
+            "Lombardo": 304,
+            "total": 920,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 574,
+            "Lombardo": 304,
+            "total": 920,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:06:24-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 966,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 966,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:06:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -966,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -966,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:06:32-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 966,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 966,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-15T11:29:47-05:00": {
+        "0": {
+            "Sisolak": 189,
+            "Lombardo": 484,
+            "total": 733,
+            "min_turnout": 679,
+            "max_turnout": 385,
+            "county_name": "Total"
+        },
+        "8": {
+            "Sisolak": 189,
+            "Lombardo": 484,
+            "total": 733,
+            "min_turnout": 679,
+            "max_turnout": 385,
+            "county_name": "Humboldt"
+        }
+    },
+    "2022-11-15T15:51:25-05:00": {
+        "0": {
+            "Sisolak": 14,
+            "Lombardo": 38,
+            "total": 59,
+            "min_turnout": 42,
+            "max_turnout": 46,
+            "county_name": "Total"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 46,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 1,
+            "Lombardo": 7,
+            "total": 10,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "14": {
+            "Sisolak": 13,
+            "Lombardo": 31,
+            "total": 49,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        }
+    },
+    "2022-11-15T18:49:16-05:00": {
+        "0": {
+            "Sisolak": 1807,
+            "Lombardo": 751,
+            "total": 2683,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 1807,
+            "Lombardo": 751,
+            "total": 2683,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-15T19:09:58-05:00": {
+        "0": {
+            "Sisolak": 40,
+            "Lombardo": 94,
+            "total": 147,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 40,
+            "Lombardo": 94,
+            "total": 147,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-15T19:49:53-05:00": {
+        "0": {
+            "Sisolak": 96,
+            "Lombardo": 132,
+            "total": 242,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 96,
+            "Lombardo": 132,
+            "total": 242,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-16T01:02:06-05:00": {
+        "0": {
+            "Sisolak": 1268,
+            "Lombardo": 875,
+            "total": 2237,
+            "min_turnout": 1351,
+            "max_turnout": -14939,
+            "county_name": "Total"
+        },
+        "1": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -552,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -82,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11076,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -573,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "6": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -17,
+            "county_name": "Esmeralda"
+        },
+        "8": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -88,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -52,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": -753,
+            "county_name": "Nye"
+        },
+        "15": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -84,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Sisolak": 1268,
+            "Lombardo": 875,
+            "total": 2237,
+            "min_turnout": 2219,
+            "max_turnout": -2200,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -133,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-16T10:45:28-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1783,
+            "county_name": "Total"
+        },
+        "2": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -264,
+            "county_name": "Churchill"
+        },
+        "4": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -587,
+            "county_name": "Douglas"
+        },
+        "10": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -87,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -845,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-16T20:14:43-05:00": {
+        "0": {
+            "Sisolak": 2251,
+            "Lombardo": 2303,
+            "total": 4789,
+            "min_turnout": 675,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 2251,
+            "Lombardo": 2303,
+            "total": 4789,
+            "min_turnout": 675,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T20:18:50-05:00": {
+        "0": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4896,
+            "county_name": "Total"
+        },
+        "3": {
+            "Sisolak": 0,
+            "Lombardo": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4896,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T22:41:20-05:00": {
+        "0": {
+            "Sisolak": 18,
+            "Lombardo": 25,
+            "total": 43,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Sisolak": 18,
+            "Lombardo": 25,
+            "total": 43,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "2022-or-house-5-election" : {
+        "name" : "2022 Oregon Fifth House District Election",
+        "candidates" : ["McLeod-Skinner", "Chavez-DeRemer"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-oregon-us-house-district-5.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-OR-5.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-co-house-3-election" : {
+        "name" : "2022 Colorado Third House District Election",
+        "candidates" : ["Frisch", "Boebert"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CO-3.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-wa-house-3-election" : {
+        "name" : "2022 Washington Third House District Election",
+        "candidates" : ["Perez", "Kent"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-WA-3.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ny-house-22-election" : {
+        "name" : "2022 New York 22nd House District Election",
+        "candidates" : ["Conole", "Williams"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-york-us-house-district-22.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-NY-22.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-az-house-6-election" : {
+        "name" : "2022 Arizona Sixth House District Election",
+        "candidates" : ["Engel", "Ciscomani"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-6.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-6.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-3-election" : {
+        "name" : "2022 California Third House District Election",
+        "candidates" : ["Jones", "Kiley"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-3.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-41-election" : {
+        "name" : "2022 California 41st House District Election",
+        "candidates" : ["Rollins", "Calvert"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-41.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-41.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-45-election" : {
+        "name" : "2022 California 45th House District Election",
+        "candidates" : ["Chen", "Steel"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-45.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-45.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-az-house-1-election" : {
+        "name" : "2022 Arizona First House District Election",
+        "candidates" : ["Hodge", "Schweikert"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-house-district-1.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-AZ-1.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-13-election" : {
+        "name" : "2022 California Thirteenth House District Election",
+        "candidates" : ["Gray", "Duarte"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-13.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-13.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-22-election" : {
+        "name" : "2022 California 22nd House District Election",
+        "candidates" : ["Salas", "Valadao"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-22.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-22.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ca-house-27-election" : {
+        "name" : "2022 California 27th House District Election",
+        "candidates" : ["Smith", "Garcia"],
+        "date" : [2022, 11, 8],
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-us-house-district-27.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HG-CA-27.json"
+        },
+        "graph-percents" : [0]
+    }
+}

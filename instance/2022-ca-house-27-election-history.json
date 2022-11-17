@@ -1,0 +1,254 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Smith": 57486,
+            "Garcia": 73119,
+            "total": 130605,
+            "min_turnout": 204070,
+            "max_turnout": 251163
+        },
+        "1": {
+            "county_name": "Los Angeles",
+            "Smith": 57486,
+            "Garcia": 73119,
+            "total": 130605,
+            "min_turnout": 204070,
+            "max_turnout": 251163
+        }
+    },
+    "2022-11-12T19:00:54-05:00": {
+        "0": {
+            "Smith": 3856,
+            "Garcia": 3084,
+            "total": 6940,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 3856,
+            "Garcia": 3084,
+            "total": 6940,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-12T19:01:03-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1082,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1082,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:12:21-05:00": {
+        "0": {
+            "Smith": 7211,
+            "Garcia": 5517,
+            "total": 12728,
+            "min_turnout": 0,
+            "max_turnout": 374,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 7211,
+            "Garcia": 5517,
+            "total": 12728,
+            "min_turnout": 0,
+            "max_turnout": 374,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:17:00-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 4642,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 4642,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:49:13-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 5964,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 5964,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T21:25:12-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 16513,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 16513,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T11:09:01-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11927,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11927,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T12:45:02-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": -13403,
+            "max_turnout": -7339,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": -13403,
+            "max_turnout": -7339,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T18:49:04-05:00": {
+        "0": {
+            "Smith": 3748,
+            "Garcia": 3715,
+            "total": 7463,
+            "min_turnout": 1291,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 3748,
+            "Garcia": 3715,
+            "total": 7463,
+            "min_turnout": 1291,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5852,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5852,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T15:33:01-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": -8763,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": -8763,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T18:24:58-05:00": {
+        "0": {
+            "Smith": 3403,
+            "Garcia": 4115,
+            "total": 7518,
+            "min_turnout": 1550,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 3403,
+            "Garcia": 4115,
+            "total": 7518,
+            "min_turnout": 1550,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T22:01:10-05:00": {
+        "0": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4998,
+            "county_name": "Total"
+        },
+        "1": {
+            "Smith": 0,
+            "Garcia": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4998,
+            "county_name": "Los Angeles"
+        }
+    }
+}

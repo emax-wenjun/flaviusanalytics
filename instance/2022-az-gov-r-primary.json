@@ -1,0 +1,213 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Lake": 398859,
+            "Robson": 358682,
+            "total": 831402,
+            "min_turnout": 831734,
+            "max_turnout": 886677
+        },
+        {
+            "county_name": "Apache",
+            "Lake": 2659,
+            "Robson": 1974,
+            "total": 5398,
+            "min_turnout": 5398,
+            "max_turnout": 5682
+        },
+        {
+            "county_name": "Cochise",
+            "Lake": 7962,
+            "Robson": 7440,
+            "total": 17559,
+            "min_turnout": 17559,
+            "max_turnout": 18494
+        },
+        {
+            "county_name": "Coconino",
+            "Lake": 5878,
+            "Robson": 4902,
+            "total": 12006,
+            "min_turnout": 12101,
+            "max_turnout": 12909
+        },
+        {
+            "county_name": "Gila",
+            "Lake": 5917,
+            "Robson": 4050,
+            "total": 10850,
+            "min_turnout": 10850,
+            "max_turnout": 11421
+        },
+        {
+            "county_name": "Graham",
+            "Lake": 2388,
+            "Robson": 1934,
+            "total": 4768,
+            "min_turnout": 4893,
+            "max_turnout": 5018
+        },
+        {
+            "county_name": "Greenlee",
+            "Lake": 389,
+            "Robson": 242,
+            "total": 724,
+            "min_turnout": 724,
+            "max_turnout": 832
+        },
+        {
+            "county_name": "La Paz",
+            "Lake": 1274,
+            "Robson": 934,
+            "total": 2469,
+            "min_turnout": 2469,
+            "max_turnout": 2598
+        },
+        {
+            "county_name": "Maricopa",
+            "Lake": 236363,
+            "Robson": 222583,
+            "total": 499642,
+            "min_turnout": 499642,
+            "max_turnout": 525938
+        },
+        {
+            "county_name": "Mohave",
+            "Lake": 20158,
+            "Robson": 15773,
+            "total": 39401,
+            "min_turnout": 39401,
+            "max_turnout": 41474
+        },
+        {
+            "county_name": "Navajo",
+            "Lake": 7025,
+            "Robson": 5905,
+            "total": 14250,
+            "min_turnout": 14250,
+            "max_turnout": 15000
+        },
+        {
+            "county_name": "Pima",
+            "Lake": 45677,
+            "Robson": 41187,
+            "total": 98881,
+            "min_turnout": 98951,
+            "max_turnout": 114977
+        },
+        {
+            "county_name": "Pinal",
+            "Lake": 25058,
+            "Robson": 20493,
+            "total": 49464,
+            "min_turnout": 49464,
+            "max_turnout": 52067
+        },
+        {
+            "county_name": "Santa Cruz",
+            "Lake": 1001,
+            "Robson": 771,
+            "total": 2025,
+            "min_turnout": 2067,
+            "max_turnout": 2410
+        },
+        {
+            "county_name": "Yavapai",
+            "Lake": 30041,
+            "Robson": 24725,
+            "total": 59449,
+            "min_turnout": 59449,
+            "max_turnout": 62577
+        },
+        {
+            "county_name": "Yuma",
+            "Lake": 7069,
+            "Robson": 5769,
+            "total": 14516,
+            "min_turnout": 14516,
+            "max_turnout": 15280
+        }
+    ],
+    "sources": "nyt, cnn, ddhq, sos",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Apache": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Cochise": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Coconino": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gila": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Graham": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Greenlee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "La Paz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Maricopa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mohave": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Navajo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pima": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pinal": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Santa Cruz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yavapai": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yuma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

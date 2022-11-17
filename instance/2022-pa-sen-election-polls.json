@@ -1,0 +1,410 @@
+[
+    {
+        "pollster": "Data for Progress",
+        "start": "2021-12-03",
+        "end": "2021-12-05",
+        "add": "2021-12-10",
+        "Fetterman": 44.0,
+        "Oz": 42.0
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-06-10",
+        "end": "2022-06-13",
+        "add": "2022-06-15",
+        "Fetterman": 46.0,
+        "Oz": 37.4
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-06-12",
+        "end": "2022-06-19",
+        "add": "2022-06-22",
+        "Fetterman": 50.0,
+        "Oz": 44.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-06-17",
+        "end": "2022-06-19",
+        "add": "2022-06-23",
+        "Fetterman": 48.2,
+        "Oz": 43.8
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-07-19",
+        "end": "2022-07-21",
+        "add": "2022-07-26",
+        "Fetterman": 48.9,
+        "Oz": 39.6
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-07-22",
+        "end": "2022-07-26",
+        "add": "2022-07-28",
+        "Fetterman": 47.0,
+        "Oz": 36.0
+    },
+    {
+        "pollster": "PEM Management Corporation",
+        "start": "2022-07-22",
+        "end": "2022-07-24",
+        "add": "2022-07-28",
+        "Fetterman": 43.7,
+        "Oz": 37.7
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Fetterman": 47.0,
+        "Oz": 34.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Fetterman": 50.0,
+        "Oz": 39.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-07-29",
+        "end": "2022-08-01",
+        "add": "2022-08-04",
+        "Fetterman": 47.0,
+        "Oz": 30.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-07-29",
+        "end": "2022-08-01",
+        "add": "2022-08-04",
+        "Fetterman": 48.0,
+        "Oz": 32.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-07-29",
+        "end": "2022-08-01",
+        "add": "2022-08-04",
+        "Fetterman": 52.0,
+        "Oz": 38.0
+    },
+    {
+        "pollster": "Public Opinion Strategies",
+        "start": "2022-08-07",
+        "end": "2022-08-10",
+        "add": "2022-08-17",
+        "Fetterman": 51.0,
+        "Oz": 33.0
+    },
+    {
+        "pollster": "Global Strategy Group",
+        "start": "2022-07-14",
+        "end": "2022-07-19",
+        "add": "2022-08-17",
+        "Fetterman": 51.0,
+        "Oz": 40.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-08-15",
+        "end": "2022-08-18",
+        "add": "2022-08-22",
+        "Fetterman": 48.4,
+        "Oz": 43.5
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-08-15",
+        "end": "2022-08-21",
+        "add": "2022-08-25",
+        "Fetterman": 43.0,
+        "Oz": 30.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-08-22",
+        "end": "2022-08-23",
+        "add": "2022-08-25",
+        "Fetterman": 48.4,
+        "Oz": 43.5
+    },
+    {
+        "pollster": "Susquehanna Polling & Research",
+        "start": "2022-08-22",
+        "end": "2022-08-29",
+        "add": "2022-08-31",
+        "Fetterman": 49.0,
+        "Oz": 44.0
+    },
+    {
+        "pollster": "RABA Research",
+        "start": "2022-08-31",
+        "end": "2022-09-03",
+        "add": "2022-09-08",
+        "Fetterman": 49.0,
+        "Oz": 40.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-08-31",
+        "end": "2022-09-07",
+        "add": "2022-09-13",
+        "Fetterman": 57.0,
+        "Oz": 36.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-09-06",
+        "end": "2022-09-12",
+        "add": "2022-09-14",
+        "Fetterman": 52.0,
+        "Oz": 47.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-31",
+        "end": "2022-09-01",
+        "add": "2022-09-15",
+        "Fetterman": 55.0,
+        "Oz": 36.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-31",
+        "end": "2022-09-01",
+        "add": "2022-09-15",
+        "Fetterman": 51.0,
+        "Oz": 33.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-13",
+        "end": "2022-09-15",
+        "add": "2022-09-16",
+        "Fetterman": 47.7,
+        "Oz": 45.9
+    },
+    {
+        "pollster": "Muhlenberg College",
+        "start": "2022-09-13",
+        "end": "2022-09-16",
+        "add": "2022-09-22",
+        "Fetterman": 49.0,
+        "Oz": 44.0
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-09-16",
+        "end": "2022-09-19",
+        "add": "2022-09-26",
+        "Fetterman": 46.5,
+        "Oz": 44.5
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-09-23",
+        "end": "2022-09-24",
+        "add": "2022-09-26",
+        "Fetterman": 44.8,
+        "Oz": 41.7
+    },
+    {
+        "pollster": "Marist College",
+        "start": "2022-09-19",
+        "end": "2022-09-22",
+        "add": "2022-09-27",
+        "Fetterman": 51.0,
+        "Oz": 41.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-09-22",
+        "end": "2022-09-26",
+        "add": "2022-09-28",
+        "Fetterman": 45.0,
+        "Oz": 41.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-09-19",
+        "end": "2022-09-25",
+        "add": "2022-09-29",
+        "Fetterman": 45.0,
+        "Oz": 42.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-23",
+        "end": "2022-09-26",
+        "add": "2022-09-30",
+        "Fetterman": 44.6,
+        "Oz": 42.6
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-09-27",
+        "end": "2022-09-30",
+        "add": "2022-10-04",
+        "Fetterman": 46.4,
+        "Oz": 40.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-29",
+        "end": "2022-09-30",
+        "add": "2022-10-05",
+        "Fetterman": 55.0,
+        "Oz": 36.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-29",
+        "end": "2022-09-30",
+        "add": "2022-10-05",
+        "Fetterman": 50.0,
+        "Oz": 34.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-08",
+        "end": "2022-10-11",
+        "add": "2022-10-14",
+        "Fetterman": 47.2,
+        "Oz": 44.8
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-10-04",
+        "end": "2022-10-12",
+        "add": "2022-10-18",
+        "Fetterman": 48.0,
+        "Oz": 46.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-19",
+        "end": "2022-10-19",
+        "add": "2022-10-20",
+        "Fetterman": 46.3,
+        "Oz": 45.5
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-10-18",
+        "end": "2022-10-20",
+        "add": "2022-10-21",
+        "Fetterman": 46.0,
+        "Oz": 43.0
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-08",
+        "end": "2022-10-13",
+        "add": "2022-10-22",
+        "Fetterman": 44.6,
+        "Oz": 49.1
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-24",
+        "Fetterman": 52.0,
+        "Oz": 41.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-24",
+        "Fetterman": 51.0,
+        "Oz": 45.0
+    },
+    {
+        "pollster": "Rasmussen Reports/Pulse Opinion Research",
+        "start": "2022-10-19",
+        "end": "2022-10-20",
+        "add": "2022-10-24",
+        "Fetterman": 45.0,
+        "Oz": 43.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-10-21",
+        "end": "2022-10-24",
+        "add": "2022-10-25",
+        "Fetterman": 51.0,
+        "Oz": 49.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-10-14",
+        "end": "2022-10-23",
+        "add": "2022-10-27",
+        "Fetterman": 49.0,
+        "Oz": 45.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-10-14",
+        "end": "2022-10-23",
+        "add": "2022-10-27",
+        "Fetterman": 48.0,
+        "Oz": 43.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-26",
+        "end": "2022-10-26",
+        "add": "2022-10-27",
+        "Fetterman": 44.8,
+        "Oz": 47.5
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-26",
+        "end": "2022-10-27",
+        "add": "2022-10-28",
+        "Fetterman": 45.9,
+        "Oz": 47.6
+    },
+    {
+        "pollster": "co/efficient",
+        "start": "2022-10-26",
+        "end": "2022-10-28",
+        "add": "2022-10-28",
+        "Fetterman": 45.0,
+        "Oz": 48.0
+    },
+    {
+        "pollster": "Siena College/The New York Times Upshot",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-31",
+        "Fetterman": 49.0,
+        "Oz": 44.0
+    },
+    {
+        "pollster": "Patriot Polling",
+        "start": "2022-10-10",
+        "end": "2022-10-12",
+        "add": "2022-10-31",
+        "Fetterman": 46.0,
+        "Oz": 47.6
+    },
+    {
+        "pollster": "Hart Research Associates",
+        "start": "2022-10-17",
+        "end": "2022-10-19",
+        "add": "2022-10-31",
+        "Fetterman": 46.0,
+        "Oz": 44.0
+    }
+]

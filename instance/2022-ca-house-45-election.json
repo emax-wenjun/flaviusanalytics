@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Chen": 94089,
+            "Steel": 106781,
+            "total": 200870,
+            "min_turnout": 220837,
+            "max_turnout": 229636
+        },
+        {
+            "county_name": "Los Angeles",
+            "Chen": 10633,
+            "Steel": 8153,
+            "total": 18786,
+            "min_turnout": 25048,
+            "max_turnout": 25048
+        },
+        {
+            "county_name": "Orange",
+            "Chen": 83456,
+            "Steel": 98628,
+            "total": 182084,
+            "min_turnout": 195789,
+            "max_turnout": 204588
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Los Angeles": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

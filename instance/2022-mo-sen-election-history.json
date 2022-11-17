@@ -1,0 +1,6410 @@
+{
+    "2022-11-08T15:29:30-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2796170,
+            "max_turnout": 2796170
+        },
+        "1": {
+            "county_name": "Adair",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9955,
+            "max_turnout": 9955
+        },
+        "2": {
+            "county_name": "Andrew",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8690,
+            "max_turnout": 8690
+        },
+        "3": {
+            "county_name": "Atchison",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2550,
+            "max_turnout": 2550
+        },
+        "4": {
+            "county_name": "Audrain",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9996,
+            "max_turnout": 9996
+        },
+        "5": {
+            "county_name": "Barry",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 14077,
+            "max_turnout": 14077
+        },
+        "6": {
+            "county_name": "Barton",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5749,
+            "max_turnout": 5749
+        },
+        "7": {
+            "county_name": "Bates",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7654,
+            "max_turnout": 7654
+        },
+        "8": {
+            "county_name": "Benton",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9564,
+            "max_turnout": 9564
+        },
+        "9": {
+            "county_name": "Bollinger",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5521,
+            "max_turnout": 5521
+        },
+        "10": {
+            "county_name": "Boone",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 86087,
+            "max_turnout": 86087
+        },
+        "11": {
+            "county_name": "Buchanan",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 34481,
+            "max_turnout": 34481
+        },
+        "12": {
+            "county_name": "Butler",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16060,
+            "max_turnout": 16060
+        },
+        "13": {
+            "county_name": "Caldwell",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4325,
+            "max_turnout": 4325
+        },
+        "14": {
+            "county_name": "Callaway",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 19549,
+            "max_turnout": 19549
+        },
+        "15": {
+            "county_name": "Camden",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 22909,
+            "max_turnout": 22909
+        },
+        "16": {
+            "county_name": "Cape Girardeau",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 37213,
+            "max_turnout": 37213
+        },
+        "17": {
+            "county_name": "Carroll",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4287,
+            "max_turnout": 4287
+        },
+        "18": {
+            "county_name": "Carter",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2693,
+            "max_turnout": 2693
+        },
+        "19": {
+            "county_name": "Cass",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 50165,
+            "max_turnout": 50165
+        },
+        "20": {
+            "county_name": "Cedar",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6259,
+            "max_turnout": 6259
+        },
+        "21": {
+            "county_name": "Chariton",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3849,
+            "max_turnout": 3849
+        },
+        "22": {
+            "county_name": "Christian",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 41656,
+            "max_turnout": 41656
+        },
+        "23": {
+            "county_name": "Clark",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3081,
+            "max_turnout": 3081
+        },
+        "24": {
+            "county_name": "Clay",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 111280,
+            "max_turnout": 111280
+        },
+        "25": {
+            "county_name": "Clinton",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9893,
+            "max_turnout": 9893
+        },
+        "26": {
+            "county_name": "Cole",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 38288,
+            "max_turnout": 38288
+        },
+        "27": {
+            "county_name": "Cooper",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8062,
+            "max_turnout": 8062
+        },
+        "28": {
+            "county_name": "Crawford",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9782,
+            "max_turnout": 9782
+        },
+        "29": {
+            "county_name": "Dade",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3859,
+            "max_turnout": 3859
+        },
+        "30": {
+            "county_name": "Dallas",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7434,
+            "max_turnout": 7434
+        },
+        "31": {
+            "county_name": "Daviess",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3455,
+            "max_turnout": 3455
+        },
+        "32": {
+            "county_name": "DeKalb",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4317,
+            "max_turnout": 4317
+        },
+        "33": {
+            "county_name": "Dent",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6892,
+            "max_turnout": 6892
+        },
+        "34": {
+            "county_name": "Douglas",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6398,
+            "max_turnout": 6398
+        },
+        "35": {
+            "county_name": "Dunklin",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9133,
+            "max_turnout": 9133
+        },
+        "36": {
+            "county_name": "Franklin",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 49152,
+            "max_turnout": 49152
+        },
+        "37": {
+            "county_name": "Gasconade",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7294,
+            "max_turnout": 7294
+        },
+        "38": {
+            "county_name": "Gentry",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2916,
+            "max_turnout": 2916
+        },
+        "39": {
+            "county_name": "Greene",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 132974,
+            "max_turnout": 132974
+        },
+        "40": {
+            "county_name": "Grundy",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4161,
+            "max_turnout": 4161
+        },
+        "41": {
+            "county_name": "Harrison",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3293,
+            "max_turnout": 3293
+        },
+        "42": {
+            "county_name": "Henry",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9874,
+            "max_turnout": 9874
+        },
+        "43": {
+            "county_name": "Hickory",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4730,
+            "max_turnout": 4730
+        },
+        "44": {
+            "county_name": "Holt",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2190,
+            "max_turnout": 2190
+        },
+        "45": {
+            "county_name": "Howard",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4801,
+            "max_turnout": 4801
+        },
+        "46": {
+            "county_name": "Howell",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16695,
+            "max_turnout": 16695
+        },
+        "47": {
+            "county_name": "Iron",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4092,
+            "max_turnout": 4092
+        },
+        "48": {
+            "county_name": "Jackson",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 302499,
+            "max_turnout": 302499
+        },
+        "49": {
+            "county_name": "Jasper",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 46240,
+            "max_turnout": 46240
+        },
+        "50": {
+            "county_name": "Jefferson",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 103553,
+            "max_turnout": 103553
+        },
+        "51": {
+            "county_name": "Johnson",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 20292,
+            "max_turnout": 20292
+        },
+        "52": {
+            "county_name": "Knox",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1807,
+            "max_turnout": 1807
+        },
+        "53": {
+            "county_name": "LaClede",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 15473,
+            "max_turnout": 15473
+        },
+        "54": {
+            "county_name": "Lafayette",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 15366,
+            "max_turnout": 15366
+        },
+        "55": {
+            "county_name": "Lawrence",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16068,
+            "max_turnout": 16068
+        },
+        "56": {
+            "county_name": "Lewis",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4066,
+            "max_turnout": 4066
+        },
+        "57": {
+            "county_name": "Lincoln",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 24618,
+            "max_turnout": 24618
+        },
+        "58": {
+            "county_name": "Linn",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5335,
+            "max_turnout": 5335
+        },
+        "59": {
+            "county_name": "Livingston",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5940,
+            "max_turnout": 5940
+        },
+        "60": {
+            "county_name": "Macon",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7546,
+            "max_turnout": 7546
+        },
+        "61": {
+            "county_name": "Madison",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5086,
+            "max_turnout": 5086
+        },
+        "62": {
+            "county_name": "Maries",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4507,
+            "max_turnout": 4507
+        },
+        "63": {
+            "county_name": "Marion",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 12293,
+            "max_turnout": 12293
+        },
+        "64": {
+            "county_name": "McDonald",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7524,
+            "max_turnout": 7524
+        },
+        "65": {
+            "county_name": "Mercer",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1566,
+            "max_turnout": 1566
+        },
+        "66": {
+            "county_name": "Miller",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 11332,
+            "max_turnout": 11332
+        },
+        "67": {
+            "county_name": "Mississippi",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4374,
+            "max_turnout": 4374
+        },
+        "68": {
+            "county_name": "Moniteau",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6820,
+            "max_turnout": 6820
+        },
+        "69": {
+            "county_name": "Monroe",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4252,
+            "max_turnout": 4252
+        },
+        "70": {
+            "county_name": "Montgomery",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5404,
+            "max_turnout": 5404
+        },
+        "71": {
+            "county_name": "Morgan",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 9006,
+            "max_turnout": 9006
+        },
+        "72": {
+            "county_name": "New Madrid",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6574,
+            "max_turnout": 6574
+        },
+        "73": {
+            "county_name": "Newton",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 25839,
+            "max_turnout": 25839
+        },
+        "74": {
+            "county_name": "Nodaway",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8812,
+            "max_turnout": 8812
+        },
+        "75": {
+            "county_name": "Oregon",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4376,
+            "max_turnout": 4376
+        },
+        "76": {
+            "county_name": "Osage",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 6907,
+            "max_turnout": 6907
+        },
+        "77": {
+            "county_name": "Ozark",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4624,
+            "max_turnout": 4624
+        },
+        "78": {
+            "county_name": "Pemiscot",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5189,
+            "max_turnout": 5189
+        },
+        "79": {
+            "county_name": "Perry",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8338,
+            "max_turnout": 8338
+        },
+        "80": {
+            "county_name": "Pettis",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 17290,
+            "max_turnout": 17290
+        },
+        "81": {
+            "county_name": "Phelps",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 18401,
+            "max_turnout": 18401
+        },
+        "82": {
+            "county_name": "Pike",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7212,
+            "max_turnout": 7212
+        },
+        "83": {
+            "county_name": "Platte",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 50907,
+            "max_turnout": 50907
+        },
+        "84": {
+            "county_name": "Polk",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 13424,
+            "max_turnout": 13424
+        },
+        "85": {
+            "county_name": "Pulaski",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 12380,
+            "max_turnout": 12380
+        },
+        "86": {
+            "county_name": "Putnam",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2187,
+            "max_turnout": 2187
+        },
+        "87": {
+            "county_name": "Ralls",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5044,
+            "max_turnout": 5044
+        },
+        "88": {
+            "county_name": "Randolph",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 10193,
+            "max_turnout": 10193
+        },
+        "89": {
+            "county_name": "Ray",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 10836,
+            "max_turnout": 10836
+        },
+        "90": {
+            "county_name": "Reynolds",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2902,
+            "max_turnout": 2902
+        },
+        "91": {
+            "county_name": "Ripley",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5114,
+            "max_turnout": 5114
+        },
+        "92": {
+            "county_name": "Saint Charles",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 201623,
+            "max_turnout": 201623
+        },
+        "93": {
+            "county_name": "Saint Clair",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 4703,
+            "max_turnout": 4703
+        },
+        "94": {
+            "county_name": "Saint Francois",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 24990,
+            "max_turnout": 24990
+        },
+        "95": {
+            "county_name": "Saint Louis",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 523913,
+            "max_turnout": 523913
+        },
+        "96": {
+            "county_name": "Saint Louis City",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 131831,
+            "max_turnout": 131831
+        },
+        "97": {
+            "county_name": "Saline",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8978,
+            "max_turnout": 8978
+        },
+        "98": {
+            "county_name": "Schuyler",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1849,
+            "max_turnout": 1849
+        },
+        "99": {
+            "county_name": "Scotland",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1850,
+            "max_turnout": 1850
+        },
+        "100": {
+            "county_name": "Scott",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16500,
+            "max_turnout": 16500
+        },
+        "101": {
+            "county_name": "Shannon",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3701,
+            "max_turnout": 3701
+        },
+        "102": {
+            "county_name": "Shelby",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3132,
+            "max_turnout": 3132
+        },
+        "103": {
+            "county_name": "Ste. Genevieve",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8607,
+            "max_turnout": 8607
+        },
+        "104": {
+            "county_name": "Stoddard",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 12450,
+            "max_turnout": 12450
+        },
+        "105": {
+            "county_name": "Stone",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16954,
+            "max_turnout": 16954
+        },
+        "106": {
+            "county_name": "Sullivan",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 2260,
+            "max_turnout": 2260
+        },
+        "107": {
+            "county_name": "Taney",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 23622,
+            "max_turnout": 23622
+        },
+        "108": {
+            "county_name": "Texas",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 10674,
+            "max_turnout": 10674
+        },
+        "109": {
+            "county_name": "Vernon",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8232,
+            "max_turnout": 8232
+        },
+        "110": {
+            "county_name": "Warren",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16041,
+            "max_turnout": 16041
+        },
+        "111": {
+            "county_name": "Washington",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 8405,
+            "max_turnout": 8405
+        },
+        "112": {
+            "county_name": "Wayne",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5423,
+            "max_turnout": 5423
+        },
+        "113": {
+            "county_name": "Webster",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 16683,
+            "max_turnout": 16683
+        },
+        "114": {
+            "county_name": "Worth",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1057,
+            "max_turnout": 1057
+        },
+        "115": {
+            "county_name": "Wright",
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 7841,
+            "max_turnout": 7841
+        }
+    },
+    "2022-11-08T20:02:06-05:00": {
+        "0": {
+            "Valentine": 822,
+            "Schmitt": 1172,
+            "total": 1994,
+            "min_turnout": -4678,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 822,
+            "Schmitt": 1172,
+            "total": 1994,
+            "min_turnout": -4678,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T20:05:50-05:00": {
+        "0": {
+            "Valentine": 8537,
+            "Schmitt": 5439,
+            "total": 14194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 8537,
+            "Schmitt": 5439,
+            "total": 14194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T20:10:56-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 32,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 32,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T20:21:43-05:00": {
+        "0": {
+            "Valentine": 105,
+            "Schmitt": 337,
+            "total": 442,
+            "min_turnout": -873,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "34": {
+            "Valentine": 105,
+            "Schmitt": 337,
+            "total": 442,
+            "min_turnout": -873,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-08T20:24:54-05:00": {
+        "0": {
+            "Valentine": 393,
+            "Schmitt": 861,
+            "total": 1254,
+            "min_turnout": -2653,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Valentine": 196,
+            "Schmitt": 306,
+            "total": 502,
+            "min_turnout": -1379,
+            "max_turnout": 0,
+            "county_name": "Bates"
+        },
+        "108": {
+            "Valentine": 197,
+            "Schmitt": 555,
+            "total": 752,
+            "min_turnout": -1274,
+            "max_turnout": 0,
+            "county_name": "Texas"
+        }
+    },
+    "2022-11-08T20:30:02-05:00": {
+        "0": {
+            "Valentine": 413,
+            "Schmitt": 573,
+            "total": 986,
+            "min_turnout": -25852,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -22939,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "97": {
+            "Valentine": 327,
+            "Schmitt": 327,
+            "total": 654,
+            "min_turnout": -1712,
+            "max_turnout": 0,
+            "county_name": "Saline"
+        },
+        "115": {
+            "Valentine": 86,
+            "Schmitt": 246,
+            "total": 332,
+            "min_turnout": -1201,
+            "max_turnout": 0,
+            "county_name": "Wright"
+        }
+    },
+    "2022-11-08T20:31:30-05:00": {
+        "0": {
+            "Valentine": 168,
+            "Schmitt": 480,
+            "total": 648,
+            "min_turnout": -652,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "69": {
+            "Valentine": 168,
+            "Schmitt": 480,
+            "total": 648,
+            "min_turnout": -652,
+            "max_turnout": 0,
+            "county_name": "Monroe"
+        }
+    },
+    "2022-11-08T20:33:19-05:00": {
+        "0": {
+            "Valentine": 548,
+            "Schmitt": 1311,
+            "total": 1892,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 548,
+            "Schmitt": 1311,
+            "total": 1892,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T20:39:48-05:00": {
+        "0": {
+            "Valentine": 2501,
+            "Schmitt": 4108,
+            "total": 6680,
+            "min_turnout": -4048,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Valentine": 881,
+            "Schmitt": 1727,
+            "total": 2608,
+            "min_turnout": -2848,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        },
+        "26": {
+            "Valentine": 1366,
+            "Schmitt": 1656,
+            "total": 3073,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        },
+        "57": {
+            "Valentine": 107,
+            "Schmitt": 319,
+            "total": 446,
+            "min_turnout": 226,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "79": {
+            "Valentine": 147,
+            "Schmitt": 406,
+            "total": 553,
+            "min_turnout": -1426,
+            "max_turnout": 0,
+            "county_name": "Perry"
+        }
+    },
+    "2022-11-08T20:40:08-05:00": {
+        "0": {
+            "Valentine": 1286,
+            "Schmitt": 1534,
+            "total": 2820,
+            "min_turnout": -8867,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 1286,
+            "Schmitt": 1534,
+            "total": 2820,
+            "min_turnout": -8867,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T20:42:22-05:00": {
+        "0": {
+            "Valentine": 52928,
+            "Schmitt": 23991,
+            "total": 76919,
+            "min_turnout": -71449,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "95": {
+            "Valentine": 52928,
+            "Schmitt": 23991,
+            "total": 76919,
+            "min_turnout": -71449,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T20:44:46-05:00": {
+        "0": {
+            "Valentine": 3452,
+            "Schmitt": 3581,
+            "total": 7162,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 3452,
+            "Schmitt": 3581,
+            "total": 7162,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T20:45:44-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -4711,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -4711,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        }
+    },
+    "2022-11-08T20:46:52-05:00": {
+        "0": {
+            "Valentine": 289,
+            "Schmitt": 918,
+            "total": 1207,
+            "min_turnout": -986,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Valentine": 289,
+            "Schmitt": 918,
+            "total": 1207,
+            "min_turnout": -986,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        }
+    },
+    "2022-11-08T20:47:49-05:00": {
+        "0": {
+            "Valentine": 15917,
+            "Schmitt": 2353,
+            "total": 18506,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "96": {
+            "Valentine": 15917,
+            "Schmitt": 2353,
+            "total": 18506,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T20:50:40-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 739,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 54,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "95": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 685,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T20:50:59-05:00": {
+        "0": {
+            "Valentine": 245,
+            "Schmitt": 670,
+            "total": 937,
+            "min_turnout": 677,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 245,
+            "Schmitt": 670,
+            "total": 937,
+            "min_turnout": 677,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T20:57:19-05:00": {
+        "0": {
+            "Valentine": 635,
+            "Schmitt": 915,
+            "total": 1573,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Valentine": 578,
+            "Schmitt": 706,
+            "total": 1296,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Buchanan"
+        },
+        "107": {
+            "Valentine": 57,
+            "Schmitt": 209,
+            "total": 277,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T20:59:20-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -15641,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -15641,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T21:00:35-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -17644,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "96": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -17644,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T21:01:53-05:00": {
+        "0": {
+            "Valentine": 758,
+            "Schmitt": 1792,
+            "total": 2645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 758,
+            "Schmitt": 1792,
+            "total": 2645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T21:02:25-05:00": {
+        "0": {
+            "Valentine": 1080,
+            "Schmitt": 2133,
+            "total": 3255,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Valentine": 1080,
+            "Schmitt": 2133,
+            "total": 3255,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cape Girardeau"
+        }
+    },
+    "2022-11-08T21:03:53-05:00": {
+        "0": {
+            "Valentine": 1280,
+            "Schmitt": 4573,
+            "total": 5853,
+            "min_turnout": -1356,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Valentine": 1204,
+            "Schmitt": 4367,
+            "total": 5571,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        },
+        "89": {
+            "Valentine": 76,
+            "Schmitt": 206,
+            "total": 282,
+            "min_turnout": -1436,
+            "max_turnout": 0,
+            "county_name": "Ray"
+        }
+    },
+    "2022-11-08T21:05:19-05:00": {
+        "0": {
+            "Valentine": 737,
+            "Schmitt": 2073,
+            "total": 2895,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 737,
+            "Schmitt": 2073,
+            "total": 2895,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:07:05-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -360,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -360,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:07:53-05:00": {
+        "0": {
+            "Valentine": 30,
+            "Schmitt": 265,
+            "total": 301,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 30,
+            "Schmitt": 265,
+            "total": 301,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:08:03-05:00": {
+        "0": {
+            "Valentine": 657,
+            "Schmitt": 754,
+            "total": 1411,
+            "min_turnout": -3872,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Valentine": 657,
+            "Schmitt": 754,
+            "total": 1411,
+            "min_turnout": -3872,
+            "max_turnout": 0,
+            "county_name": "Callaway"
+        }
+    },
+    "2022-11-08T21:11:12-05:00": {
+        "0": {
+            "Valentine": 855,
+            "Schmitt": 1910,
+            "total": 2780,
+            "min_turnout": -408,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "89": {
+            "Valentine": 759,
+            "Schmitt": 1477,
+            "total": 2236,
+            "min_turnout": -408,
+            "max_turnout": 0,
+            "county_name": "Ray"
+        },
+        "107": {
+            "Valentine": 96,
+            "Schmitt": 433,
+            "total": 544,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:13:13-05:00": {
+        "0": {
+            "Valentine": 262,
+            "Schmitt": 931,
+            "total": 1193,
+            "min_turnout": -60,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "69": {
+            "Valentine": 262,
+            "Schmitt": 931,
+            "total": 1193,
+            "min_turnout": -60,
+            "max_turnout": 0,
+            "county_name": "Monroe"
+        }
+    },
+    "2022-11-08T21:13:51-05:00": {
+        "0": {
+            "Valentine": 5416,
+            "Schmitt": 10980,
+            "total": 16999,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Valentine": 4243,
+            "Schmitt": 7722,
+            "total": 12450,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Buchanan"
+        },
+        "19": {
+            "Valentine": 1173,
+            "Schmitt": 3258,
+            "total": 4549,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T21:15:04-05:00": {
+        "0": {
+            "Valentine": 893,
+            "Schmitt": 3862,
+            "total": 4930,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Valentine": 392,
+            "Schmitt": 1467,
+            "total": 1909,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Atchison"
+        },
+        "29": {
+            "Valentine": 501,
+            "Schmitt": 2395,
+            "total": 2997,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dade"
+        },
+        "108": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 24,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Texas"
+        }
+    },
+    "2022-11-08T21:16:09-05:00": {
+        "0": {
+            "Valentine": 1328,
+            "Schmitt": 5278,
+            "total": 6606,
+            "min_turnout": -2770,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "53": {
+            "Valentine": 1328,
+            "Schmitt": 5278,
+            "total": 6606,
+            "min_turnout": -2770,
+            "max_turnout": 0,
+            "county_name": "LaClede"
+        }
+    },
+    "2022-11-08T21:16:56-05:00": {
+        "0": {
+            "Valentine": 1236,
+            "Schmitt": 1932,
+            "total": 3168,
+            "min_turnout": -2890,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "80": {
+            "Valentine": 1236,
+            "Schmitt": 1932,
+            "total": 3168,
+            "min_turnout": -2890,
+            "max_turnout": 0,
+            "county_name": "Pettis"
+        }
+    },
+    "2022-11-08T21:17:15-05:00": {
+        "0": {
+            "Valentine": 822,
+            "Schmitt": 4030,
+            "total": 4852,
+            "min_turnout": -1184,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "33": {
+            "Valentine": 822,
+            "Schmitt": 4030,
+            "total": 4852,
+            "min_turnout": -1184,
+            "max_turnout": 0,
+            "county_name": "Dent"
+        }
+    },
+    "2022-11-08T21:17:25-05:00": {
+        "0": {
+            "Valentine": 1837,
+            "Schmitt": 5683,
+            "total": 7520,
+            "min_turnout": 56,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Valentine": 1837,
+            "Schmitt": 5683,
+            "total": 7520,
+            "min_turnout": 56,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        }
+    },
+    "2022-11-08T21:18:03-05:00": {
+        "0": {
+            "Valentine": 987,
+            "Schmitt": 2980,
+            "total": 4109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 987,
+            "Schmitt": 2980,
+            "total": 4109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:18:59-05:00": {
+        "0": {
+            "Valentine": 2395,
+            "Schmitt": 3712,
+            "total": 6295,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "Valentine": 2395,
+            "Schmitt": 3712,
+            "total": 6295,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        }
+    },
+    "2022-11-08T21:19:26-05:00": {
+        "0": {
+            "Valentine": 1040,
+            "Schmitt": 2306,
+            "total": 3292,
+            "min_turnout": -4262,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -5083,
+            "max_turnout": 0,
+            "county_name": "Cape Girardeau"
+        },
+        "36": {
+            "Valentine": 1040,
+            "Schmitt": 2306,
+            "total": 3292,
+            "min_turnout": 821,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T21:19:54-05:00": {
+        "0": {
+            "Valentine": 278,
+            "Schmitt": 839,
+            "total": 1117,
+            "min_turnout": -1350,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -414,
+            "max_turnout": 0,
+            "county_name": "Atchison"
+        },
+        "70": {
+            "Valentine": 278,
+            "Schmitt": 839,
+            "total": 1117,
+            "min_turnout": -936,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-11-08T21:21:01-05:00": {
+        "0": {
+            "Valentine": 816,
+            "Schmitt": 3241,
+            "total": 4057,
+            "min_turnout": -2965,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "105": {
+            "Valentine": 816,
+            "Schmitt": 3241,
+            "total": 4057,
+            "min_turnout": -2965,
+            "max_turnout": 0,
+            "county_name": "Stone"
+        }
+    },
+    "2022-11-08T21:21:31-05:00": {
+        "0": {
+            "Valentine": 1230,
+            "Schmitt": 6376,
+            "total": 7610,
+            "min_turnout": -4518,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 172,
+            "Schmitt": 757,
+            "total": 957,
+            "min_turnout": -3962,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        },
+        "108": {
+            "Valentine": 1058,
+            "Schmitt": 5619,
+            "total": 6653,
+            "min_turnout": -556,
+            "max_turnout": 0,
+            "county_name": "Texas"
+        }
+    },
+    "2022-11-08T21:22:57-05:00": {
+        "0": {
+            "Valentine": 2523,
+            "Schmitt": 12184,
+            "total": 14707,
+            "min_turnout": -2642,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Valentine": 1872,
+            "Schmitt": 9333,
+            "total": 11205,
+            "min_turnout": -2721,
+            "max_turnout": 0,
+            "county_name": "Butler"
+        },
+        "79": {
+            "Valentine": 651,
+            "Schmitt": 2851,
+            "total": 3502,
+            "min_turnout": 79,
+            "max_turnout": 0,
+            "county_name": "Perry"
+        }
+    },
+    "2022-11-08T21:23:34-05:00": {
+        "0": {
+            "Valentine": 219,
+            "Schmitt": 862,
+            "total": 1108,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 219,
+            "Schmitt": 862,
+            "total": 1108,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:23:43-05:00": {
+        "0": {
+            "Valentine": 1090,
+            "Schmitt": 4417,
+            "total": 5507,
+            "min_turnout": -1289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "60": {
+            "Valentine": 1090,
+            "Schmitt": 4417,
+            "total": 5507,
+            "min_turnout": -1289,
+            "max_turnout": 0,
+            "county_name": "Macon"
+        }
+    },
+    "2022-11-08T21:23:53-05:00": {
+        "0": {
+            "Valentine": 49,
+            "Schmitt": 178,
+            "total": 536,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 302,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Butler"
+        },
+        "107": {
+            "Valentine": 49,
+            "Schmitt": 178,
+            "total": 234,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:24:12-05:00": {
+        "0": {
+            "Valentine": 245,
+            "Schmitt": 1051,
+            "total": 1296,
+            "min_turnout": -379,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "115": {
+            "Valentine": 245,
+            "Schmitt": 1051,
+            "total": 1296,
+            "min_turnout": -379,
+            "max_turnout": 0,
+            "county_name": "Wright"
+        }
+    },
+    "2022-11-08T21:24:58-05:00": {
+        "0": {
+            "Valentine": 1721,
+            "Schmitt": 1495,
+            "total": 3216,
+            "min_turnout": -4965,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "83": {
+            "Valentine": 1721,
+            "Schmitt": 1495,
+            "total": 3216,
+            "min_turnout": -4965,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        }
+    },
+    "2022-11-08T21:25:17-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -642,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "29": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -642,
+            "max_turnout": 0,
+            "county_name": "Dade"
+        }
+    },
+    "2022-11-08T21:26:04-05:00": {
+        "0": {
+            "Valentine": 510,
+            "Schmitt": 1784,
+            "total": 2503,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "33": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 162,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dent"
+        },
+        "57": {
+            "Valentine": 510,
+            "Schmitt": 1784,
+            "total": 2341,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:26:24-05:00": {
+        "0": {
+            "Valentine": 1590,
+            "Schmitt": 3938,
+            "total": 5674,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 1365,
+            "Schmitt": 3249,
+            "total": 4728,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        },
+        "107": {
+            "Valentine": 225,
+            "Schmitt": 689,
+            "total": 946,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:26:34-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 193,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "57": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 193,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:27:31-05:00": {
+        "0": {
+            "Valentine": 1997,
+            "Schmitt": 3354,
+            "total": 5702,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 154,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "83": {
+            "Valentine": 1997,
+            "Schmitt": 3354,
+            "total": 5548,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        }
+    },
+    "2022-11-08T21:28:00-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2098,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2098,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        }
+    },
+    "2022-11-08T21:28:09-05:00": {
+        "0": {
+            "Valentine": 3289,
+            "Schmitt": 5973,
+            "total": 9484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 3289,
+            "Schmitt": 5973,
+            "total": 9484,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T21:29:49-05:00": {
+        "0": {
+            "Valentine": 43,
+            "Schmitt": 155,
+            "total": 198,
+            "min_turnout": -284,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "52": {
+            "Valentine": 43,
+            "Schmitt": 155,
+            "total": 198,
+            "min_turnout": -284,
+            "max_turnout": 0,
+            "county_name": "Knox"
+        }
+    },
+    "2022-11-08T21:30:16-05:00": {
+        "0": {
+            "Valentine": 592,
+            "Schmitt": 2237,
+            "total": 2896,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "67": {
+            "Valentine": 592,
+            "Schmitt": 2237,
+            "total": 2896,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mississippi"
+        }
+    },
+    "2022-11-08T21:32:06-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1680,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1680,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T21:32:57-05:00": {
+        "0": {
+            "Valentine": 1247,
+            "Schmitt": 3650,
+            "total": 4954,
+            "min_turnout": -1173,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "37": {
+            "Valentine": 810,
+            "Schmitt": 2312,
+            "total": 3122,
+            "min_turnout": -1173,
+            "max_turnout": 0,
+            "county_name": "Gasconade"
+        },
+        "57": {
+            "Valentine": 437,
+            "Schmitt": 1338,
+            "total": 1832,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-08T21:35:00-05:00": {
+        "0": {
+            "Valentine": 262,
+            "Schmitt": 1382,
+            "total": 1670,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "44": {
+            "Valentine": 262,
+            "Schmitt": 1382,
+            "total": 1670,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Holt"
+        }
+    },
+    "2022-11-08T21:35:09-05:00": {
+        "0": {
+            "Valentine": 305,
+            "Schmitt": 916,
+            "total": 1221,
+            "min_turnout": -8497,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -8517,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        },
+        "69": {
+            "Valentine": 305,
+            "Schmitt": 916,
+            "total": 1221,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Monroe"
+        }
+    },
+    "2022-11-08T21:35:56-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -700,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "67": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -700,
+            "max_turnout": 0,
+            "county_name": "Mississippi"
+        }
+    },
+    "2022-11-08T21:36:06-05:00": {
+        "0": {
+            "Valentine": 165,
+            "Schmitt": 657,
+            "total": 822,
+            "min_turnout": -492,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Valentine": 165,
+            "Schmitt": 657,
+            "total": 822,
+            "min_turnout": -149,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        },
+        "44": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -343,
+            "max_turnout": 0,
+            "county_name": "Holt"
+        }
+    },
+    "2022-11-08T21:36:15-05:00": {
+        "0": {
+            "Valentine": 47,
+            "Schmitt": 192,
+            "total": 247,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 47,
+            "Schmitt": 192,
+            "total": 247,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:36:25-05:00": {
+        "0": {
+            "Valentine": 619,
+            "Schmitt": 3737,
+            "total": 4356,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "53": {
+            "Valentine": 619,
+            "Schmitt": 3737,
+            "total": 4356,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "LaClede"
+        }
+    },
+    "2022-11-08T21:36:34-05:00": {
+        "0": {
+            "Valentine": 1657,
+            "Schmitt": 4882,
+            "total": 6539,
+            "min_turnout": -1425,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Valentine": 1657,
+            "Schmitt": 4882,
+            "total": 6539,
+            "min_turnout": -1425,
+            "max_turnout": 0,
+            "county_name": "Andrew"
+        }
+    },
+    "2022-11-08T21:36:52-05:00": {
+        "0": {
+            "Valentine": 2779,
+            "Schmitt": 7569,
+            "total": 10194,
+            "min_turnout": 179,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 2779,
+            "Schmitt": 7569,
+            "total": 10194,
+            "min_turnout": 179,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T21:37:01-05:00": {
+        "0": {
+            "Valentine": 30923,
+            "Schmitt": 21730,
+            "total": 53858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Valentine": 1166,
+            "Schmitt": 3916,
+            "total": 5259,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Bates"
+        },
+        "95": {
+            "Valentine": 29757,
+            "Schmitt": 17814,
+            "total": 48599,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T21:37:39-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 70,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 70,
+            "max_turnout": 0,
+            "county_name": "Bates"
+        }
+    },
+    "2022-11-08T21:38:19-05:00": {
+        "0": {
+            "Valentine": 3925,
+            "Schmitt": 4611,
+            "total": 8800,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 3925,
+            "Schmitt": 4611,
+            "total": 8800,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T21:39:09-05:00": {
+        "0": {
+            "Valentine": 887,
+            "Schmitt": 3871,
+            "total": 4907,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "86": {
+            "Valentine": 286,
+            "Schmitt": 1376,
+            "total": 1710,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "102": {
+            "Valentine": 479,
+            "Schmitt": 1753,
+            "total": 2298,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Shelby"
+        },
+        "107": {
+            "Valentine": 122,
+            "Schmitt": 742,
+            "total": 899,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:40:31-05:00": {
+        "0": {
+            "Valentine": 4063,
+            "Schmitt": 6664,
+            "total": 11045,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 4063,
+            "Schmitt": 6664,
+            "total": 11045,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T21:41:55-05:00": {
+        "0": {
+            "Valentine": 84,
+            "Schmitt": 447,
+            "total": 531,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "108": {
+            "Valentine": 84,
+            "Schmitt": 447,
+            "total": 531,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Texas"
+        }
+    },
+    "2022-11-08T21:42:15-05:00": {
+        "0": {
+            "Valentine": 812,
+            "Schmitt": 4599,
+            "total": 5528,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Valentine": 507,
+            "Schmitt": 3589,
+            "total": 4168,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Bollinger"
+        },
+        "99": {
+            "Valentine": 305,
+            "Schmitt": 1010,
+            "total": 1360,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Scotland"
+        }
+    },
+    "2022-11-08T21:42:42-05:00": {
+        "0": {
+            "Valentine": 2209,
+            "Schmitt": 5075,
+            "total": 7468,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 2119,
+            "Schmitt": 4748,
+            "total": 7035,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        },
+        "107": {
+            "Valentine": 90,
+            "Schmitt": 327,
+            "total": 433,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:43:10-05:00": {
+        "0": {
+            "Valentine": 2228,
+            "Schmitt": 7974,
+            "total": 10202,
+            "min_turnout": -3074,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -867,
+            "max_turnout": 0,
+            "county_name": "Bollinger"
+        },
+        "30": {
+            "Valentine": 1095,
+            "Schmitt": 4448,
+            "total": 5543,
+            "min_turnout": -1276,
+            "max_turnout": 0,
+            "county_name": "Dallas"
+        },
+        "59": {
+            "Valentine": 1133,
+            "Schmitt": 3526,
+            "total": 4659,
+            "min_turnout": -931,
+            "max_turnout": 0,
+            "county_name": "Livingston"
+        }
+    },
+    "2022-11-08T21:45:30-05:00": {
+        "0": {
+            "Valentine": 2007,
+            "Schmitt": 8950,
+            "total": 11308,
+            "min_turnout": -5206,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "30": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 205,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dallas"
+        },
+        "57": {
+            "Valentine": 479,
+            "Schmitt": 1369,
+            "total": 1900,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "59": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 94,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Livingston"
+        },
+        "73": {
+            "Valentine": 1227,
+            "Schmitt": 5740,
+            "total": 6967,
+            "min_turnout": -4068,
+            "max_turnout": 0,
+            "county_name": "Newton"
+        },
+        "79": {
+            "Valentine": 301,
+            "Schmitt": 1841,
+            "total": 2142,
+            "min_turnout": 51,
+            "max_turnout": 0,
+            "county_name": "Perry"
+        },
+        "86": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -361,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "99": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -321,
+            "max_turnout": 0,
+            "county_name": "Scotland"
+        },
+        "102": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -507,
+            "max_turnout": 0,
+            "county_name": "Shelby"
+        }
+    },
+    "2022-11-08T21:45:40-05:00": {
+        "0": {
+            "Valentine": 5416,
+            "Schmitt": 20167,
+            "total": 26395,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 185,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Andrew"
+        },
+        "6": {
+            "Valentine": 586,
+            "Schmitt": 3653,
+            "total": 4325,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Barton"
+        },
+        "42": {
+            "Valentine": 2084,
+            "Schmitt": 5225,
+            "total": 7521,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Henry"
+        },
+        "98": {
+            "Valentine": 304,
+            "Schmitt": 1182,
+            "total": 1530,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Schuyler"
+        },
+        "100": {
+            "Valentine": 2161,
+            "Schmitt": 9210,
+            "total": 11625,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Scott"
+        },
+        "107": {
+            "Valentine": 281,
+            "Schmitt": 897,
+            "total": 1209,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:46:10-05:00": {
+        "0": {
+            "Valentine": 4107,
+            "Schmitt": 12566,
+            "total": 16673,
+            "min_turnout": -2987,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 1029,
+            "Schmitt": 3272,
+            "total": 4301,
+            "min_turnout": -472,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "61": {
+            "Valentine": 721,
+            "Schmitt": 2907,
+            "total": 3628,
+            "min_turnout": -818,
+            "max_turnout": 0,
+            "county_name": "Madison"
+        },
+        "88": {
+            "Valentine": 1953,
+            "Schmitt": 5238,
+            "total": 7191,
+            "min_turnout": -1733,
+            "max_turnout": 0,
+            "county_name": "Randolph"
+        },
+        "105": {
+            "Valentine": 404,
+            "Schmitt": 1149,
+            "total": 1553,
+            "min_turnout": 36,
+            "max_turnout": 0,
+            "county_name": "Stone"
+        }
+    },
+    "2022-11-08T21:48:08-05:00": {
+        "0": {
+            "Valentine": 1163,
+            "Schmitt": 4884,
+            "total": 6190,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "35": {
+            "Valentine": 1163,
+            "Schmitt": 4884,
+            "total": 6190,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dunklin"
+        }
+    },
+    "2022-11-08T21:48:48-05:00": {
+        "0": {
+            "Valentine": 7972,
+            "Schmitt": 7093,
+            "total": 14868,
+            "min_turnout": -8487,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -932,
+            "max_turnout": 0,
+            "county_name": "Barton"
+        },
+        "42": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1662,
+            "max_turnout": 0,
+            "county_name": "Henry"
+        },
+        "83": {
+            "Valentine": 7972,
+            "Schmitt": 7093,
+            "total": 14868,
+            "min_turnout": -2975,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "98": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -285,
+            "max_turnout": 0,
+            "county_name": "Schuyler"
+        },
+        "100": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2633,
+            "max_turnout": 0,
+            "county_name": "Scott"
+        }
+    },
+    "2022-11-08T21:49:26-05:00": {
+        "0": {
+            "Valentine": 1022,
+            "Schmitt": 2682,
+            "total": 3805,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 1022,
+            "Schmitt": 2682,
+            "total": 3805,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T21:49:36-05:00": {
+        "0": {
+            "Valentine": 2043,
+            "Schmitt": 8535,
+            "total": 10578,
+            "min_turnout": -3884,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Valentine": 2043,
+            "Schmitt": 8535,
+            "total": 10578,
+            "min_turnout": -2453,
+            "max_turnout": 0,
+            "county_name": "Barry"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1431,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T21:49:46-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1479,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "35": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1479,
+            "max_turnout": 0,
+            "county_name": "Dunklin"
+        }
+    },
+    "2022-11-08T21:49:55-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1108,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 390,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Barry"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 490,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "88": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 228,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Randolph"
+        }
+    },
+    "2022-11-08T21:50:23-05:00": {
+        "0": {
+            "Valentine": 6257,
+            "Schmitt": 7495,
+            "total": 14712,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 6257,
+            "Schmitt": 7495,
+            "total": 14177,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "83": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 535,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        }
+    },
+    "2022-11-08T21:50:42-05:00": {
+        "0": {
+            "Valentine": 8329,
+            "Schmitt": -4963,
+            "total": 2459,
+            "min_turnout": -31873,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 8329,
+            "Schmitt": -4963,
+            "total": 2459,
+            "min_turnout": -31873,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T21:51:02-05:00": {
+        "0": {
+            "Valentine": 5125,
+            "Schmitt": 10001,
+            "total": 15641,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "51": {
+            "Valentine": 5125,
+            "Schmitt": 10001,
+            "total": 15641,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Johnson"
+        }
+    },
+    "2022-11-08T21:51:31-05:00": {
+        "0": {
+            "Valentine": 1088,
+            "Schmitt": 3903,
+            "total": 4991,
+            "min_turnout": -1149,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "68": {
+            "Valentine": 1088,
+            "Schmitt": 3903,
+            "total": 4991,
+            "min_turnout": -1149,
+            "max_turnout": 0,
+            "county_name": "Moniteau"
+        }
+    },
+    "2022-11-08T21:52:50-05:00": {
+        "0": {
+            "Valentine": 2767,
+            "Schmitt": 6139,
+            "total": 9289,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 2693,
+            "Schmitt": 5789,
+            "total": 8714,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        },
+        "68": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 137,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Moniteau"
+        },
+        "107": {
+            "Valentine": 74,
+            "Schmitt": 350,
+            "total": 438,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:53:15-05:00": {
+        "0": {
+            "Valentine": 3510,
+            "Schmitt": 8202,
+            "total": 11712,
+            "min_turnout": -2496,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "54": {
+            "Valentine": 3510,
+            "Schmitt": 8202,
+            "total": 11712,
+            "min_turnout": -2496,
+            "max_turnout": 0,
+            "county_name": "Lafayette"
+        }
+    },
+    "2022-11-08T21:54:37-05:00": {
+        "0": {
+            "Valentine": 716,
+            "Schmitt": 2337,
+            "total": 3150,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "56": {
+            "Valentine": 716,
+            "Schmitt": 2337,
+            "total": 3150,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-11-08T21:54:47-05:00": {
+        "0": {
+            "Valentine": 1358,
+            "Schmitt": 4431,
+            "total": 5789,
+            "min_turnout": -13890,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Valentine": 1084,
+            "Schmitt": 3592,
+            "total": 4676,
+            "min_turnout": -8256,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -4926,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "52": {
+            "Valentine": 274,
+            "Schmitt": 839,
+            "total": 1113,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Knox"
+        },
+        "56": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -674,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-11-08T21:54:57-05:00": {
+        "0": {
+            "Valentine": 4223,
+            "Schmitt": 7293,
+            "total": 11894,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Valentine": 4046,
+            "Schmitt": 6377,
+            "total": 10782,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Buchanan"
+        },
+        "107": {
+            "Valentine": 177,
+            "Schmitt": 916,
+            "total": 1112,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T21:55:27-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 182,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 182,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        }
+    },
+    "2022-11-08T21:56:48-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3486,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "51": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3486,
+            "max_turnout": 0,
+            "county_name": "Johnson"
+        }
+    },
+    "2022-11-08T21:58:47-05:00": {
+        "0": {
+            "Valentine": -659,
+            "Schmitt": 24110,
+            "total": 28813,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Valentine": 2067,
+            "Schmitt": 5208,
+            "total": 7464,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Audrain"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 3000,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "48": {
+            "Valentine": -6304,
+            "Schmitt": 7839,
+            "total": 2609,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "52": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 53,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Knox"
+        },
+        "53": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 385,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "LaClede"
+        },
+        "61": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 92,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Madison"
+        },
+        "72": {
+            "Valentine": 964,
+            "Schmitt": 3341,
+            "total": 4406,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New Madrid"
+        },
+        "80": {
+            "Valentine": 2430,
+            "Schmitt": 7073,
+            "total": 9943,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pettis"
+        },
+        "114": {
+            "Valentine": 184,
+            "Schmitt": 649,
+            "total": 861,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Worth"
+        }
+    },
+    "2022-11-08T21:59:08-05:00": {
+        "0": {
+            "Valentine": 2569,
+            "Schmitt": 5427,
+            "total": 8221,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "Valentine": 2569,
+            "Schmitt": 5427,
+            "total": 8221,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        }
+    },
+    "2022-11-08T22:00:08-05:00": {
+        "0": {
+            "Valentine": 1566,
+            "Schmitt": 3600,
+            "total": 5166,
+            "min_turnout": -2824,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1634,
+            "max_turnout": 0,
+            "county_name": "Audrain"
+        },
+        "72": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1055,
+            "max_turnout": 0,
+            "county_name": "New Madrid"
+        },
+        "80": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Pettis"
+        },
+        "89": {
+            "Valentine": 1566,
+            "Schmitt": 3600,
+            "total": 5166,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Ray"
+        },
+        "114": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -181,
+            "max_turnout": 0,
+            "county_name": "Worth"
+        }
+    },
+    "2022-11-08T22:01:07-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5513,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 5513,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T22:01:17-05:00": {
+        "0": {
+            "Valentine": 773,
+            "Schmitt": 2424,
+            "total": 279,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 773,
+            "Schmitt": 2424,
+            "total": 279,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T22:03:45-05:00": {
+        "0": {
+            "Valentine": 12466,
+            "Schmitt": 16001,
+            "total": 28467,
+            "min_turnout": -22725,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 9871,
+            "Schmitt": 6601,
+            "total": 16472,
+            "min_turnout": -14470,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "11": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -5961,
+            "max_turnout": 0,
+            "county_name": "Buchanan"
+        },
+        "26": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 233,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        },
+        "38": {
+            "Valentine": 528,
+            "Schmitt": 1748,
+            "total": 2276,
+            "min_turnout": -469,
+            "max_turnout": 0,
+            "county_name": "Gentry"
+        },
+        "75": {
+            "Valentine": 569,
+            "Schmitt": 2385,
+            "total": 2954,
+            "min_turnout": -774,
+            "max_turnout": 0,
+            "county_name": "Oregon"
+        },
+        "111": {
+            "Valentine": 1498,
+            "Schmitt": 5267,
+            "total": 6765,
+            "min_turnout": -1284,
+            "max_turnout": 0,
+            "county_name": "Washington"
+        }
+    },
+    "2022-11-08T22:04:24-05:00": {
+        "0": {
+            "Valentine": 1904,
+            "Schmitt": 3645,
+            "total": 5549,
+            "min_turnout": -569,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Valentine": 1904,
+            "Schmitt": 3645,
+            "total": 5549,
+            "min_turnout": 509,
+            "max_turnout": 0,
+            "county_name": "Callaway"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1078,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T22:04:54-05:00": {
+        "0": {
+            "Valentine": 14830,
+            "Schmitt": 3570,
+            "total": 17326,
+            "min_turnout": 5712,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "37": {
+            "Valentine": 244,
+            "Schmitt": 1038,
+            "total": 1282,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Gasconade"
+        },
+        "48": {
+            "Valentine": 14586,
+            "Schmitt": 2532,
+            "total": 16044,
+            "min_turnout": 5717,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T22:05:14-05:00": {
+        "0": {
+            "Valentine": 13584,
+            "Schmitt": 14409,
+            "total": 27811,
+            "min_turnout": -3761,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "82": {
+            "Valentine": 1299,
+            "Schmitt": 3728,
+            "total": 5027,
+            "min_turnout": -1156,
+            "max_turnout": 0,
+            "county_name": "Pike"
+        },
+        "96": {
+            "Valentine": 8127,
+            "Schmitt": 1796,
+            "total": 9687,
+            "min_turnout": -1415,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        },
+        "97": {
+            "Valentine": 1706,
+            "Schmitt": 3533,
+            "total": 5239,
+            "min_turnout": 193,
+            "max_turnout": 0,
+            "county_name": "Saline"
+        },
+        "103": {
+            "Valentine": 2179,
+            "Schmitt": 4323,
+            "total": 6502,
+            "min_turnout": -1383,
+            "max_turnout": 0,
+            "county_name": "Ste. Genevieve"
+        },
+        "107": {
+            "Valentine": 273,
+            "Schmitt": 1029,
+            "total": 1356,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T22:07:22-05:00": {
+        "0": {
+            "Valentine": 1287,
+            "Schmitt": 2105,
+            "total": 3482,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "19": {
+            "Valentine": 1287,
+            "Schmitt": 2105,
+            "total": 3482,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        }
+    },
+    "2022-11-08T22:07:42-05:00": {
+        "0": {
+            "Valentine": 2439,
+            "Schmitt": 8446,
+            "total": 10885,
+            "min_turnout": -2390,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "32": {
+            "Valentine": 700,
+            "Schmitt": 2575,
+            "total": 3275,
+            "min_turnout": -758,
+            "max_turnout": 0,
+            "county_name": "DeKalb"
+        },
+        "58": {
+            "Valentine": 1129,
+            "Schmitt": 2914,
+            "total": 4043,
+            "min_turnout": -843,
+            "max_turnout": 0,
+            "county_name": "Linn"
+        },
+        "77": {
+            "Valentine": 610,
+            "Schmitt": 2957,
+            "total": 3567,
+            "min_turnout": -789,
+            "max_turnout": 0,
+            "county_name": "Ozark"
+        }
+    },
+    "2022-11-08T22:08:32-05:00": {
+        "0": {
+            "Valentine": 56587,
+            "Schmitt": 39259,
+            "total": 97408,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "95": {
+            "Valentine": 56587,
+            "Schmitt": 39259,
+            "total": 97408,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T22:38:43-05:00": {
+        "0": {
+            "Valentine": 235001,
+            "Schmitt": 318027,
+            "total": 568394,
+            "min_turnout": -90760,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Valentine": 2447,
+            "Schmitt": 4407,
+            "total": 7042,
+            "min_turnout": -1597,
+            "max_turnout": 0,
+            "county_name": "Adair"
+        },
+        "10": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 386,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "14": {
+            "Valentine": 2055,
+            "Schmitt": 5508,
+            "total": 8026,
+            "min_turnout": 131,
+            "max_turnout": 0,
+            "county_name": "Callaway"
+        },
+        "15": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 524,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Camden"
+        },
+        "17": {
+            "Valentine": 685,
+            "Schmitt": 2607,
+            "total": 3356,
+            "min_turnout": -670,
+            "max_turnout": 0,
+            "county_name": "Carroll"
+        },
+        "18": {
+            "Valentine": 298,
+            "Schmitt": 1577,
+            "total": 1910,
+            "min_turnout": -434,
+            "max_turnout": 0,
+            "county_name": "Carter"
+        },
+        "19": {
+            "Valentine": 2313,
+            "Schmitt": 2334,
+            "total": 4726,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        },
+        "21": {
+            "Valentine": 667,
+            "Schmitt": 2082,
+            "total": 2812,
+            "min_turnout": -615,
+            "max_turnout": 0,
+            "county_name": "Chariton"
+        },
+        "22": {
+            "Valentine": 1571,
+            "Schmitt": 4844,
+            "total": 6620,
+            "min_turnout": 1259,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        },
+        "23": {
+            "Valentine": 535,
+            "Schmitt": 1719,
+            "total": 2330,
+            "min_turnout": -520,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "25": {
+            "Valentine": 2211,
+            "Schmitt": 5119,
+            "total": 7530,
+            "min_turnout": -1658,
+            "max_turnout": 0,
+            "county_name": "Clinton"
+        },
+        "26": {
+            "Valentine": 3140,
+            "Schmitt": 7472,
+            "total": 10904,
+            "min_turnout": 169,
+            "max_turnout": 0,
+            "county_name": "Cole"
+        },
+        "28": {
+            "Valentine": 1610,
+            "Schmitt": 5822,
+            "total": 7603,
+            "min_turnout": -1615,
+            "max_turnout": 0,
+            "county_name": "Crawford"
+        },
+        "31": {
+            "Valentine": 600,
+            "Schmitt": 2002,
+            "total": 2674,
+            "min_turnout": -564,
+            "max_turnout": 0,
+            "county_name": "Daviess"
+        },
+        "32": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 119,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "DeKalb"
+        },
+        "34": {
+            "Valentine": 673,
+            "Schmitt": 3762,
+            "total": 4585,
+            "min_turnout": -224,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "36": {
+            "Valentine": 2064,
+            "Schmitt": 3828,
+            "total": 6094,
+            "min_turnout": -436,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "37": {
+            "Valentine": 244,
+            "Schmitt": 951,
+            "total": 1302,
+            "min_turnout": 36,
+            "max_turnout": 0,
+            "county_name": "Gasconade"
+        },
+        "38": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 49,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Gentry"
+        },
+        "39": {
+            "Valentine": 12949,
+            "Schmitt": 13943,
+            "total": 27748,
+            "min_turnout": -24134,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        },
+        "41": {
+            "Valentine": 445,
+            "Schmitt": 2236,
+            "total": 2735,
+            "min_turnout": -471,
+            "max_turnout": 0,
+            "county_name": "Harrison"
+        },
+        "43": {
+            "Valentine": 795,
+            "Schmitt": 2744,
+            "total": 3664,
+            "min_turnout": -798,
+            "max_turnout": 0,
+            "county_name": "Hickory"
+        },
+        "45": {
+            "Valentine": 1210,
+            "Schmitt": 2528,
+            "total": 3869,
+            "min_turnout": -825,
+            "max_turnout": 0,
+            "county_name": "Howard"
+        },
+        "47": {
+            "Valentine": 747,
+            "Schmitt": 2246,
+            "total": 3072,
+            "min_turnout": -652,
+            "max_turnout": 0,
+            "county_name": "Iron"
+        },
+        "48": {
+            "Valentine": 58033,
+            "Schmitt": 37510,
+            "total": 99184,
+            "min_turnout": 1496,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "50": {
+            "Valentine": 10504,
+            "Schmitt": 18128,
+            "total": 29341,
+            "min_turnout": -165,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        },
+        "54": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 272,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lafayette"
+        },
+        "57": {
+            "Valentine": 837,
+            "Schmitt": 2324,
+            "total": 3273,
+            "min_turnout": -262,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "58": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 87,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Linn"
+        },
+        "65": {
+            "Valentine": 213,
+            "Schmitt": 1028,
+            "total": 1264,
+            "min_turnout": -246,
+            "max_turnout": 0,
+            "county_name": "Mercer"
+        },
+        "66": {
+            "Valentine": 1572,
+            "Schmitt": 6884,
+            "total": 8732,
+            "min_turnout": -1937,
+            "max_turnout": 0,
+            "county_name": "Miller"
+        },
+        "69": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 75,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Monroe"
+        },
+        "70": {
+            "Valentine": 732,
+            "Schmitt": 2134,
+            "total": 2946,
+            "min_turnout": 58,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        },
+        "71": {
+            "Valentine": 1581,
+            "Schmitt": 5141,
+            "total": 6939,
+            "min_turnout": -1538,
+            "max_turnout": 0,
+            "county_name": "Morgan"
+        },
+        "73": {
+            "Valentine": 2495,
+            "Schmitt": 8604,
+            "total": 11099,
+            "min_turnout": -264,
+            "max_turnout": 0,
+            "county_name": "Newton"
+        },
+        "75": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 108,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Oregon"
+        },
+        "77": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 129,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Ozark"
+        },
+        "82": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 128,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pike"
+        },
+        "83": {
+            "Valentine": 8172,
+            "Schmitt": 8322,
+            "total": 16856,
+            "min_turnout": -402,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "84": {
+            "Valentine": 2178,
+            "Schmitt": 7945,
+            "total": 10553,
+            "min_turnout": -2421,
+            "max_turnout": 0,
+            "county_name": "Polk"
+        },
+        "89": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 250,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Ray"
+        },
+        "90": {
+            "Valentine": 512,
+            "Schmitt": 1816,
+            "total": 2395,
+            "min_turnout": -452,
+            "max_turnout": 0,
+            "county_name": "Reynolds"
+        },
+        "91": {
+            "Valentine": 605,
+            "Schmitt": 2998,
+            "total": 3603,
+            "min_turnout": -876,
+            "max_turnout": 0,
+            "county_name": "Ripley"
+        },
+        "92": {
+            "Valentine": 44551,
+            "Schmitt": 56030,
+            "total": 100581,
+            "min_turnout": -31147,
+            "max_turnout": 0,
+            "county_name": "Saint Charles"
+        },
+        "93": {
+            "Valentine": 835,
+            "Schmitt": 2711,
+            "total": 3691,
+            "min_turnout": -807,
+            "max_turnout": 0,
+            "county_name": "Saint Clair"
+        },
+        "95": {
+            "Valentine": 55561,
+            "Schmitt": 42142,
+            "total": 99293,
+            "min_turnout": -10744,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        },
+        "96": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 445,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        },
+        "97": {
+            "Valentine": 45,
+            "Schmitt": 167,
+            "total": 380,
+            "min_turnout": 78,
+            "max_turnout": 0,
+            "county_name": "Saline"
+        },
+        "101": {
+            "Valentine": 586,
+            "Schmitt": 2238,
+            "total": 2904,
+            "min_turnout": -598,
+            "max_turnout": 0,
+            "county_name": "Shannon"
+        },
+        "103": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Ste. Genevieve"
+        },
+        "104": {
+            "Valentine": 1145,
+            "Schmitt": 7318,
+            "total": 8630,
+            "min_turnout": -2002,
+            "max_turnout": 0,
+            "county_name": "Stoddard"
+        },
+        "106": {
+            "Valentine": 344,
+            "Schmitt": 1360,
+            "total": 1744,
+            "min_turnout": -367,
+            "max_turnout": 0,
+            "county_name": "Sullivan"
+        },
+        "107": {
+            "Valentine": 1068,
+            "Schmitt": 4531,
+            "total": 5781,
+            "min_turnout": 176,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        },
+        "108": {
+            "Valentine": -2,
+            "Schmitt": 0,
+            "total": 297,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Texas"
+        },
+        "109": {
+            "Valentine": 1323,
+            "Schmitt": 4610,
+            "total": 6144,
+            "min_turnout": -1413,
+            "max_turnout": 0,
+            "county_name": "Vernon"
+        },
+        "110": {
+            "Valentine": 3762,
+            "Schmitt": 9081,
+            "total": 12843,
+            "min_turnout": -2663,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "111": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 169,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washington"
+        },
+        "112": {
+            "Valentine": 604,
+            "Schmitt": 3369,
+            "total": 4057,
+            "min_turnout": -857,
+            "max_turnout": 0,
+            "county_name": "Wayne"
+        },
+        "115": {
+            "Valentine": 486,
+            "Schmitt": 3905,
+            "total": 4391,
+            "min_turnout": 211,
+            "max_turnout": 0,
+            "county_name": "Wright"
+        }
+    },
+    "2022-11-08T22:39:45-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 214,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "115": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 214,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Wright"
+        }
+    },
+    "2022-11-08T22:40:14-05:00": {
+        "0": {
+            "Valentine": 1431,
+            "Schmitt": 6365,
+            "total": 7796,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "105": {
+            "Valentine": 1431,
+            "Schmitt": 6365,
+            "total": 7796,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Stone"
+        }
+    },
+    "2022-11-08T22:40:34-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3210,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 3210,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-08T22:40:44-05:00": {
+        "0": {
+            "Valentine": 8520,
+            "Schmitt": 13350,
+            "total": 22403,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 8520,
+            "Schmitt": 13350,
+            "total": 22403,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T22:41:04-05:00": {
+        "0": {
+            "Valentine": 934,
+            "Schmitt": 2917,
+            "total": 3851,
+            "min_turnout": -859,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "87": {
+            "Valentine": 934,
+            "Schmitt": 2917,
+            "total": 3851,
+            "min_turnout": -859,
+            "max_turnout": 0,
+            "county_name": "Ralls"
+        }
+    },
+    "2022-11-08T22:42:48-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "87": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Ralls"
+        }
+    },
+    "2022-11-08T22:43:17-05:00": {
+        "0": {
+            "Valentine": 5550,
+            "Schmitt": 18348,
+            "total": 23856,
+            "min_turnout": -968,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Valentine": 5550,
+            "Schmitt": 18348,
+            "total": 23856,
+            "min_turnout": -968,
+            "max_turnout": 0,
+            "county_name": "Cape Girardeau"
+        }
+    },
+    "2022-11-08T22:43:30-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2727,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2727,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T22:45:19-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -101,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -101,
+            "max_turnout": 0,
+            "county_name": "Adair"
+        }
+    },
+    "2022-11-08T22:45:39-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 158,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 158,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-08T22:46:19-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -273,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "107": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -273,
+            "max_turnout": 0,
+            "county_name": "Taney"
+        }
+    },
+    "2022-11-08T22:46:48-05:00": {
+        "0": {
+            "Valentine": 4841,
+            "Schmitt": 16138,
+            "total": 20979,
+            "min_turnout": -4907,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "63": {
+            "Valentine": 2190,
+            "Schmitt": 6242,
+            "total": 8432,
+            "min_turnout": -2011,
+            "max_turnout": 0,
+            "county_name": "Marion"
+        },
+        "113": {
+            "Valentine": 2651,
+            "Schmitt": 9896,
+            "total": 12547,
+            "min_turnout": -2896,
+            "max_turnout": 0,
+            "county_name": "Webster"
+        }
+    },
+    "2022-11-08T22:47:18-05:00": {
+        "0": {
+            "Valentine": 2311,
+            "Schmitt": 9836,
+            "total": 12147,
+            "min_turnout": -2720,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "55": {
+            "Valentine": 2311,
+            "Schmitt": 9836,
+            "total": 12147,
+            "min_turnout": -2720,
+            "max_turnout": 0,
+            "county_name": "Lawrence"
+        }
+    },
+    "2022-11-08T22:48:34-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1525,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "63": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 242,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Marion"
+        },
+        "79": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 125,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Perry"
+        },
+        "105": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 362,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Stone"
+        },
+        "110": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 301,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "113": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 495,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Webster"
+        }
+    },
+    "2022-11-08T22:51:39-05:00": {
+        "0": {
+            "Valentine": 2157,
+            "Schmitt": 4128,
+            "total": 5511,
+            "min_turnout": 159,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 2157,
+            "Schmitt": 4128,
+            "total": 5511,
+            "min_turnout": 159,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T22:52:36-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "83": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        }
+    },
+    "2022-11-08T22:52:46-05:00": {
+        "0": {
+            "Valentine": 1980,
+            "Schmitt": 4350,
+            "total": 6472,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "74": {
+            "Valentine": 1980,
+            "Schmitt": 4350,
+            "total": 6472,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Nodaway"
+        }
+    },
+    "2022-11-08T22:52:55-05:00": {
+        "0": {
+            "Valentine": 18757,
+            "Schmitt": 32981,
+            "total": 51352,
+            "min_turnout": -8153,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 10289,
+            "Schmitt": 7850,
+            "total": 17753,
+            "min_turnout": 489,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "19": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 431,
+            "max_turnout": 0,
+            "county_name": "Cass"
+        },
+        "49": {
+            "Valentine": 8468,
+            "Schmitt": 25131,
+            "total": 33599,
+            "min_turnout": -7621,
+            "max_turnout": 0,
+            "county_name": "Jasper"
+        },
+        "74": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1452,
+            "max_turnout": 0,
+            "county_name": "Nodaway"
+        }
+    },
+    "2022-11-08T22:53:15-05:00": {
+        "0": {
+            "Valentine": 8563,
+            "Schmitt": 10703,
+            "total": 20680,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 8563,
+            "Schmitt": 10703,
+            "total": 19667,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "49": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1013,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jasper"
+        }
+    },
+    "2022-11-08T22:55:37-05:00": {
+        "0": {
+            "Valentine": 3493,
+            "Schmitt": 10602,
+            "total": 13708,
+            "min_turnout": -158,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Valentine": 3493,
+            "Schmitt": 10602,
+            "total": 13708,
+            "min_turnout": -158,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        }
+    },
+    "2022-11-08T22:57:47-05:00": {
+        "0": {
+            "Valentine": 2447,
+            "Schmitt": 10323,
+            "total": 14867,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 724,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cape Girardeau"
+        },
+        "22": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 864,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        },
+        "46": {
+            "Valentine": 2447,
+            "Schmitt": 10323,
+            "total": 13279,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Howell"
+        }
+    },
+    "2022-11-08T22:58:53-05:00": {
+        "0": {
+            "Valentine": 2224,
+            "Schmitt": 6703,
+            "total": 8927,
+            "min_turnout": -5200,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "46": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2964,
+            "max_turnout": 0,
+            "county_name": "Howell"
+        },
+        "85": {
+            "Valentine": 2224,
+            "Schmitt": 6703,
+            "total": 8927,
+            "min_turnout": -2236,
+            "max_turnout": 0,
+            "county_name": "Pulaski"
+        }
+    },
+    "2022-11-08T22:59:31-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 798,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "55": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 412,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lawrence"
+        },
+        "85": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 386,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pulaski"
+        }
+    },
+    "2022-11-08T22:59:59-05:00": {
+        "0": {
+            "Valentine": 41866,
+            "Schmitt": 43070,
+            "total": 84936,
+            "min_turnout": -17944,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "24": {
+            "Valentine": 41866,
+            "Schmitt": 43070,
+            "total": 84936,
+            "min_turnout": -17944,
+            "max_turnout": 0,
+            "county_name": "Clay"
+        }
+    },
+    "2022-11-08T23:02:01-05:00": {
+        "0": {
+            "Valentine": 16488,
+            "Schmitt": 22083,
+            "total": 41277,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "92": {
+            "Valentine": 16488,
+            "Schmitt": 22083,
+            "total": 41277,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Charles"
+        }
+    },
+    "2022-11-08T23:04:28-05:00": {
+        "0": {
+            "Valentine": 156,
+            "Schmitt": 1221,
+            "total": 1377,
+            "min_turnout": 96,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "73": {
+            "Valentine": 156,
+            "Schmitt": 1221,
+            "total": 1377,
+            "min_turnout": 96,
+            "max_turnout": 0,
+            "county_name": "Newton"
+        }
+    },
+    "2022-11-08T23:04:38-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-11-08T23:05:18-05:00": {
+        "0": {
+            "Valentine": 651,
+            "Schmitt": 2734,
+            "total": 3385,
+            "min_turnout": -704,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "62": {
+            "Valentine": 651,
+            "Schmitt": 2734,
+            "total": 3385,
+            "min_turnout": -704,
+            "max_turnout": 0,
+            "county_name": "Maries"
+        }
+    },
+    "2022-11-08T23:05:56-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 65,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "62": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 65,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maries"
+        }
+    },
+    "2022-11-08T23:08:51-05:00": {
+        "0": {
+            "Valentine": 927,
+            "Schmitt": 3956,
+            "total": 4883,
+            "min_turnout": -1119,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "20": {
+            "Valentine": 927,
+            "Schmitt": 3956,
+            "total": 4883,
+            "min_turnout": -1119,
+            "max_turnout": 0,
+            "county_name": "Cedar"
+        }
+    },
+    "2022-11-08T23:09:19-05:00": {
+        "0": {
+            "Valentine": 34578,
+            "Schmitt": 18872,
+            "total": 52141,
+            "min_turnout": -3533,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Valentine": 1773,
+            "Schmitt": 5712,
+            "total": 7485,
+            "min_turnout": -1602,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        },
+        "22": {
+            "Valentine": 873,
+            "Schmitt": 3008,
+            "total": 3017,
+            "min_turnout": 102,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        },
+        "76": {
+            "Valentine": 855,
+            "Schmitt": 4570,
+            "total": 5425,
+            "min_turnout": -1074,
+            "max_turnout": 0,
+            "county_name": "Osage"
+        },
+        "96": {
+            "Valentine": 31077,
+            "Schmitt": 5582,
+            "total": 36214,
+            "min_turnout": -959,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T23:09:37-05:00": {
+        "0": {
+            "Valentine": 4789,
+            "Schmitt": 3905,
+            "total": 9779,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 837,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "48": {
+            "Valentine": 4789,
+            "Schmitt": 3905,
+            "total": 8942,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T23:10:16-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -54,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "20": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -54,
+            "max_turnout": 0,
+            "county_name": "Cedar"
+        }
+    },
+    "2022-11-08T23:10:34-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1310,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 238,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        },
+        "22": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 982,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        },
+        "76": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 90,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Osage"
+        }
+    },
+    "2022-11-08T23:11:12-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 2200,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "24": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 2200,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clay"
+        }
+    },
+    "2022-11-08T23:11:21-05:00": {
+        "0": {
+            "Valentine": 745,
+            "Schmitt": 2588,
+            "total": 3333,
+            "min_turnout": -742,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Valentine": 745,
+            "Schmitt": 2588,
+            "total": 3333,
+            "min_turnout": -742,
+            "max_turnout": 0,
+            "county_name": "Caldwell"
+        }
+    },
+    "2022-11-08T23:13:22-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1071,
+            "min_turnout": 307,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 307,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "96": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1071,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T23:13:41-05:00": {
+        "0": {
+            "Valentine": 10137,
+            "Schmitt": 14439,
+            "total": 25438,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 10137,
+            "Schmitt": 14439,
+            "total": 25438,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-08T23:15:59-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 220,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 99,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Caldwell"
+        },
+        "91": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 121,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Ripley"
+        }
+    },
+    "2022-11-08T23:17:45-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -779,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "92": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -779,
+            "max_turnout": 0,
+            "county_name": "Saint Charles"
+        }
+    },
+    "2022-11-08T23:19:29-05:00": {
+        "0": {
+            "Valentine": 21532,
+            "Schmitt": 5223,
+            "total": 27146,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 21532,
+            "Schmitt": 5223,
+            "total": 27146,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        }
+    },
+    "2022-11-08T23:23:00-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2544,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2544,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-08T23:24:35-05:00": {
+        "0": {
+            "Valentine": 3259,
+            "Schmitt": 5217,
+            "total": 8621,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "92": {
+            "Valentine": 3259,
+            "Schmitt": 5217,
+            "total": 8621,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Charles"
+        }
+    },
+    "2022-11-08T23:26:47-05:00": {
+        "0": {
+            "Valentine": 8654,
+            "Schmitt": 6157,
+            "total": 15186,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 8654,
+            "Schmitt": 6157,
+            "total": 15186,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        }
+    },
+    "2022-11-08T23:27:07-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -480,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -480,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        }
+    },
+    "2022-11-08T23:27:45-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 494,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "73": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 494,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Newton"
+        }
+    },
+    "2022-11-08T23:31:13-05:00": {
+        "0": {
+            "Valentine": 1038,
+            "Schmitt": 2135,
+            "total": 2191,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Valentine": 1038,
+            "Schmitt": 2135,
+            "total": 2191,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        }
+    },
+    "2022-11-08T23:32:09-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1024,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1024,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Christian"
+        }
+    },
+    "2022-11-08T23:32:29-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "92": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Saint Charles"
+        }
+    },
+    "2022-11-08T23:33:06-05:00": {
+        "0": {
+            "Valentine": 31420,
+            "Schmitt": 13790,
+            "total": 45984,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "95": {
+            "Valentine": 31420,
+            "Schmitt": 13790,
+            "total": 45984,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T23:34:22-05:00": {
+        "0": {
+            "Valentine": 16056,
+            "Schmitt": 3382,
+            "total": 19809,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 2059,
+            "Schmitt": 364,
+            "total": 2459,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "96": {
+            "Valentine": 13997,
+            "Schmitt": 3018,
+            "total": 17350,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T23:37:31-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 511,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "48": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1693,
+            "max_turnout": 0,
+            "county_name": "Jackson"
+        },
+        "96": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1182,
+            "max_turnout": 0,
+            "county_name": "Saint Louis City"
+        }
+    },
+    "2022-11-08T23:39:14-05:00": {
+        "0": {
+            "Valentine": 706,
+            "Schmitt": 2457,
+            "total": 3216,
+            "min_turnout": -796,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "78": {
+            "Valentine": 706,
+            "Schmitt": 2457,
+            "total": 3216,
+            "min_turnout": -796,
+            "max_turnout": 0,
+            "county_name": "Pemiscot"
+        }
+    },
+    "2022-11-08T23:40:01-05:00": {
+        "0": {
+            "Valentine": 1734,
+            "Schmitt": 4196,
+            "total": 5930,
+            "min_turnout": -1400,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "27": {
+            "Valentine": 1734,
+            "Schmitt": 4196,
+            "total": 5930,
+            "min_turnout": -1400,
+            "max_turnout": 0,
+            "county_name": "Cooper"
+        }
+    },
+    "2022-11-08T23:52:12-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1266,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "95": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 1266,
+            "max_turnout": 0,
+            "county_name": "Saint Louis"
+        }
+    },
+    "2022-11-08T23:58:58-05:00": {
+        "0": {
+            "Valentine": 8823,
+            "Schmitt": 15672,
+            "total": 25303,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 8823,
+            "Schmitt": 15672,
+            "total": 25303,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-08T23:59:27-05:00": {
+        "0": {
+            "Valentine": 11767,
+            "Schmitt": 17799,
+            "total": 28354,
+            "min_turnout": -3690,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 6574,
+            "Schmitt": 5260,
+            "total": 10622,
+            "min_turnout": 439,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "94": {
+            "Valentine": 5193,
+            "Schmitt": 12539,
+            "total": 17732,
+            "min_turnout": -4129,
+            "max_turnout": 0,
+            "county_name": "Saint Francois"
+        }
+    },
+    "2022-11-09T00:00:56-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 487,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "94": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 487,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Saint Francois"
+        }
+    },
+    "2022-11-09T00:02:51-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 585,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 585,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-09T00:03:28-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 193,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "27": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 193,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cooper"
+        }
+    },
+    "2022-11-09T00:09:14-05:00": {
+        "0": {
+            "Valentine": 84,
+            "Schmitt": -153,
+            "total": 1636,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 1555,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Boone"
+        },
+        "60": {
+            "Valentine": 84,
+            "Schmitt": -153,
+            "total": 81,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Macon"
+        }
+    },
+    "2022-11-09T00:27:00-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 258,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "20": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 258,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Cedar"
+        }
+    },
+    "2022-11-09T00:41:37-05:00": {
+        "0": {
+            "Valentine": 641,
+            "Schmitt": 2514,
+            "total": 3155,
+            "min_turnout": -656,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "40": {
+            "Valentine": 641,
+            "Schmitt": 2514,
+            "total": 3155,
+            "min_turnout": -656,
+            "max_turnout": 0,
+            "county_name": "Grundy"
+        }
+    },
+    "2022-11-09T00:43:20-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 71,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "40": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 71,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Grundy"
+        }
+    },
+    "2022-11-09T00:43:39-05:00": {
+        "0": {
+            "Valentine": 742,
+            "Schmitt": 4049,
+            "total": 4791,
+            "min_turnout": -1302,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "64": {
+            "Valentine": 742,
+            "Schmitt": 4049,
+            "total": 4791,
+            "min_turnout": -1302,
+            "max_turnout": 0,
+            "county_name": "McDonald"
+        }
+    },
+    "2022-11-09T00:47:16-05:00": {
+        "0": {
+            "Valentine": 7038,
+            "Schmitt": 11176,
+            "total": 18969,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 7038,
+            "Schmitt": 11176,
+            "total": 18969,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-09T00:49:48-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -583,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -583,
+            "max_turnout": 0,
+            "county_name": "Greene"
+        }
+    },
+    "2022-11-09T00:51:32-05:00": {
+        "0": {
+            "Valentine": 3984,
+            "Schmitt": 9245,
+            "total": 13229,
+            "min_turnout": -3019,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "81": {
+            "Valentine": 3984,
+            "Schmitt": 9245,
+            "total": 13229,
+            "min_turnout": -3019,
+            "max_turnout": 0,
+            "county_name": "Phelps"
+        }
+    },
+    "2022-11-09T01:03:15-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 345,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "81": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 345,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Phelps"
+        }
+    },
+    "2022-11-09T03:52:30-05:00": {
+        "0": {
+            "Valentine": 144,
+            "Schmitt": 940,
+            "total": 1285,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "64": {
+            "Valentine": 144,
+            "Schmitt": 940,
+            "total": 1285,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "McDonald"
+        }
+    },
+    "2022-11-09T17:53:20-05:00": {
+        "0": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -259318,
+            "max_turnout": -454275,
+            "county_name": "Total"
+        },
+        "1": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1144,
+            "max_turnout": -1698,
+            "county_name": "Adair"
+        },
+        "2": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -473,
+            "max_turnout": -1425,
+            "county_name": "Andrew"
+        },
+        "3": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -208,
+            "max_turnout": -414,
+            "county_name": "Atchison"
+        },
+        "4": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -823,
+            "max_turnout": -1634,
+            "county_name": "Audrain"
+        },
+        "5": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -545,
+            "max_turnout": -2453,
+            "county_name": "Barry"
+        },
+        "6": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -448,
+            "max_turnout": -932,
+            "county_name": "Barton"
+        },
+        "7": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -526,
+            "max_turnout": -1309,
+            "county_name": "Bates"
+        },
+        "8": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -161,
+            "max_turnout": -1602,
+            "county_name": "Benton"
+        },
+        "9": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -444,
+            "max_turnout": -867,
+            "county_name": "Bollinger"
+        },
+        "10": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -8620,
+            "max_turnout": -14022,
+            "county_name": "Boone"
+        },
+        "11": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3744,
+            "max_turnout": -5961,
+            "county_name": "Buchanan"
+        },
+        "12": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1716,
+            "max_turnout": -2721,
+            "county_name": "Butler"
+        },
+        "13": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -116,
+            "max_turnout": -742,
+            "county_name": "Caldwell"
+        },
+        "14": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1180,
+            "max_turnout": -3232,
+            "county_name": "Callaway"
+        },
+        "15": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -626,
+            "max_turnout": -3847,
+            "county_name": "Camden"
+        },
+        "16": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3046,
+            "max_turnout": -6051,
+            "county_name": "Cape Girardeau"
+        },
+        "17": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -227,
+            "max_turnout": -670,
+            "county_name": "Carroll"
+        },
+        "18": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -330,
+            "max_turnout": -434,
+            "county_name": "Carter"
+        },
+        "19": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1942,
+            "max_turnout": -8086,
+            "county_name": "Cass"
+        },
+        "20": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1066,
+            "county_name": "Cedar"
+        },
+        "21": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -394,
+            "max_turnout": -615,
+            "county_name": "Chariton"
+        },
+        "22": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1066,
+            "max_turnout": -6990,
+            "county_name": "Christian"
+        },
+        "23": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -207,
+            "max_turnout": -520,
+            "county_name": "Clark"
+        },
+        "24": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -5320,
+            "max_turnout": -17944,
+            "county_name": "Clay"
+        },
+        "25": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -629,
+            "max_turnout": -1658,
+            "county_name": "Clinton"
+        },
+        "26": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3100,
+            "max_turnout": -6407,
+            "county_name": "Cole"
+        },
+        "27": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -477,
+            "max_turnout": -1400,
+            "county_name": "Cooper"
+        },
+        "28": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -487,
+            "max_turnout": -1615,
+            "county_name": "Crawford"
+        },
+        "29": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -190,
+            "max_turnout": -642,
+            "county_name": "Dade"
+        },
+        "30": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -352,
+            "max_turnout": -1276,
+            "county_name": "Dallas"
+        },
+        "31": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -190,
+            "max_turnout": -564,
+            "county_name": "Daviess"
+        },
+        "32": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": -758,
+            "county_name": "DeKalb"
+        },
+        "33": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -643,
+            "max_turnout": -1184,
+            "county_name": "Dent"
+        },
+        "34": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -223,
+            "max_turnout": -1097,
+            "county_name": "Douglas"
+        },
+        "35": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1401,
+            "max_turnout": -1479,
+            "county_name": "Dunklin"
+        },
+        "36": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3702,
+            "max_turnout": -8029,
+            "county_name": "Franklin"
+        },
+        "37": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -388,
+            "max_turnout": -1142,
+            "county_name": "Gasconade"
+        },
+        "38": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -99,
+            "max_turnout": -469,
+            "county_name": "Gentry"
+        },
+        "39": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -11066,
+            "max_turnout": -23466,
+            "county_name": "Greene"
+        },
+        "40": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -246,
+            "max_turnout": -656,
+            "county_name": "Grundy"
+        },
+        "41": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": -471,
+            "county_name": "Harrison"
+        },
+        "42": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -615,
+            "max_turnout": -1662,
+            "county_name": "Henry"
+        },
+        "43": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -231,
+            "max_turnout": -798,
+            "county_name": "Hickory"
+        },
+        "44": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -160,
+            "max_turnout": -343,
+            "county_name": "Holt"
+        },
+        "45": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -68,
+            "max_turnout": -825,
+            "county_name": "Howard"
+        },
+        "46": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -318,
+            "max_turnout": -2964,
+            "county_name": "Howell"
+        },
+        "47": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -337,
+            "max_turnout": -652,
+            "county_name": "Iron"
+        },
+        "48": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -36313,
+            "max_turnout": -48326,
+            "county_name": "Jackson"
+        },
+        "49": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -3657,
+            "max_turnout": -7621,
+            "county_name": "Jasper"
+        },
+        "50": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -6891,
+            "max_turnout": -16477,
+            "county_name": "Jefferson"
+        },
+        "51": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1007,
+            "max_turnout": -3486,
+            "county_name": "Johnson"
+        },
+        "52": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -111,
+            "max_turnout": -318,
+            "county_name": "Knox"
+        },
+        "53": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1284,
+            "max_turnout": -2727,
+            "county_name": "LaClede"
+        },
+        "54": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -765,
+            "max_turnout": -2496,
+            "county_name": "Lafayette"
+        },
+        "55": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -662,
+            "max_turnout": -2720,
+            "county_name": "Lawrence"
+        },
+        "56": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -210,
+            "max_turnout": -674,
+            "county_name": "Lewis"
+        },
+        "57": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -455,
+            "max_turnout": -4204,
+            "county_name": "Lincoln"
+        },
+        "58": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -320,
+            "max_turnout": -843,
+            "county_name": "Linn"
+        },
+        "59": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -208,
+            "max_turnout": -931,
+            "county_name": "Livingston"
+        },
+        "60": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -613,
+            "max_turnout": -1289,
+            "county_name": "Macon"
+        },
+        "61": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -510,
+            "max_turnout": -818,
+            "county_name": "Madison"
+        },
+        "62": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -318,
+            "max_turnout": -704,
+            "county_name": "Maries"
+        },
+        "63": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1520,
+            "max_turnout": -2011,
+            "county_name": "Marion"
+        },
+        "64": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -113,
+            "max_turnout": -1274,
+            "county_name": "McDonald"
+        },
+        "65": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -43,
+            "max_turnout": -246,
+            "county_name": "Mercer"
+        },
+        "66": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -575,
+            "max_turnout": -1937,
+            "county_name": "Miller"
+        },
+        "67": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -749,
+            "max_turnout": -700,
+            "county_name": "Mississippi"
+        },
+        "68": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -491,
+            "max_turnout": -1149,
+            "county_name": "Moniteau"
+        },
+        "69": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -391,
+            "max_turnout": -692,
+            "county_name": "Monroe"
+        },
+        "70": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -422,
+            "max_turnout": -878,
+            "county_name": "Montgomery"
+        },
+        "71": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -459,
+            "max_turnout": -1538,
+            "county_name": "Morgan"
+        },
+        "72": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1068,
+            "max_turnout": -1055,
+            "county_name": "New Madrid"
+        },
+        "73": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1465,
+            "max_turnout": -4236,
+            "county_name": "Newton"
+        },
+        "74": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -823,
+            "max_turnout": -1452,
+            "county_name": "Nodaway"
+        },
+        "75": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -509,
+            "max_turnout": -774,
+            "county_name": "Oregon"
+        },
+        "76": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -262,
+            "max_turnout": -1074,
+            "county_name": "Osage"
+        },
+        "77": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -102,
+            "max_turnout": -789,
+            "county_name": "Ozark"
+        },
+        "78": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1145,
+            "max_turnout": -796,
+            "county_name": "Pemiscot"
+        },
+        "79": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -656,
+            "max_turnout": -1296,
+            "county_name": "Perry"
+        },
+        "80": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1155,
+            "max_turnout": -2892,
+            "county_name": "Pettis"
+        },
+        "81": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1671,
+            "max_turnout": -3019,
+            "county_name": "Phelps"
+        },
+        "82": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -849,
+            "max_turnout": -1156,
+            "county_name": "Pike"
+        },
+        "83": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1250,
+            "max_turnout": -8220,
+            "county_name": "Platte"
+        },
+        "84": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -343,
+            "max_turnout": -2421,
+            "county_name": "Polk"
+        },
+        "85": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -737,
+            "max_turnout": -2236,
+            "county_name": "Pulaski"
+        },
+        "86": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -99,
+            "max_turnout": -361,
+            "county_name": "Putnam"
+        },
+        "87": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -164,
+            "max_turnout": -859,
+            "county_name": "Ralls"
+        },
+        "88": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -966,
+            "max_turnout": -1733,
+            "county_name": "Randolph"
+        },
+        "89": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1026,
+            "max_turnout": -1796,
+            "county_name": "Ray"
+        },
+        "90": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -31,
+            "max_turnout": -452,
+            "county_name": "Reynolds"
+        },
+        "91": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -476,
+            "max_turnout": -876,
+            "county_name": "Ripley"
+        },
+        "92": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -17688,
+            "max_turnout": -31936,
+            "county_name": "Saint Charles"
+        },
+        "93": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -168,
+            "max_turnout": -807,
+            "county_name": "Saint Clair"
+        },
+        "94": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2458,
+            "max_turnout": -4129,
+            "county_name": "Saint Francois"
+        },
+        "95": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -70372,
+            "max_turnout": -80927,
+            "county_name": "Saint Louis"
+        },
+        "96": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -26517,
+            "max_turnout": -21200,
+            "county_name": "Saint Louis City"
+        },
+        "97": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1201,
+            "max_turnout": -1441,
+            "county_name": "Saline"
+        },
+        "98": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": -285,
+            "county_name": "Schuyler"
+        },
+        "99": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -155,
+            "max_turnout": -321,
+            "county_name": "Scotland"
+        },
+        "100": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -2125,
+            "max_turnout": -2633,
+            "county_name": "Scott"
+        },
+        "101": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -170,
+            "max_turnout": -598,
+            "county_name": "Shannon"
+        },
+        "102": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -304,
+            "max_turnout": -507,
+            "county_name": "Shelby"
+        },
+        "103": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -525,
+            "max_turnout": -1383,
+            "county_name": "Ste. Genevieve"
+        },
+        "104": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1731,
+            "max_turnout": -2002,
+            "county_name": "Stoddard"
+        },
+        "105": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -204,
+            "max_turnout": -2843,
+            "county_name": "Stone"
+        },
+        "106": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": -367,
+            "county_name": "Sullivan"
+        },
+        "107": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -1650,
+            "max_turnout": -4059,
+            "county_name": "Taney"
+        },
+        "108": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -504,
+            "max_turnout": -1830,
+            "county_name": "Texas"
+        },
+        "109": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -613,
+            "max_turnout": -1413,
+            "county_name": "Vernon"
+        },
+        "110": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -101,
+            "max_turnout": -2663,
+            "county_name": "Warren"
+        },
+        "111": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -117,
+            "max_turnout": -1284,
+            "county_name": "Washington"
+        },
+        "112": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -468,
+            "max_turnout": -857,
+            "county_name": "Wayne"
+        },
+        "113": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -613,
+            "max_turnout": -2896,
+            "county_name": "Webster"
+        },
+        "114": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": -181,
+            "county_name": "Worth"
+        },
+        "115": {
+            "Valentine": 0,
+            "Schmitt": 0,
+            "total": 0,
+            "min_turnout": -176,
+            "max_turnout": -1369,
+            "county_name": "Wright"
+        }
+    }
+}

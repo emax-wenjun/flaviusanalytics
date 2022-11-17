@@ -1,0 +1,612 @@
+{
+    "2022-11-12T00:51:57-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Perez": 146372,
+            "Kent": 141413,
+            "total": 287785,
+            "min_turnout": 316115,
+            "max_turnout": 324417
+        },
+        "1": {
+            "county_name": "Clark",
+            "Perez": 102851,
+            "Kent": 81029,
+            "total": 183880,
+            "min_turnout": 204311,
+            "max_turnout": 207151
+        },
+        "2": {
+            "county_name": "Cowlitz",
+            "Perez": 18703,
+            "Kent": 22671,
+            "total": 41374,
+            "min_turnout": 43551,
+            "max_turnout": 45629
+        },
+        "3": {
+            "county_name": "Lewis",
+            "Perez": 12253,
+            "Kent": 22527,
+            "total": 34780,
+            "min_turnout": 36229,
+            "max_turnout": 36610
+        },
+        "4": {
+            "county_name": "Pacific",
+            "Perez": 4929,
+            "Kent": 4478,
+            "total": 9407,
+            "min_turnout": 11198,
+            "max_turnout": 12060
+        },
+        "5": {
+            "county_name": "Skamania",
+            "Perez": 2782,
+            "Kent": 3134,
+            "total": 5916,
+            "min_turnout": 6227,
+            "max_turnout": 6361
+        },
+        "6": {
+            "county_name": "Thurston",
+            "Perez": 3770,
+            "Kent": 6203,
+            "total": 9973,
+            "min_turnout": 12015,
+            "max_turnout": 13778
+        },
+        "7": {
+            "county_name": "Wahkiakum",
+            "Perez": 1084,
+            "Kent": 1371,
+            "total": 2455,
+            "min_turnout": 2584,
+            "max_turnout": 2828
+        }
+    },
+    "2022-11-12T12:01:02-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -4441,
+            "max_turnout": -2907,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -4441,
+            "max_turnout": -2840,
+            "county_name": "Clark"
+        },
+        "5": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Skamania"
+        }
+    },
+    "2022-11-12T12:25:01-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -739,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -739,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-11-12T12:29:02-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Total"
+        },
+        "5": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Skamania"
+        }
+    },
+    "2022-11-12T12:32:57-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 676,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 676,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-12T13:05:02-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 4441,
+            "max_turnout": -1141,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 4441,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1141,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-11-12T13:09:04-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -188,
+            "county_name": "Total"
+        },
+        "7": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -188,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-11-12T19:22:28-05:00": {
+        "0": {
+            "Perez": 7419,
+            "Kent": 7401,
+            "total": 14820,
+            "min_turnout": 0,
+            "max_turnout": 4846,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 7419,
+            "Kent": 7401,
+            "total": 14820,
+            "min_turnout": 0,
+            "max_turnout": 4846,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T19:25:46-05:00": {
+        "0": {
+            "Perez": 378,
+            "Kent": 734,
+            "total": 1112,
+            "min_turnout": -96,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 378,
+            "Kent": 734,
+            "total": 1112,
+            "min_turnout": -96,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-12T19:28:59-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 534,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 534,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T19:32:24-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -509,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -509,
+            "max_turnout": 0,
+            "county_name": "Pacific"
+        }
+    },
+    "2022-11-12T19:33:27-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 397,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 397,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-14T20:12:19-05:00": {
+        "0": {
+            "Perez": 2642,
+            "Kent": 2857,
+            "total": 5499,
+            "min_turnout": 1197,
+            "max_turnout": 2581,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 964,
+            "Kent": 717,
+            "total": 1681,
+            "min_turnout": -375,
+            "max_turnout": 1770,
+            "county_name": "Clark"
+        },
+        "3": {
+            "Perez": 196,
+            "Kent": 291,
+            "total": 487,
+            "min_turnout": 0,
+            "max_turnout": 513,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Perez": 1066,
+            "Kent": 1268,
+            "total": 2334,
+            "min_turnout": 1171,
+            "max_turnout": 298,
+            "county_name": "Pacific"
+        },
+        "6": {
+            "Perez": 416,
+            "Kent": 581,
+            "total": 997,
+            "min_turnout": 401,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-14T20:13:30-05:00": {
+        "0": {
+            "Perez": 554,
+            "Kent": 1692,
+            "total": 2246,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Perez": 554,
+            "Kent": 1692,
+            "total": 2246,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-11-14T20:13:43-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 868,
+            "max_turnout": 1427,
+            "county_name": "Total"
+        },
+        "2": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 868,
+            "max_turnout": 1427,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-11-14T20:25:10-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -427,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -427,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-11-15T15:51:26-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-11-15T18:01:04-05:00": {
+        "0": {
+            "Perez": 70,
+            "Kent": 110,
+            "total": 180,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Perez": 70,
+            "Kent": 110,
+            "total": 180,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Skamania"
+        }
+    },
+    "2022-11-15T18:01:45-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 189,
+            "county_name": "Total"
+        },
+        "5": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 189,
+            "county_name": "Skamania"
+        }
+    },
+    "2022-11-15T18:05:03-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -69,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": -69,
+            "max_turnout": 0,
+            "county_name": "Skamania"
+        }
+    },
+    "2022-11-15T19:12:01-05:00": {
+        "0": {
+            "Perez": 70,
+            "Kent": 136,
+            "total": 206,
+            "min_turnout": 217,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 70,
+            "Kent": 136,
+            "total": 206,
+            "min_turnout": 217,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-15T19:17:00-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -330,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -330,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-15T19:38:02-05:00": {
+        "0": {
+            "Perez": 725,
+            "Kent": 533,
+            "total": 1258,
+            "min_turnout": 0,
+            "max_turnout": 1324,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 725,
+            "Kent": 533,
+            "total": 1258,
+            "min_turnout": 0,
+            "max_turnout": 1324,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-15T19:41:06-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 1284,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 1284,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T19:29:04-05:00": {
+        "0": {
+            "Perez": 132,
+            "Kent": 170,
+            "total": 302,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Perez": 132,
+            "Kent": 170,
+            "total": 302,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T19:41:50-05:00": {
+        "0": {
+            "Perez": 327,
+            "Kent": 564,
+            "total": 891,
+            "min_turnout": 938,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 327,
+            "Kent": 564,
+            "total": 891,
+            "min_turnout": 938,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-16T19:45:17-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 201,
+            "county_name": "Total"
+        },
+        "6": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 201,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-11-16T20:52:58-05:00": {
+        "0": {
+            "Perez": 233,
+            "Kent": 260,
+            "total": 493,
+            "min_turnout": 52,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Perez": 233,
+            "Kent": 260,
+            "total": 493,
+            "min_turnout": 52,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-11-16T21:01:11-05:00": {
+        "0": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 446,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Perez": 0,
+            "Kent": 0,
+            "total": 0,
+            "min_turnout": 446,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    }
+}

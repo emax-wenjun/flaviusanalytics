@@ -1,0 +1,1149 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Walz": 1313203,
+            "Jensen": 1122263,
+            "total": 2513082,
+            "min_turnout": 2535628,
+            "max_turnout": 2610262
+        },
+        {
+            "county_name": "Aitkin",
+            "Walz": 3030,
+            "Jensen": 5110,
+            "total": 8434,
+            "min_turnout": 8434,
+            "max_turnout": 8568
+        },
+        {
+            "county_name": "Anoka",
+            "Walz": 74509,
+            "Jensen": 76586,
+            "total": 156228,
+            "min_turnout": 157790,
+            "max_turnout": 159047
+        },
+        {
+            "county_name": "Becker",
+            "Walz": 4737,
+            "Jensen": 9480,
+            "total": 14737,
+            "min_turnout": 14884,
+            "max_turnout": 14965
+        },
+        {
+            "county_name": "Beltrami",
+            "Walz": 8124,
+            "Jensen": 9248,
+            "total": 18078,
+            "min_turnout": 18257,
+            "max_turnout": 18286
+        },
+        {
+            "county_name": "Benton",
+            "Walz": 5244,
+            "Jensen": 10496,
+            "total": 16382,
+            "min_turnout": 16546,
+            "max_turnout": 16568
+        },
+        {
+            "county_name": "Big Stone",
+            "Walz": 863,
+            "Jensen": 1492,
+            "total": 2438,
+            "min_turnout": 2462,
+            "max_turnout": 2505
+        },
+        {
+            "county_name": "Blue Earth",
+            "Walz": 13783,
+            "Jensen": 11905,
+            "total": 26501,
+            "min_turnout": 26766,
+            "max_turnout": 27327
+        },
+        {
+            "county_name": "Brown",
+            "Walz": 3916,
+            "Jensen": 7440,
+            "total": 11644,
+            "min_turnout": 11760,
+            "max_turnout": 11953
+        },
+        {
+            "county_name": "Carlton",
+            "Walz": 7913,
+            "Jensen": 7274,
+            "total": 15884,
+            "min_turnout": 15884,
+            "max_turnout": 16044
+        },
+        {
+            "county_name": "Carver",
+            "Walz": 24888,
+            "Jensen": 28078,
+            "total": 54189,
+            "min_turnout": 54731,
+            "max_turnout": 55753
+        },
+        {
+            "county_name": "Cass",
+            "Walz": 5071,
+            "Jensen": 9626,
+            "total": 15215,
+            "min_turnout": 15367,
+            "max_turnout": 15470
+        },
+        {
+            "county_name": "Chippewa",
+            "Walz": 1714,
+            "Jensen": 3141,
+            "total": 4992,
+            "min_turnout": 4992,
+            "max_turnout": 5394
+        },
+        {
+            "county_name": "Chisago",
+            "Walz": 9321,
+            "Jensen": 15646,
+            "total": 25920,
+            "min_turnout": 25920,
+            "max_turnout": 26182
+        },
+        {
+            "county_name": "Clay",
+            "Walz": 11139,
+            "Jensen": 10199,
+            "total": 22234,
+            "min_turnout": 22456,
+            "max_turnout": 23448
+        },
+        {
+            "county_name": "Clearwater",
+            "Walz": 879,
+            "Jensen": 2550,
+            "total": 3565,
+            "min_turnout": 3601,
+            "max_turnout": 3609
+        },
+        {
+            "county_name": "Cook",
+            "Walz": 2171,
+            "Jensen": 958,
+            "total": 3219,
+            "min_turnout": 3251,
+            "max_turnout": 3293
+        },
+        {
+            "county_name": "Cottonwood",
+            "Walz": 1363,
+            "Jensen": 3087,
+            "total": 4619,
+            "min_turnout": 4665,
+            "max_turnout": 4836
+        },
+        {
+            "county_name": "Crow Wing",
+            "Walz": 11388,
+            "Jensen": 20186,
+            "total": 32644,
+            "min_turnout": 32970,
+            "max_turnout": 33235
+        },
+        {
+            "county_name": "Dakota",
+            "Walz": 112005,
+            "Jensen": 83222,
+            "total": 200535,
+            "min_turnout": 202540,
+            "max_turnout": 205502
+        },
+        {
+            "county_name": "Dodge",
+            "Walz": 3291,
+            "Jensen": 5858,
+            "total": 9440,
+            "min_turnout": 9515,
+            "max_turnout": 9687
+        },
+        {
+            "county_name": "Douglas",
+            "Walz": 6358,
+            "Jensen": 12797,
+            "total": 19704,
+            "min_turnout": 19704,
+            "max_turnout": 19903
+        },
+        {
+            "county_name": "Faribault",
+            "Walz": 2000,
+            "Jensen": 3846,
+            "total": 6026,
+            "min_turnout": 6086,
+            "max_turnout": 6219
+        },
+        {
+            "county_name": "Fillmore",
+            "Walz": 3809,
+            "Jensen": 5432,
+            "total": 9500,
+            "min_turnout": 9595,
+            "max_turnout": 9727
+        },
+        {
+            "county_name": "Freeborn",
+            "Walz": 5350,
+            "Jensen": 7262,
+            "total": 13033,
+            "min_turnout": 13163,
+            "max_turnout": 13561
+        },
+        {
+            "county_name": "Goodhue",
+            "Walz": 9939,
+            "Jensen": 12407,
+            "total": 23098,
+            "min_turnout": 23329,
+            "max_turnout": 23522
+        },
+        {
+            "county_name": "Grant",
+            "Walz": 1054,
+            "Jensen": 1771,
+            "total": 2950,
+            "min_turnout": 2980,
+            "max_turnout": 3005
+        },
+        {
+            "county_name": "Hennepin",
+            "Walz": 405002,
+            "Jensen": 154382,
+            "total": 575209,
+            "min_turnout": 580961,
+            "max_turnout": 614707
+        },
+        {
+            "county_name": "Houston",
+            "Walz": 3605,
+            "Jensen": 4874,
+            "total": 8746,
+            "min_turnout": 8746,
+            "max_turnout": 8834
+        },
+        {
+            "county_name": "Hubbard",
+            "Walz": 3672,
+            "Jensen": 6590,
+            "total": 10646,
+            "min_turnout": 10752,
+            "max_turnout": 10802
+        },
+        {
+            "county_name": "Isanti",
+            "Walz": 5778,
+            "Jensen": 12271,
+            "total": 18858,
+            "min_turnout": 18858,
+            "max_turnout": 19048
+        },
+        {
+            "county_name": "Itasca",
+            "Walz": 9017,
+            "Jensen": 11488,
+            "total": 21365,
+            "min_turnout": 21579,
+            "max_turnout": 21584
+        },
+        {
+            "county_name": "Jackson",
+            "Walz": 1350,
+            "Jensen": 3055,
+            "total": 4558,
+            "min_turnout": 4604,
+            "max_turnout": 4636
+        },
+        {
+            "county_name": "Kanabec",
+            "Walz": 2277,
+            "Jensen": 4581,
+            "total": 7158,
+            "min_turnout": 7218,
+            "max_turnout": 7230
+        },
+        {
+            "county_name": "Kandiyohi",
+            "Walz": 6424,
+            "Jensen": 11288,
+            "total": 18238,
+            "min_turnout": 18420,
+            "max_turnout": 18644
+        },
+        {
+            "county_name": "Kittson",
+            "Walz": 689,
+            "Jensen": 1160,
+            "total": 1926,
+            "min_turnout": 1945,
+            "max_turnout": 2254
+        },
+        {
+            "county_name": "Koochiching",
+            "Walz": 2058,
+            "Jensen": 2953,
+            "total": 5225,
+            "min_turnout": 5274,
+            "max_turnout": 5278
+        },
+        {
+            "county_name": "Lac Qui Parle",
+            "Walz": 1101,
+            "Jensen": 1935,
+            "total": 3149,
+            "min_turnout": 3181,
+            "max_turnout": 3282
+        },
+        {
+            "county_name": "Lake",
+            "Walz": 2954,
+            "Jensen": 2517,
+            "total": 5661,
+            "min_turnout": 5718,
+            "max_turnout": 5758
+        },
+        {
+            "county_name": "Lake of the Woods",
+            "Walz": 474,
+            "Jensen": 1297,
+            "total": 1829,
+            "min_turnout": 1846,
+            "max_turnout": 1864
+        },
+        {
+            "county_name": "Le Sueur",
+            "Walz": 4591,
+            "Jensen": 8184,
+            "total": 13210,
+            "min_turnout": 13342,
+            "max_turnout": 13447
+        },
+        {
+            "county_name": "Lincoln",
+            "Walz": 710,
+            "Jensen": 1653,
+            "total": 2439,
+            "min_turnout": 2463,
+            "max_turnout": 2487
+        },
+        {
+            "county_name": "Lyon",
+            "Walz": 3264,
+            "Jensen": 6266,
+            "total": 9793,
+            "min_turnout": 9891,
+            "max_turnout": 10031
+        },
+        {
+            "county_name": "Mahnomen",
+            "Walz": 651,
+            "Jensen": 898,
+            "total": 1647,
+            "min_turnout": 1663,
+            "max_turnout": 1801
+        },
+        {
+            "county_name": "Marshall",
+            "Walz": 1669,
+            "Jensen": 5056,
+            "total": 6958,
+            "min_turnout": 6958,
+            "max_turnout": 7078
+        },
+        {
+            "county_name": "Martin",
+            "Walz": 2467,
+            "Jensen": 5625,
+            "total": 8347,
+            "min_turnout": 8430,
+            "max_turnout": 8517
+        },
+        {
+            "county_name": "McLeod",
+            "Walz": 5171,
+            "Jensen": 10770,
+            "total": 16456,
+            "min_turnout": 16622,
+            "max_turnout": 17279
+        },
+        {
+            "county_name": "Meeker",
+            "Walz": 3214,
+            "Jensen": 7250,
+            "total": 10812,
+            "min_turnout": 10920,
+            "max_turnout": 11014
+        },
+        {
+            "county_name": "Mille Lacs",
+            "Walz": 3390,
+            "Jensen": 7209,
+            "total": 11074,
+            "min_turnout": 11156,
+            "max_turnout": 11186
+        },
+        {
+            "county_name": "Morrison",
+            "Walz": 3451,
+            "Jensen": 11529,
+            "total": 15457,
+            "min_turnout": 15612,
+            "max_turnout": 15768
+        },
+        {
+            "county_name": "Mower",
+            "Walz": 6573,
+            "Jensen": 7043,
+            "total": 14112,
+            "min_turnout": 14183,
+            "max_turnout": 14255
+        },
+        {
+            "county_name": "Murray",
+            "Walz": 1051,
+            "Jensen": 2729,
+            "total": 3913,
+            "min_turnout": 3952,
+            "max_turnout": 3978
+        },
+        {
+            "county_name": "Nicollet",
+            "Walz": 7929,
+            "Jensen": 6964,
+            "total": 15306,
+            "min_turnout": 15353,
+            "max_turnout": 15460
+        },
+        {
+            "county_name": "Nobles",
+            "Walz": 1854,
+            "Jensen": 4013,
+            "total": 6081,
+            "min_turnout": 6142,
+            "max_turnout": 6743
+        },
+        {
+            "county_name": "Norman",
+            "Walz": 1060,
+            "Jensen": 1710,
+            "total": 2915,
+            "min_turnout": 2915,
+            "max_turnout": 2944
+        },
+        {
+            "county_name": "Olmsted",
+            "Walz": 37471,
+            "Jensen": 29067,
+            "total": 68107,
+            "min_turnout": 68788,
+            "max_turnout": 70040
+        },
+        {
+            "county_name": "Otter Tail",
+            "Walz": 8950,
+            "Jensen": 18618,
+            "total": 28505,
+            "min_turnout": 28505,
+            "max_turnout": 28793
+        },
+        {
+            "county_name": "Pennington",
+            "Walz": 1734,
+            "Jensen": 3464,
+            "total": 5460,
+            "min_turnout": 5471,
+            "max_turnout": 5515
+        },
+        {
+            "county_name": "Pine",
+            "Walz": 4290,
+            "Jensen": 7601,
+            "total": 12390,
+            "min_turnout": 12514,
+            "max_turnout": 12516
+        },
+        {
+            "county_name": "Pipestone",
+            "Walz": 872,
+            "Jensen": 2819,
+            "total": 3809,
+            "min_turnout": 3847,
+            "max_turnout": 3885
+        },
+        {
+            "county_name": "Polk",
+            "Walz": 3406,
+            "Jensen": 7180,
+            "total": 10935,
+            "min_turnout": 11037,
+            "max_turnout": 11506
+        },
+        {
+            "county_name": "Pope",
+            "Walz": 1970,
+            "Jensen": 3549,
+            "total": 5668,
+            "min_turnout": 5725,
+            "max_turnout": 5809
+        },
+        {
+            "county_name": "Ramsey",
+            "Walz": 155849,
+            "Jensen": 54770,
+            "total": 217948,
+            "min_turnout": 220127,
+            "max_turnout": 236650
+        },
+        {
+            "county_name": "Red Lake",
+            "Walz": 485,
+            "Jensen": 1049,
+            "total": 1605,
+            "min_turnout": 1614,
+            "max_turnout": 1621
+        },
+        {
+            "county_name": "Redwood",
+            "Walz": 1699,
+            "Jensen": 4582,
+            "total": 6440,
+            "min_turnout": 6504,
+            "max_turnout": 6611
+        },
+        {
+            "county_name": "Renville",
+            "Walz": 1883,
+            "Jensen": 4192,
+            "total": 6295,
+            "min_turnout": 6358,
+            "max_turnout": 6394
+        },
+        {
+            "county_name": "Rice",
+            "Walz": 14252,
+            "Jensen": 13182,
+            "total": 28376,
+            "min_turnout": 28660,
+            "max_turnout": 28877
+        },
+        {
+            "county_name": "Rock",
+            "Walz": 1139,
+            "Jensen": 2877,
+            "total": 4138,
+            "min_turnout": 4179,
+            "max_turnout": 4227
+        },
+        {
+            "county_name": "Roseau",
+            "Walz": 1535,
+            "Jensen": 4740,
+            "total": 6505,
+            "min_turnout": 6567,
+            "max_turnout": 6605
+        },
+        {
+            "county_name": "Saint Louis",
+            "Walz": 53551,
+            "Jensen": 35375,
+            "total": 92899,
+            "min_turnout": 93178,
+            "max_turnout": 95865
+        },
+        {
+            "county_name": "Scott",
+            "Walz": 30856,
+            "Jensen": 35278,
+            "total": 67905,
+            "min_turnout": 68584,
+            "max_turnout": 69614
+        },
+        {
+            "county_name": "Sherburne",
+            "Walz": 13697,
+            "Jensen": 26517,
+            "total": 41613,
+            "min_turnout": 42029,
+            "max_turnout": 42330
+        },
+        {
+            "county_name": "Sibley",
+            "Walz": 1905,
+            "Jensen": 4518,
+            "total": 6615,
+            "min_turnout": 6681,
+            "max_turnout": 6761
+        },
+        {
+            "county_name": "Stearns",
+            "Walz": 24164,
+            "Jensen": 39171,
+            "total": 65460,
+            "min_turnout": 66115,
+            "max_turnout": 66668
+        },
+        {
+            "county_name": "Steele",
+            "Walz": 6499,
+            "Jensen": 9485,
+            "total": 16535,
+            "min_turnout": 16700,
+            "max_turnout": 16825
+        },
+        {
+            "county_name": "Stevens",
+            "Walz": 1490,
+            "Jensen": 2437,
+            "total": 4031,
+            "min_turnout": 4044,
+            "max_turnout": 4284
+        },
+        {
+            "county_name": "Swift",
+            "Walz": 1389,
+            "Jensen": 2409,
+            "total": 3912,
+            "min_turnout": 3951,
+            "max_turnout": 3997
+        },
+        {
+            "county_name": "Todd",
+            "Walz": 2649,
+            "Jensen": 7780,
+            "total": 10857,
+            "min_turnout": 10966,
+            "max_turnout": 10977
+        },
+        {
+            "county_name": "Traverse",
+            "Walz": 519,
+            "Jensen": 968,
+            "total": 1547,
+            "min_turnout": 1562,
+            "max_turnout": 1565
+        },
+        {
+            "county_name": "Wabasha",
+            "Walz": 4020,
+            "Jensen": 6366,
+            "total": 10730,
+            "min_turnout": 10730,
+            "max_turnout": 10838
+        },
+        {
+            "county_name": "Wadena",
+            "Walz": 1512,
+            "Jensen": 4260,
+            "total": 5984,
+            "min_turnout": 6042,
+            "max_turnout": 6075
+        },
+        {
+            "county_name": "Waseca",
+            "Walz": 2845,
+            "Jensen": 5216,
+            "total": 8388,
+            "min_turnout": 8388,
+            "max_turnout": 8473
+        },
+        {
+            "county_name": "Washington",
+            "Walz": 70814,
+            "Jensen": 56472,
+            "total": 130661,
+            "min_turnout": 131968,
+            "max_turnout": 133985
+        },
+        {
+            "county_name": "Watonwan",
+            "Walz": 1445,
+            "Jensen": 2325,
+            "total": 3867,
+            "min_turnout": 3906,
+            "max_turnout": 4053
+        },
+        {
+            "county_name": "Wilkin",
+            "Walz": 704,
+            "Jensen": 1783,
+            "total": 2589,
+            "min_turnout": 2615,
+            "max_turnout": 2617
+        },
+        {
+            "county_name": "Winona",
+            "Walz": 9889,
+            "Jensen": 9913,
+            "total": 20449,
+            "min_turnout": 20653,
+            "max_turnout": 20844
+        },
+        {
+            "county_name": "Wright",
+            "Walz": 23116,
+            "Jensen": 40994,
+            "total": 66203,
+            "min_turnout": 66865,
+            "max_turnout": 67484
+        },
+        {
+            "county_name": "Yellow Medicine",
+            "Walz": 1299,
+            "Jensen": 2919,
+            "total": 4359,
+            "min_turnout": 4403,
+            "max_turnout": 4440
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Aitkin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Anoka": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Becker": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Beltrami": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Big Stone": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Blue Earth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Carlton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Carver": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cass": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Chippewa": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Chisago": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clearwater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cook": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cottonwood": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Crow Wing": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dakota": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dodge": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Faribault": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Fillmore": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Freeborn": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Goodhue": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hennepin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Houston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hubbard": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Isanti": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Itasca": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kanabec": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Kandiyohi": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kittson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Koochiching": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lac Qui Parle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lake of the Woods": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Le Sueur": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lyon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mahnomen": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Marshall": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Martin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McLeod": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Meeker": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mille Lacs": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Morrison": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mower": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Murray": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Nicollet": {
+            "main": "ddhq",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Nobles": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Norman": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Olmsted": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Otter Tail": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pennington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Pine": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pipestone": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pope": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ramsey": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Red Lake": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Redwood": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Renville": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Rice": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Rock": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Roseau": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Louis": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Scott": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Sherburne": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Sibley": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Stearns": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Steele": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Stevens": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Swift": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Todd": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Traverse": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wabasha": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wadena": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Waseca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Watonwan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wilkin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Winona": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wright": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Yellow Medicine": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

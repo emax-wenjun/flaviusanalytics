@@ -1,0 +1,889 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Fetterman": 2704647,
+            "Oz": 2470882,
+            "total": 5304111,
+            "min_turnout": 5349645,
+            "max_turnout": 5610648
+        },
+        {
+            "county_name": "Adams",
+            "Fetterman": 16052,
+            "Oz": 29017,
+            "total": 46353,
+            "min_turnout": 46353,
+            "max_turnout": 48553
+        },
+        {
+            "county_name": "Allegheny",
+            "Fetterman": 352940,
+            "Oz": 196879,
+            "total": 558783,
+            "min_turnout": 564371,
+            "max_turnout": 578756
+        },
+        {
+            "county_name": "Armstrong",
+            "Fetterman": 7939,
+            "Oz": 19460,
+            "total": 28166,
+            "min_turnout": 28741,
+            "max_turnout": 29574
+        },
+        {
+            "county_name": "Beaver",
+            "Fetterman": 32456,
+            "Oz": 38678,
+            "total": 73108,
+            "min_turnout": 73846,
+            "max_turnout": 76763
+        },
+        {
+            "county_name": "Bedford",
+            "Fetterman": 3780,
+            "Oz": 17929,
+            "total": 22197,
+            "min_turnout": 22197,
+            "max_turnout": 23307
+        },
+        {
+            "county_name": "Berks",
+            "Fetterman": 70322,
+            "Oz": 77621,
+            "total": 153357,
+            "min_turnout": 155665,
+            "max_turnout": 161025
+        },
+        {
+            "county_name": "Blair",
+            "Fetterman": 14618,
+            "Oz": 34093,
+            "total": 49946,
+            "min_turnout": 50451,
+            "max_turnout": 52443
+        },
+        {
+            "county_name": "Bradford",
+            "Fetterman": 6631,
+            "Oz": 16032,
+            "total": 23479,
+            "min_turnout": 23479,
+            "max_turnout": 24487
+        },
+        {
+            "county_name": "Bucks",
+            "Fetterman": 161573,
+            "Oz": 139722,
+            "total": 309617,
+            "min_turnout": 313770,
+            "max_turnout": 317152
+        },
+        {
+            "county_name": "Butler",
+            "Fetterman": 33615,
+            "Oz": 56962,
+            "total": 92811,
+            "min_turnout": 92811,
+            "max_turnout": 97452
+        },
+        {
+            "county_name": "Cambria",
+            "Fetterman": 18762,
+            "Oz": 35803,
+            "total": 56213,
+            "min_turnout": 56213,
+            "max_turnout": 59024
+        },
+        {
+            "county_name": "Cameron",
+            "Fetterman": 558,
+            "Oz": 1253,
+            "total": 1902,
+            "min_turnout": 1902,
+            "max_turnout": 1997
+        },
+        {
+            "county_name": "Carbon",
+            "Fetterman": 9617,
+            "Oz": 15629,
+            "total": 26135,
+            "min_turnout": 26135,
+            "max_turnout": 27442
+        },
+        {
+            "county_name": "Centre",
+            "Fetterman": 32262,
+            "Oz": 27842,
+            "total": 61661,
+            "min_turnout": 62284,
+            "max_turnout": 64744
+        },
+        {
+            "county_name": "Chester",
+            "Fetterman": 146056,
+            "Oz": 103590,
+            "total": 255999,
+            "min_turnout": 255999,
+            "max_turnout": 259822
+        },
+        {
+            "county_name": "Clarion",
+            "Fetterman": 4311,
+            "Oz": 10601,
+            "total": 15335,
+            "min_turnout": 15335,
+            "max_turnout": 16102
+        },
+        {
+            "county_name": "Clearfield",
+            "Fetterman": 8492,
+            "Oz": 21929,
+            "total": 31359,
+            "min_turnout": 31654,
+            "max_turnout": 32927
+        },
+        {
+            "county_name": "Clinton",
+            "Fetterman": 4750,
+            "Oz": 8791,
+            "total": 14017,
+            "min_turnout": 14159,
+            "max_turnout": 14688
+        },
+        {
+            "county_name": "Columbia",
+            "Fetterman": 8938,
+            "Oz": 14809,
+            "total": 24635,
+            "min_turnout": 24884,
+            "max_turnout": 25416
+        },
+        {
+            "county_name": "Crawford",
+            "Fetterman": 10961,
+            "Oz": 20920,
+            "total": 32834,
+            "min_turnout": 33166,
+            "max_turnout": 34430
+        },
+        {
+            "county_name": "Cumberland",
+            "Fetterman": 53008,
+            "Oz": 59578,
+            "total": 115561,
+            "min_turnout": 115561,
+            "max_turnout": 121339
+        },
+        {
+            "county_name": "Dauphin",
+            "Fetterman": 60984,
+            "Oz": 49986,
+            "total": 113652,
+            "min_turnout": 114800,
+            "max_turnout": 119335
+        },
+        {
+            "county_name": "Delaware",
+            "Fetterman": 155825,
+            "Oz": 87005,
+            "total": 248534,
+            "min_turnout": 253606,
+            "max_turnout": 264678
+        },
+        {
+            "county_name": "Elk",
+            "Fetterman": 4049,
+            "Oz": 9114,
+            "total": 13588,
+            "min_turnout": 13588,
+            "max_turnout": 14267
+        },
+        {
+            "county_name": "Erie",
+            "Fetterman": 56197,
+            "Oz": 46198,
+            "total": 105203,
+            "min_turnout": 105219,
+            "max_turnout": 107784
+        },
+        {
+            "county_name": "Fayette",
+            "Fetterman": 17454,
+            "Oz": 27991,
+            "total": 46291,
+            "min_turnout": 46759,
+            "max_turnout": 48606
+        },
+        {
+            "county_name": "Forest",
+            "Fetterman": 694,
+            "Oz": 1433,
+            "total": 2181,
+            "min_turnout": 2181,
+            "max_turnout": 2290
+        },
+        {
+            "county_name": "Franklin",
+            "Fetterman": 18592,
+            "Oz": 44743,
+            "total": 65015,
+            "min_turnout": 65672,
+            "max_turnout": 68266
+        },
+        {
+            "county_name": "Fulton",
+            "Fetterman": 946,
+            "Oz": 5155,
+            "total": 6223,
+            "min_turnout": 6286,
+            "max_turnout": 6534
+        },
+        {
+            "county_name": "Greene",
+            "Fetterman": 4378,
+            "Oz": 8334,
+            "total": 13061,
+            "min_turnout": 13193,
+            "max_turnout": 13714
+        },
+        {
+            "county_name": "Huntingdon",
+            "Fetterman": 4654,
+            "Oz": 13022,
+            "total": 18240,
+            "min_turnout": 18606,
+            "max_turnout": 19152
+        },
+        {
+            "county_name": "Indiana",
+            "Fetterman": 11218,
+            "Oz": 20769,
+            "total": 32755,
+            "min_turnout": 33086,
+            "max_turnout": 34393
+        },
+        {
+            "county_name": "Jefferson",
+            "Fetterman": 4135,
+            "Oz": 13136,
+            "total": 17783,
+            "min_turnout": 17963,
+            "max_turnout": 18615
+        },
+        {
+            "county_name": "Juniata",
+            "Fetterman": 2106,
+            "Oz": 7254,
+            "total": 9711,
+            "min_turnout": 9809,
+            "max_turnout": 10197
+        },
+        {
+            "county_name": "Lackawanna",
+            "Fetterman": 50092,
+            "Oz": 36397,
+            "total": 88401,
+            "min_turnout": 88401,
+            "max_turnout": 92821
+        },
+        {
+            "county_name": "Lancaster",
+            "Fetterman": 93291,
+            "Oz": 123803,
+            "total": 222164,
+            "min_turnout": 224408,
+            "max_turnout": 233272
+        },
+        {
+            "county_name": "Lawrence",
+            "Fetterman": 13701,
+            "Oz": 21486,
+            "total": 36099,
+            "min_turnout": 36099,
+            "max_turnout": 37904
+        },
+        {
+            "county_name": "Lebanon",
+            "Fetterman": 19484,
+            "Oz": 34910,
+            "total": 56154,
+            "min_turnout": 56721,
+            "max_turnout": 58962
+        },
+        {
+            "county_name": "Lehigh",
+            "Fetterman": 72147,
+            "Oz": 58878,
+            "total": 134965,
+            "min_turnout": 135077,
+            "max_turnout": 141713
+        },
+        {
+            "county_name": "Luzerne",
+            "Fetterman": 49773,
+            "Oz": 59548,
+            "total": 112041,
+            "min_turnout": 113097,
+            "max_turnout": 115074
+        },
+        {
+            "county_name": "Lycoming",
+            "Fetterman": 13488,
+            "Oz": 31126,
+            "total": 46096,
+            "min_turnout": 46562,
+            "max_turnout": 48264
+        },
+        {
+            "county_name": "McKean",
+            "Fetterman": 4125,
+            "Oz": 10072,
+            "total": 14637,
+            "min_turnout": 14637,
+            "max_turnout": 15339
+        },
+        {
+            "county_name": "Mercer",
+            "Fetterman": 16752,
+            "Oz": 26886,
+            "total": 44841,
+            "min_turnout": 45756,
+            "max_turnout": 47083
+        },
+        {
+            "county_name": "Mifflin",
+            "Fetterman": 3931,
+            "Oz": 12218,
+            "total": 16705,
+            "min_turnout": 16705,
+            "max_turnout": 17540
+        },
+        {
+            "county_name": "Monroe",
+            "Fetterman": 30193,
+            "Oz": 26735,
+            "total": 58658,
+            "min_turnout": 59855,
+            "max_turnout": 61105
+        },
+        {
+            "county_name": "Montgomery",
+            "Fetterman": 257140,
+            "Oz": 142410,
+            "total": 409143,
+            "min_turnout": 412491,
+            "max_turnout": 420578
+        },
+        {
+            "county_name": "Montour",
+            "Fetterman": 3213,
+            "Oz": 4328,
+            "total": 7833,
+            "min_turnout": 7833,
+            "max_turnout": 7937
+        },
+        {
+            "county_name": "Northampton",
+            "Fetterman": 65835,
+            "Oz": 59623,
+            "total": 128994,
+            "min_turnout": 128994,
+            "max_turnout": 135444
+        },
+        {
+            "county_name": "Northumberland",
+            "Fetterman": 10801,
+            "Oz": 20973,
+            "total": 32865,
+            "min_turnout": 33031,
+            "max_turnout": 34363
+        },
+        {
+            "county_name": "Perry",
+            "Fetterman": 5642,
+            "Oz": 13951,
+            "total": 20222,
+            "min_turnout": 20375,
+            "max_turnout": 21180
+        },
+        {
+            "county_name": "Philadelphia",
+            "Fetterman": 399775,
+            "Oz": 77367,
+            "total": 484844,
+            "min_turnout": 494831,
+            "max_turnout": 589064
+        },
+        {
+            "county_name": "Pike",
+            "Fetterman": 9751,
+            "Oz": 14745,
+            "total": 25077,
+            "min_turnout": 25077,
+            "max_turnout": 26331
+        },
+        {
+            "county_name": "Potter",
+            "Fetterman": 1409,
+            "Oz": 5467,
+            "total": 7082,
+            "min_turnout": 7082,
+            "max_turnout": 7436
+        },
+        {
+            "county_name": "Schuylkill",
+            "Fetterman": 17852,
+            "Oz": 35154,
+            "total": 55162,
+            "min_turnout": 55719,
+            "max_turnout": 57920
+        },
+        {
+            "county_name": "Snyder",
+            "Fetterman": 4205,
+            "Oz": 10650,
+            "total": 15433,
+            "min_turnout": 15433,
+            "max_turnout": 16205
+        },
+        {
+            "county_name": "Somerset",
+            "Fetterman": 7632,
+            "Oz": 23923,
+            "total": 32454,
+            "min_turnout": 32782,
+            "max_turnout": 34077
+        },
+        {
+            "county_name": "Sullivan",
+            "Fetterman": 865,
+            "Oz": 2018,
+            "total": 3007,
+            "min_turnout": 3034,
+            "max_turnout": 3157
+        },
+        {
+            "county_name": "Susquehanna",
+            "Fetterman": 5208,
+            "Oz": 11472,
+            "total": 17224,
+            "min_turnout": 17224,
+            "max_turnout": 18085
+        },
+        {
+            "county_name": "Tioga",
+            "Fetterman": 4101,
+            "Oz": 11987,
+            "total": 16629,
+            "min_turnout": 16629,
+            "max_turnout": 17431
+        },
+        {
+            "county_name": "Union",
+            "Fetterman": 6170,
+            "Oz": 9379,
+            "total": 15992,
+            "min_turnout": 16154,
+            "max_turnout": 16792
+        },
+        {
+            "county_name": "Venango",
+            "Fetterman": 6743,
+            "Oz": 13379,
+            "total": 20792,
+            "min_turnout": 21002,
+            "max_turnout": 21832
+        },
+        {
+            "county_name": "Warren",
+            "Fetterman": 5383,
+            "Oz": 10161,
+            "total": 16040,
+            "min_turnout": 16040,
+            "max_turnout": 16367
+        },
+        {
+            "county_name": "Washington",
+            "Fetterman": 39476,
+            "Oz": 52188,
+            "total": 93470,
+            "min_turnout": 93470,
+            "max_turnout": 97446
+        },
+        {
+            "county_name": "Wayne",
+            "Fetterman": 7669,
+            "Oz": 14423,
+            "total": 22710,
+            "min_turnout": 22710,
+            "max_turnout": 23846
+        },
+        {
+            "county_name": "Westmoreland",
+            "Fetterman": 65862,
+            "Oz": 98022,
+            "total": 167399,
+            "min_turnout": 167399,
+            "max_turnout": 175769
+        },
+        {
+            "county_name": "Wyoming",
+            "Fetterman": 4043,
+            "Oz": 7330,
+            "total": 11754,
+            "min_turnout": 11754,
+            "max_turnout": 12342
+        },
+        {
+            "county_name": "York",
+            "Fetterman": 70022,
+            "Oz": 108595,
+            "total": 183519,
+            "min_turnout": 183519,
+            "max_turnout": 192695
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Allegheny": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Armstrong": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Beaver": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bedford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Berks": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Blair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bradford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bucks": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cambria": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cameron": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Carbon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Centre": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clarion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clearfield": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cumberland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dauphin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Elk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Erie": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Forest": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fulton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Huntingdon": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Indiana": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Juniata": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lackawanna": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lancaster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lebanon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lehigh": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Luzerne": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lycoming": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "McKean": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mercer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mifflin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Montour": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Northampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Northumberland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Philadelphia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Potter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Schuylkill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Snyder": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Somerset": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Susquehanna": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tioga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Venango": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Westmoreland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyoming": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "York": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

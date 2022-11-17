@@ -1,0 +1,100 @@
+{
+    "2022-07-31T03:15:25-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Sinema": 404170,
+            "Abboud": 105800,
+            "total": 509970
+        },
+        "1": {
+            "county_name": "Apache",
+            "Sinema": 7946,
+            "Abboud": 3333,
+            "total": 11279
+        },
+        "2": {
+            "county_name": "Cochise",
+            "Sinema": 7645,
+            "Abboud": 1800,
+            "total": 9445
+        },
+        "3": {
+            "county_name": "Coconino",
+            "Sinema": 11055,
+            "Abboud": 4147,
+            "total": 15202
+        },
+        "4": {
+            "county_name": "Gila",
+            "Sinema": 3546,
+            "Abboud": 660,
+            "total": 4206
+        },
+        "5": {
+            "county_name": "Graham",
+            "Sinema": 1316,
+            "Abboud": 338,
+            "total": 1654
+        },
+        "6": {
+            "county_name": "Greenlee",
+            "Sinema": 600,
+            "Abboud": 143,
+            "total": 743
+        },
+        "7": {
+            "county_name": "La Paz",
+            "Sinema": 493,
+            "Abboud": 142,
+            "total": 635
+        },
+        "8": {
+            "county_name": "Maricopa",
+            "Sinema": 230433,
+            "Abboud": 56750,
+            "total": 287183
+        },
+        "9": {
+            "county_name": "Mohave",
+            "Sinema": 6935,
+            "Abboud": 1537,
+            "total": 8472
+        },
+        "10": {
+            "county_name": "Navajo",
+            "Sinema": 7067,
+            "Abboud": 2191,
+            "total": 9258
+        },
+        "11": {
+            "county_name": "Pima",
+            "Sinema": 85574,
+            "Abboud": 24629,
+            "total": 110203
+        },
+        "12": {
+            "county_name": "Pinal",
+            "Sinema": 17517,
+            "Abboud": 3460,
+            "total": 20977
+        },
+        "13": {
+            "county_name": "Santa Cruz",
+            "Sinema": 3409,
+            "Abboud": 1098,
+            "total": 4507
+        },
+        "14": {
+            "county_name": "Yavapai",
+            "Sinema": 15457,
+            "Abboud": 3315,
+            "total": 18772
+        },
+        "15": {
+            "county_name": "Yuma",
+            "Sinema": 5177,
+            "Abboud": 2257,
+            "total": 7434
+        }
+    }
+}

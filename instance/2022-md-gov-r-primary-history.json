@@ -1,0 +1,998 @@
+{
+    "2022-07-31T02:53:14-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Cox": 211976,
+            "Schulz": 162920,
+            "total": 390531,
+            "min_turnout": 394373,
+            "max_turnout": 491853
+        },
+        "1": {
+            "county_name": "Allegany",
+            "Cox": 8295,
+            "Schulz": 3849,
+            "total": 12806,
+            "min_turnout": 12806,
+            "max_turnout": 13496
+        },
+        "2": {
+            "county_name": "Anne Arundel",
+            "Cox": 18039,
+            "Schulz": 18581,
+            "total": 37844,
+            "min_turnout": 37844,
+            "max_turnout": 57803
+        },
+        "3": {
+            "county_name": "Baltimore",
+            "Cox": 18129,
+            "Schulz": 18247,
+            "total": 37867,
+            "min_turnout": 37867,
+            "max_turnout": 42781
+        },
+        "4": {
+            "county_name": "Baltimore City",
+            "Cox": 1771,
+            "Schulz": 2010,
+            "total": 4105,
+            "min_turnout": 4321,
+            "max_turnout": 5231
+        },
+        "5": {
+            "county_name": "Calvert",
+            "Cox": 11854,
+            "Schulz": 6253,
+            "total": 18952,
+            "min_turnout": 18952,
+            "max_turnout": 20893
+        },
+        "6": {
+            "county_name": "Caroline",
+            "Cox": 5234,
+            "Schulz": 2821,
+            "total": 8217,
+            "min_turnout": 8217,
+            "max_turnout": 8217
+        },
+        "7": {
+            "county_name": "Carroll",
+            "Cox": 20458,
+            "Schulz": 17490,
+            "total": 38927,
+            "min_turnout": 38927,
+            "max_turnout": 47371
+        },
+        "8": {
+            "county_name": "Cecil",
+            "Cox": 4998,
+            "Schulz": 3487,
+            "total": 8816,
+            "min_turnout": 9015,
+            "max_turnout": 16485
+        },
+        "9": {
+            "county_name": "Charles",
+            "Cox": 6529,
+            "Schulz": 2798,
+            "total": 9730,
+            "min_turnout": 9730,
+            "max_turnout": 9730
+        },
+        "10": {
+            "county_name": "Dorchester",
+            "Cox": 2475,
+            "Schulz": 916,
+            "total": 3508,
+            "min_turnout": 3544,
+            "max_turnout": 4169
+        },
+        "11": {
+            "county_name": "Frederick",
+            "Cox": 10898,
+            "Schulz": 9684,
+            "total": 21230,
+            "min_turnout": 21509,
+            "max_turnout": 35653
+        },
+        "12": {
+            "county_name": "Garrett",
+            "Cox": 7061,
+            "Schulz": 2789,
+            "total": 10471,
+            "min_turnout": 10471,
+            "max_turnout": 10471
+        },
+        "13": {
+            "county_name": "Harford",
+            "Cox": 30869,
+            "Schulz": 23574,
+            "total": 55918,
+            "min_turnout": 55918,
+            "max_turnout": 55918
+        },
+        "14": {
+            "county_name": "Howard",
+            "Cox": 6320,
+            "Schulz": 8218,
+            "total": 15202,
+            "min_turnout": 16002,
+            "max_turnout": 17240
+        },
+        "15": {
+            "county_name": "Kent",
+            "Cox": 1797,
+            "Schulz": 2012,
+            "total": 3939,
+            "min_turnout": 3939,
+            "max_turnout": 3939
+        },
+        "16": {
+            "county_name": "Montgomery",
+            "Cox": 10075,
+            "Schulz": 9391,
+            "total": 21206,
+            "min_turnout": 22322,
+            "max_turnout": 27496
+        },
+        "17": {
+            "county_name": "Prince George's",
+            "Cox": 3466,
+            "Schulz": 2607,
+            "total": 6901,
+            "min_turnout": 6901,
+            "max_turnout": 8002
+        },
+        "18": {
+            "county_name": "Queen Anne's",
+            "Cox": 6788,
+            "Schulz": 5239,
+            "total": 12236,
+            "min_turnout": 12236,
+            "max_turnout": 12236
+        },
+        "19": {
+            "county_name": "Saint Mary's",
+            "Cox": 12648,
+            "Schulz": 8915,
+            "total": 22693,
+            "min_turnout": 22693,
+            "max_turnout": 22693
+        },
+        "20": {
+            "county_name": "Somerset",
+            "Cox": 3341,
+            "Schulz": 638,
+            "total": 4125,
+            "min_turnout": 4125,
+            "max_turnout": 23607
+        },
+        "21": {
+            "county_name": "Talbot",
+            "Cox": 5191,
+            "Schulz": 3771,
+            "total": 9176,
+            "min_turnout": 9176,
+            "max_turnout": 9176
+        },
+        "22": {
+            "county_name": "Washington",
+            "Cox": 7675,
+            "Schulz": 5224,
+            "total": 13623,
+            "min_turnout": 14340,
+            "max_turnout": 18498
+        },
+        "23": {
+            "county_name": "Wicomico",
+            "Cox": 4517,
+            "Schulz": 2433,
+            "total": 7286,
+            "min_turnout": 7669,
+            "max_turnout": 8500
+        },
+        "24": {
+            "county_name": "Worcester",
+            "Cox": 3548,
+            "Schulz": 1973,
+            "total": 5753,
+            "min_turnout": 5849,
+            "max_turnout": 12248
+        }
+    },
+    "2022-07-31T13:49:16-04:00": {
+        "0": {
+            "Cox": 71,
+            "Schulz": 111,
+            "total": 214,
+            "min_turnout": 225,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 71,
+            "Schulz": 111,
+            "total": 214,
+            "min_turnout": 225,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-01T17:16:40-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 308,
+            "max_turnout": 115,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 360,
+            "max_turnout": 0,
+            "county_name": "Anne Arundel"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -163,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Baltimore City"
+        },
+        "8": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -33,
+            "max_turnout": 0,
+            "county_name": "Cecil"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "11": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Frederick"
+        },
+        "16": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 240,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 58,
+            "county_name": "Prince George's"
+        },
+        "24": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Worcester"
+        }
+    },
+    "2022-08-01T21:18:31-04:00": {
+        "0": {
+            "Cox": 141,
+            "Schulz": 240,
+            "total": 416,
+            "min_turnout": 438,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 141,
+            "Schulz": 240,
+            "total": 416,
+            "min_turnout": 438,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-02T11:07:05-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-02T21:27:59-04:00": {
+        "0": {
+            "Cox": 71,
+            "Schulz": 135,
+            "total": 228,
+            "min_turnout": 240,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 71,
+            "Schulz": 135,
+            "total": 228,
+            "min_turnout": 240,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-02T21:40:26-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 2243,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 1437,
+            "max_turnout": 0,
+            "county_name": "Anne Arundel"
+        },
+        "11": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 806,
+            "max_turnout": 0,
+            "county_name": "Frederick"
+        }
+    },
+    "2022-08-03T09:53:40-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1415,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1415,
+            "max_turnout": 0,
+            "county_name": "Anne Arundel"
+        }
+    },
+    "2022-08-03T09:54:28-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -175,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -175,
+            "max_turnout": 0,
+            "county_name": "Baltimore City"
+        }
+    },
+    "2022-08-03T09:54:52-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -77,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -77,
+            "max_turnout": 0,
+            "county_name": "Cecil"
+        }
+    },
+    "2022-08-03T09:55:16-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -876,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -876,
+            "max_turnout": 0,
+            "county_name": "Frederick"
+        }
+    },
+    "2022-08-03T09:56:51-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -647,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -647,
+            "max_turnout": 0,
+            "county_name": "Howard"
+        }
+    },
+    "2022-08-03T09:58:02-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -890,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "22": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -580,
+            "max_turnout": 0,
+            "county_name": "Washington"
+        },
+        "23": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -310,
+            "max_turnout": 0,
+            "county_name": "Wicomico"
+        }
+    },
+    "2022-08-03T09:58:49-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "24": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Worcester"
+        }
+    },
+    "2022-08-03T10:08:36-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -241,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -241,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-04T19:14:38-04:00": {
+        "0": {
+            "Cox": 87,
+            "Schulz": 191,
+            "total": 310,
+            "min_turnout": 327,
+            "max_turnout": -678,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -35,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Baltimore City"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "16": {
+            "Cox": 87,
+            "Schulz": 191,
+            "total": 310,
+            "min_turnout": 326,
+            "max_turnout": -607,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Prince George's"
+        }
+    },
+    "2022-08-05T21:57:32-04:00": {
+        "0": {
+            "Cox": 141,
+            "Schulz": 216,
+            "total": 415,
+            "min_turnout": 437,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 141,
+            "Schulz": 216,
+            "total": 415,
+            "min_turnout": 437,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-06T19:41:20-04:00": {
+        "0": {
+            "Cox": -299,
+            "Schulz": -542,
+            "total": -953,
+            "min_turnout": 89543,
+            "max_turnout": -6610,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 690,
+            "max_turnout": 0,
+            "county_name": "Allegany"
+        },
+        "2": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 19577,
+            "max_turnout": 0,
+            "county_name": "Anne Arundel"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4716,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 703,
+            "max_turnout": -346,
+            "county_name": "Baltimore City"
+        },
+        "5": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 1941,
+            "max_turnout": 0,
+            "county_name": "Calvert"
+        },
+        "7": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 8444,
+            "max_turnout": 0,
+            "county_name": "Carroll"
+        },
+        "8": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 7580,
+            "max_turnout": 0,
+            "county_name": "Cecil"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 636,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "11": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 14209,
+            "max_turnout": 0,
+            "county_name": "Frederick"
+        },
+        "14": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 1885,
+            "max_turnout": 0,
+            "county_name": "Howard"
+        },
+        "16": {
+            "Cox": -299,
+            "Schulz": -542,
+            "total": -953,
+            "min_turnout": 2080,
+            "max_turnout": -409,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1139,
+            "county_name": "Prince George's"
+        },
+        "20": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 19482,
+            "max_turnout": 0,
+            "county_name": "Somerset"
+        },
+        "22": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 4738,
+            "max_turnout": 0,
+            "county_name": "Washington"
+        },
+        "23": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 1141,
+            "max_turnout": 0,
+            "county_name": "Wicomico"
+        },
+        "24": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 6437,
+            "max_turnout": 0,
+            "county_name": "Worcester"
+        }
+    },
+    "2022-08-06T19:41:26-04:00": {
+        "0": {
+            "Cox": 299,
+            "Schulz": 542,
+            "total": 953,
+            "min_turnout": -89543,
+            "max_turnout": 6610,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -690,
+            "max_turnout": 0,
+            "county_name": "Allegany"
+        },
+        "2": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -19577,
+            "max_turnout": 0,
+            "county_name": "Anne Arundel"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4716,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -703,
+            "max_turnout": 346,
+            "county_name": "Baltimore City"
+        },
+        "5": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1941,
+            "max_turnout": 0,
+            "county_name": "Calvert"
+        },
+        "7": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -8444,
+            "max_turnout": 0,
+            "county_name": "Carroll"
+        },
+        "8": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -7580,
+            "max_turnout": 0,
+            "county_name": "Cecil"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -636,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "11": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -14209,
+            "max_turnout": 0,
+            "county_name": "Frederick"
+        },
+        "14": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1885,
+            "max_turnout": 0,
+            "county_name": "Howard"
+        },
+        "16": {
+            "Cox": 299,
+            "Schulz": 542,
+            "total": 953,
+            "min_turnout": -2080,
+            "max_turnout": 409,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1139,
+            "county_name": "Prince George's"
+        },
+        "20": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -19482,
+            "max_turnout": 0,
+            "county_name": "Somerset"
+        },
+        "22": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -4738,
+            "max_turnout": 0,
+            "county_name": "Washington"
+        },
+        "23": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1141,
+            "max_turnout": 0,
+            "county_name": "Wicomico"
+        },
+        "24": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -6437,
+            "max_turnout": 0,
+            "county_name": "Worcester"
+        }
+    },
+    "2022-08-06T20:28:44-04:00": {
+        "0": {
+            "Cox": 290,
+            "Schulz": 352,
+            "total": 704,
+            "min_turnout": 741,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cox": 290,
+            "Schulz": 352,
+            "total": 704,
+            "min_turnout": 741,
+            "max_turnout": 0,
+            "county_name": "Montgomery"
+        }
+    },
+    "2022-08-06T20:40:25-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -150,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -42,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -41,
+            "county_name": "Baltimore City"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "16": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -48,
+            "county_name": "Prince George's"
+        }
+    },
+    "2022-08-06T20:42:19-04:00": {
+        "0": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 16,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6,
+            "county_name": "Baltimore"
+        },
+        "4": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Baltimore City"
+        },
+        "10": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Dorchester"
+        },
+        "16": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Montgomery"
+        },
+        "17": {
+            "Cox": 0,
+            "Schulz": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Prince George's"
+        }
+    }
+}

@@ -1,0 +1,954 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Evers": 1358758,
+            "Michels": 1268511,
+            "total": 2654090,
+            "min_turnout": 2656790,
+            "max_turnout": 2680853
+        },
+        {
+            "county_name": "Adams",
+            "Evers": 3860,
+            "Michels": 5856,
+            "total": 9900,
+            "min_turnout": 9900,
+            "max_turnout": 10000
+        },
+        {
+            "county_name": "Ashland",
+            "Evers": 4032,
+            "Michels": 2905,
+            "total": 7003,
+            "min_turnout": 7007,
+            "max_turnout": 7074
+        },
+        {
+            "county_name": "Barron",
+            "Evers": 7552,
+            "Michels": 12246,
+            "total": 20112,
+            "min_turnout": 20112,
+            "max_turnout": 20315
+        },
+        {
+            "county_name": "Bayfield",
+            "Evers": 5387,
+            "Michels": 3843,
+            "total": 9289,
+            "min_turnout": 9323,
+            "max_turnout": 9383
+        },
+        {
+            "county_name": "Brown",
+            "Evers": 53882,
+            "Michels": 58982,
+            "total": 114091,
+            "min_turnout": 114091,
+            "max_turnout": 115243
+        },
+        {
+            "county_name": "Buffalo",
+            "Evers": 2391,
+            "Michels": 3638,
+            "total": 6135,
+            "min_turnout": 6135,
+            "max_turnout": 6197
+        },
+        {
+            "county_name": "Burnett",
+            "Evers": 2962,
+            "Michels": 5062,
+            "total": 8141,
+            "min_turnout": 8141,
+            "max_turnout": 8223
+        },
+        {
+            "county_name": "Calumet",
+            "Evers": 9935,
+            "Michels": 14828,
+            "total": 25011,
+            "min_turnout": 25013,
+            "max_turnout": 25264
+        },
+        {
+            "county_name": "Chippewa",
+            "Evers": 11994,
+            "Michels": 16791,
+            "total": 29181,
+            "min_turnout": 29181,
+            "max_turnout": 29476
+        },
+        {
+            "county_name": "Clark",
+            "Evers": 3816,
+            "Michels": 7691,
+            "total": 11696,
+            "min_turnout": 11696,
+            "max_turnout": 11814
+        },
+        {
+            "county_name": "Columbia",
+            "Evers": 14158,
+            "Michels": 13088,
+            "total": 27522,
+            "min_turnout": 27522,
+            "max_turnout": 27800
+        },
+        {
+            "county_name": "Crawford",
+            "Evers": 3429,
+            "Michels": 3486,
+            "total": 7002,
+            "min_turnout": 7002,
+            "max_turnout": 7073
+        },
+        {
+            "county_name": "Dane",
+            "Evers": 236577,
+            "Michels": 62300,
+            "total": 300823,
+            "min_turnout": 301895,
+            "max_turnout": 303831
+        },
+        {
+            "county_name": "Dodge",
+            "Evers": 13239,
+            "Michels": 25428,
+            "total": 39081,
+            "min_turnout": 39081,
+            "max_turnout": 39476
+        },
+        {
+            "county_name": "Door",
+            "Evers": 8983,
+            "Michels": 8415,
+            "total": 17398,
+            "min_turnout": 17467,
+            "max_turnout": 17573
+        },
+        {
+            "county_name": "Douglas",
+            "Evers": 10603,
+            "Michels": 7823,
+            "total": 18626,
+            "min_turnout": 18626,
+            "max_turnout": 18814
+        },
+        {
+            "county_name": "Dunn",
+            "Evers": 8298,
+            "Michels": 9899,
+            "total": 18421,
+            "min_turnout": 18421,
+            "max_turnout": 18607
+        },
+        {
+            "county_name": "Eau Claire",
+            "Evers": 28057,
+            "Michels": 19854,
+            "total": 48417,
+            "min_turnout": 48417,
+            "max_turnout": 48906
+        },
+        {
+            "county_name": "Florence",
+            "Evers": 655,
+            "Michels": 1838,
+            "total": 2517,
+            "min_turnout": 2518,
+            "max_turnout": 2542
+        },
+        {
+            "county_name": "Fond du Lac",
+            "Evers": 16596,
+            "Michels": 29640,
+            "total": 46693,
+            "min_turnout": 46703,
+            "max_turnout": 47165
+        },
+        {
+            "county_name": "Forest",
+            "Evers": 1452,
+            "Michels": 2669,
+            "total": 4188,
+            "min_turnout": 4188,
+            "max_turnout": 4230
+        },
+        {
+            "county_name": "Grant",
+            "Evers": 9233,
+            "Michels": 10588,
+            "total": 20097,
+            "min_turnout": 20097,
+            "max_turnout": 20300
+        },
+        {
+            "county_name": "Green",
+            "Evers": 9603,
+            "Michels": 7681,
+            "total": 17518,
+            "min_turnout": 17518,
+            "max_turnout": 17695
+        },
+        {
+            "county_name": "Green Lake",
+            "Evers": 2745,
+            "Michels": 5864,
+            "total": 8697,
+            "min_turnout": 8697,
+            "max_turnout": 8785
+        },
+        {
+            "county_name": "Iowa",
+            "Evers": 6837,
+            "Michels": 4717,
+            "total": 11672,
+            "min_turnout": 11672,
+            "max_turnout": 11789
+        },
+        {
+            "county_name": "Iron",
+            "Evers": 1259,
+            "Michels": 1964,
+            "total": 3258,
+            "min_turnout": 3258,
+            "max_turnout": 3291
+        },
+        {
+            "county_name": "Jackson",
+            "Evers": 3505,
+            "Michels": 4375,
+            "total": 7978,
+            "min_turnout": 7978,
+            "max_turnout": 8059
+        },
+        {
+            "county_name": "Jefferson",
+            "Evers": 16765,
+            "Michels": 21488,
+            "total": 38678,
+            "min_turnout": 38678,
+            "max_turnout": 39064
+        },
+        {
+            "county_name": "Juneau",
+            "Evers": 4048,
+            "Michels": 6516,
+            "total": 10682,
+            "min_turnout": 10682,
+            "max_turnout": 10790
+        },
+        {
+            "county_name": "Kenosha",
+            "Evers": 32173,
+            "Michels": 33064,
+            "total": 65989,
+            "min_turnout": 65989,
+            "max_turnout": 66656
+        },
+        {
+            "county_name": "Kewaunee",
+            "Evers": 3529,
+            "Michels": 6229,
+            "total": 9882,
+            "min_turnout": 9882,
+            "max_turnout": 9982
+        },
+        {
+            "county_name": "La Crosse",
+            "Evers": 32117,
+            "Michels": 22324,
+            "total": 55124,
+            "min_turnout": 55124,
+            "max_turnout": 55681
+        },
+        {
+            "county_name": "Lafayette",
+            "Evers": 3002,
+            "Michels": 3497,
+            "total": 6564,
+            "min_turnout": 6564,
+            "max_turnout": 6630
+        },
+        {
+            "county_name": "Langlade",
+            "Evers": 2958,
+            "Michels": 5966,
+            "total": 9033,
+            "min_turnout": 9033,
+            "max_turnout": 9124
+        },
+        {
+            "county_name": "Lincoln",
+            "Evers": 5224,
+            "Michels": 8076,
+            "total": 13538,
+            "min_turnout": 13538,
+            "max_turnout": 13675
+        },
+        {
+            "county_name": "Manitowoc",
+            "Evers": 13937,
+            "Michels": 21573,
+            "total": 36003,
+            "min_turnout": 36003,
+            "max_turnout": 36363
+        },
+        {
+            "county_name": "Marathon",
+            "Evers": 25159,
+            "Michels": 35859,
+            "total": 61737,
+            "min_turnout": 61737,
+            "max_turnout": 62361
+        },
+        {
+            "county_name": "Marinette",
+            "Evers": 6109,
+            "Michels": 12161,
+            "total": 18500,
+            "min_turnout": 18500,
+            "max_turnout": 18687
+        },
+        {
+            "county_name": "Marquette",
+            "Evers": 2697,
+            "Michels": 4549,
+            "total": 7334,
+            "min_turnout": 7334,
+            "max_turnout": 7408
+        },
+        {
+            "county_name": "Menominee",
+            "Evers": 847,
+            "Michels": 248,
+            "total": 1104,
+            "min_turnout": 1106,
+            "max_turnout": 1115
+        },
+        {
+            "county_name": "Milwaukee",
+            "Evers": 246332,
+            "Michels": 97472,
+            "total": 346787,
+            "min_turnout": 347276,
+            "max_turnout": 350290
+        },
+        {
+            "county_name": "Monroe",
+            "Evers": 6924,
+            "Michels": 10150,
+            "total": 17319,
+            "min_turnout": 17319,
+            "max_turnout": 17494
+        },
+        {
+            "county_name": "Oconto",
+            "Evers": 5879,
+            "Michels": 13294,
+            "total": 19411,
+            "min_turnout": 19411,
+            "max_turnout": 19607
+        },
+        {
+            "county_name": "Oneida",
+            "Evers": 8666,
+            "Michels": 11297,
+            "total": 20215,
+            "min_turnout": 20215,
+            "max_turnout": 20419
+        },
+        {
+            "county_name": "Outagamie",
+            "Evers": 39569,
+            "Michels": 45601,
+            "total": 86096,
+            "min_turnout": 86096,
+            "max_turnout": 86966
+        },
+        {
+            "county_name": "Ozaukee",
+            "Evers": 23103,
+            "Michels": 28826,
+            "total": 52299,
+            "min_turnout": 52453,
+            "max_turnout": 52827
+        },
+        {
+            "county_name": "Pepin",
+            "Evers": 1280,
+            "Michels": 1990,
+            "total": 3311,
+            "min_turnout": 3311,
+            "max_turnout": 3344
+        },
+        {
+            "county_name": "Pierce",
+            "Evers": 7967,
+            "Michels": 9778,
+            "total": 18013,
+            "min_turnout": 18013,
+            "max_turnout": 18195
+        },
+        {
+            "county_name": "Polk",
+            "Evers": 7586,
+            "Michels": 12548,
+            "total": 20423,
+            "min_turnout": 20423,
+            "max_turnout": 20629
+        },
+        {
+            "county_name": "Portage",
+            "Evers": 17945,
+            "Michels": 15261,
+            "total": 33556,
+            "min_turnout": 33556,
+            "max_turnout": 33895
+        },
+        {
+            "county_name": "Price",
+            "Evers": 2596,
+            "Michels": 4369,
+            "total": 7048,
+            "min_turnout": 7048,
+            "max_turnout": 7119
+        },
+        {
+            "county_name": "Racine",
+            "Evers": 38212,
+            "Michels": 42324,
+            "total": 81389,
+            "min_turnout": 81389,
+            "max_turnout": 82211
+        },
+        {
+            "county_name": "Richland",
+            "Evers": 3354,
+            "Michels": 3562,
+            "total": 6998,
+            "min_turnout": 6998,
+            "max_turnout": 7069
+        },
+        {
+            "county_name": "Rock",
+            "Evers": 37755,
+            "Michels": 26722,
+            "total": 65236,
+            "min_turnout": 65236,
+            "max_turnout": 65893
+        },
+        {
+            "county_name": "Rusk",
+            "Evers": 2179,
+            "Michels": 4121,
+            "total": 6385,
+            "min_turnout": 6385,
+            "max_turnout": 6449
+        },
+        {
+            "county_name": "Saint Croix",
+            "Evers": 18515,
+            "Michels": 24967,
+            "total": 44014,
+            "min_turnout": 44014,
+            "max_turnout": 44459
+        },
+        {
+            "county_name": "Sauk",
+            "Evers": 15284,
+            "Michels": 13347,
+            "total": 28958,
+            "min_turnout": 28958,
+            "max_turnout": 29251
+        },
+        {
+            "county_name": "Sawyer",
+            "Evers": 3735,
+            "Michels": 4736,
+            "total": 8568,
+            "min_turnout": 8568,
+            "max_turnout": 8654
+        },
+        {
+            "county_name": "Shawano",
+            "Evers": 5853,
+            "Michels": 11776,
+            "total": 17830,
+            "min_turnout": 17830,
+            "max_turnout": 18010
+        },
+        {
+            "county_name": "Sheboygan",
+            "Evers": 22324,
+            "Michels": 30678,
+            "total": 53604,
+            "min_turnout": 53604,
+            "max_turnout": 54145
+        },
+        {
+            "county_name": "Taylor",
+            "Evers": 2262,
+            "Michels": 6323,
+            "total": 8726,
+            "min_turnout": 8726,
+            "max_turnout": 8814
+        },
+        {
+            "county_name": "Trempealeau",
+            "Evers": 5281,
+            "Michels": 6813,
+            "total": 12242,
+            "min_turnout": 12242,
+            "max_turnout": 12366
+        },
+        {
+            "county_name": "Vernon",
+            "Evers": 6579,
+            "Michels": 6374,
+            "total": 13135,
+            "min_turnout": 13135,
+            "max_turnout": 13268
+        },
+        {
+            "county_name": "Vilas",
+            "Evers": 5086,
+            "Michels": 7982,
+            "total": 13206,
+            "min_turnout": 13206,
+            "max_turnout": 13339
+        },
+        {
+            "county_name": "Walworth",
+            "Evers": 18565,
+            "Michels": 26695,
+            "total": 45864,
+            "min_turnout": 45864,
+            "max_turnout": 46327
+        },
+        {
+            "county_name": "Washburn",
+            "Evers": 3198,
+            "Michels": 5032,
+            "total": 8349,
+            "min_turnout": 8349,
+            "max_turnout": 8433
+        },
+        {
+            "county_name": "Washington",
+            "Evers": 22687,
+            "Michels": 50744,
+            "total": 74013,
+            "min_turnout": 74172,
+            "max_turnout": 74761
+        },
+        {
+            "county_name": "Waukesha",
+            "Evers": 88554,
+            "Michels": 134199,
+            "total": 224318,
+            "min_turnout": 225003,
+            "max_turnout": 226584
+        },
+        {
+            "county_name": "Waupaca",
+            "Evers": 7984,
+            "Michels": 14935,
+            "total": 23199,
+            "min_turnout": 23199,
+            "max_turnout": 23433
+        },
+        {
+            "county_name": "Waushara",
+            "Evers": 3763,
+            "Michels": 7454,
+            "total": 11311,
+            "min_turnout": 11330,
+            "max_turnout": 11425
+        },
+        {
+            "county_name": "Winnebago",
+            "Evers": 36512,
+            "Michels": 37241,
+            "total": 74651,
+            "min_turnout": 74651,
+            "max_turnout": 75405
+        },
+        {
+            "county_name": "Wood",
+            "Evers": 13624,
+            "Michels": 18879,
+            "total": 32981,
+            "min_turnout": 32981,
+            "max_turnout": 33311
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Barron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bayfield": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Buffalo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Burnett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Calumet": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Chippewa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dane": {
+            "main": "ddhq",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Dodge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Door": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dunn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Eau Claire": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Florence": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Fond du Lac": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Forest": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Green": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Green Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Iowa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Juneau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Kenosha": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Kewaunee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "La Crosse": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Langlade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Manitowoc": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marathon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marinette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marquette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Menominee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Milwaukee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Oconto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Oneida": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Outagamie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ozaukee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Pepin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pierce": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Portage": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Price": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Racine": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Richland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rock": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Rusk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Saint Croix": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sauk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sawyer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Shawano": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sheboygan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Taylor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Trempealeau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Vernon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Vilas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Walworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washburn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Waukesha": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Waupaca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Waushara": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Winnebago": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wood": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        }
+    }
+}

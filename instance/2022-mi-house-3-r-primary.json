@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Gibbs": 54135,
+            "Meijer": 50499,
+            "total": 104634,
+            "min_turnout": 108811,
+            "max_turnout": 112447
+        },
+        {
+            "county_name": "Kent",
+            "Gibbs": 36597,
+            "Meijer": 35623,
+            "total": 72220,
+            "min_turnout": 76021,
+            "max_turnout": 78328
+        },
+        {
+            "county_name": "Muskegon",
+            "Gibbs": 5866,
+            "Meijer": 5177,
+            "total": 11043,
+            "min_turnout": 11203,
+            "max_turnout": 11624
+        },
+        {
+            "county_name": "Ottawa",
+            "Gibbs": 11672,
+            "Meijer": 9699,
+            "total": 21371,
+            "min_turnout": 21587,
+            "max_turnout": 22495
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Kent": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Muskegon": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ottawa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

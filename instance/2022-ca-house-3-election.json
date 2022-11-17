@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Jones": 92803,
+            "Kiley": 101732,
+            "total": 194535,
+            "min_turnout": 320411,
+            "max_turnout": 329869
+        },
+        {
+            "county_name": "Alpine",
+            "Jones": 344,
+            "Kiley": 228,
+            "total": 572,
+            "min_turnout": 578,
+            "max_turnout": 602
+        },
+        {
+            "county_name": "El Dorado",
+            "Jones": 12397,
+            "Kiley": 13273,
+            "total": 25670,
+            "min_turnout": 26270,
+            "max_turnout": 27021
+        },
+        {
+            "county_name": "Inyo",
+            "Jones": 3472,
+            "Kiley": 3730,
+            "total": 7202,
+            "min_turnout": 7288,
+            "max_turnout": 7581
+        },
+        {
+            "county_name": "Mono",
+            "Jones": 2577,
+            "Kiley": 1853,
+            "total": 4430,
+            "min_turnout": 4567,
+            "max_turnout": 4905
+        },
+        {
+            "county_name": "Nevada",
+            "Jones": 21445,
+            "Kiley": 16144,
+            "total": 37589,
+            "min_turnout": 46986,
+            "max_turnout": 48286
+        },
+        {
+            "county_name": "Placer",
+            "Jones": 33322,
+            "Kiley": 42310,
+            "total": 75632,
+            "min_turnout": 173768,
+            "max_turnout": 180076
+        },
+        {
+            "county_name": "Plumas",
+            "Jones": 2887,
+            "Kiley": 4195,
+            "total": 7082,
+            "min_turnout": 8047,
+            "max_turnout": 8140
+        },
+        {
+            "county_name": "Sacramento",
+            "Jones": 14475,
+            "Kiley": 16275,
+            "total": 30750,
+            "min_turnout": 45625,
+            "max_turnout": 45895
+        },
+        {
+            "county_name": "Sierra",
+            "Jones": 581,
+            "Kiley": 968,
+            "total": 1549,
+            "min_turnout": 1564,
+            "max_turnout": 1565
+        },
+        {
+            "county_name": "Yuba",
+            "Jones": 1303,
+            "Kiley": 2756,
+            "total": 4059,
+            "min_turnout": 5718,
+            "max_turnout": 5798
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alpine": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "El Dorado": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Inyo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mono": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nevada": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Placer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plumas": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sacramento": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sierra": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Yuba": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

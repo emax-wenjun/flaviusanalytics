@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Engel": 171303,
+            "Ciscomani": 176324,
+            "total": 347627,
+            "min_turnout": 349553,
+            "max_turnout": 365818
+        },
+        {
+            "county_name": "Cochise",
+            "Engel": 12332,
+            "Ciscomani": 26059,
+            "total": 38391,
+            "min_turnout": 38779,
+            "max_turnout": 40411
+        },
+        {
+            "county_name": "Graham",
+            "Engel": 2329,
+            "Ciscomani": 7933,
+            "total": 10262,
+            "min_turnout": 10366,
+            "max_turnout": 10802
+        },
+        {
+            "county_name": "Greenlee",
+            "Engel": 878,
+            "Ciscomani": 1540,
+            "total": 2418,
+            "min_turnout": 2442,
+            "max_turnout": 2442
+        },
+        {
+            "county_name": "Pima",
+            "Engel": 142683,
+            "Ciscomani": 123520,
+            "total": 266203,
+            "min_turnout": 267353,
+            "max_turnout": 280213
+        },
+        {
+            "county_name": "Pinal",
+            "Engel": 13081,
+            "Ciscomani": 17272,
+            "total": 30353,
+            "min_turnout": 30613,
+            "max_turnout": 31950
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Cochise": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Graham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Greenlee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pima": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pinal": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

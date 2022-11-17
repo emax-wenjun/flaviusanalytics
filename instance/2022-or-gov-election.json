@@ -1,0 +1,523 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Kotek": 815329,
+            "Drazan": 751795,
+            "Johnson": 149678,
+            "total": 1729546,
+            "min_turnout": 1835980,
+            "max_turnout": 2067156
+        },
+        {
+            "county_name": "Baker",
+            "Kotek": 1451,
+            "Drazan": 6232,
+            "Johnson": 821,
+            "total": 8603,
+            "min_turnout": 8603,
+            "max_turnout": 9056
+        },
+        {
+            "county_name": "Benton",
+            "Kotek": 26441,
+            "Drazan": 14270,
+            "Johnson": 3098,
+            "total": 44101,
+            "min_turnout": 44101,
+            "max_turnout": 46422
+        },
+        {
+            "county_name": "Clackamas",
+            "Kotek": 65484,
+            "Drazan": 71348,
+            "Johnson": 13621,
+            "total": 151151,
+            "min_turnout": 194384,
+            "max_turnout": 206100
+        },
+        {
+            "county_name": "Clatsop",
+            "Kotek": 7827,
+            "Drazan": 7175,
+            "Johnson": 4504,
+            "total": 19635,
+            "min_turnout": 19635,
+            "max_turnout": 20594
+        },
+        {
+            "county_name": "Columbia",
+            "Kotek": 7702,
+            "Drazan": 13011,
+            "Johnson": 5523,
+            "total": 26433,
+            "min_turnout": 26433,
+            "max_turnout": 28684
+        },
+        {
+            "county_name": "Coos",
+            "Kotek": 9102,
+            "Drazan": 18065,
+            "Johnson": 2800,
+            "total": 30324,
+            "min_turnout": 30324,
+            "max_turnout": 31812
+        },
+        {
+            "county_name": "Crook",
+            "Kotek": 2140,
+            "Drazan": 10149,
+            "Johnson": 1325,
+            "total": 13728,
+            "min_turnout": 13728,
+            "max_turnout": 14330
+        },
+        {
+            "county_name": "Curry",
+            "Kotek": 4076,
+            "Drazan": 7162,
+            "Johnson": 1094,
+            "total": 12469,
+            "min_turnout": 12469,
+            "max_turnout": 12981
+        },
+        {
+            "county_name": "Deschutes",
+            "Kotek": 43546,
+            "Drazan": 47467,
+            "Johnson": 10763,
+            "total": 102393,
+            "min_turnout": 102393,
+            "max_turnout": 113340
+        },
+        {
+            "county_name": "Douglas",
+            "Kotek": 10061,
+            "Drazan": 31028,
+            "Johnson": 3795,
+            "total": 45435,
+            "min_turnout": 46853,
+            "max_turnout": 51004
+        },
+        {
+            "county_name": "Gilliam",
+            "Kotek": 140,
+            "Drazan": 617,
+            "Johnson": 201,
+            "total": 968,
+            "min_turnout": 968,
+            "max_turnout": 1019
+        },
+        {
+            "county_name": "Grant",
+            "Kotek": 572,
+            "Drazan": 3130,
+            "Johnson": 381,
+            "total": 4141,
+            "min_turnout": 4141,
+            "max_turnout": 4315
+        },
+        {
+            "county_name": "Harney",
+            "Kotek": 475,
+            "Drazan": 2923,
+            "Johnson": 474,
+            "total": 3918,
+            "min_turnout": 3918,
+            "max_turnout": 3918
+        },
+        {
+            "county_name": "Hood River",
+            "Kotek": 5846,
+            "Drazan": 3537,
+            "Johnson": 1009,
+            "total": 10473,
+            "min_turnout": 10473,
+            "max_turnout": 11024
+        },
+        {
+            "county_name": "Jackson",
+            "Kotek": 38832,
+            "Drazan": 55491,
+            "Johnson": 7184,
+            "total": 102486,
+            "min_turnout": 102486,
+            "max_turnout": 118264
+        },
+        {
+            "county_name": "Jefferson",
+            "Kotek": 2286,
+            "Drazan": 6075,
+            "Johnson": 1171,
+            "total": 9646,
+            "min_turnout": 9646,
+            "max_turnout": 10665
+        },
+        {
+            "county_name": "Josephine",
+            "Kotek": 10342,
+            "Drazan": 24109,
+            "Johnson": 2843,
+            "total": 37675,
+            "min_turnout": 37823,
+            "max_turnout": 45022
+        },
+        {
+            "county_name": "Klamath",
+            "Kotek": 5849,
+            "Drazan": 21509,
+            "Johnson": 1817,
+            "total": 29556,
+            "min_turnout": 29556,
+            "max_turnout": 36666
+        },
+        {
+            "county_name": "Lake",
+            "Kotek": 407,
+            "Drazan": 3208,
+            "Johnson": 229,
+            "total": 3872,
+            "min_turnout": 3872,
+            "max_turnout": 4209
+        },
+        {
+            "county_name": "Lane",
+            "Kotek": 92287,
+            "Drazan": 69571,
+            "Johnson": 13274,
+            "total": 176608,
+            "min_turnout": 176608,
+            "max_turnout": 208967
+        },
+        {
+            "county_name": "Lincoln",
+            "Kotek": 12844,
+            "Drazan": 10241,
+            "Johnson": 2618,
+            "total": 25974,
+            "min_turnout": 25974,
+            "max_turnout": 27847
+        },
+        {
+            "county_name": "Linn",
+            "Kotek": 15534,
+            "Drazan": 35829,
+            "Johnson": 4907,
+            "total": 56890,
+            "min_turnout": 56890,
+            "max_turnout": 61837
+        },
+        {
+            "county_name": "Malheur",
+            "Kotek": 1627,
+            "Drazan": 6854,
+            "Johnson": 464,
+            "total": 9079,
+            "min_turnout": 9079,
+            "max_turnout": 10855
+        },
+        {
+            "county_name": "Marion",
+            "Kotek": 44343,
+            "Drazan": 60804,
+            "Johnson": 10089,
+            "total": 116176,
+            "min_turnout": 123144,
+            "max_turnout": 145818
+        },
+        {
+            "county_name": "Morrow",
+            "Kotek": 590,
+            "Drazan": 2947,
+            "Johnson": 382,
+            "total": 3985,
+            "min_turnout": 3985,
+            "max_turnout": 4125
+        },
+        {
+            "county_name": "Multnomah",
+            "Kotek": 258344,
+            "Drazan": 70164,
+            "Johnson": 25440,
+            "total": 355474,
+            "min_turnout": 355474,
+            "max_turnout": 392166
+        },
+        {
+            "county_name": "Polk",
+            "Kotek": 13850,
+            "Drazan": 19261,
+            "Johnson": 3186,
+            "total": 36621,
+            "min_turnout": 36621,
+            "max_turnout": 42093
+        },
+        {
+            "county_name": "Sherman",
+            "Kotek": 119,
+            "Drazan": 787,
+            "Johnson": 107,
+            "total": 1021,
+            "min_turnout": 1021,
+            "max_turnout": 1066
+        },
+        {
+            "county_name": "Tillamook",
+            "Kotek": 5131,
+            "Drazan": 6525,
+            "Johnson": 2549,
+            "total": 14295,
+            "min_turnout": 14295,
+            "max_turnout": 15871
+        },
+        {
+            "county_name": "Umatilla",
+            "Kotek": 5091,
+            "Drazan": 16883,
+            "Johnson": 1606,
+            "total": 23912,
+            "min_turnout": 23912,
+            "max_turnout": 28803
+        },
+        {
+            "county_name": "Union",
+            "Kotek": 2514,
+            "Drazan": 8491,
+            "Johnson": 1103,
+            "total": 12233,
+            "min_turnout": 12233,
+            "max_turnout": 12745
+        },
+        {
+            "county_name": "Wallowa",
+            "Kotek": 1097,
+            "Drazan": 3115,
+            "Johnson": 290,
+            "total": 4548,
+            "min_turnout": 4548,
+            "max_turnout": 4738
+        },
+        {
+            "county_name": "Wasco",
+            "Kotek": 3928,
+            "Drazan": 5834,
+            "Johnson": 1207,
+            "total": 11064,
+            "min_turnout": 11064,
+            "max_turnout": 13156
+        },
+        {
+            "county_name": "Washington",
+            "Kotek": 100467,
+            "Drazan": 66064,
+            "Johnson": 15812,
+            "total": 183362,
+            "min_turnout": 234110,
+            "max_turnout": 280129
+        },
+        {
+            "county_name": "Wheeler",
+            "Kotek": 138,
+            "Drazan": 574,
+            "Johnson": 96,
+            "total": 826,
+            "min_turnout": 826,
+            "max_turnout": 904
+        },
+        {
+            "county_name": "Yamhill",
+            "Kotek": 14846,
+            "Drazan": 21345,
+            "Johnson": 3895,
+            "total": 40471,
+            "min_turnout": 44390,
+            "max_turnout": 46611
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Baker": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clackamas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clatsop": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Coos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Crook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Curry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Deschutes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gilliam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Harney": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hood River": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Josephine": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Klamath": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lane": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Malheur": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Morrow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Multnomah": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sherman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tillamook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Umatilla": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wallowa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wasco": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wheeler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Yamhill": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        }
+    }
+}

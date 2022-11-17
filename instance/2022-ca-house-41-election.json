@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Rollins": 96313,
+            "Calvert": 102599,
+            "total": 198912,
+            "min_turnout": 211609,
+            "max_turnout": 213883
+        },
+        {
+            "county_name": "Riverside",
+            "Rollins": 96313,
+            "Calvert": 102599,
+            "total": 198912,
+            "min_turnout": 211609,
+            "max_turnout": 213883
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Riverside": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

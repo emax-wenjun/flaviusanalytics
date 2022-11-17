@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Murkowski": 85344,
+            "Tshibaka": 73161,
+            "total": 189638,
+            "min_turnout": 189638,
+            "max_turnout": 198831
+        },
+        {
+            "county_name": "Alaska",
+            "Murkowski": 85344,
+            "Tshibaka": 73161,
+            "total": 189638,
+            "min_turnout": 189638,
+            "max_turnout": 198831
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alaska": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

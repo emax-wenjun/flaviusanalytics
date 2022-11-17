@@ -1,0 +1,76 @@
+{
+    "2022-07-31T03:15:26-04:00": {
+        "0": {
+            "county_name": "Total",
+            "O'Halleran": 47083,
+            "Putzova": 33248,
+            "total": 80331
+        },
+        "1": {
+            "county_name": "Apache",
+            "O'Halleran": 7716,
+            "Putzova": 2398,
+            "total": 10114
+        },
+        "2": {
+            "county_name": "Coconino",
+            "O'Halleran": 9329,
+            "Putzova": 10052,
+            "total": 19381
+        },
+        "3": {
+            "county_name": "Gila",
+            "O'Halleran": 1359,
+            "Putzova": 869,
+            "total": 2228
+        },
+        "4": {
+            "county_name": "Graham",
+            "O'Halleran": 1079,
+            "Putzova": 657,
+            "total": 1736
+        },
+        "5": {
+            "county_name": "Greenlee",
+            "O'Halleran": 468,
+            "Putzova": 248,
+            "total": 716
+        },
+        "6": {
+            "county_name": "Maricopa",
+            "O'Halleran": 74,
+            "Putzova": 72,
+            "total": 146
+        },
+        "7": {
+            "county_name": "Mohave",
+            "O'Halleran": 31,
+            "Putzova": 34,
+            "total": 65
+        },
+        "8": {
+            "county_name": "Navajo",
+            "O'Halleran": 6987,
+            "Putzova": 2784,
+            "total": 9771
+        },
+        "9": {
+            "county_name": "Pima",
+            "O'Halleran": 8261,
+            "Putzova": 7298,
+            "total": 15559
+        },
+        "10": {
+            "county_name": "Pinal",
+            "O'Halleran": 9205,
+            "Putzova": 6920,
+            "total": 16125
+        },
+        "11": {
+            "county_name": "Yavapai",
+            "O'Halleran": 2574,
+            "Putzova": 1916,
+            "total": 4490
+        }
+    }
+}

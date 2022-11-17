@@ -1,0 +1,2616 @@
+{
+    "2022-08-16T23:09:44-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Hageman": 58244,
+            "Cheney": 30375,
+            "total": 92425,
+            "min_turnout": 115742,
+            "max_turnout": 115742
+        },
+        "1": {
+            "county_name": "Albany",
+            "Hageman": 1215,
+            "Cheney": 1519,
+            "total": 2806,
+            "min_turnout": 5396,
+            "max_turnout": 5396
+        },
+        "2": {
+            "county_name": "Big Horn",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "3": {
+            "county_name": "Campbell",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "4": {
+            "county_name": "Carbon",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "5": {
+            "county_name": "Converse",
+            "Hageman": 470,
+            "Cheney": 67,
+            "total": 562,
+            "min_turnout": 3746,
+            "max_turnout": 3746
+        },
+        "6": {
+            "county_name": "Crook",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "7": {
+            "county_name": "Fremont",
+            "Hageman": 2812,
+            "Cheney": 1286,
+            "total": 4244,
+            "min_turnout": 8841,
+            "max_turnout": 8841
+        },
+        "8": {
+            "county_name": "Goshen",
+            "Hageman": 131,
+            "Cheney": 11,
+            "total": 146,
+            "min_turnout": 3650,
+            "max_turnout": 3650
+        },
+        "9": {
+            "county_name": "Hot Springs",
+            "Hageman": 1440,
+            "Cheney": 383,
+            "total": 1906,
+            "min_turnout": 1925,
+            "max_turnout": 1925
+        },
+        "10": {
+            "county_name": "Johnson",
+            "Hageman": 2738,
+            "Cheney": 890,
+            "total": 3834,
+            "min_turnout": 3872,
+            "max_turnout": 3872
+        },
+        "11": {
+            "county_name": "Laramie",
+            "Hageman": 11669,
+            "Cheney": 8015,
+            "total": 20643,
+            "min_turnout": 21729,
+            "max_turnout": 21729
+        },
+        "12": {
+            "county_name": "Lincoln",
+            "Hageman": 1086,
+            "Cheney": 217,
+            "total": 1393,
+            "min_turnout": 4097,
+            "max_turnout": 4097
+        },
+        "13": {
+            "county_name": "Natrona",
+            "Hageman": 14200,
+            "Cheney": 6511,
+            "total": 21374,
+            "min_turnout": 21589,
+            "max_turnout": 21589
+        },
+        "14": {
+            "county_name": "Niobrara",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "15": {
+            "county_name": "Park",
+            "Hageman": 6454,
+            "Cheney": 2371,
+            "total": 9075,
+            "min_turnout": 9972,
+            "max_turnout": 9972
+        },
+        "16": {
+            "county_name": "Platte",
+            "Hageman": 2046,
+            "Cheney": 443,
+            "total": 2601,
+            "min_turnout": 2989,
+            "max_turnout": 2989
+        },
+        "17": {
+            "county_name": "Sheridan",
+            "Hageman": 3595,
+            "Cheney": 1268,
+            "total": 5084,
+            "min_turnout": 8200,
+            "max_turnout": 8200
+        },
+        "18": {
+            "county_name": "Sublette",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "19": {
+            "county_name": "Sweetwater",
+            "Hageman": 6722,
+            "Cheney": 2162,
+            "total": 9641,
+            "min_turnout": 9738,
+            "max_turnout": 9738
+        },
+        "20": {
+            "county_name": "Teton",
+            "Hageman": 1453,
+            "Cheney": 4701,
+            "total": 6197,
+            "min_turnout": 6523,
+            "max_turnout": 6523
+        },
+        "21": {
+            "county_name": "Uinta",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        },
+        "22": {
+            "county_name": "Washakie",
+            "Hageman": 2213,
+            "Cheney": 531,
+            "total": 2919,
+            "min_turnout": 3475,
+            "max_turnout": 3475
+        },
+        "23": {
+            "county_name": "Weston",
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0
+        }
+    },
+    "2022-08-16T23:11:57-04:00": {
+        "0": {
+            "Hageman": 220,
+            "Cheney": 35,
+            "total": 274,
+            "min_turnout": 70,
+            "max_turnout": 70,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 220,
+            "Cheney": 35,
+            "total": 274,
+            "min_turnout": 70,
+            "max_turnout": 70,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-08-16T23:16:57-04:00": {
+        "0": {
+            "Hageman": 273,
+            "Cheney": 41,
+            "total": 333,
+            "min_turnout": -115,
+            "max_turnout": -115,
+            "county_name": "Total"
+        },
+        "17": {
+            "Hageman": 273,
+            "Cheney": 41,
+            "total": 333,
+            "min_turnout": -115,
+            "max_turnout": -115,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-16T23:19:03-04:00": {
+        "0": {
+            "Hageman": 82,
+            "Cheney": 7,
+            "total": 93,
+            "min_turnout": 333,
+            "max_turnout": 333,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 82,
+            "Cheney": 7,
+            "total": 93,
+            "min_turnout": 333,
+            "max_turnout": 333,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-16T23:19:19-04:00": {
+        "0": {
+            "Hageman": 395,
+            "Cheney": 1167,
+            "total": 1578,
+            "min_turnout": 1661,
+            "max_turnout": 1661,
+            "county_name": "Total"
+        },
+        "20": {
+            "Hageman": 395,
+            "Cheney": 1167,
+            "total": 1578,
+            "min_turnout": 1661,
+            "max_turnout": 1661,
+            "county_name": "Teton"
+        }
+    },
+    "2022-08-16T23:22:37-04:00": {
+        "0": {
+            "Hageman": 3359,
+            "Cheney": 755,
+            "total": 4343,
+            "min_turnout": 1417,
+            "max_turnout": 1417,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hageman": 3359,
+            "Cheney": 755,
+            "total": 4343,
+            "min_turnout": 1417,
+            "max_turnout": 1417,
+            "county_name": "Converse"
+        }
+    },
+    "2022-08-16T23:23:05-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1087,
+            "max_turnout": 1087,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 231,
+            "max_turnout": 231,
+            "county_name": "Laramie"
+        },
+        "20": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 856,
+            "max_turnout": 856,
+            "county_name": "Teton"
+        }
+    },
+    "2022-08-16T23:23:21-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 3894,
+            "max_turnout": 3894,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 818,
+            "max_turnout": 818,
+            "county_name": "Converse"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 797,
+            "max_turnout": 797,
+            "county_name": "Goshen"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 144,
+            "max_turnout": 144,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 2135,
+            "max_turnout": 2135,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-16T23:24:39-04:00": {
+        "0": {
+            "Hageman": 731,
+            "Cheney": 92,
+            "total": 859,
+            "min_turnout": 509,
+            "max_turnout": 509,
+            "county_name": "Total"
+        },
+        "16": {
+            "Hageman": 731,
+            "Cheney": 92,
+            "total": 859,
+            "min_turnout": 509,
+            "max_turnout": 509,
+            "county_name": "Platte"
+        }
+    },
+    "2022-08-16T23:26:53-04:00": {
+        "0": {
+            "Hageman": 1316,
+            "Cheney": 385,
+            "total": 1784,
+            "min_turnout": 67,
+            "max_turnout": 67,
+            "county_name": "Total"
+        },
+        "17": {
+            "Hageman": 1316,
+            "Cheney": 385,
+            "total": 1784,
+            "min_turnout": 67,
+            "max_turnout": 67,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-16T23:30:24-04:00": {
+        "0": {
+            "Hageman": 2142,
+            "Cheney": 332,
+            "total": 2660,
+            "min_turnout": 2923,
+            "max_turnout": 2923,
+            "county_name": "Total"
+        },
+        "23": {
+            "Hageman": 2142,
+            "Cheney": 332,
+            "total": 2660,
+            "min_turnout": 2923,
+            "max_turnout": 2923,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-16T23:31:12-04:00": {
+        "0": {
+            "Hageman": 4092,
+            "Cheney": 2050,
+            "total": 6356,
+            "min_turnout": 2316,
+            "max_turnout": 2316,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hageman": 4092,
+            "Cheney": 2050,
+            "total": 6356,
+            "min_turnout": 2316,
+            "max_turnout": 2316,
+            "county_name": "Fremont"
+        }
+    },
+    "2022-08-16T23:33:44-04:00": {
+        "0": {
+            "Hageman": 643,
+            "Cheney": 183,
+            "total": 864,
+            "min_turnout": -79,
+            "max_turnout": -79,
+            "county_name": "Total"
+        },
+        "17": {
+            "Hageman": 643,
+            "Cheney": 183,
+            "total": 864,
+            "min_turnout": -79,
+            "max_turnout": -79,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-16T23:36:59-04:00": {
+        "0": {
+            "Hageman": 1599,
+            "Cheney": 2302,
+            "total": 3975,
+            "min_turnout": 1741,
+            "max_turnout": 1741,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 1599,
+            "Cheney": 2302,
+            "total": 3975,
+            "min_turnout": 1741,
+            "max_turnout": 1741,
+            "county_name": "Albany"
+        }
+    },
+    "2022-08-16T23:37:46-04:00": {
+        "0": {
+            "Hageman": 2538,
+            "Cheney": 849,
+            "total": 3532,
+            "min_turnout": 3717,
+            "max_turnout": 3717,
+            "county_name": "Total"
+        },
+        "18": {
+            "Hageman": 2538,
+            "Cheney": 849,
+            "total": 3532,
+            "min_turnout": 3717,
+            "max_turnout": 3717,
+            "county_name": "Sublette"
+        }
+    },
+    "2022-08-16T23:37:57-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 586,
+            "max_turnout": 586,
+            "county_name": "Total"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 335,
+            "max_turnout": 335,
+            "county_name": "Platte"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 251,
+            "max_turnout": 251,
+            "county_name": "Sublette"
+        }
+    },
+    "2022-08-16T23:38:12-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 840,
+            "max_turnout": 840,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 840,
+            "max_turnout": 840,
+            "county_name": "Albany"
+        }
+    },
+    "2022-08-16T23:38:28-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 888,
+            "max_turnout": 888,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 888,
+            "max_turnout": 888,
+            "county_name": "Fremont"
+        }
+    },
+    "2022-08-16T23:39:58-04:00": {
+        "0": {
+            "Hageman": 80,
+            "Cheney": 87,
+            "total": 170,
+            "min_turnout": -12,
+            "max_turnout": -12,
+            "county_name": "Total"
+        },
+        "20": {
+            "Hageman": 80,
+            "Cheney": 87,
+            "total": 170,
+            "min_turnout": -12,
+            "max_turnout": -12,
+            "county_name": "Teton"
+        }
+    },
+    "2022-08-16T23:41:48-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1241,
+            "max_turnout": 1241,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 2244,
+            "max_turnout": 2244,
+            "county_name": "Lincoln"
+        },
+        "20": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1003,
+            "max_turnout": -1003,
+            "county_name": "Teton"
+        }
+    },
+    "2022-08-16T23:44:15-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1027,
+            "max_turnout": -1027,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1027,
+            "max_turnout": -1027,
+            "county_name": "Converse"
+        }
+    },
+    "2022-08-16T23:44:47-04:00": {
+        "0": {
+            "Hageman": 5127,
+            "Cheney": 943,
+            "total": 6733,
+            "min_turnout": 11380,
+            "max_turnout": 11380,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 4993,
+            "Cheney": 921,
+            "total": 6570,
+            "min_turnout": 11135,
+            "max_turnout": 11135,
+            "county_name": "Campbell"
+        },
+        "8": {
+            "Hageman": 134,
+            "Cheney": 22,
+            "total": 163,
+            "min_turnout": 245,
+            "max_turnout": 245,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-16T23:45:03-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -638,
+            "max_turnout": -638,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -237,
+            "max_turnout": -237,
+            "county_name": "Lincoln"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -401,
+            "max_turnout": -401,
+            "county_name": "Sublette"
+        }
+    },
+    "2022-08-16T23:45:34-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -748,
+            "max_turnout": -748,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -221,
+            "max_turnout": -221,
+            "county_name": "Lincoln"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -527,
+            "max_turnout": -527,
+            "county_name": "Washakie"
+        }
+    },
+    "2022-08-16T23:50:50-04:00": {
+        "0": {
+            "Hageman": 2218,
+            "Cheney": 450,
+            "total": 2787,
+            "min_turnout": 2514,
+            "max_turnout": 2514,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hageman": 2218,
+            "Cheney": 450,
+            "total": 2787,
+            "min_turnout": 2514,
+            "max_turnout": 2514,
+            "county_name": "Park"
+        }
+    },
+    "2022-08-16T23:52:04-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -505,
+            "max_turnout": -505,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -505,
+            "max_turnout": -505,
+            "county_name": "Park"
+        }
+    },
+    "2022-08-16T23:53:54-04:00": {
+        "0": {
+            "Hageman": 1539,
+            "Cheney": 1180,
+            "total": 2817,
+            "min_turnout": 1246,
+            "max_turnout": 1246,
+            "county_name": "Total"
+        },
+        "17": {
+            "Hageman": 1539,
+            "Cheney": 1180,
+            "total": 2817,
+            "min_turnout": 1246,
+            "max_turnout": 1246,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-17T00:01:11-04:00": {
+        "0": {
+            "Hageman": 3117,
+            "Cheney": 388,
+            "total": 3918,
+            "min_turnout": 22,
+            "max_turnout": 22,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 3117,
+            "Cheney": 388,
+            "total": 3918,
+            "min_turnout": 22,
+            "max_turnout": 22,
+            "county_name": "Campbell"
+        }
+    },
+    "2022-08-17T00:01:43-04:00": {
+        "0": {
+            "Hageman": 194,
+            "Cheney": 16,
+            "total": 217,
+            "min_turnout": -264,
+            "max_turnout": -264,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 194,
+            "Cheney": 16,
+            "total": 217,
+            "min_turnout": -264,
+            "max_turnout": -264,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:06:27-04:00": {
+        "0": {
+            "Hageman": 4030,
+            "Cheney": 1156,
+            "total": 5557,
+            "min_turnout": 6243,
+            "max_turnout": 6243,
+            "county_name": "Total"
+        },
+        "21": {
+            "Hageman": 4030,
+            "Cheney": 1156,
+            "total": 5557,
+            "min_turnout": 6243,
+            "max_turnout": 6243,
+            "county_name": "Uinta"
+        }
+    },
+    "2022-08-17T00:11:01-04:00": {
+        "0": {
+            "Hageman": 1340,
+            "Cheney": 345,
+            "total": 1745,
+            "min_turnout": 63,
+            "max_turnout": 63,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 1340,
+            "Cheney": 345,
+            "total": 1745,
+            "min_turnout": 63,
+            "max_turnout": 63,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:11:48-04:00": {
+        "0": {
+            "Hageman": 2852,
+            "Cheney": 819,
+            "total": 3931,
+            "min_turnout": 4137,
+            "max_turnout": 4137,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hageman": 2852,
+            "Cheney": 819,
+            "total": 3931,
+            "min_turnout": 4137,
+            "max_turnout": 4137,
+            "county_name": "Carbon"
+        }
+    },
+    "2022-08-17T00:15:36-04:00": {
+        "0": {
+            "Hageman": 2370,
+            "Cheney": 403,
+            "total": 2957,
+            "min_turnout": 3214,
+            "max_turnout": 3214,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 2370,
+            "Cheney": 403,
+            "total": 2957,
+            "min_turnout": 3214,
+            "max_turnout": 3214,
+            "county_name": "Crook"
+        }
+    },
+    "2022-08-17T00:16:18-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 138,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 243,
+            "max_turnout": 243,
+            "county_name": "Campbell"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 108,
+            "max_turnout": 108,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 205,
+            "max_turnout": 205,
+            "county_name": "Goshen"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -483,
+            "max_turnout": -483,
+            "county_name": "Platte"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 65,
+            "max_turnout": 65,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T00:22:53-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -823,
+            "max_turnout": -823,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -243,
+            "max_turnout": -243,
+            "county_name": "Campbell"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": -73,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -205,
+            "max_turnout": -205,
+            "county_name": "Goshen"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -302,
+            "max_turnout": -302,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T00:25:10-04:00": {
+        "0": {
+            "Hageman": 908,
+            "Cheney": 113,
+            "total": 1065,
+            "min_turnout": 1348,
+            "max_turnout": 1348,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hageman": 908,
+            "Cheney": 113,
+            "total": 1065,
+            "min_turnout": 1348,
+            "max_turnout": 1348,
+            "county_name": "Niobrara"
+        }
+    },
+    "2022-08-17T00:27:37-04:00": {
+        "0": {
+            "Hageman": 1153,
+            "Cheney": 397,
+            "total": 1618,
+            "min_turnout": 864,
+            "max_turnout": 864,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 1153,
+            "Cheney": 397,
+            "total": 1618,
+            "min_turnout": 864,
+            "max_turnout": 864,
+            "county_name": "Albany"
+        }
+    },
+    "2022-08-17T00:28:40-04:00": {
+        "0": {
+            "Hageman": 288,
+            "Cheney": 51,
+            "total": 343,
+            "min_turnout": 9,
+            "max_turnout": 9,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 288,
+            "Cheney": 51,
+            "total": 343,
+            "min_turnout": 9,
+            "max_turnout": 9,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:30:10-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1123,
+            "max_turnout": -1123,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -117,
+            "max_turnout": -117,
+            "county_name": "Campbell"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -104,
+            "max_turnout": -104,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -166,
+            "max_turnout": -166,
+            "county_name": "Goshen"
+        },
+        "14": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -273,
+            "max_turnout": -273,
+            "county_name": "Niobrara"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -463,
+            "max_turnout": -463,
+            "county_name": "Sheridan"
+        }
+    },
+    "2022-08-17T00:32:11-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 82,
+            "max_turnout": 82,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 82,
+            "max_turnout": 82,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:32:27-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -447,
+            "max_turnout": -447,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -447,
+            "max_turnout": -447,
+            "county_name": "Campbell"
+        }
+    },
+    "2022-08-17T00:35:26-04:00": {
+        "0": {
+            "Hageman": 1187,
+            "Cheney": 506,
+            "total": 1749,
+            "min_turnout": -9,
+            "max_turnout": -9,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hageman": 1187,
+            "Cheney": 506,
+            "total": 1749,
+            "min_turnout": -9,
+            "max_turnout": -9,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:36:40-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -272,
+            "max_turnout": -272,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -33,
+            "max_turnout": -33,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -239,
+            "max_turnout": -239,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:38:15-04:00": {
+        "0": {
+            "Hageman": 1054,
+            "Cheney": 324,
+            "total": 1515,
+            "min_turnout": 1531,
+            "max_turnout": 1531,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hageman": 1054,
+            "Cheney": 324,
+            "total": 1515,
+            "min_turnout": 1531,
+            "max_turnout": 1531,
+            "county_name": "Campbell"
+        }
+    },
+    "2022-08-17T00:38:31-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -358,
+            "max_turnout": -358,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -358,
+            "max_turnout": -358,
+            "county_name": "Albany"
+        }
+    },
+    "2022-08-17T00:44:03-04:00": {
+        "0": {
+            "Hageman": 2755,
+            "Cheney": 1742,
+            "total": 4697,
+            "min_turnout": 4713,
+            "max_turnout": 4713,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hageman": 2755,
+            "Cheney": 1742,
+            "total": 4697,
+            "min_turnout": 4713,
+            "max_turnout": 4713,
+            "county_name": "Laramie"
+        }
+    },
+    "2022-08-17T00:44:30-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 67,
+            "max_turnout": 67,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 67,
+            "max_turnout": 67,
+            "county_name": "Crook"
+        }
+    },
+    "2022-08-17T00:48:36-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 377,
+            "max_turnout": 377,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 35,
+            "max_turnout": 35,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 342,
+            "max_turnout": 342,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:48:47-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -377,
+            "max_turnout": -377,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": -35,
+            "county_name": "Crook"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -342,
+            "max_turnout": -342,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T00:49:19-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -167,
+            "max_turnout": -167,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -167,
+            "max_turnout": -167,
+            "county_name": "Carbon"
+        }
+    },
+    "2022-08-17T00:49:35-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -67,
+            "max_turnout": -67,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -67,
+            "max_turnout": -67,
+            "county_name": "Crook"
+        }
+    },
+    "2022-08-17T00:58:09-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1475,
+            "max_turnout": -1475,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1338,
+            "max_turnout": -1338,
+            "county_name": "Fremont"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -137,
+            "max_turnout": -137,
+            "county_name": "Uinta"
+        }
+    },
+    "2022-08-17T01:03:27-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -698,
+            "max_turnout": -698,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -205,
+            "max_turnout": -205,
+            "county_name": "Lincoln"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -493,
+            "max_turnout": -493,
+            "county_name": "Uinta"
+        }
+    },
+    "2022-08-17T01:03:54-04:00": {
+        "0": {
+            "Hageman": 476,
+            "Cheney": 122,
+            "total": 621,
+            "min_turnout": 627,
+            "max_turnout": 627,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hageman": 476,
+            "Cheney": 122,
+            "total": 621,
+            "min_turnout": 627,
+            "max_turnout": 627,
+            "county_name": "Fremont"
+        }
+    },
+    "2022-08-17T01:06:58-04:00": {
+        "0": {
+            "Hageman": 3580,
+            "Cheney": 969,
+            "total": 4789,
+            "min_turnout": 1047,
+            "max_turnout": 1047,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hageman": 3580,
+            "Cheney": 969,
+            "total": 4789,
+            "min_turnout": 1047,
+            "max_turnout": 1047,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-08-17T01:10:17-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 3421,
+            "max_turnout": 5026,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 4653,
+            "max_turnout": 4653,
+            "county_name": "Big Horn"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 25,
+            "county_name": "Campbell"
+        },
+        "4": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Carbon"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 19,
+            "county_name": "Converse"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -89,
+            "max_turnout": 0,
+            "county_name": "Crook"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 75,
+            "county_name": "Fremont"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Goshen"
+        },
+        "9": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Hot Springs"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 37,
+            "county_name": "Johnson"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -946,
+            "max_turnout": 0,
+            "county_name": "Laramie"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -145,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Natrona"
+        },
+        "14": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Niobrara"
+        },
+        "15": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Park"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -20,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Sheridan"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Sublette"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T01:14:12-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -608,
+            "max_turnout": 2904,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 756,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -133,
+            "max_turnout": -6,
+            "county_name": "Big Horn"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1054,
+            "county_name": "Campbell"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -36,
+            "max_turnout": 0,
+            "county_name": "Crook"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -113,
+            "max_turnout": -2,
+            "county_name": "Fremont"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 724,
+            "county_name": "Goshen"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Johnson"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": 0,
+            "county_name": "Laramie"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -194,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Natrona"
+        },
+        "14": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 380,
+            "county_name": "Niobrara"
+        },
+        "15": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 1,
+            "county_name": "Park"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Sheridan"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Uinta"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T01:16:47-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": -4,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Big Horn"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Fremont"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Natrona"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Sheridan"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        }
+    },
+    "2022-08-17T01:17:57-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Big Horn"
+        }
+    },
+    "2022-08-17T01:19:18-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 12,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Big Horn"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Converse"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Fremont"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Johnson"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Natrona"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Sheridan"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Sublette"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T01:21:55-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": -11,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11,
+            "county_name": "Big Horn"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Converse"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Fremont"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Johnson"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Natrona"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Sheridan"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Sublette"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T01:33:38-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 178,
+            "max_turnout": -381,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 113,
+            "max_turnout": 0,
+            "county_name": "Fremont"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 65,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "14": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -381,
+            "county_name": "Niobrara"
+        }
+    },
+    "2022-08-17T01:37:53-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1480,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -755,
+            "county_name": "Albany"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -725,
+            "county_name": "Goshen"
+        }
+    },
+    "2022-08-17T01:57:32-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -68,
+            "max_turnout": -1055,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -68,
+            "max_turnout": 0,
+            "county_name": "Big Horn"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1055,
+            "county_name": "Campbell"
+        }
+    },
+    "2022-08-17T01:58:58-04:00": {
+        "0": {
+            "Hageman": 3123,
+            "Cheney": 732,
+            "total": 4104,
+            "min_turnout": 0,
+            "max_turnout": 130,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 3123,
+            "Cheney": 732,
+            "total": 4104,
+            "min_turnout": 0,
+            "max_turnout": 130,
+            "county_name": "Big Horn"
+        }
+    },
+    "2022-08-17T02:03:13-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -89,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -89,
+            "county_name": "Crook"
+        }
+    },
+    "2022-08-17T02:03:29-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -947,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -947,
+            "county_name": "Laramie"
+        }
+    },
+    "2022-08-17T02:04:01-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -206,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 56,
+            "county_name": "Big Horn"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -262,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-08-17T02:04:44-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -307,
+            "max_turnout": -186,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -307,
+            "max_turnout": -186,
+            "county_name": "Big Horn"
+        }
+    },
+    "2022-08-17T02:05:38-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Big Horn"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Fremont"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Laramie"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Natrona"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Sheridan"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        }
+    },
+    "2022-08-17T02:06:43-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Big Horn"
+        }
+    },
+    "2022-08-17T02:11:56-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": -239,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "2": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -185,
+            "county_name": "Big Horn"
+        },
+        "3": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Campbell"
+        },
+        "4": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Carbon"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Converse"
+        },
+        "6": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Crook"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Fremont"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4,
+            "county_name": "Goshen"
+        },
+        "9": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Hot Springs"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Johnson"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Laramie"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Natrona"
+        },
+        "14": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Niobrara"
+        },
+        "15": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Park"
+        },
+        "16": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Platte"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Sheridan"
+        },
+        "18": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Sublette"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T02:29:21-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "5": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Converse"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Fremont"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Goshen"
+        },
+        "9": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Hot Springs"
+        },
+        "10": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Johnson"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Laramie"
+        },
+        "12": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Natrona"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Sheridan"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Uinta"
+        },
+        "22": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Washakie"
+        },
+        "23": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Weston"
+        }
+    },
+    "2022-08-17T02:50:38-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "7": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Fremont"
+        },
+        "8": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Goshen"
+        },
+        "17": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Sheridan"
+        },
+        "21": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Uinta"
+        }
+    },
+    "2022-08-17T02:53:04-04:00": {
+        "0": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Albany"
+        },
+        "11": {
+            "Hageman": 0,
+            "Cheney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Laramie"
+        }
+    }
+}

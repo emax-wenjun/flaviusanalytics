@@ -1,0 +1,2466 @@
+{
+    "2022-08-02T11:26:28-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "1": {
+            "county_name": "Adams",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "2": {
+            "county_name": "Benton",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "3": {
+            "county_name": "Douglas",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "4": {
+            "county_name": "Franklin",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "5": {
+            "county_name": "Grant",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "6": {
+            "county_name": "Klickitat",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "7": {
+            "county_name": "Okanogan",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        },
+        "8": {
+            "county_name": "Yakima",
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0
+        }
+    },
+    "2022-08-02T16:45:16-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 163681,
+            "max_turnout": 163681,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 2214,
+            "max_turnout": 2214,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 50101,
+            "max_turnout": 50101,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 10748,
+            "max_turnout": 10748,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 13626,
+            "max_turnout": 13626,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 19112,
+            "max_turnout": 19112,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 8107,
+            "max_turnout": 8107,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 12302,
+            "max_turnout": 12302,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 47471,
+            "max_turnout": 47471,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-02T19:32:45-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -11443,
+            "max_turnout": -11443,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 574,
+            "max_turnout": 574,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -1255,
+            "max_turnout": -1255,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -1322,
+            "max_turnout": -1322,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -582,
+            "max_turnout": -582,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -1580,
+            "max_turnout": -1580,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -664,
+            "max_turnout": -664,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 645,
+            "max_turnout": 645,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -7259,
+            "max_turnout": -7259,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-02T19:58:44-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 9036,
+            "max_turnout": 9036,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 29,
+            "max_turnout": 29,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 5180,
+            "max_turnout": 5180,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -223,
+            "max_turnout": -223,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 1852,
+            "max_turnout": 1852,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 3162,
+            "max_turnout": 3162,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -619,
+            "max_turnout": -619,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 600,
+            "max_turnout": 600,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -945,
+            "max_turnout": -945,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-02T23:09:22-04:00": {
+        "0": {
+            "Culp": 6072,
+            "Newhouse": 8663,
+            "White": 6492,
+            "total": 28810,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 2330,
+            "Newhouse": 4993,
+            "White": 4504,
+            "total": 17255,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        },
+        "5": {
+            "Culp": 3742,
+            "Newhouse": 3670,
+            "White": 1988,
+            "total": 11555,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-02T23:14:33-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -2353,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -2353,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-02T23:16:45-04:00": {
+        "0": {
+            "Culp": 194,
+            "Newhouse": 190,
+            "White": 101,
+            "total": 612,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 194,
+            "Newhouse": 190,
+            "White": 101,
+            "total": 612,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Adams"
+        }
+    },
+    "2022-08-02T23:17:44-04:00": {
+        "0": {
+            "Culp": 1432,
+            "Newhouse": 2320,
+            "White": 2056,
+            "total": 8413,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Culp": 1432,
+            "Newhouse": 2320,
+            "White": 2056,
+            "total": 8413,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-08-02T23:18:08-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -3276,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -3276,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-02T23:18:54-04:00": {
+        "0": {
+            "Culp": 1206,
+            "Newhouse": 717,
+            "White": 1594,
+            "total": 4135,
+            "min_turnout": -155,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Culp": 1206,
+            "Newhouse": 717,
+            "White": 1594,
+            "total": 4135,
+            "min_turnout": -155,
+            "max_turnout": 0,
+            "county_name": "Klickitat"
+        }
+    },
+    "2022-08-02T23:23:31-04:00": {
+        "0": {
+            "Culp": 7448,
+            "Newhouse": 8652,
+            "White": 9291,
+            "total": 33147,
+            "min_turnout": -5117,
+            "max_turnout": 8340,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -1163,
+            "max_turnout": 0,
+            "county_name": "Adams"
+        },
+        "3": {
+            "Culp": 1344,
+            "Newhouse": 1406,
+            "White": 1224,
+            "total": 4723,
+            "min_turnout": 0,
+            "max_turnout": 1064,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -875,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "7": {
+            "Culp": 2022,
+            "Newhouse": 1629,
+            "White": 2243,
+            "total": 7014,
+            "min_turnout": -3079,
+            "max_turnout": 0,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 4082,
+            "Newhouse": 5617,
+            "White": 5824,
+            "total": 21410,
+            "min_turnout": 0,
+            "max_turnout": 7276,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-03T18:55:16-04:00": {
+        "0": {
+            "Culp": 246,
+            "Newhouse": 309,
+            "White": 436,
+            "total": 1394,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Culp": 246,
+            "Newhouse": 309,
+            "White": 436,
+            "total": 1394,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-03T18:59:37-04:00": {
+        "0": {
+            "Culp": 482,
+            "Newhouse": 405,
+            "White": 338,
+            "total": 1516,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Culp": 482,
+            "Newhouse": 405,
+            "White": 338,
+            "total": 1516,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-08-04T19:15:15-04:00": {
+        "0": {
+            "Culp": 5383,
+            "Newhouse": 7711,
+            "White": 7409,
+            "total": 30822,
+            "min_turnout": 251,
+            "max_turnout": 609,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 2702,
+            "Newhouse": 5016,
+            "White": 4488,
+            "total": 19143,
+            "min_turnout": 0,
+            "max_turnout": 293,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 49,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 307,
+            "Newhouse": 415,
+            "White": 409,
+            "total": 1633,
+            "min_turnout": 0,
+            "max_turnout": 80,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 517,
+            "Newhouse": 488,
+            "White": 261,
+            "total": 1683,
+            "min_turnout": 0,
+            "max_turnout": 112,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 303,
+            "Newhouse": 189,
+            "White": 375,
+            "total": 1016,
+            "min_turnout": 0,
+            "max_turnout": 36,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 73,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 1554,
+            "Newhouse": 1603,
+            "White": 1876,
+            "total": 7347,
+            "min_turnout": 202,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-04T19:16:14-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-04T19:49:21-04:00": {
+        "0": {
+            "Culp": 423,
+            "Newhouse": 293,
+            "White": 176,
+            "total": 1171,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Culp": 423,
+            "Newhouse": 293,
+            "White": 176,
+            "total": 1171,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-04T19:51:32-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-04T20:55:25-04:00": {
+        "0": {
+            "Culp": 172,
+            "Newhouse": 216,
+            "White": 194,
+            "total": 919,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Culp": 172,
+            "Newhouse": 216,
+            "White": 194,
+            "total": 919,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-08-04T20:56:36-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-08-04T21:01:42-04:00": {
+        "0": {
+            "Culp": 504,
+            "Newhouse": 205,
+            "White": 429,
+            "total": 1385,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Culp": 504,
+            "Newhouse": 205,
+            "White": 429,
+            "total": 1385,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Klickitat"
+        }
+    },
+    "2022-08-04T21:04:52-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Total"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Klickitat"
+        }
+    },
+    "2022-08-05T09:54:38-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -164,
+            "max_turnout": -379,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -189,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -51,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -72,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -48,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -132,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T12:10:51-04:00": {
+        "0": {
+            "Culp": 41,
+            "Newhouse": 32,
+            "White": 44,
+            "total": 194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 41,
+            "Newhouse": 32,
+            "White": 44,
+            "total": 194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T12:12:49-04:00": {
+        "0": {
+            "Culp": -41,
+            "Newhouse": -32,
+            "White": -44,
+            "total": -194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": -41,
+            "Newhouse": -32,
+            "White": -44,
+            "total": -194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T12:13:25-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T12:14:48-04:00": {
+        "0": {
+            "Culp": 41,
+            "Newhouse": 32,
+            "White": 44,
+            "total": 194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 41,
+            "Newhouse": 32,
+            "White": 44,
+            "total": 194,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T12:15:36-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T12:17:47-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T13:20:24-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 11101,
+            "max_turnout": -8253,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 1168,
+            "max_turnout": 0,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 3376,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1047,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 902,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 2391,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 160,
+            "max_turnout": 0,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 3104,
+            "max_turnout": 0,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7206,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T14:28:30-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -11101,
+            "max_turnout": 8253,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -1168,
+            "max_turnout": 0,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -3376,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1047,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -902,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -2391,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -160,
+            "max_turnout": 0,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -3104,
+            "max_turnout": 0,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7206,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T14:34:07-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 76,
+            "max_turnout": 176,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 87,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 33,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T15:29:40-04:00": {
+        "0": {
+            "Culp": 227,
+            "Newhouse": 168,
+            "White": 115,
+            "total": 657,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 227,
+            "Newhouse": 168,
+            "White": 115,
+            "total": 657,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Adams"
+        }
+    },
+    "2022-08-05T15:33:16-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 18,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T18:24:49-04:00": {
+        "0": {
+            "Culp": 193,
+            "Newhouse": 218,
+            "White": 212,
+            "total": 859,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Culp": 193,
+            "Newhouse": 218,
+            "White": 212,
+            "total": 859,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-08-05T18:26:42-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Franklin"
+        }
+    },
+    "2022-08-05T18:40:27-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Benton"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T18:53:43-04:00": {
+        "0": {
+            "Culp": 1993,
+            "Newhouse": 1806,
+            "White": 2341,
+            "total": 9076,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Culp": 1993,
+            "Newhouse": 1806,
+            "White": 2341,
+            "total": 9076,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T18:54:21-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -122,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -122,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T18:56:28-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 38,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 38,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T19:20:37-04:00": {
+        "0": {
+            "Culp": 1643,
+            "Newhouse": 2431,
+            "White": 2501,
+            "total": 10535,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 1643,
+            "Newhouse": 2431,
+            "White": 2501,
+            "total": 10535,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T19:22:19-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -39,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -39,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-05T19:37:14-04:00": {
+        "0": {
+            "Culp": 628,
+            "Newhouse": 473,
+            "White": 330,
+            "total": 1838,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Culp": 628,
+            "Newhouse": 473,
+            "White": 330,
+            "total": 1838,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-08-05T19:39:09-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-08-05T19:53:07-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 333,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 148,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 48,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 71,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 47,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 50,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T19:55:50-04:00": {
+        "0": {
+            "Culp": 903,
+            "Newhouse": 635,
+            "White": 891,
+            "total": 3025,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Culp": 903,
+            "Newhouse": 635,
+            "White": 891,
+            "total": 3025,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Okanogan"
+        }
+    },
+    "2022-08-05T19:56:55-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": -127,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -56,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T20:28:46-04:00": {
+        "0": {
+            "Culp": 277,
+            "Newhouse": 184,
+            "White": 538,
+            "total": 1164,
+            "min_turnout": 1031,
+            "max_turnout": 861,
+            "county_name": "Total"
+        },
+        "6": {
+            "Culp": 277,
+            "Newhouse": 184,
+            "White": 538,
+            "total": 1164,
+            "min_turnout": 1031,
+            "max_turnout": 861,
+            "county_name": "Klickitat"
+        }
+    },
+    "2022-08-05T20:30:21-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 110,
+            "max_turnout": 554,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 220,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 36,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 71,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 104,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 78,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-05T20:40:15-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -47,
+            "max_turnout": 61,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -96,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -15,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -31,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -45,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 268,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -29,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-07T16:39:49-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-07T16:41:45-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-08-08T18:22:09-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 112,
+            "max_turnout": 497,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 248,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 69,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 101,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 65,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-08T19:10:52-04:00": {
+        "0": {
+            "Culp": 86,
+            "Newhouse": 148,
+            "White": 133,
+            "total": 546,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 86,
+            "Newhouse": 148,
+            "White": 133,
+            "total": 546,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-08T19:13:37-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Benton"
+        }
+    },
+    "2022-08-08T20:24:53-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 174,
+            "max_turnout": 770,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 380,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 108,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 158,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 102,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 113,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-08T20:49:39-04:00": {
+        "0": {
+            "Culp": 876,
+            "Newhouse": 694,
+            "White": 313,
+            "total": 2530,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Culp": 876,
+            "Newhouse": 694,
+            "White": 313,
+            "total": 2530,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-08T20:51:13-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -39,
+            "county_name": "Total"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -39,
+            "county_name": "Grant"
+        }
+    },
+    "2022-08-08T21:45:38-04:00": {
+        "0": {
+            "Culp": 92,
+            "Newhouse": 51,
+            "White": 109,
+            "total": 298,
+            "min_turnout": 298,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Culp": 92,
+            "Newhouse": 51,
+            "White": 109,
+            "total": 298,
+            "min_turnout": 298,
+            "max_turnout": 0,
+            "county_name": "Klickitat"
+        }
+    },
+    "2022-08-08T21:47:30-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 327,
+            "county_name": "Total"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Grant"
+        },
+        "6": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 312,
+            "county_name": "Klickitat"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-09T18:41:18-04:00": {
+        "0": {
+            "Culp": 31,
+            "Newhouse": 34,
+            "White": 55,
+            "total": 158,
+            "min_turnout": 1459,
+            "max_turnout": -478,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -469,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -42,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 43,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 31,
+            "Newhouse": 34,
+            "White": 55,
+            "total": 158,
+            "min_turnout": 1429,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-09T20:12:08-04:00": {
+        "0": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 110,
+            "max_turnout": 318,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 116,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 51,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 80,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 63,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 71,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    },
+    "2022-08-16T21:12:40-04:00": {
+        "0": {
+            "Culp": 600,
+            "Newhouse": 451,
+            "White": 507,
+            "total": 1870,
+            "min_turnout": 1589,
+            "max_turnout": -460,
+            "county_name": "Total"
+        },
+        "1": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Adams"
+        },
+        "2": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -154,
+            "county_name": "Benton"
+        },
+        "3": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "4": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -115,
+            "county_name": "Franklin"
+        },
+        "5": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Grant"
+        },
+        "7": {
+            "Culp": 600,
+            "Newhouse": 451,
+            "White": 507,
+            "total": 1870,
+            "min_turnout": 1441,
+            "max_turnout": -180,
+            "county_name": "Okanogan"
+        },
+        "8": {
+            "Culp": 0,
+            "Newhouse": 0,
+            "White": 0,
+            "total": 0,
+            "min_turnout": 79,
+            "max_turnout": 0,
+            "county_name": "Yakima"
+        }
+    }
+}

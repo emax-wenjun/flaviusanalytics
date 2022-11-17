@@ -1,0 +1,850 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Bennet": 1301193,
+            "O'Dea": 997430,
+            "total": 2365827,
+            "min_turnout": 2471690,
+            "max_turnout": 2563697
+        },
+        {
+            "county_name": "Adams",
+            "Bennet": 88607,
+            "O'Dea": 61899,
+            "total": 155590,
+            "min_turnout": 158427,
+            "max_turnout": 172508
+        },
+        {
+            "county_name": "Alamosa",
+            "Bennet": 2963,
+            "O'Dea": 2701,
+            "total": 5857,
+            "min_turnout": 5962,
+            "max_turnout": 6150
+        },
+        {
+            "county_name": "Arapahoe",
+            "Bennet": 143576,
+            "O'Dea": 89198,
+            "total": 238634,
+            "min_turnout": 250294,
+            "max_turnout": 266360
+        },
+        {
+            "county_name": "Archuleta",
+            "Bennet": 3386,
+            "O'Dea": 4046,
+            "total": 7713,
+            "min_turnout": 7713,
+            "max_turnout": 8099
+        },
+        {
+            "county_name": "Baca",
+            "Bennet": 368,
+            "O'Dea": 1289,
+            "total": 1728,
+            "min_turnout": 1744,
+            "max_turnout": 1809
+        },
+        {
+            "county_name": "Bent",
+            "Bennet": 636,
+            "O'Dea": 1084,
+            "total": 1786,
+            "min_turnout": 1804,
+            "max_turnout": 1875
+        },
+        {
+            "county_name": "Boulder",
+            "Bennet": 116771,
+            "O'Dea": 30387,
+            "total": 149989,
+            "min_turnout": 160455,
+            "max_turnout": 165332
+        },
+        {
+            "county_name": "Broomfield",
+            "Bennet": 23326,
+            "O'Dea": 12864,
+            "total": 37108,
+            "min_turnout": 37483,
+            "max_turnout": 38963
+        },
+        {
+            "county_name": "Chaffee",
+            "Bennet": 6471,
+            "O'Dea": 4779,
+            "total": 11588,
+            "min_turnout": 11705,
+            "max_turnout": 12167
+        },
+        {
+            "county_name": "Cheyenne",
+            "Bennet": 116,
+            "O'Dea": 742,
+            "total": 890,
+            "min_turnout": 899,
+            "max_turnout": 978
+        },
+        {
+            "county_name": "Clear Creek",
+            "Bennet": 2935,
+            "O'Dea": 2021,
+            "total": 5129,
+            "min_turnout": 5181,
+            "max_turnout": 5216
+        },
+        {
+            "county_name": "Conejos",
+            "Bennet": 1658,
+            "O'Dea": 1684,
+            "total": 3413,
+            "min_turnout": 3447,
+            "max_turnout": 3584
+        },
+        {
+            "county_name": "Costilla",
+            "Bennet": 1086,
+            "O'Dea": 506,
+            "total": 1651,
+            "min_turnout": 1668,
+            "max_turnout": 1734
+        },
+        {
+            "county_name": "Crowley",
+            "Bennet": 425,
+            "O'Dea": 838,
+            "total": 1355,
+            "min_turnout": 1355,
+            "max_turnout": 1423
+        },
+        {
+            "county_name": "Custer",
+            "Bennet": 1049,
+            "O'Dea": 2093,
+            "total": 3293,
+            "min_turnout": 3307,
+            "max_turnout": 3458
+        },
+        {
+            "county_name": "Delta",
+            "Bennet": 5337,
+            "O'Dea": 9800,
+            "total": 15742,
+            "min_turnout": 15901,
+            "max_turnout": 16529
+        },
+        {
+            "county_name": "Denver",
+            "Bennet": 165146,
+            "O'Dea": 37209,
+            "total": 205657,
+            "min_turnout": 275241,
+            "max_turnout": 290006
+        },
+        {
+            "county_name": "Dolores",
+            "Bennet": 335,
+            "O'Dea": 860,
+            "total": 1254,
+            "min_turnout": 1257,
+            "max_turnout": 1317
+        },
+        {
+            "county_name": "Douglas",
+            "Bennet": 83742,
+            "O'Dea": 98775,
+            "total": 187065,
+            "min_turnout": 188936,
+            "max_turnout": 193768
+        },
+        {
+            "county_name": "Eagle",
+            "Bennet": 13650,
+            "O'Dea": 7647,
+            "total": 21741,
+            "min_turnout": 21961,
+            "max_turnout": 22828
+        },
+        {
+            "county_name": "El Paso",
+            "Bennet": 123160,
+            "O'Dea": 149325,
+            "total": 282699,
+            "min_turnout": 282699,
+            "max_turnout": 288468
+        },
+        {
+            "county_name": "Elbert",
+            "Bennet": 3771,
+            "O'Dea": 11800,
+            "total": 16100,
+            "min_turnout": 16261,
+            "max_turnout": 16390
+        },
+        {
+            "county_name": "Fremont",
+            "Bennet": 6564,
+            "O'Dea": 12025,
+            "total": 19471,
+            "min_turnout": 19567,
+            "max_turnout": 19836
+        },
+        {
+            "county_name": "Garfield",
+            "Bennet": 12413,
+            "O'Dea": 10751,
+            "total": 23955,
+            "min_turnout": 24195,
+            "max_turnout": 24383
+        },
+        {
+            "county_name": "Gilpin",
+            "Bennet": 1888,
+            "O'Dea": 1365,
+            "total": 3362,
+            "min_turnout": 3396,
+            "max_turnout": 3424
+        },
+        {
+            "county_name": "Grand",
+            "Bennet": 3867,
+            "O'Dea": 3778,
+            "total": 7892,
+            "min_turnout": 7972,
+            "max_turnout": 8287
+        },
+        {
+            "county_name": "Gunnison",
+            "Bennet": 5952,
+            "O'Dea": 2890,
+            "total": 9106,
+            "min_turnout": 9106,
+            "max_turnout": 9561
+        },
+        {
+            "county_name": "Hinsdale",
+            "Bennet": 222,
+            "O'Dea": 272,
+            "total": 516,
+            "min_turnout": 520,
+            "max_turnout": 542
+        },
+        {
+            "county_name": "Huerfano",
+            "Bennet": 1993,
+            "O'Dea": 1697,
+            "total": 3821,
+            "min_turnout": 3821,
+            "max_turnout": 4012
+        },
+        {
+            "county_name": "Jackson",
+            "Bennet": 151,
+            "O'Dea": 496,
+            "total": 685,
+            "min_turnout": 692,
+            "max_turnout": 719
+        },
+        {
+            "county_name": "Jefferson",
+            "Bennet": 175578,
+            "O'Dea": 115644,
+            "total": 299169,
+            "min_turnout": 302161,
+            "max_turnout": 306549
+        },
+        {
+            "county_name": "Kiowa",
+            "Bennet": 120,
+            "O'Dea": 601,
+            "total": 748,
+            "min_turnout": 755,
+            "max_turnout": 758
+        },
+        {
+            "county_name": "Kit Carson",
+            "Bennet": 523,
+            "O'Dea": 2373,
+            "total": 2982,
+            "min_turnout": 3012,
+            "max_turnout": 3120
+        },
+        {
+            "county_name": "La Plata",
+            "Bennet": 17600,
+            "O'Dea": 11170,
+            "total": 29546,
+            "min_turnout": 29844,
+            "max_turnout": 31023
+        },
+        {
+            "county_name": "Lake",
+            "Bennet": 1799,
+            "O'Dea": 1061,
+            "total": 2974,
+            "min_turnout": 2974,
+            "max_turnout": 3123
+        },
+        {
+            "county_name": "Larimer",
+            "Bennet": 100160,
+            "O'Dea": 69460,
+            "total": 174840,
+            "min_turnout": 174840,
+            "max_turnout": 178547
+        },
+        {
+            "county_name": "Las Animas",
+            "Bennet": 3252,
+            "O'Dea": 3138,
+            "total": 6605,
+            "min_turnout": 6672,
+            "max_turnout": 6935
+        },
+        {
+            "county_name": "Lincoln",
+            "Bennet": 394,
+            "O'Dea": 1611,
+            "total": 2085,
+            "min_turnout": 2106,
+            "max_turnout": 2189
+        },
+        {
+            "county_name": "Logan",
+            "Bennet": 1925,
+            "O'Dea": 5918,
+            "total": 8163,
+            "min_turnout": 8245,
+            "max_turnout": 8496
+        },
+        {
+            "county_name": "Mesa",
+            "Bennet": 28357,
+            "O'Dea": 41384,
+            "total": 72631,
+            "min_turnout": 73365,
+            "max_turnout": 76263
+        },
+        {
+            "county_name": "Mineral",
+            "Bennet": 310,
+            "O'Dea": 369,
+            "total": 709,
+            "min_turnout": 714,
+            "max_turnout": 744
+        },
+        {
+            "county_name": "Moffat",
+            "Bennet": 1057,
+            "O'Dea": 4130,
+            "total": 5359,
+            "min_turnout": 5413,
+            "max_turnout": 5627
+        },
+        {
+            "county_name": "Montezuma",
+            "Bennet": 5006,
+            "O'Dea": 6866,
+            "total": 12338,
+            "min_turnout": 12463,
+            "max_turnout": 12955
+        },
+        {
+            "county_name": "Montrose",
+            "Bennet": 7140,
+            "O'Dea": 12687,
+            "total": 20491,
+            "min_turnout": 20698,
+            "max_turnout": 21516
+        },
+        {
+            "county_name": "Morgan",
+            "Bennet": 2702,
+            "O'Dea": 6811,
+            "total": 9883,
+            "min_turnout": 9983,
+            "max_turnout": 10890
+        },
+        {
+            "county_name": "Otero",
+            "Bennet": 2981,
+            "O'Dea": 3888,
+            "total": 7087,
+            "min_turnout": 7159,
+            "max_turnout": 7230
+        },
+        {
+            "county_name": "Ouray",
+            "Bennet": 2127,
+            "O'Dea": 1311,
+            "total": 3514,
+            "min_turnout": 3514,
+            "max_turnout": 3690
+        },
+        {
+            "county_name": "Park",
+            "Bennet": 4150,
+            "O'Dea": 5336,
+            "total": 9899,
+            "min_turnout": 9899,
+            "max_turnout": 9999
+        },
+        {
+            "county_name": "Phillips",
+            "Bennet": 399,
+            "O'Dea": 1492,
+            "total": 1968,
+            "min_turnout": 1988,
+            "max_turnout": 1997
+        },
+        {
+            "county_name": "Pitkin",
+            "Bennet": 6975,
+            "O'Dea": 2233,
+            "total": 9347,
+            "min_turnout": 9440,
+            "max_turnout": 9692
+        },
+        {
+            "county_name": "Prowers",
+            "Bennet": 1160,
+            "O'Dea": 2946,
+            "total": 4254,
+            "min_turnout": 4297,
+            "max_turnout": 4467
+        },
+        {
+            "county_name": "Pueblo",
+            "Bennet": 35099,
+            "O'Dea": 29132,
+            "total": 66457,
+            "min_turnout": 66457,
+            "max_turnout": 67611
+        },
+        {
+            "county_name": "Rio Blanco",
+            "Bennet": 511,
+            "O'Dea": 2363,
+            "total": 2974,
+            "min_turnout": 3004,
+            "max_turnout": 3025
+        },
+        {
+            "county_name": "Rio Grande",
+            "Bennet": 2128,
+            "O'Dea": 2621,
+            "total": 4931,
+            "min_turnout": 4981,
+            "max_turnout": 5178
+        },
+        {
+            "county_name": "Routt",
+            "Bennet": 8642,
+            "O'Dea": 4793,
+            "total": 13721,
+            "min_turnout": 13860,
+            "max_turnout": 14407
+        },
+        {
+            "county_name": "Saguache",
+            "Bennet": 1535,
+            "O'Dea": 1047,
+            "total": 2702,
+            "min_turnout": 2717,
+            "max_turnout": 2837
+        },
+        {
+            "county_name": "San Juan",
+            "Bennet": 326,
+            "O'Dea": 149,
+            "total": 499,
+            "min_turnout": 500,
+            "max_turnout": 524
+        },
+        {
+            "county_name": "San Miguel",
+            "Bennet": 3067,
+            "O'Dea": 870,
+            "total": 4019,
+            "min_turnout": 4060,
+            "max_turnout": 4220
+        },
+        {
+            "county_name": "Sedgwick",
+            "Bennet": 308,
+            "O'Dea": 803,
+            "total": 1158,
+            "min_turnout": 1169,
+            "max_turnout": 1170
+        },
+        {
+            "county_name": "Summit",
+            "Bennet": 9615,
+            "O'Dea": 4189,
+            "total": 14120,
+            "min_turnout": 14263,
+            "max_turnout": 14826
+        },
+        {
+            "county_name": "Teller",
+            "Bennet": 4490,
+            "O'Dea": 8492,
+            "total": 13410,
+            "min_turnout": 13552,
+            "max_turnout": 14080
+        },
+        {
+            "county_name": "Washington",
+            "Bennet": 345,
+            "O'Dea": 1928,
+            "total": 2361,
+            "min_turnout": 2385,
+            "max_turnout": 2422
+        },
+        {
+            "county_name": "Weld",
+            "Bennet": 49123,
+            "O'Dea": 72745,
+            "total": 126183,
+            "min_turnout": 128282,
+            "max_turnout": 133849
+        },
+        {
+            "county_name": "Yuma",
+            "Bennet": 725,
+            "O'Dea": 3048,
+            "total": 3910,
+            "min_turnout": 3949,
+            "max_turnout": 4012
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Alamosa": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Arapahoe": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Archuleta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Baca": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Bent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Boulder": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Broomfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chaffee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cheyenne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clear Creek": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Conejos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Costilla": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crowley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Custer": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Delta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Denver": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Dolores": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Eagle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "El Paso": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Elbert": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Fremont": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gilpin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grand": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gunnison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hinsdale": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Huerfano": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kiowa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kit Carson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "La Plata": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Larimer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Las Animas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mesa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mineral": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Moffat": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montezuma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montrose": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Otero": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ouray": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Park": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Phillips": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pitkin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Prowers": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pueblo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rio Blanco": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rio Grande": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Routt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saguache": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "San Miguel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sedgwick": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Summit": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Teller": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Weld": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Yuma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

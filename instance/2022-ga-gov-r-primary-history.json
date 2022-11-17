@@ -1,0 +1,1284 @@
+{
+    "2022-07-31T03:15:29-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Kemp": 885626,
+            "Perdue": 261726,
+            "total": 1201460,
+            "min_turnout": 1201460,
+            "max_turnout": 1201460
+        },
+        "1": {
+            "county_name": "Appling",
+            "Kemp": 2167,
+            "Perdue": 792,
+            "total": 3781,
+            "min_turnout": 3781,
+            "max_turnout": 3781
+        },
+        "2": {
+            "county_name": "Atkinson",
+            "Kemp": 588,
+            "Perdue": 323,
+            "total": 997,
+            "min_turnout": 997,
+            "max_turnout": 997
+        },
+        "3": {
+            "county_name": "Bacon",
+            "Kemp": 1295,
+            "Perdue": 649,
+            "total": 2387,
+            "min_turnout": 2387,
+            "max_turnout": 2387
+        },
+        "4": {
+            "county_name": "Baker",
+            "Kemp": 347,
+            "Perdue": 107,
+            "total": 480,
+            "min_turnout": 480,
+            "max_turnout": 480
+        },
+        "5": {
+            "county_name": "Baldwin",
+            "Kemp": 3731,
+            "Perdue": 907,
+            "total": 4820,
+            "min_turnout": 4820,
+            "max_turnout": 4820
+        },
+        "6": {
+            "county_name": "Banks",
+            "Kemp": 2476,
+            "Perdue": 1080,
+            "total": 3738,
+            "min_turnout": 3738,
+            "max_turnout": 3738
+        },
+        "7": {
+            "county_name": "Barrow",
+            "Kemp": 8892,
+            "Perdue": 2373,
+            "total": 11661,
+            "min_turnout": 11661,
+            "max_turnout": 11661
+        },
+        "8": {
+            "county_name": "Bartow",
+            "Kemp": 12466,
+            "Perdue": 3282,
+            "total": 16375,
+            "min_turnout": 16375,
+            "max_turnout": 16375
+        },
+        "9": {
+            "county_name": "Ben Hill",
+            "Kemp": 1220,
+            "Perdue": 483,
+            "total": 1882,
+            "min_turnout": 1882,
+            "max_turnout": 1882
+        },
+        "10": {
+            "county_name": "Berrien",
+            "Kemp": 2023,
+            "Perdue": 944,
+            "total": 3321,
+            "min_turnout": 3321,
+            "max_turnout": 3321
+        },
+        "11": {
+            "county_name": "Bibb",
+            "Kemp": 10640,
+            "Perdue": 2495,
+            "total": 13593,
+            "min_turnout": 13593,
+            "max_turnout": 13593
+        },
+        "12": {
+            "county_name": "Bleckley",
+            "Kemp": 1952,
+            "Perdue": 476,
+            "total": 2562,
+            "min_turnout": 2562,
+            "max_turnout": 2562
+        },
+        "13": {
+            "county_name": "Brantley",
+            "Kemp": 1535,
+            "Perdue": 979,
+            "total": 3158,
+            "min_turnout": 3158,
+            "max_turnout": 3158
+        },
+        "14": {
+            "county_name": "Brooks",
+            "Kemp": 1225,
+            "Perdue": 640,
+            "total": 2009,
+            "min_turnout": 2009,
+            "max_turnout": 2009
+        },
+        "15": {
+            "county_name": "Bryan",
+            "Kemp": 4296,
+            "Perdue": 1411,
+            "total": 6188,
+            "min_turnout": 6188,
+            "max_turnout": 6188
+        },
+        "16": {
+            "county_name": "Bulloch",
+            "Kemp": 6728,
+            "Perdue": 1943,
+            "total": 9101,
+            "min_turnout": 9101,
+            "max_turnout": 9101
+        },
+        "17": {
+            "county_name": "Burke",
+            "Kemp": 1878,
+            "Perdue": 623,
+            "total": 2580,
+            "min_turnout": 2580,
+            "max_turnout": 2580
+        },
+        "18": {
+            "county_name": "Butts",
+            "Kemp": 3248,
+            "Perdue": 949,
+            "total": 4327,
+            "min_turnout": 4327,
+            "max_turnout": 4327
+        },
+        "19": {
+            "county_name": "Calhoun",
+            "Kemp": 367,
+            "Perdue": 73,
+            "total": 455,
+            "min_turnout": 455,
+            "max_turnout": 455
+        },
+        "20": {
+            "county_name": "Camden",
+            "Kemp": 4125,
+            "Perdue": 2086,
+            "total": 6693,
+            "min_turnout": 6693,
+            "max_turnout": 6693
+        },
+        "21": {
+            "county_name": "Candler",
+            "Kemp": 992,
+            "Perdue": 285,
+            "total": 1347,
+            "min_turnout": 1347,
+            "max_turnout": 1347
+        },
+        "22": {
+            "county_name": "Carroll",
+            "Kemp": 13961,
+            "Perdue": 3739,
+            "total": 18376,
+            "min_turnout": 18376,
+            "max_turnout": 18376
+        },
+        "23": {
+            "county_name": "Catoosa",
+            "Kemp": 6515,
+            "Perdue": 4173,
+            "total": 11296,
+            "min_turnout": 11296,
+            "max_turnout": 11296
+        },
+        "24": {
+            "county_name": "Charlton",
+            "Kemp": 814,
+            "Perdue": 519,
+            "total": 1502,
+            "min_turnout": 1502,
+            "max_turnout": 1502
+        },
+        "25": {
+            "county_name": "Chatham",
+            "Kemp": 20011,
+            "Perdue": 5189,
+            "total": 26113,
+            "min_turnout": 26113,
+            "max_turnout": 26113
+        },
+        "26": {
+            "county_name": "Chattahoochee",
+            "Kemp": 167,
+            "Perdue": 139,
+            "total": 320,
+            "min_turnout": 320,
+            "max_turnout": 320
+        },
+        "27": {
+            "county_name": "Chattooga",
+            "Kemp": 2343,
+            "Perdue": 921,
+            "total": 3546,
+            "min_turnout": 3546,
+            "max_turnout": 3546
+        },
+        "28": {
+            "county_name": "Cherokee",
+            "Kemp": 39821,
+            "Perdue": 9688,
+            "total": 52163,
+            "min_turnout": 52163,
+            "max_turnout": 52163
+        },
+        "29": {
+            "county_name": "Clarke",
+            "Kemp": 7684,
+            "Perdue": 1210,
+            "total": 9300,
+            "min_turnout": 9300,
+            "max_turnout": 9300
+        },
+        "30": {
+            "county_name": "Clay",
+            "Kemp": 252,
+            "Perdue": 76,
+            "total": 337,
+            "min_turnout": 337,
+            "max_turnout": 337
+        },
+        "31": {
+            "county_name": "Clayton",
+            "Kemp": 3931,
+            "Perdue": 981,
+            "total": 5104,
+            "min_turnout": 5104,
+            "max_turnout": 5104
+        },
+        "32": {
+            "county_name": "Clinch",
+            "Kemp": 554,
+            "Perdue": 230,
+            "total": 852,
+            "min_turnout": 852,
+            "max_turnout": 852
+        },
+        "33": {
+            "county_name": "Cobb",
+            "Kemp": 73876,
+            "Perdue": 14563,
+            "total": 91785,
+            "min_turnout": 91785,
+            "max_turnout": 91785
+        },
+        "34": {
+            "county_name": "Coffee",
+            "Kemp": 2527,
+            "Perdue": 1409,
+            "total": 4319,
+            "min_turnout": 4319,
+            "max_turnout": 4319
+        },
+        "35": {
+            "county_name": "Colquitt",
+            "Kemp": 4070,
+            "Perdue": 1352,
+            "total": 5765,
+            "min_turnout": 5765,
+            "max_turnout": 5765
+        },
+        "36": {
+            "county_name": "Columbia",
+            "Kemp": 17061,
+            "Perdue": 5892,
+            "total": 24001,
+            "min_turnout": 24001,
+            "max_turnout": 24001
+        },
+        "37": {
+            "county_name": "Cook",
+            "Kemp": 1558,
+            "Perdue": 667,
+            "total": 2476,
+            "min_turnout": 2476,
+            "max_turnout": 2476
+        },
+        "38": {
+            "county_name": "Coweta",
+            "Kemp": 19978,
+            "Perdue": 5087,
+            "total": 25970,
+            "min_turnout": 25970,
+            "max_turnout": 25970
+        },
+        "39": {
+            "county_name": "Crawford",
+            "Kemp": 1430,
+            "Perdue": 558,
+            "total": 2067,
+            "min_turnout": 2067,
+            "max_turnout": 2067
+        },
+        "40": {
+            "county_name": "Crisp",
+            "Kemp": 1963,
+            "Perdue": 606,
+            "total": 2742,
+            "min_turnout": 2742,
+            "max_turnout": 2742
+        },
+        "41": {
+            "county_name": "Dade",
+            "Kemp": 1674,
+            "Perdue": 1298,
+            "total": 3166,
+            "min_turnout": 3166,
+            "max_turnout": 3166
+        },
+        "42": {
+            "county_name": "Dawson",
+            "Kemp": 4750,
+            "Perdue": 1505,
+            "total": 6598,
+            "min_turnout": 6598,
+            "max_turnout": 6598
+        },
+        "43": {
+            "county_name": "DeKalb",
+            "Kemp": 24892,
+            "Perdue": 4444,
+            "total": 30579,
+            "min_turnout": 30579,
+            "max_turnout": 30579
+        },
+        "44": {
+            "county_name": "Decatur",
+            "Kemp": 2141,
+            "Perdue": 843,
+            "total": 3084,
+            "min_turnout": 3084,
+            "max_turnout": 3084
+        },
+        "45": {
+            "county_name": "Dodge",
+            "Kemp": 2410,
+            "Perdue": 748,
+            "total": 3419,
+            "min_turnout": 3419,
+            "max_turnout": 3419
+        },
+        "46": {
+            "county_name": "Dooly",
+            "Kemp": 791,
+            "Perdue": 263,
+            "total": 1121,
+            "min_turnout": 1121,
+            "max_turnout": 1121
+        },
+        "47": {
+            "county_name": "Dougherty",
+            "Kemp": 3154,
+            "Perdue": 906,
+            "total": 4217,
+            "min_turnout": 4217,
+            "max_turnout": 4217
+        },
+        "48": {
+            "county_name": "Douglas",
+            "Kemp": 8683,
+            "Perdue": 2040,
+            "total": 11085,
+            "min_turnout": 11085,
+            "max_turnout": 11085
+        },
+        "49": {
+            "county_name": "Early",
+            "Kemp": 1131,
+            "Perdue": 258,
+            "total": 1430,
+            "min_turnout": 1430,
+            "max_turnout": 1430
+        },
+        "50": {
+            "county_name": "Echols",
+            "Kemp": 348,
+            "Perdue": 190,
+            "total": 567,
+            "min_turnout": 567,
+            "max_turnout": 567
+        },
+        "51": {
+            "county_name": "Effingham",
+            "Kemp": 6743,
+            "Perdue": 2400,
+            "total": 9569,
+            "min_turnout": 9569,
+            "max_turnout": 9569
+        },
+        "52": {
+            "county_name": "Elbert",
+            "Kemp": 1954,
+            "Perdue": 1071,
+            "total": 3174,
+            "min_turnout": 3174,
+            "max_turnout": 3174
+        },
+        "53": {
+            "county_name": "Emanuel",
+            "Kemp": 2253,
+            "Perdue": 822,
+            "total": 3302,
+            "min_turnout": 3302,
+            "max_turnout": 3302
+        },
+        "54": {
+            "county_name": "Evans",
+            "Kemp": 1099,
+            "Perdue": 262,
+            "total": 1432,
+            "min_turnout": 1432,
+            "max_turnout": 1432
+        },
+        "55": {
+            "county_name": "Fannin",
+            "Kemp": 3913,
+            "Perdue": 2096,
+            "total": 6326,
+            "min_turnout": 6326,
+            "max_turnout": 6326
+        },
+        "56": {
+            "county_name": "Fayette",
+            "Kemp": 16249,
+            "Perdue": 4011,
+            "total": 21037,
+            "min_turnout": 21037,
+            "max_turnout": 21037
+        },
+        "57": {
+            "county_name": "Floyd",
+            "Kemp": 10379,
+            "Perdue": 2901,
+            "total": 13822,
+            "min_turnout": 13822,
+            "max_turnout": 13822
+        },
+        "58": {
+            "county_name": "Forsyth",
+            "Kemp": 30361,
+            "Perdue": 8394,
+            "total": 40422,
+            "min_turnout": 40422,
+            "max_turnout": 40422
+        },
+        "59": {
+            "county_name": "Franklin",
+            "Kemp": 2910,
+            "Perdue": 1550,
+            "total": 4703,
+            "min_turnout": 4703,
+            "max_turnout": 4703
+        },
+        "60": {
+            "county_name": "Fulton",
+            "Kemp": 55383,
+            "Perdue": 11274,
+            "total": 68797,
+            "min_turnout": 68797,
+            "max_turnout": 68797
+        },
+        "61": {
+            "county_name": "Gilmer",
+            "Kemp": 5507,
+            "Perdue": 2070,
+            "total": 7969,
+            "min_turnout": 7969,
+            "max_turnout": 7969
+        },
+        "62": {
+            "county_name": "Glascock",
+            "Kemp": 486,
+            "Perdue": 266,
+            "total": 819,
+            "min_turnout": 819,
+            "max_turnout": 819
+        },
+        "63": {
+            "county_name": "Glynn",
+            "Kemp": 8925,
+            "Perdue": 3694,
+            "total": 13211,
+            "min_turnout": 13211,
+            "max_turnout": 13211
+        },
+        "64": {
+            "county_name": "Gordon",
+            "Kemp": 6466,
+            "Perdue": 2133,
+            "total": 9062,
+            "min_turnout": 9062,
+            "max_turnout": 9062
+        },
+        "65": {
+            "county_name": "Grady",
+            "Kemp": 2051,
+            "Perdue": 1092,
+            "total": 3332,
+            "min_turnout": 3332,
+            "max_turnout": 3332
+        },
+        "66": {
+            "county_name": "Greene",
+            "Kemp": 3790,
+            "Perdue": 901,
+            "total": 4761,
+            "min_turnout": 4761,
+            "max_turnout": 4761
+        },
+        "67": {
+            "county_name": "Gwinnett",
+            "Kemp": 54849,
+            "Perdue": 12881,
+            "total": 70227,
+            "min_turnout": 70227,
+            "max_turnout": 70227
+        },
+        "68": {
+            "county_name": "Habersham",
+            "Kemp": 6703,
+            "Perdue": 2078,
+            "total": 9121,
+            "min_turnout": 9121,
+            "max_turnout": 9121
+        },
+        "69": {
+            "county_name": "Hall",
+            "Kemp": 25032,
+            "Perdue": 6515,
+            "total": 32604,
+            "min_turnout": 32604,
+            "max_turnout": 32604
+        },
+        "70": {
+            "county_name": "Hancock",
+            "Kemp": 405,
+            "Perdue": 149,
+            "total": 583,
+            "min_turnout": 583,
+            "max_turnout": 583
+        },
+        "71": {
+            "county_name": "Haralson",
+            "Kemp": 4347,
+            "Perdue": 1219,
+            "total": 5831,
+            "min_turnout": 5831,
+            "max_turnout": 5831
+        },
+        "72": {
+            "county_name": "Harris",
+            "Kemp": 4136,
+            "Perdue": 2266,
+            "total": 6672,
+            "min_turnout": 6672,
+            "max_turnout": 6672
+        },
+        "73": {
+            "county_name": "Hart",
+            "Kemp": 3062,
+            "Perdue": 1674,
+            "total": 5007,
+            "min_turnout": 5007,
+            "max_turnout": 5007
+        },
+        "74": {
+            "county_name": "Heard",
+            "Kemp": 1517,
+            "Perdue": 529,
+            "total": 2121,
+            "min_turnout": 2121,
+            "max_turnout": 2121
+        },
+        "75": {
+            "county_name": "Henry",
+            "Kemp": 15583,
+            "Perdue": 3806,
+            "total": 20108,
+            "min_turnout": 20108,
+            "max_turnout": 20108
+        },
+        "76": {
+            "county_name": "Houston",
+            "Kemp": 12308,
+            "Perdue": 5240,
+            "total": 18293,
+            "min_turnout": 18293,
+            "max_turnout": 18293
+        },
+        "77": {
+            "county_name": "Irwin",
+            "Kemp": 1088,
+            "Perdue": 464,
+            "total": 1687,
+            "min_turnout": 1687,
+            "max_turnout": 1687
+        },
+        "78": {
+            "county_name": "Jackson",
+            "Kemp": 10546,
+            "Perdue": 2980,
+            "total": 14036,
+            "min_turnout": 14036,
+            "max_turnout": 14036
+        },
+        "79": {
+            "county_name": "Jasper",
+            "Kemp": 2071,
+            "Perdue": 830,
+            "total": 2982,
+            "min_turnout": 2982,
+            "max_turnout": 2982
+        },
+        "80": {
+            "county_name": "Jeff Davis",
+            "Kemp": 1195,
+            "Perdue": 539,
+            "total": 2147,
+            "min_turnout": 2147,
+            "max_turnout": 2147
+        },
+        "81": {
+            "county_name": "Jefferson",
+            "Kemp": 1302,
+            "Perdue": 450,
+            "total": 1893,
+            "min_turnout": 1893,
+            "max_turnout": 1893
+        },
+        "82": {
+            "county_name": "Jenkins",
+            "Kemp": 713,
+            "Perdue": 288,
+            "total": 1053,
+            "min_turnout": 1053,
+            "max_turnout": 1053
+        },
+        "83": {
+            "county_name": "Johnson",
+            "Kemp": 1128,
+            "Perdue": 484,
+            "total": 1712,
+            "min_turnout": 1712,
+            "max_turnout": 1712
+        },
+        "84": {
+            "county_name": "Jones",
+            "Kemp": 3446,
+            "Perdue": 1017,
+            "total": 4628,
+            "min_turnout": 4628,
+            "max_turnout": 4628
+        },
+        "85": {
+            "county_name": "Lamar",
+            "Kemp": 2414,
+            "Perdue": 747,
+            "total": 3292,
+            "min_turnout": 3292,
+            "max_turnout": 3292
+        },
+        "86": {
+            "county_name": "Lanier",
+            "Kemp": 704,
+            "Perdue": 349,
+            "total": 1199,
+            "min_turnout": 1199,
+            "max_turnout": 1199
+        },
+        "87": {
+            "county_name": "Laurens",
+            "Kemp": 5398,
+            "Perdue": 1531,
+            "total": 7244,
+            "min_turnout": 7244,
+            "max_turnout": 7244
+        },
+        "88": {
+            "county_name": "Lee",
+            "Kemp": 3872,
+            "Perdue": 1403,
+            "total": 5580,
+            "min_turnout": 5580,
+            "max_turnout": 5580
+        },
+        "89": {
+            "county_name": "Liberty",
+            "Kemp": 2133,
+            "Perdue": 691,
+            "total": 2972,
+            "min_turnout": 2972,
+            "max_turnout": 2972
+        },
+        "90": {
+            "county_name": "Lincoln",
+            "Kemp": 1323,
+            "Perdue": 541,
+            "total": 1925,
+            "min_turnout": 1925,
+            "max_turnout": 1925
+        },
+        "91": {
+            "county_name": "Long",
+            "Kemp": 1057,
+            "Perdue": 301,
+            "total": 1465,
+            "min_turnout": 1465,
+            "max_turnout": 1465
+        },
+        "92": {
+            "county_name": "Lowndes",
+            "Kemp": 6802,
+            "Perdue": 3209,
+            "total": 10778,
+            "min_turnout": 10778,
+            "max_turnout": 10778
+        },
+        "93": {
+            "county_name": "Lumpkin",
+            "Kemp": 4261,
+            "Perdue": 1352,
+            "total": 5952,
+            "min_turnout": 5952,
+            "max_turnout": 5952
+        },
+        "94": {
+            "county_name": "Macon",
+            "Kemp": 530,
+            "Perdue": 222,
+            "total": 790,
+            "min_turnout": 790,
+            "max_turnout": 790
+        },
+        "95": {
+            "county_name": "Madison",
+            "Kemp": 4658,
+            "Perdue": 1277,
+            "total": 6185,
+            "min_turnout": 6185,
+            "max_turnout": 6185
+        },
+        "96": {
+            "county_name": "Marion",
+            "Kemp": 721,
+            "Perdue": 444,
+            "total": 1243,
+            "min_turnout": 1243,
+            "max_turnout": 1243
+        },
+        "97": {
+            "county_name": "McDuffie",
+            "Kemp": 2157,
+            "Perdue": 713,
+            "total": 3071,
+            "min_turnout": 3071,
+            "max_turnout": 3071
+        },
+        "98": {
+            "county_name": "McIntosh",
+            "Kemp": 1786,
+            "Perdue": 630,
+            "total": 2566,
+            "min_turnout": 2566,
+            "max_turnout": 2566
+        },
+        "99": {
+            "county_name": "Meriwether",
+            "Kemp": 2474,
+            "Perdue": 800,
+            "total": 3415,
+            "min_turnout": 3415,
+            "max_turnout": 3415
+        },
+        "100": {
+            "county_name": "Miller",
+            "Kemp": 770,
+            "Perdue": 258,
+            "total": 1096,
+            "min_turnout": 1096,
+            "max_turnout": 1096
+        },
+        "101": {
+            "county_name": "Mitchell",
+            "Kemp": 1919,
+            "Perdue": 572,
+            "total": 2615,
+            "min_turnout": 2615,
+            "max_turnout": 2615
+        },
+        "102": {
+            "county_name": "Monroe",
+            "Kemp": 4693,
+            "Perdue": 1360,
+            "total": 6335,
+            "min_turnout": 6335,
+            "max_turnout": 6335
+        },
+        "103": {
+            "county_name": "Montgomery",
+            "Kemp": 1125,
+            "Perdue": 384,
+            "total": 1631,
+            "min_turnout": 1631,
+            "max_turnout": 1631
+        },
+        "104": {
+            "county_name": "Morgan",
+            "Kemp": 3321,
+            "Perdue": 1397,
+            "total": 4873,
+            "min_turnout": 4873,
+            "max_turnout": 4873
+        },
+        "105": {
+            "county_name": "Murray",
+            "Kemp": 3751,
+            "Perdue": 2214,
+            "total": 6239,
+            "min_turnout": 6239,
+            "max_turnout": 6239
+        },
+        "106": {
+            "county_name": "Muscogee",
+            "Kemp": 9062,
+            "Perdue": 4225,
+            "total": 13754,
+            "min_turnout": 13754,
+            "max_turnout": 13754
+        },
+        "107": {
+            "county_name": "Newton",
+            "Kemp": 8152,
+            "Perdue": 2012,
+            "total": 10478,
+            "min_turnout": 10478,
+            "max_turnout": 10478
+        },
+        "108": {
+            "county_name": "Oconee",
+            "Kemp": 8839,
+            "Perdue": 1430,
+            "total": 10612,
+            "min_turnout": 10612,
+            "max_turnout": 10612
+        },
+        "109": {
+            "county_name": "Oglethorpe",
+            "Kemp": 2478,
+            "Perdue": 590,
+            "total": 3200,
+            "min_turnout": 3200,
+            "max_turnout": 3200
+        },
+        "110": {
+            "county_name": "Paulding",
+            "Kemp": 16810,
+            "Perdue": 4293,
+            "total": 22051,
+            "min_turnout": 22051,
+            "max_turnout": 22051
+        },
+        "111": {
+            "county_name": "Peach",
+            "Kemp": 1881,
+            "Perdue": 767,
+            "total": 2778,
+            "min_turnout": 2778,
+            "max_turnout": 2778
+        },
+        "112": {
+            "county_name": "Pickens",
+            "Kemp": 5627,
+            "Perdue": 1611,
+            "total": 7628,
+            "min_turnout": 7628,
+            "max_turnout": 7628
+        },
+        "113": {
+            "county_name": "Pierce",
+            "Kemp": 2059,
+            "Perdue": 1144,
+            "total": 3857,
+            "min_turnout": 3857,
+            "max_turnout": 3857
+        },
+        "114": {
+            "county_name": "Pike",
+            "Kemp": 3371,
+            "Perdue": 1059,
+            "total": 4611,
+            "min_turnout": 4611,
+            "max_turnout": 4611
+        },
+        "115": {
+            "county_name": "Polk",
+            "Kemp": 5137,
+            "Perdue": 1537,
+            "total": 6909,
+            "min_turnout": 6909,
+            "max_turnout": 6909
+        },
+        "116": {
+            "county_name": "Pulaski",
+            "Kemp": 957,
+            "Perdue": 380,
+            "total": 1401,
+            "min_turnout": 1401,
+            "max_turnout": 1401
+        },
+        "117": {
+            "county_name": "Putnam",
+            "Kemp": 3493,
+            "Perdue": 981,
+            "total": 4595,
+            "min_turnout": 4595,
+            "max_turnout": 4595
+        },
+        "118": {
+            "county_name": "Quitman",
+            "Kemp": 213,
+            "Perdue": 92,
+            "total": 310,
+            "min_turnout": 310,
+            "max_turnout": 310
+        },
+        "119": {
+            "county_name": "Rabun",
+            "Kemp": 2842,
+            "Perdue": 1041,
+            "total": 4042,
+            "min_turnout": 4042,
+            "max_turnout": 4042
+        },
+        "120": {
+            "county_name": "Randolph",
+            "Kemp": 541,
+            "Perdue": 176,
+            "total": 737,
+            "min_turnout": 737,
+            "max_turnout": 737
+        },
+        "121": {
+            "county_name": "Richmond",
+            "Kemp": 9591,
+            "Perdue": 2682,
+            "total": 12710,
+            "min_turnout": 12710,
+            "max_turnout": 12710
+        },
+        "122": {
+            "county_name": "Rockdale",
+            "Kemp": 4692,
+            "Perdue": 1034,
+            "total": 5878,
+            "min_turnout": 5878,
+            "max_turnout": 5878
+        },
+        "123": {
+            "county_name": "Schley",
+            "Kemp": 520,
+            "Perdue": 222,
+            "total": 897,
+            "min_turnout": 897,
+            "max_turnout": 897
+        },
+        "124": {
+            "county_name": "Screven",
+            "Kemp": 1528,
+            "Perdue": 460,
+            "total": 2086,
+            "min_turnout": 2086,
+            "max_turnout": 2086
+        },
+        "125": {
+            "county_name": "Seminole",
+            "Kemp": 944,
+            "Perdue": 330,
+            "total": 1329,
+            "min_turnout": 1329,
+            "max_turnout": 1329
+        },
+        "126": {
+            "county_name": "Spalding",
+            "Kemp": 6896,
+            "Perdue": 1768,
+            "total": 9035,
+            "min_turnout": 9035,
+            "max_turnout": 9035
+        },
+        "127": {
+            "county_name": "Stephens",
+            "Kemp": 2666,
+            "Perdue": 1305,
+            "total": 4211,
+            "min_turnout": 4211,
+            "max_turnout": 4211
+        },
+        "128": {
+            "county_name": "Stewart",
+            "Kemp": 203,
+            "Perdue": 131,
+            "total": 348,
+            "min_turnout": 348,
+            "max_turnout": 348
+        },
+        "129": {
+            "county_name": "Sumter",
+            "Kemp": 2010,
+            "Perdue": 776,
+            "total": 2941,
+            "min_turnout": 2941,
+            "max_turnout": 2941
+        },
+        "130": {
+            "county_name": "Talbot",
+            "Kemp": 388,
+            "Perdue": 244,
+            "total": 667,
+            "min_turnout": 667,
+            "max_turnout": 667
+        },
+        "131": {
+            "county_name": "Taliaferro",
+            "Kemp": 143,
+            "Perdue": 56,
+            "total": 220,
+            "min_turnout": 220,
+            "max_turnout": 220
+        },
+        "132": {
+            "county_name": "Tattnall",
+            "Kemp": 2349,
+            "Perdue": 539,
+            "total": 3056,
+            "min_turnout": 3056,
+            "max_turnout": 3056
+        },
+        "133": {
+            "county_name": "Taylor",
+            "Kemp": 795,
+            "Perdue": 350,
+            "total": 1203,
+            "min_turnout": 1203,
+            "max_turnout": 1203
+        },
+        "134": {
+            "county_name": "Telfair",
+            "Kemp": 1012,
+            "Perdue": 318,
+            "total": 1464,
+            "min_turnout": 1464,
+            "max_turnout": 1464
+        },
+        "135": {
+            "county_name": "Terrell",
+            "Kemp": 735,
+            "Perdue": 288,
+            "total": 1058,
+            "min_turnout": 1058,
+            "max_turnout": 1058
+        },
+        "136": {
+            "county_name": "Thomas",
+            "Kemp": 4103,
+            "Perdue": 1950,
+            "total": 6347,
+            "min_turnout": 6347,
+            "max_turnout": 6347
+        },
+        "137": {
+            "county_name": "Tift",
+            "Kemp": 3642,
+            "Perdue": 1175,
+            "total": 5092,
+            "min_turnout": 5092,
+            "max_turnout": 5092
+        },
+        "138": {
+            "county_name": "Toombs",
+            "Kemp": 2558,
+            "Perdue": 675,
+            "total": 3440,
+            "min_turnout": 3440,
+            "max_turnout": 3440
+        },
+        "139": {
+            "county_name": "Towns",
+            "Kemp": 2234,
+            "Perdue": 1042,
+            "total": 3427,
+            "min_turnout": 3427,
+            "max_turnout": 3427
+        },
+        "140": {
+            "county_name": "Treutlen",
+            "Kemp": 806,
+            "Perdue": 215,
+            "total": 1072,
+            "min_turnout": 1072,
+            "max_turnout": 1072
+        },
+        "141": {
+            "county_name": "Troup",
+            "Kemp": 5716,
+            "Perdue": 1932,
+            "total": 7895,
+            "min_turnout": 7895,
+            "max_turnout": 7895
+        },
+        "142": {
+            "county_name": "Turner",
+            "Kemp": 816,
+            "Perdue": 320,
+            "total": 1191,
+            "min_turnout": 1191,
+            "max_turnout": 1191
+        },
+        "143": {
+            "county_name": "Twiggs",
+            "Kemp": 808,
+            "Perdue": 324,
+            "total": 1187,
+            "min_turnout": 1187,
+            "max_turnout": 1187
+        },
+        "144": {
+            "county_name": "Union",
+            "Kemp": 5195,
+            "Perdue": 2226,
+            "total": 7823,
+            "min_turnout": 7823,
+            "max_turnout": 7823
+        },
+        "145": {
+            "county_name": "Upson",
+            "Kemp": 3049,
+            "Perdue": 952,
+            "total": 4155,
+            "min_turnout": 4155,
+            "max_turnout": 4155
+        },
+        "146": {
+            "county_name": "Walker",
+            "Kemp": 5756,
+            "Perdue": 3438,
+            "total": 9878,
+            "min_turnout": 9878,
+            "max_turnout": 9878
+        },
+        "147": {
+            "county_name": "Walton",
+            "Kemp": 14492,
+            "Perdue": 3544,
+            "total": 18608,
+            "min_turnout": 18608,
+            "max_turnout": 18608
+        },
+        "148": {
+            "county_name": "Ware",
+            "Kemp": 2495,
+            "Perdue": 1512,
+            "total": 4454,
+            "min_turnout": 4454,
+            "max_turnout": 4454
+        },
+        "149": {
+            "county_name": "Warren",
+            "Kemp": 473,
+            "Perdue": 167,
+            "total": 670,
+            "min_turnout": 670,
+            "max_turnout": 670
+        },
+        "150": {
+            "county_name": "Washington",
+            "Kemp": 1413,
+            "Perdue": 423,
+            "total": 1914,
+            "min_turnout": 1914,
+            "max_turnout": 1914
+        },
+        "151": {
+            "county_name": "Wayne",
+            "Kemp": 3521,
+            "Perdue": 1125,
+            "total": 5172,
+            "min_turnout": 5172,
+            "max_turnout": 5172
+        },
+        "152": {
+            "county_name": "Webster",
+            "Kemp": 247,
+            "Perdue": 128,
+            "total": 420,
+            "min_turnout": 420,
+            "max_turnout": 420
+        },
+        "153": {
+            "county_name": "Wheeler",
+            "Kemp": 472,
+            "Perdue": 186,
+            "total": 759,
+            "min_turnout": 759,
+            "max_turnout": 759
+        },
+        "154": {
+            "county_name": "White",
+            "Kemp": 4885,
+            "Perdue": 1425,
+            "total": 6580,
+            "min_turnout": 6580,
+            "max_turnout": 6580
+        },
+        "155": {
+            "county_name": "Whitfield",
+            "Kemp": 7435,
+            "Perdue": 3979,
+            "total": 12028,
+            "min_turnout": 12028,
+            "max_turnout": 12028
+        },
+        "156": {
+            "county_name": "Wilcox",
+            "Kemp": 780,
+            "Perdue": 366,
+            "total": 1236,
+            "min_turnout": 1236,
+            "max_turnout": 1236
+        },
+        "157": {
+            "county_name": "Wilkes",
+            "Kemp": 1051,
+            "Perdue": 418,
+            "total": 1529,
+            "min_turnout": 1529,
+            "max_turnout": 1529
+        },
+        "158": {
+            "county_name": "Wilkinson",
+            "Kemp": 1177,
+            "Perdue": 392,
+            "total": 1663,
+            "min_turnout": 1663,
+            "max_turnout": 1663
+        },
+        "159": {
+            "county_name": "Worth",
+            "Kemp": 2118,
+            "Perdue": 836,
+            "total": 3190,
+            "min_turnout": 3190,
+            "max_turnout": 3190
+        }
+    }
+}

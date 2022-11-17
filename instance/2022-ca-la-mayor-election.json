@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Bass": 403427,
+            "Caruso": 356849,
+            "total": 760276,
+            "min_turnout": 760276,
+            "max_turnout": 1013701
+        },
+        {
+            "county_name": "Los Angeles",
+            "Bass": 403427,
+            "Caruso": 356849,
+            "total": 760276,
+            "min_turnout": 760276,
+            "max_turnout": 1013701
+        }
+    ],
+    "sources": "nyt, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Los Angeles": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        }
+    }
+}

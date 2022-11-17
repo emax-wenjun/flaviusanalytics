@@ -1,0 +1,6122 @@
+{
+    "2022-09-13T20:22:06-04:00": {
+        "0": {
+            "county_name": "Total",
+            "McKee": 20915,
+            "Foulkes": 21088,
+            "Gorbea": 15966,
+            "total": 65727,
+            "min_turnout": 91615,
+            "max_turnout": 146691
+        },
+        "1": {
+            "county_name": "Barrington",
+            "McKee": 402,
+            "Foulkes": 924,
+            "Gorbea": 635,
+            "total": 2125,
+            "min_turnout": 2146,
+            "max_turnout": 3811
+        },
+        "2": {
+            "county_name": "Bristol",
+            "McKee": 491,
+            "Foulkes": 664,
+            "Gorbea": 407,
+            "total": 1676,
+            "min_turnout": 2046,
+            "max_turnout": 3204
+        },
+        "3": {
+            "county_name": "Burrillville",
+            "McKee": 184,
+            "Foulkes": 138,
+            "Gorbea": 92,
+            "total": 468,
+            "min_turnout": 1087,
+            "max_turnout": 1729
+        },
+        "4": {
+            "county_name": "Central Falls",
+            "McKee": 169,
+            "Foulkes": 62,
+            "Gorbea": 311,
+            "total": 616,
+            "min_turnout": 713,
+            "max_turnout": 1124
+        },
+        "5": {
+            "county_name": "Charlestown",
+            "McKee": 215,
+            "Foulkes": 205,
+            "Gorbea": 163,
+            "total": 660,
+            "min_turnout": 694,
+            "max_turnout": 1102
+        },
+        "6": {
+            "county_name": "Coventry",
+            "McKee": 654,
+            "Foulkes": 629,
+            "Gorbea": 415,
+            "total": 1889,
+            "min_turnout": 2351,
+            "max_turnout": 3593
+        },
+        "7": {
+            "county_name": "Cranston",
+            "McKee": 1623,
+            "Foulkes": 1684,
+            "Gorbea": 961,
+            "total": 4803,
+            "min_turnout": 6278,
+            "max_turnout": 9536
+        },
+        "8": {
+            "county_name": "Cumberland",
+            "McKee": 1070,
+            "Foulkes": 718,
+            "Gorbea": 424,
+            "total": 2362,
+            "min_turnout": 4489,
+            "max_turnout": 7279
+        },
+        "9": {
+            "county_name": "East Greenwich",
+            "McKee": 289,
+            "Foulkes": 569,
+            "Gorbea": 403,
+            "total": 1362,
+            "min_turnout": 1362,
+            "max_turnout": 2056
+        },
+        "10": {
+            "county_name": "East Providence",
+            "McKee": 1049,
+            "Foulkes": 937,
+            "Gorbea": 603,
+            "total": 3005,
+            "min_turnout": 5232,
+            "max_turnout": 8398
+        },
+        "11": {
+            "county_name": "Exeter",
+            "McKee": 58,
+            "Foulkes": 90,
+            "Gorbea": 61,
+            "total": 234,
+            "min_turnout": 419,
+            "max_turnout": 632
+        },
+        "12": {
+            "county_name": "Foster",
+            "McKee": 74,
+            "Foulkes": 95,
+            "Gorbea": 64,
+            "total": 274,
+            "min_turnout": 302,
+            "max_turnout": 422
+        },
+        "13": {
+            "county_name": "Glocester",
+            "McKee": 228,
+            "Foulkes": 218,
+            "Gorbea": 160,
+            "total": 686,
+            "min_turnout": 710,
+            "max_turnout": 1034
+        },
+        "14": {
+            "county_name": "Hopkinton",
+            "McKee": 99,
+            "Foulkes": 109,
+            "Gorbea": 103,
+            "total": 366,
+            "min_turnout": 482,
+            "max_turnout": 767
+        },
+        "15": {
+            "county_name": "Jamestown",
+            "McKee": 168,
+            "Foulkes": 286,
+            "Gorbea": 239,
+            "total": 748,
+            "min_turnout": 921,
+            "max_turnout": 1464
+        },
+        "16": {
+            "county_name": "Johnston",
+            "McKee": 1342,
+            "Foulkes": 878,
+            "Gorbea": 481,
+            "total": 3001,
+            "min_turnout": 3001,
+            "max_turnout": 3783
+        },
+        "17": {
+            "county_name": "Lincoln",
+            "McKee": 685,
+            "Foulkes": 615,
+            "Gorbea": 350,
+            "total": 1795,
+            "min_turnout": 1906,
+            "max_turnout": 2804
+        },
+        "18": {
+            "county_name": "Little Compton",
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 377,
+            "max_turnout": 664
+        },
+        "19": {
+            "county_name": "Middletown",
+            "McKee": 274,
+            "Foulkes": 464,
+            "Gorbea": 269,
+            "total": 1098,
+            "min_turnout": 1098,
+            "max_turnout": 1847
+        },
+        "20": {
+            "county_name": "Narragansett",
+            "McKee": 369,
+            "Foulkes": 501,
+            "Gorbea": 254,
+            "total": 1187,
+            "min_turnout": 1736,
+            "max_turnout": 2646
+        },
+        "21": {
+            "county_name": "New Shoreham",
+            "McKee": 38,
+            "Foulkes": 63,
+            "Gorbea": 49,
+            "total": 161,
+            "min_turnout": 162,
+            "max_turnout": 262
+        },
+        "22": {
+            "county_name": "Newport",
+            "McKee": 396,
+            "Foulkes": 548,
+            "Gorbea": 360,
+            "total": 1432,
+            "min_turnout": 1806,
+            "max_turnout": 3170
+        },
+        "23": {
+            "county_name": "North Kingstown",
+            "McKee": 483,
+            "Foulkes": 719,
+            "Gorbea": 487,
+            "total": 1883,
+            "min_turnout": 2693,
+            "max_turnout": 4227
+        },
+        "24": {
+            "county_name": "North Providence",
+            "McKee": 1107,
+            "Foulkes": 778,
+            "Gorbea": 421,
+            "total": 2584,
+            "min_turnout": 4059,
+            "max_turnout": 6342
+        },
+        "25": {
+            "county_name": "North Smithfield",
+            "McKee": 257,
+            "Foulkes": 256,
+            "Gorbea": 172,
+            "total": 759,
+            "min_turnout": 783,
+            "max_turnout": 1108
+        },
+        "26": {
+            "county_name": "Pawtucket",
+            "McKee": 850,
+            "Foulkes": 639,
+            "Gorbea": 645,
+            "total": 2588,
+            "min_turnout": 4704,
+            "max_turnout": 7948
+        },
+        "27": {
+            "county_name": "Portsmouth",
+            "McKee": 305,
+            "Foulkes": 412,
+            "Gorbea": 226,
+            "total": 1044,
+            "min_turnout": 1490,
+            "max_turnout": 2626
+        },
+        "28": {
+            "county_name": "Providence",
+            "McKee": 3020,
+            "Foulkes": 2861,
+            "Gorbea": 3739,
+            "total": 11553,
+            "min_turnout": 16585,
+            "max_turnout": 28195
+        },
+        "29": {
+            "county_name": "Richmond",
+            "McKee": 153,
+            "Foulkes": 152,
+            "Gorbea": 119,
+            "total": 492,
+            "min_turnout": 517,
+            "max_turnout": 799
+        },
+        "30": {
+            "county_name": "Scituate",
+            "McKee": 154,
+            "Foulkes": 161,
+            "Gorbea": 149,
+            "total": 527,
+            "min_turnout": 672,
+            "max_turnout": 962
+        },
+        "31": {
+            "county_name": "Smithfield",
+            "McKee": 465,
+            "Foulkes": 399,
+            "Gorbea": 247,
+            "total": 1241,
+            "min_turnout": 1785,
+            "max_turnout": 2822
+        },
+        "32": {
+            "county_name": "South Kingstown",
+            "McKee": 446,
+            "Foulkes": 647,
+            "Gorbea": 537,
+            "total": 1847,
+            "min_turnout": 3189,
+            "max_turnout": 5156
+        },
+        "33": {
+            "county_name": "Tiverton",
+            "McKee": 215,
+            "Foulkes": 223,
+            "Gorbea": 170,
+            "total": 679,
+            "min_turnout": 1085,
+            "max_turnout": 1672
+        },
+        "34": {
+            "county_name": "Warren",
+            "McKee": 286,
+            "Foulkes": 333,
+            "Gorbea": 281,
+            "total": 1009,
+            "min_turnout": 1009,
+            "max_turnout": 1647
+        },
+        "35": {
+            "county_name": "Warwick",
+            "McKee": 2049,
+            "Foulkes": 2122,
+            "Gorbea": 1252,
+            "total": 6213,
+            "min_turnout": 8396,
+            "max_turnout": 13117
+        },
+        "36": {
+            "county_name": "West Greenwich",
+            "McKee": 174,
+            "Foulkes": 138,
+            "Gorbea": 99,
+            "total": 449,
+            "min_turnout": 449,
+            "max_turnout": 594
+        },
+        "37": {
+            "county_name": "West Warwick",
+            "McKee": 375,
+            "Foulkes": 314,
+            "Gorbea": 264,
+            "total": 1086,
+            "min_turnout": 1761,
+            "max_turnout": 2848
+        },
+        "38": {
+            "county_name": "Westerly",
+            "McKee": 159,
+            "Foulkes": 117,
+            "Gorbea": 102,
+            "total": 418,
+            "min_turnout": 1113,
+            "max_turnout": 2022
+        },
+        "39": {
+            "county_name": "Woonsocket",
+            "McKee": 540,
+            "Foulkes": 420,
+            "Gorbea": 252,
+            "total": 1407,
+            "min_turnout": 2007,
+            "max_turnout": 3279
+        }
+    },
+    "2022-09-13T20:23:37-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -215,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -215,
+            "county_name": "East Greenwich"
+        }
+    },
+    "2022-09-13T20:25:18-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -337,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -337,
+            "county_name": "Coventry"
+        }
+    },
+    "2022-09-13T20:26:17-04:00": {
+        "0": {
+            "McKee": 667,
+            "Foulkes": 736,
+            "Gorbea": 939,
+            "total": 2617,
+            "min_turnout": 419,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 52,
+            "Foulkes": 87,
+            "Gorbea": 116,
+            "total": 272,
+            "min_turnout": 272,
+            "max_turnout": 0,
+            "county_name": "East Greenwich"
+        },
+        "25": {
+            "McKee": 66,
+            "Foulkes": 35,
+            "Gorbea": 60,
+            "total": 171,
+            "min_turnout": 147,
+            "max_turnout": 0,
+            "county_name": "North Smithfield"
+        },
+        "27": {
+            "McKee": 66,
+            "Foulkes": 108,
+            "Gorbea": 58,
+            "total": 251,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 278,
+            "Foulkes": 254,
+            "Gorbea": 372,
+            "total": 1061,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "32": {
+            "McKee": 205,
+            "Foulkes": 252,
+            "Gorbea": 332,
+            "total": 861,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 1,
+            "total": 1,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T20:26:55-04:00": {
+        "0": {
+            "McKee": 1835,
+            "Foulkes": 1651,
+            "Gorbea": 1309,
+            "total": 5382,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "McKee": 39,
+            "Foulkes": 53,
+            "Gorbea": 18,
+            "total": 116,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Bristol"
+        },
+        "7": {
+            "McKee": 151,
+            "Foulkes": 201,
+            "Gorbea": 241,
+            "total": 693,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "10": {
+            "McKee": 60,
+            "Foulkes": 59,
+            "Gorbea": 48,
+            "total": 222,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "20": {
+            "McKee": 231,
+            "Foulkes": 295,
+            "Gorbea": 210,
+            "total": 779,
+            "min_turnout": 230,
+            "max_turnout": 0,
+            "county_name": "Narragansett"
+        },
+        "24": {
+            "McKee": 539,
+            "Foulkes": 386,
+            "Gorbea": 206,
+            "total": 1221,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "26": {
+            "McKee": 507,
+            "Foulkes": 277,
+            "Gorbea": 345,
+            "total": 1289,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "30": {
+            "McKee": 59,
+            "Foulkes": 63,
+            "Gorbea": 39,
+            "total": 188,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Scituate"
+        },
+        "35": {
+            "McKee": 213,
+            "Foulkes": 287,
+            "Gorbea": 187,
+            "total": 784,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "38": {
+            "McKee": 36,
+            "Foulkes": 30,
+            "Gorbea": 15,
+            "total": 90,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T20:28:15-04:00": {
+        "0": {
+            "McKee": 177,
+            "Foulkes": 206,
+            "Gorbea": 213,
+            "total": 644,
+            "min_turnout": 327,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "McKee": 96,
+            "Foulkes": 127,
+            "Gorbea": 134,
+            "total": 375,
+            "min_turnout": 202,
+            "max_turnout": 0,
+            "county_name": "Jamestown"
+        },
+        "29": {
+            "McKee": 38,
+            "Foulkes": 38,
+            "Gorbea": 59,
+            "total": 150,
+            "min_turnout": 125,
+            "max_turnout": 0,
+            "county_name": "Richmond"
+        },
+        "38": {
+            "McKee": 43,
+            "Foulkes": 41,
+            "Gorbea": 20,
+            "total": 119,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T20:28:47-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -896,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -896,
+            "county_name": "Cumberland"
+        }
+    },
+    "2022-09-13T20:28:57-04:00": {
+        "0": {
+            "McKee": 563,
+            "Foulkes": 512,
+            "Gorbea": 518,
+            "total": 1777,
+            "min_turnout": 20,
+            "max_turnout": -12,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 7,
+            "Foulkes": 8,
+            "Gorbea": 6,
+            "total": 25,
+            "min_turnout": 0,
+            "max_turnout": -12,
+            "county_name": "Coventry"
+        },
+        "10": {
+            "McKee": 5,
+            "Foulkes": 6,
+            "Gorbea": 0,
+            "total": 15,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "11": {
+            "McKee": 27,
+            "Foulkes": 33,
+            "Gorbea": 31,
+            "total": 99,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Exeter"
+        },
+        "23": {
+            "McKee": 227,
+            "Foulkes": 238,
+            "Gorbea": 300,
+            "total": 830,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        },
+        "26": {
+            "McKee": 24,
+            "Foulkes": 22,
+            "Gorbea": 19,
+            "total": 72,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "35": {
+            "McKee": 61,
+            "Foulkes": 60,
+            "Gorbea": 44,
+            "total": 198,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "37": {
+            "McKee": 104,
+            "Foulkes": 72,
+            "Gorbea": 60,
+            "total": 266,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        },
+        "38": {
+            "McKee": 108,
+            "Foulkes": 73,
+            "Gorbea": 58,
+            "total": 272,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T20:29:24-04:00": {
+        "0": {
+            "McKee": 533,
+            "Foulkes": 541,
+            "Gorbea": 538,
+            "total": 1806,
+            "min_turnout": 635,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 63,
+            "Foulkes": 127,
+            "Gorbea": 76,
+            "total": 291,
+            "min_turnout": 270,
+            "max_turnout": 0,
+            "county_name": "Barrington"
+        },
+        "27": {
+            "McKee": 177,
+            "Foulkes": 160,
+            "Gorbea": 191,
+            "total": 560,
+            "min_turnout": 365,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 187,
+            "Foulkes": 117,
+            "Gorbea": 199,
+            "total": 592,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "32": {
+            "McKee": 70,
+            "Foulkes": 90,
+            "Gorbea": 43,
+            "total": 230,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "39": {
+            "McKee": 36,
+            "Foulkes": 47,
+            "Gorbea": 29,
+            "total": 133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T20:29:29-04:00": {
+        "0": {
+            "McKee": 43,
+            "Foulkes": 30,
+            "Gorbea": 29,
+            "total": 115,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 43,
+            "Foulkes": 30,
+            "Gorbea": 29,
+            "total": 115,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Burrillville"
+        }
+    },
+    "2022-09-13T20:30:39-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 272,
+            "county_name": "Total"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 272,
+            "county_name": "Johnston"
+        }
+    },
+    "2022-09-13T20:30:44-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5948,
+            "county_name": "Total"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5948,
+            "county_name": "Johnston"
+        }
+    },
+    "2022-09-13T20:31:32-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5948,
+            "county_name": "Total"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5948,
+            "county_name": "Johnston"
+        }
+    },
+    "2022-09-13T20:37:44-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3814,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2301,
+            "county_name": "Providence"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1513,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T20:40:20-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 2255,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 242,
+            "max_turnout": 0,
+            "county_name": "Barrington"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Charlestown"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 142,
+            "max_turnout": 0,
+            "county_name": "East Greenwich"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 112,
+            "max_turnout": 0,
+            "county_name": "Jamestown"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 300,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "19": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 110,
+            "max_turnout": 0,
+            "county_name": "Middletown"
+        },
+        "20": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Narragansett"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 0,
+            "county_name": "New Shoreham"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 271,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 127,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 91,
+            "max_turnout": 0,
+            "county_name": "North Smithfield"
+        },
+        "27": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 186,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Richmond"
+        },
+        "30": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Scituate"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "34": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 101,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "West Greenwich"
+        }
+    },
+    "2022-09-13T20:41:15-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1081,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1081,
+            "county_name": "Cranston"
+        }
+    },
+    "2022-09-13T20:47:25-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1030,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1030,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T20:48:08-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -302,
+            "county_name": "Total"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -302,
+            "county_name": "North Providence"
+        }
+    },
+    "2022-09-13T20:49:39-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -90,
+            "county_name": "Total"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -90,
+            "county_name": "South Kingstown"
+        }
+    },
+    "2022-09-13T20:50:01-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -178,
+            "county_name": "Total"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -178,
+            "county_name": "North Kingstown"
+        }
+    },
+    "2022-09-13T20:50:28-04:00": {
+        "0": {
+            "McKee": 74,
+            "Foulkes": 171,
+            "Gorbea": 88,
+            "total": 348,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "18": {
+            "McKee": 74,
+            "Foulkes": 171,
+            "Gorbea": 88,
+            "total": 348,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Little Compton"
+        }
+    },
+    "2022-09-13T20:51:17-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "East Greenwich"
+        }
+    },
+    "2022-09-13T20:51:33-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -195,
+            "max_turnout": -260,
+            "county_name": "Total"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -195,
+            "max_turnout": -260,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T20:52:12-04:00": {
+        "0": {
+            "McKee": 1156,
+            "Foulkes": 1170,
+            "Gorbea": 863,
+            "total": 3548,
+            "min_turnout": 575,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 42,
+            "Foulkes": 31,
+            "Gorbea": 27,
+            "total": 118,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Burrillville"
+        },
+        "4": {
+            "McKee": 39,
+            "Foulkes": 16,
+            "Gorbea": 32,
+            "total": 91,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Central Falls"
+        },
+        "7": {
+            "McKee": 160,
+            "Foulkes": 125,
+            "Gorbea": 121,
+            "total": 475,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "11": {
+            "McKee": 53,
+            "Foulkes": 47,
+            "Gorbea": 57,
+            "total": 171,
+            "min_turnout": 85,
+            "max_turnout": 0,
+            "county_name": "Exeter"
+        },
+        "19": {
+            "McKee": 0,
+            "Foulkes": 1,
+            "Gorbea": 0,
+            "total": 2,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Middletown"
+        },
+        "22": {
+            "McKee": 72,
+            "Foulkes": 69,
+            "Gorbea": 57,
+            "total": 224,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Newport"
+        },
+        "24": {
+            "McKee": 67,
+            "Foulkes": 73,
+            "Gorbea": 50,
+            "total": 220,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "26": {
+            "McKee": 67,
+            "Foulkes": 37,
+            "Gorbea": 35,
+            "total": 167,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "28": {
+            "McKee": 231,
+            "Foulkes": 443,
+            "Gorbea": 298,
+            "total": 1046,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "31": {
+            "McKee": 134,
+            "Foulkes": 128,
+            "Gorbea": 49,
+            "total": 330,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Smithfield"
+        },
+        "38": {
+            "McKee": 291,
+            "Foulkes": 200,
+            "Gorbea": 137,
+            "total": 704,
+            "min_turnout": 490,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T20:52:33-04:00": {
+        "0": {
+            "McKee": 391,
+            "Foulkes": 358,
+            "Gorbea": 307,
+            "total": 1177,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "33": {
+            "McKee": 70,
+            "Foulkes": 80,
+            "Gorbea": 64,
+            "total": 242,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Tiverton"
+        },
+        "35": {
+            "McKee": 321,
+            "Foulkes": 278,
+            "Gorbea": 243,
+            "total": 935,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T20:52:55-04:00": {
+        "0": {
+            "McKee": 604,
+            "Foulkes": 441,
+            "Gorbea": 421,
+            "total": 1645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 604,
+            "Foulkes": 441,
+            "Gorbea": 421,
+            "total": 1645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T20:53:06-04:00": {
+        "0": {
+            "McKee": 63,
+            "Foulkes": 43,
+            "Gorbea": 34,
+            "total": 171,
+            "min_turnout": 55,
+            "max_turnout": 139,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 75,
+            "county_name": "Cranston"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 36,
+            "county_name": "East Providence"
+        },
+        "14": {
+            "McKee": 63,
+            "Foulkes": 43,
+            "Gorbea": 34,
+            "total": 171,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Hopkinton"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Providence"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T20:56:24-04:00": {
+        "0": {
+            "McKee": 382,
+            "Foulkes": 322,
+            "Gorbea": 381,
+            "total": 1185,
+            "min_turnout": 714,
+            "max_turnout": 114,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 312,
+            "Foulkes": 261,
+            "Gorbea": 312,
+            "total": 974,
+            "min_turnout": 667,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 114,
+            "county_name": "East Providence"
+        },
+        "33": {
+            "McKee": 70,
+            "Foulkes": 61,
+            "Gorbea": 69,
+            "total": 211,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "Tiverton"
+        }
+    },
+    "2022-09-13T20:56:51-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -61,
+            "county_name": "Cranston"
+        }
+    },
+    "2022-09-13T20:59:37-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -753,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -753,
+            "county_name": "Barrington"
+        }
+    },
+    "2022-09-13T20:59:58-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -267,
+            "county_name": "Total"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -267,
+            "county_name": "Bristol"
+        }
+    },
+    "2022-09-13T21:00:37-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -252,
+            "max_turnout": -206,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -252,
+            "max_turnout": -206,
+            "county_name": "Burrillville"
+        }
+    },
+    "2022-09-13T21:01:31-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 37,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "East Greenwich"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 58,
+            "county_name": "Exeter"
+        }
+    },
+    "2022-09-13T21:01:53-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Total"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Foster"
+        }
+    },
+    "2022-09-13T21:02:16-04:00": {
+        "0": {
+            "McKee": 5318,
+            "Foulkes": 2782,
+            "Gorbea": 4543,
+            "total": 13737,
+            "min_turnout": 6148,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 58,
+            "Foulkes": 64,
+            "Gorbea": 81,
+            "total": 222,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Barrington"
+        },
+        "2": {
+            "McKee": 105,
+            "Foulkes": 46,
+            "Gorbea": 112,
+            "total": 278,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Bristol"
+        },
+        "3": {
+            "McKee": 52,
+            "Foulkes": 37,
+            "Gorbea": 42,
+            "total": 144,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Burrillville"
+        },
+        "4": {
+            "McKee": 39,
+            "Foulkes": 2,
+            "Gorbea": 68,
+            "total": 120,
+            "min_turnout": 114,
+            "max_turnout": 0,
+            "county_name": "Central Falls"
+        },
+        "5": {
+            "McKee": 34,
+            "Foulkes": 26,
+            "Gorbea": 44,
+            "total": 111,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Charlestown"
+        },
+        "6": {
+            "McKee": 131,
+            "Foulkes": 40,
+            "Gorbea": 83,
+            "total": 267,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        },
+        "7": {
+            "McKee": 263,
+            "Foulkes": 176,
+            "Gorbea": 260,
+            "total": 769,
+            "min_turnout": 769,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "8": {
+            "McKee": 171,
+            "Foulkes": 65,
+            "Gorbea": 104,
+            "total": 362,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        },
+        "9": {
+            "McKee": 75,
+            "Foulkes": 47,
+            "Gorbea": 61,
+            "total": 197,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "East Greenwich"
+        },
+        "10": {
+            "McKee": 404,
+            "Foulkes": 247,
+            "Gorbea": 316,
+            "total": 1104,
+            "min_turnout": 759,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "11": {
+            "McKee": 19,
+            "Foulkes": 9,
+            "Gorbea": 28,
+            "total": 60,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Exeter"
+        },
+        "12": {
+            "McKee": 11,
+            "Foulkes": 4,
+            "Gorbea": 16,
+            "total": 32,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Foster"
+        },
+        "13": {
+            "McKee": 25,
+            "Foulkes": 14,
+            "Gorbea": 32,
+            "total": 79,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "14": {
+            "McKee": 17,
+            "Foulkes": 13,
+            "Gorbea": 15,
+            "total": 47,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "Hopkinton"
+        },
+        "15": {
+            "McKee": 11,
+            "Foulkes": 17,
+            "Gorbea": 33,
+            "total": 65,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Jamestown"
+        },
+        "17": {
+            "McKee": 65,
+            "Foulkes": 49,
+            "Gorbea": 60,
+            "total": 188,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "19": {
+            "McKee": 53,
+            "Foulkes": 39,
+            "Gorbea": 38,
+            "total": 142,
+            "min_turnout": 34,
+            "max_turnout": 0,
+            "county_name": "Middletown"
+        },
+        "20": {
+            "McKee": 68,
+            "Foulkes": 67,
+            "Gorbea": 97,
+            "total": 241,
+            "min_turnout": 44,
+            "max_turnout": 0,
+            "county_name": "Narragansett"
+        },
+        "22": {
+            "McKee": 94,
+            "Foulkes": 76,
+            "Gorbea": 82,
+            "total": 277,
+            "min_turnout": 127,
+            "max_turnout": 0,
+            "county_name": "Newport"
+        },
+        "23": {
+            "McKee": 165,
+            "Foulkes": 131,
+            "Gorbea": 192,
+            "total": 532,
+            "min_turnout": 261,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        },
+        "24": {
+            "McKee": 296,
+            "Foulkes": 145,
+            "Gorbea": 148,
+            "total": 619,
+            "min_turnout": 458,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "25": {
+            "McKee": 49,
+            "Foulkes": 24,
+            "Gorbea": 42,
+            "total": 122,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "North Smithfield"
+        },
+        "26": {
+            "McKee": 387,
+            "Foulkes": 199,
+            "Gorbea": 260,
+            "total": 961,
+            "min_turnout": 373,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "27": {
+            "McKee": 102,
+            "Foulkes": 61,
+            "Gorbea": 70,
+            "total": 252,
+            "min_turnout": 66,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 1351,
+            "Foulkes": 454,
+            "Gorbea": 1275,
+            "total": 3326,
+            "min_turnout": 993,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "30": {
+            "McKee": 25,
+            "Foulkes": 11,
+            "Gorbea": 16,
+            "total": 56,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Scituate"
+        },
+        "31": {
+            "McKee": 93,
+            "Foulkes": 48,
+            "Gorbea": 86,
+            "total": 249,
+            "min_turnout": 35,
+            "max_turnout": 0,
+            "county_name": "Smithfield"
+        },
+        "32": {
+            "McKee": 145,
+            "Foulkes": 107,
+            "Gorbea": 159,
+            "total": 435,
+            "min_turnout": 141,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "33": {
+            "McKee": 34,
+            "Foulkes": 13,
+            "Gorbea": 26,
+            "total": 80,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Tiverton"
+        },
+        "34": {
+            "McKee": 27,
+            "Foulkes": 12,
+            "Gorbea": 29,
+            "total": 77,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "35": {
+            "McKee": 592,
+            "Foulkes": 376,
+            "Gorbea": 460,
+            "total": 1550,
+            "min_turnout": 1284,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "36": {
+            "McKee": 14,
+            "Foulkes": 8,
+            "Gorbea": 17,
+            "total": 43,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "West Greenwich"
+        },
+        "37": {
+            "McKee": 114,
+            "Foulkes": 53,
+            "Gorbea": 69,
+            "total": 248,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        },
+        "38": {
+            "McKee": 155,
+            "Foulkes": 68,
+            "Gorbea": 74,
+            "total": 316,
+            "min_turnout": 316,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        },
+        "39": {
+            "McKee": 74,
+            "Foulkes": 34,
+            "Gorbea": 48,
+            "total": 166,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T21:03:01-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 73,
+            "county_name": "Total"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -113,
+            "county_name": "Hopkinton"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 186,
+            "county_name": "Jamestown"
+        }
+    },
+    "2022-09-13T21:03:12-04:00": {
+        "0": {
+            "McKee": 192,
+            "Foulkes": 76,
+            "Gorbea": 120,
+            "total": 411,
+            "min_turnout": 61,
+            "max_turnout": 21,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Barrington"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Bristol"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Burrillville"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Coventry"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Cranston"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -49,
+            "county_name": "Cumberland"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 91,
+            "county_name": "East Greenwich"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Hopkinton"
+        },
+        "16": {
+            "McKee": 171,
+            "Foulkes": 65,
+            "Gorbea": 98,
+            "total": 352,
+            "min_turnout": 52,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "21": {
+            "McKee": 1,
+            "Foulkes": 2,
+            "Gorbea": 2,
+            "total": 5,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New Shoreham"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -62,
+            "county_name": "Providence"
+        },
+        "29": {
+            "McKee": 20,
+            "Foulkes": 9,
+            "Gorbea": 20,
+            "total": 54,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Richmond"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 48,
+            "county_name": "Warwick"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T21:04:19-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -798,
+            "county_name": "Total"
+        },
+        "19": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -234,
+            "county_name": "Middletown"
+        },
+        "20": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -166,
+            "county_name": "Narragansett"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -29,
+            "county_name": "New Shoreham"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -369,
+            "county_name": "Newport"
+        }
+    },
+    "2022-09-13T21:04:36-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -98,
+            "county_name": "Total"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -98,
+            "county_name": "Little Compton"
+        }
+    },
+    "2022-09-13T21:05:31-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 276,
+            "county_name": "Total"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 276,
+            "county_name": "North Smithfield"
+        }
+    },
+    "2022-09-13T21:05:59-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Total"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Richmond"
+        }
+    },
+    "2022-09-13T21:08:13-04:00": {
+        "0": {
+            "McKee": 71,
+            "Foulkes": 52,
+            "Gorbea": 49,
+            "total": 217,
+            "min_turnout": 217,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 71,
+            "Foulkes": 52,
+            "Gorbea": 49,
+            "total": 217,
+            "min_turnout": 217,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T21:08:29-04:00": {
+        "0": {
+            "McKee": 68,
+            "Foulkes": 71,
+            "Gorbea": 45,
+            "total": 205,
+            "min_turnout": 205,
+            "max_turnout": -28,
+            "county_name": "Total"
+        },
+        "35": {
+            "McKee": 68,
+            "Foulkes": 71,
+            "Gorbea": 45,
+            "total": 205,
+            "min_turnout": 205,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "West Greenwich"
+        }
+    },
+    "2022-09-13T21:08:46-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -33,
+            "county_name": "Total"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -33,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T21:08:52-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 377,
+            "county_name": "Total"
+        },
+        "38": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 377,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T21:09:03-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Barrington"
+        }
+    },
+    "2022-09-13T21:09:20-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -526,
+            "county_name": "Total"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -526,
+            "county_name": "Bristol"
+        }
+    },
+    "2022-09-13T21:09:36-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 126,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 126,
+            "max_turnout": 0,
+            "county_name": "Burrillville"
+        }
+    },
+    "2022-09-13T21:09:48-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -118,
+            "max_turnout": -449,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -118,
+            "max_turnout": -449,
+            "county_name": "Burrillville"
+        }
+    },
+    "2022-09-13T21:10:05-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1708,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -305,
+            "county_name": "Cranston"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -78,
+            "county_name": "East Greenwich"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -81,
+            "county_name": "Little Compton"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -31,
+            "county_name": "New Shoreham"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -323,
+            "county_name": "Newport"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -890,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T21:10:22-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 185,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 185,
+            "county_name": "East Greenwich"
+        }
+    },
+    "2022-09-13T21:10:38-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -41,
+            "county_name": "Total"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -41,
+            "county_name": "Foster"
+        }
+    },
+    "2022-09-13T21:10:49-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": 13,
+            "county_name": "Total"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Hopkinton"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": 0,
+            "county_name": "Jamestown"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Little Compton"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "New Shoreham"
+        }
+    },
+    "2022-09-13T21:11:00-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 759,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 759,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T21:11:22-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Total"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-09-13T21:11:39-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "New Shoreham"
+        }
+    },
+    "2022-09-13T21:11:50-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": -20,
+            "county_name": "Total"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Little Compton"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": -2,
+            "county_name": "New Shoreham"
+        }
+    },
+    "2022-09-13T21:12:07-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -124,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -107,
+            "county_name": "Coventry"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -17,
+            "county_name": "Little Compton"
+        }
+    },
+    "2022-09-13T21:12:23-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": -22,
+            "county_name": "Total"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": -22,
+            "county_name": "Richmond"
+        }
+    },
+    "2022-09-13T21:12:35-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 2441,
+            "county_name": "Total"
+        },
+        "30": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Scituate"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2441,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T21:12:57-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 195,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 195,
+            "max_turnout": 0,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T21:14:19-04:00": {
+        "0": {
+            "McKee": 17,
+            "Foulkes": 10,
+            "Gorbea": 9,
+            "total": 47,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 17,
+            "Foulkes": 10,
+            "Gorbea": 9,
+            "total": 47,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T21:16:37-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Charlestown"
+        }
+    },
+    "2022-09-13T21:16:43-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2413,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2413,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T21:18:44-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -201,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -201,
+            "county_name": "Coventry"
+        }
+    },
+    "2022-09-13T21:20:18-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1594,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1594,
+            "county_name": "Cranston"
+        }
+    },
+    "2022-09-13T21:22:24-04:00": {
+        "0": {
+            "McKee": 45,
+            "Foulkes": 51,
+            "Gorbea": 68,
+            "total": 219,
+            "min_turnout": 219,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 45,
+            "Foulkes": 51,
+            "Gorbea": 68,
+            "total": 219,
+            "min_turnout": 219,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T21:28:02-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 5307,
+            "max_turnout": 56,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Barrington"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Bristol"
+        },
+        "4": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Central Falls"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 67,
+            "max_turnout": 0,
+            "county_name": "Charlestown"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 406,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "East Greenwich"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 626,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 29,
+            "max_turnout": 0,
+            "county_name": "Exeter"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 16,
+            "max_turnout": 0,
+            "county_name": "Foster"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Hopkinton"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 176,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 198,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "19": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Middletown"
+        },
+        "20": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "Narragansett"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Newport"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 325,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 464,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "North Smithfield"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 508,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "27": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 183,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 1135,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 56,
+            "county_name": "Richmond"
+        },
+        "31": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Smithfield"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 333,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "33": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Tiverton"
+        },
+        "34": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 520,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "West Greenwich"
+        },
+        "38": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T21:31:52-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -742,
+            "county_name": "Total"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -742,
+            "county_name": "South Kingstown"
+        }
+    },
+    "2022-09-13T21:32:03-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 1256,
+            "max_turnout": -172,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -116,
+            "county_name": "Burrillville"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 167,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 715,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -23,
+            "max_turnout": 0,
+            "county_name": "Exeter"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 29,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "Little Compton"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -56,
+            "county_name": "Richmond"
+        },
+        "34": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -58,
+            "max_turnout": 0,
+            "county_name": "Warren"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 240,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 125,
+            "max_turnout": 0,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T21:33:40-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 277,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Foster"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 99,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Little Compton"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 113,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T21:33:45-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -295,
+            "county_name": "Total"
+        },
+        "33": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -295,
+            "county_name": "Tiverton"
+        }
+    },
+    "2022-09-13T21:35:13-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Total"
+        },
+        "4": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Central Falls"
+        }
+    },
+    "2022-09-13T21:37:02-04:00": {
+        "0": {
+            "McKee": 228,
+            "Foulkes": 231,
+            "Gorbea": 244,
+            "total": 793,
+            "min_turnout": 507,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "McKee": 121,
+            "Foulkes": 97,
+            "Gorbea": 36,
+            "total": 274,
+            "min_turnout": 159,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "28": {
+            "McKee": 107,
+            "Foulkes": 134,
+            "Gorbea": 208,
+            "total": 519,
+            "min_turnout": 348,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T21:42:04-04:00": {
+        "0": {
+            "McKee": 116,
+            "Foulkes": 128,
+            "Gorbea": 60,
+            "total": 340,
+            "min_turnout": 95,
+            "max_turnout": 18,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 50,
+            "Foulkes": 56,
+            "Gorbea": 43,
+            "total": 162,
+            "min_turnout": 95,
+            "max_turnout": 18,
+            "county_name": "Charlestown"
+        },
+        "24": {
+            "McKee": 66,
+            "Foulkes": 72,
+            "Gorbea": 17,
+            "total": 178,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        }
+    },
+    "2022-09-13T21:42:15-04:00": {
+        "0": {
+            "McKee": 400,
+            "Foulkes": 368,
+            "Gorbea": 571,
+            "total": 1569,
+            "min_turnout": 587,
+            "max_turnout": -715,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 267,
+            "Foulkes": 289,
+            "Gorbea": 500,
+            "total": 1265,
+            "min_turnout": 301,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "31": {
+            "McKee": 133,
+            "Foulkes": 79,
+            "Gorbea": 71,
+            "total": 304,
+            "min_turnout": 286,
+            "max_turnout": 0,
+            "county_name": "Smithfield"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -715,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T21:42:54-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 529,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 508,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "31": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Smithfield"
+        }
+    },
+    "2022-09-13T21:43:00-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1993,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1993,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T21:46:56-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -107,
+            "county_name": "Total"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -107,
+            "county_name": "Jamestown"
+        }
+    },
+    "2022-09-13T21:49:00-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -31,
+            "county_name": "Total"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -31,
+            "county_name": "New Shoreham"
+        }
+    },
+    "2022-09-13T21:50:10-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -281,
+            "county_name": "Total"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -281,
+            "county_name": "Newport"
+        }
+    },
+    "2022-09-13T21:50:31-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -146,
+            "county_name": "Total"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -146,
+            "county_name": "North Smithfield"
+        }
+    },
+    "2022-09-13T21:50:53-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 878,
+            "max_turnout": 44,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 44,
+            "county_name": "Charlestown"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 196,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 522,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T21:52:41-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -167,
+            "county_name": "Total"
+        },
+        "30": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -167,
+            "county_name": "Scituate"
+        }
+    },
+    "2022-09-13T21:53:14-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -381,
+            "county_name": "Total"
+        },
+        "31": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -381,
+            "county_name": "Smithfield"
+        }
+    },
+    "2022-09-13T21:55:02-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -479,
+            "county_name": "Total"
+        },
+        "34": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -479,
+            "county_name": "Warren"
+        }
+    },
+    "2022-09-13T21:55:40-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "Total"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "West Greenwich"
+        }
+    },
+    "2022-09-13T21:55:50-04:00": {
+        "0": {
+            "McKee": 29,
+            "Foulkes": 41,
+            "Gorbea": 56,
+            "total": 136,
+            "min_turnout": 26,
+            "max_turnout": 41,
+            "county_name": "Total"
+        },
+        "18": {
+            "McKee": 29,
+            "Foulkes": 41,
+            "Gorbea": 56,
+            "total": 136,
+            "min_turnout": 26,
+            "max_turnout": 41,
+            "county_name": "Little Compton"
+        }
+    },
+    "2022-09-13T21:57:01-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Charlestown"
+        }
+    },
+    "2022-09-13T22:00:10-04:00": {
+        "0": {
+            "McKee": 433,
+            "Foulkes": 465,
+            "Gorbea": 310,
+            "total": 1337,
+            "min_turnout": 740,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 137,
+            "Foulkes": 155,
+            "Gorbea": 59,
+            "total": 381,
+            "min_turnout": 365,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "17": {
+            "McKee": 108,
+            "Foulkes": 72,
+            "Gorbea": 55,
+            "total": 248,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "32": {
+            "McKee": 188,
+            "Foulkes": 238,
+            "Gorbea": 196,
+            "total": 708,
+            "min_turnout": 375,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        }
+    },
+    "2022-09-13T22:02:40-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 161,
+            "county_name": "Total"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 161,
+            "county_name": "South Kingstown"
+        }
+    },
+    "2022-09-13T22:03:39-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -302,
+            "max_turnout": -15,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Charlestown"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 36,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Foster"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -153,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 145,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -433,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 62,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 41,
+            "max_turnout": 0,
+            "county_name": "South Kingstown"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T22:05:54-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1088,
+            "county_name": "Total"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1088,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T22:06:16-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 384,
+            "county_name": "Total"
+        },
+        "27": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 384,
+            "county_name": "Portsmouth"
+        }
+    },
+    "2022-09-13T22:07:42-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 278,
+            "county_name": "Total"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 278,
+            "county_name": "North Kingstown"
+        }
+    },
+    "2022-09-13T22:10:03-04:00": {
+        "0": {
+            "McKee": 186,
+            "Foulkes": 217,
+            "Gorbea": 197,
+            "total": 678,
+            "min_turnout": 338,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "12": {
+            "McKee": 17,
+            "Foulkes": 13,
+            "Gorbea": 16,
+            "total": 54,
+            "min_turnout": 39,
+            "max_turnout": 7,
+            "county_name": "Foster"
+        },
+        "23": {
+            "McKee": 169,
+            "Foulkes": 204,
+            "Gorbea": 181,
+            "total": 624,
+            "min_turnout": 299,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        }
+    },
+    "2022-09-13T22:10:41-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Little Compton"
+        }
+    },
+    "2022-09-13T22:11:19-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -59,
+            "county_name": "Total"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -59,
+            "county_name": "Hopkinton"
+        }
+    },
+    "2022-09-13T22:12:14-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "Total"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "North Kingstown"
+        }
+    },
+    "2022-09-13T22:15:32-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "Total"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-09-13T22:19:17-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 42,
+            "county_name": "Total"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -40,
+            "county_name": "Charlestown"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 82,
+            "county_name": "Coventry"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        }
+    },
+    "2022-09-13T22:19:28-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -320,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -345,
+            "max_turnout": 0,
+            "county_name": "Cranston"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 25,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T22:20:00-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 42,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42,
+            "county_name": "Coventry"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Johnston"
+        }
+    },
+    "2022-09-13T22:20:16-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -176,
+            "max_turnout": -20,
+            "county_name": "Total"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -201,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -20,
+            "county_name": "Little Compton"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T22:21:16-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -353,
+            "max_turnout": -1587,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -837,
+            "county_name": "Cumberland"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -297,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "North Providence"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -56,
+            "max_turnout": -266,
+            "county_name": "Pawtucket"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -484,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T22:24:49-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 18,
+            "county_name": "Total"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Foster"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 0,
+            "county_name": "North Kingstown"
+        }
+    },
+    "2022-09-13T22:29:54-04:00": {
+        "0": {
+            "McKee": 528,
+            "Foulkes": 643,
+            "Gorbea": 439,
+            "total": 1829,
+            "min_turnout": 1397,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "McKee": 13,
+            "Foulkes": 11,
+            "Gorbea": 14,
+            "total": 43,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "28": {
+            "McKee": 176,
+            "Foulkes": 323,
+            "Gorbea": 267,
+            "total": 885,
+            "min_turnout": 928,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "35": {
+            "McKee": 191,
+            "Foulkes": 171,
+            "Gorbea": 83,
+            "total": 496,
+            "min_turnout": 469,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "37": {
+            "McKee": 148,
+            "Foulkes": 138,
+            "Gorbea": 75,
+            "total": 405,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T22:40:41-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3887,
+            "county_name": "Total"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3887,
+            "county_name": "Providence"
+        }
+    },
+    "2022-09-13T22:41:18-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -281,
+            "max_turnout": -2253,
+            "county_name": "Total"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -281,
+            "max_turnout": -2253,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-13T22:41:40-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -861,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -861,
+            "county_name": "Cranston"
+        }
+    },
+    "2022-09-13T22:42:23-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1396,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1396,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T22:42:44-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -825,
+            "county_name": "Total"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -825,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T22:43:10-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1120,
+            "county_name": "Total"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1120,
+            "county_name": "North Providence"
+        }
+    },
+    "2022-09-13T22:43:32-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -364,
+            "county_name": "Total"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -43,
+            "county_name": "North Kingstown"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -321,
+            "county_name": "South Kingstown"
+        }
+    },
+    "2022-09-13T22:43:58-04:00": {
+        "0": {
+            "McKee": 247,
+            "Foulkes": 187,
+            "Gorbea": 109,
+            "total": 606,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 128,
+            "Foulkes": 93,
+            "Gorbea": 68,
+            "total": 315,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Coventry"
+        },
+        "39": {
+            "McKee": 119,
+            "Foulkes": 94,
+            "Gorbea": 41,
+            "total": 291,
+            "min_turnout": 0,
+            "max_turnout": -12,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T22:44:14-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -354,
+            "county_name": "Total"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -354,
+            "county_name": "Johnston"
+        }
+    },
+    "2022-09-13T22:44:25-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -173,
+            "max_turnout": -75,
+            "county_name": "Total"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -644,
+            "county_name": "Cranston"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -29,
+            "county_name": "Cumberland"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Foster"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -43,
+            "max_turnout": 0,
+            "county_name": "Glocester"
+        },
+        "23": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -308,
+            "county_name": "North Kingstown"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 970,
+            "county_name": "Providence"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -107,
+            "max_turnout": 0,
+            "county_name": "Warwick"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -27,
+            "max_turnout": -46,
+            "county_name": "West Warwick"
+        }
+    },
+    "2022-09-13T22:44:41-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -709,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -709,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        }
+    },
+    "2022-09-13T22:45:18-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -366,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -366,
+            "county_name": "Barrington"
+        }
+    },
+    "2022-09-13T22:45:40-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Total"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-09-13T22:46:17-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -228,
+            "county_name": "Total"
+        },
+        "20": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -228,
+            "county_name": "Narragansett"
+        }
+    },
+    "2022-09-13T22:47:26-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 270,
+            "max_turnout": -274,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 270,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        },
+        "31": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -274,
+            "county_name": "Smithfield"
+        }
+    },
+    "2022-09-13T22:48:14-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -38,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -38,
+            "county_name": "Coventry"
+        }
+    },
+    "2022-09-13T22:48:24-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -531,
+            "county_name": "Total"
+        },
+        "27": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -531,
+            "county_name": "Portsmouth"
+        }
+    },
+    "2022-09-13T22:49:02-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -360,
+            "max_turnout": -109,
+            "county_name": "Total"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -245,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -58,
+            "county_name": "West Warwick"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -115,
+            "max_turnout": -51,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T22:51:41-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -277,
+            "county_name": "Total"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -277,
+            "county_name": "Bristol"
+        }
+    },
+    "2022-09-13T22:52:13-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -109,
+            "county_name": "Total"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -109,
+            "county_name": "Burrillville"
+        }
+    },
+    "2022-09-13T22:52:35-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -249,
+            "county_name": "Total"
+        },
+        "4": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -259,
+            "county_name": "Central Falls"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Charlestown"
+        }
+    },
+    "2022-09-13T22:52:56-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": -263,
+            "county_name": "Total"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -166,
+            "county_name": "East Greenwich"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -97,
+            "county_name": "Exeter"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Foster"
+        }
+    },
+    "2022-09-13T22:53:17-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -204,
+            "county_name": "Total"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -210,
+            "county_name": "Glocester"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6,
+            "county_name": "Hopkinton"
+        }
+    },
+    "2022-09-13T22:53:59-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -225,
+            "county_name": "Total"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -225,
+            "county_name": "Newport"
+        }
+    },
+    "2022-09-13T22:54:21-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -165,
+            "county_name": "Total"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -165,
+            "county_name": "North Smithfield"
+        }
+    },
+    "2022-09-13T22:54:48-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -185,
+            "county_name": "Total"
+        },
+        "33": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -140,
+            "county_name": "Tiverton"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -45,
+            "county_name": "West Greenwich"
+        }
+    },
+    "2022-09-13T22:55:09-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -447,
+            "county_name": "Total"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "West Warwick"
+        },
+        "38": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -441,
+            "county_name": "Westerly"
+        }
+    },
+    "2022-09-13T22:57:57-04:00": {
+        "0": {
+            "McKee": 948,
+            "Foulkes": 599,
+            "Gorbea": 386,
+            "total": 2131,
+            "min_turnout": 433,
+            "max_turnout": 86,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 684,
+            "Foulkes": 454,
+            "Gorbea": 248,
+            "total": 1490,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        },
+        "10": {
+            "McKee": 72,
+            "Foulkes": 30,
+            "Gorbea": 28,
+            "total": 155,
+            "min_turnout": 163,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        },
+        "26": {
+            "McKee": 192,
+            "Foulkes": 115,
+            "Gorbea": 110,
+            "total": 486,
+            "min_turnout": 270,
+            "max_turnout": 86,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T23:01:12-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -331,
+            "county_name": "Total"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -331,
+            "county_name": "Jamestown"
+        }
+    },
+    "2022-09-13T23:02:42-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 434,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 170,
+            "county_name": "East Providence"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 264,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T23:02:48-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -40,
+            "max_turnout": -434,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -170,
+            "county_name": "East Providence"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -40,
+            "max_turnout": -264,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T23:02:53-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 434,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 170,
+            "county_name": "East Providence"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 264,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T23:02:58-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -206,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -206,
+            "max_turnout": 0,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-13T23:03:25-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Total"
+        },
+        "30": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Scituate"
+        }
+    },
+    "2022-09-13T23:05:14-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "26": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        }
+    },
+    "2022-09-13T23:21:46-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -13,
+            "county_name": "Total"
+        },
+        "34": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -13,
+            "county_name": "Warren"
+        }
+    },
+    "2022-09-13T23:28:56-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -240,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -240,
+            "max_turnout": 0,
+            "county_name": "Cumberland"
+        }
+    },
+    "2022-09-13T23:32:35-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -109,
+            "max_turnout": -1163,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -43,
+            "max_turnout": -452,
+            "county_name": "Cumberland"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": -304,
+            "county_name": "East Providence"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -407,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-13T23:55:47-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Total"
+        },
+        "27": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Portsmouth"
+        }
+    },
+    "2022-09-13T23:56:13-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -152,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -152,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        }
+    },
+    "2022-09-14T00:51:16-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -358,
+            "county_name": "Total"
+        },
+        "19": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -358,
+            "county_name": "Middletown"
+        }
+    },
+    "2022-09-14T09:43:57-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": -922,
+            "county_name": "Total"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -716,
+            "county_name": "Cumberland"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -206,
+            "county_name": "East Providence"
+        }
+    },
+    "2022-09-14T09:44:12-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "6": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 38,
+            "county_name": "Coventry"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -17,
+            "county_name": "Exeter"
+        },
+        "12": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -14,
+            "county_name": "Foster"
+        }
+    },
+    "2022-09-14T09:45:16-04:00": {
+        "0": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -334,
+            "county_name": "Total"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -334,
+            "county_name": "Warwick"
+        }
+    },
+    "2022-09-15T12:38:34-04:00": {
+        "0": {
+            "McKee": 137,
+            "Foulkes": 96,
+            "Gorbea": 103,
+            "total": 384,
+            "min_turnout": -1044,
+            "max_turnout": -994,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27,
+            "county_name": "Barrington"
+        },
+        "2": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Bristol"
+        },
+        "3": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Burrillville"
+        },
+        "4": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Central Falls"
+        },
+        "5": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Charlestown"
+        },
+        "6": {
+            "McKee": 65,
+            "Foulkes": 61,
+            "Gorbea": 57,
+            "total": 209,
+            "min_turnout": 48,
+            "max_turnout": -233,
+            "county_name": "Coventry"
+        },
+        "7": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -83,
+            "county_name": "Cranston"
+        },
+        "8": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -43,
+            "county_name": "Cumberland"
+        },
+        "9": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "East Greenwich"
+        },
+        "10": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "East Providence"
+        },
+        "11": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Exeter"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Glocester"
+        },
+        "14": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Hopkinton"
+        },
+        "15": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12,
+            "county_name": "Jamestown"
+        },
+        "16": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Johnston"
+        },
+        "17": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -23,
+            "county_name": "Lincoln"
+        },
+        "20": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -23,
+            "county_name": "Narragansett"
+        },
+        "21": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "New Shoreham"
+        },
+        "22": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "Newport"
+        },
+        "24": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -49,
+            "county_name": "North Providence"
+        },
+        "25": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "North Smithfield"
+        },
+        "26": {
+            "McKee": 67,
+            "Foulkes": 20,
+            "Gorbea": 37,
+            "total": 142,
+            "min_turnout": -93,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "27": {
+            "McKee": 5,
+            "Foulkes": 15,
+            "Gorbea": 9,
+            "total": 33,
+            "min_turnout": -129,
+            "max_turnout": -23,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": -870,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "29": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7,
+            "county_name": "Richmond"
+        },
+        "31": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Smithfield"
+        },
+        "32": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -42,
+            "county_name": "South Kingstown"
+        },
+        "33": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -13,
+            "county_name": "Tiverton"
+        },
+        "35": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -107,
+            "county_name": "Warwick"
+        },
+        "36": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "West Greenwich"
+        },
+        "37": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "West Warwick"
+        },
+        "38": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Westerly"
+        },
+        "39": {
+            "McKee": 0,
+            "Foulkes": 0,
+            "Gorbea": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Woonsocket"
+        }
+    },
+    "2022-09-15T18:13:13-04:00": {
+        "0": {
+            "McKee": 679,
+            "Foulkes": 527,
+            "Gorbea": 708,
+            "total": 2193,
+            "min_turnout": 1131,
+            "max_turnout": 1292,
+            "county_name": "Total"
+        },
+        "1": {
+            "McKee": 7,
+            "Foulkes": 15,
+            "Gorbea": 14,
+            "total": 45,
+            "min_turnout": 19,
+            "max_turnout": 45,
+            "county_name": "Barrington"
+        },
+        "2": {
+            "McKee": 10,
+            "Foulkes": 12,
+            "Gorbea": 19,
+            "total": 44,
+            "min_turnout": 24,
+            "max_turnout": 44,
+            "county_name": "Bristol"
+        },
+        "3": {
+            "McKee": 8,
+            "Foulkes": 1,
+            "Gorbea": 2,
+            "total": 18,
+            "min_turnout": 10,
+            "max_turnout": 17,
+            "county_name": "Burrillville"
+        },
+        "4": {
+            "McKee": 3,
+            "Foulkes": 1,
+            "Gorbea": 48,
+            "total": 53,
+            "min_turnout": 45,
+            "max_turnout": 53,
+            "county_name": "Central Falls"
+        },
+        "5": {
+            "McKee": 3,
+            "Foulkes": 3,
+            "Gorbea": 7,
+            "total": 13,
+            "min_turnout": 4,
+            "max_turnout": 13,
+            "county_name": "Charlestown"
+        },
+        "6": {
+            "McKee": 3,
+            "Foulkes": 17,
+            "Gorbea": 12,
+            "total": 37,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Coventry"
+        },
+        "7": {
+            "McKee": 21,
+            "Foulkes": 37,
+            "Gorbea": 33,
+            "total": 102,
+            "min_turnout": 21,
+            "max_turnout": 102,
+            "county_name": "Cranston"
+        },
+        "8": {
+            "McKee": 6,
+            "Foulkes": 6,
+            "Gorbea": 9,
+            "total": 22,
+            "min_turnout": 1,
+            "max_turnout": 21,
+            "county_name": "Cumberland"
+        },
+        "9": {
+            "McKee": 15,
+            "Foulkes": 11,
+            "Gorbea": 16,
+            "total": 45,
+            "min_turnout": 27,
+            "max_turnout": 45,
+            "county_name": "East Greenwich"
+        },
+        "10": {
+            "McKee": 21,
+            "Foulkes": 25,
+            "Gorbea": 17,
+            "total": 78,
+            "min_turnout": 14,
+            "max_turnout": 78,
+            "county_name": "East Providence"
+        },
+        "11": {
+            "McKee": 3,
+            "Foulkes": 3,
+            "Gorbea": 9,
+            "total": 16,
+            "min_turnout": 11,
+            "max_turnout": 15,
+            "county_name": "Exeter"
+        },
+        "12": {
+            "McKee": 1,
+            "Foulkes": 1,
+            "Gorbea": 2,
+            "total": 5,
+            "min_turnout": 2,
+            "max_turnout": 4,
+            "county_name": "Foster"
+        },
+        "13": {
+            "McKee": 0,
+            "Foulkes": 4,
+            "Gorbea": 3,
+            "total": 10,
+            "min_turnout": 2,
+            "max_turnout": 10,
+            "county_name": "Glocester"
+        },
+        "14": {
+            "McKee": 6,
+            "Foulkes": 2,
+            "Gorbea": 4,
+            "total": 13,
+            "min_turnout": 8,
+            "max_turnout": 13,
+            "county_name": "Hopkinton"
+        },
+        "15": {
+            "McKee": 1,
+            "Foulkes": 1,
+            "Gorbea": 2,
+            "total": 4,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Jamestown"
+        },
+        "16": {
+            "McKee": 21,
+            "Foulkes": 12,
+            "Gorbea": 17,
+            "total": 54,
+            "min_turnout": 18,
+            "max_turnout": 54,
+            "county_name": "Johnston"
+        },
+        "17": {
+            "McKee": 11,
+            "Foulkes": 9,
+            "Gorbea": 7,
+            "total": 28,
+            "min_turnout": 6,
+            "max_turnout": 27,
+            "county_name": "Lincoln"
+        },
+        "18": {
+            "McKee": 0,
+            "Foulkes": 4,
+            "Gorbea": 0,
+            "total": 5,
+            "min_turnout": 1,
+            "max_turnout": 4,
+            "county_name": "Little Compton"
+        },
+        "19": {
+            "McKee": 7,
+            "Foulkes": 10,
+            "Gorbea": 13,
+            "total": 30,
+            "min_turnout": 18,
+            "max_turnout": 29,
+            "county_name": "Middletown"
+        },
+        "20": {
+            "McKee": 3,
+            "Foulkes": 7,
+            "Gorbea": 14,
+            "total": 26,
+            "min_turnout": 4,
+            "max_turnout": 26,
+            "county_name": "Narragansett"
+        },
+        "21": {
+            "McKee": 1,
+            "Foulkes": 2,
+            "Gorbea": 0,
+            "total": 3,
+            "min_turnout": 2,
+            "max_turnout": 2,
+            "county_name": "New Shoreham"
+        },
+        "22": {
+            "McKee": 11,
+            "Foulkes": 9,
+            "Gorbea": 29,
+            "total": 53,
+            "min_turnout": 34,
+            "max_turnout": 53,
+            "county_name": "Newport"
+        },
+        "23": {
+            "McKee": 12,
+            "Foulkes": 16,
+            "Gorbea": 36,
+            "total": 75,
+            "min_turnout": 36,
+            "max_turnout": 35,
+            "county_name": "North Kingstown"
+        },
+        "24": {
+            "McKee": 22,
+            "Foulkes": 23,
+            "Gorbea": 13,
+            "total": 61,
+            "min_turnout": 13,
+            "max_turnout": 61,
+            "county_name": "North Providence"
+        },
+        "25": {
+            "McKee": 10,
+            "Foulkes": 0,
+            "Gorbea": 4,
+            "total": 20,
+            "min_turnout": 10,
+            "max_turnout": 19,
+            "county_name": "North Smithfield"
+        },
+        "26": {
+            "McKee": 64,
+            "Foulkes": 15,
+            "Gorbea": 39,
+            "total": 149,
+            "min_turnout": 92,
+            "max_turnout": 0,
+            "county_name": "Pawtucket"
+        },
+        "27": {
+            "McKee": 8,
+            "Foulkes": 8,
+            "Gorbea": 14,
+            "total": 34,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Portsmouth"
+        },
+        "28": {
+            "McKee": 239,
+            "Foulkes": 145,
+            "Gorbea": 164,
+            "total": 624,
+            "min_turnout": 417,
+            "max_turnout": 0,
+            "county_name": "Providence"
+        },
+        "29": {
+            "McKee": 1,
+            "Foulkes": 3,
+            "Gorbea": 5,
+            "total": 12,
+            "min_turnout": 5,
+            "max_turnout": 12,
+            "county_name": "Richmond"
+        },
+        "30": {
+            "McKee": 10,
+            "Foulkes": 3,
+            "Gorbea": 3,
+            "total": 18,
+            "min_turnout": 11,
+            "max_turnout": 17,
+            "county_name": "Scituate"
+        },
+        "31": {
+            "McKee": 6,
+            "Foulkes": 2,
+            "Gorbea": 8,
+            "total": 16,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Smithfield"
+        },
+        "32": {
+            "McKee": 15,
+            "Foulkes": 21,
+            "Gorbea": 35,
+            "total": 81,
+            "min_turnout": 40,
+            "max_turnout": 82,
+            "county_name": "South Kingstown"
+        },
+        "33": {
+            "McKee": 7,
+            "Foulkes": 1,
+            "Gorbea": 5,
+            "total": 13,
+            "min_turnout": 1,
+            "max_turnout": 13,
+            "county_name": "Tiverton"
+        },
+        "34": {
+            "McKee": 11,
+            "Foulkes": 4,
+            "Gorbea": 2,
+            "total": 18,
+            "min_turnout": 7,
+            "max_turnout": 7,
+            "county_name": "Warren"
+        },
+        "35": {
+            "McKee": 75,
+            "Foulkes": 65,
+            "Gorbea": 76,
+            "total": 246,
+            "min_turnout": 142,
+            "max_turnout": 248,
+            "county_name": "Warwick"
+        },
+        "36": {
+            "McKee": 1,
+            "Foulkes": 0,
+            "Gorbea": 2,
+            "total": 3,
+            "min_turnout": 1,
+            "max_turnout": 3,
+            "county_name": "West Greenwich"
+        },
+        "37": {
+            "McKee": 13,
+            "Foulkes": 6,
+            "Gorbea": 10,
+            "total": 35,
+            "min_turnout": 15,
+            "max_turnout": 35,
+            "county_name": "West Warwick"
+        },
+        "38": {
+            "McKee": 20,
+            "Foulkes": 21,
+            "Gorbea": 12,
+            "total": 66,
+            "min_turnout": 47,
+            "max_turnout": 67,
+            "county_name": "Westerly"
+        },
+        "39": {
+            "McKee": 3,
+            "Foulkes": 2,
+            "Gorbea": 3,
+            "total": 18,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Woonsocket"
+        }
+    }
+}

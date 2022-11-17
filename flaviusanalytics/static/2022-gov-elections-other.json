@@ -1,0 +1,78 @@
+{
+    "al" : {
+        "name" : "Kay Ivey",
+		"color" : "dark-r"
+    },
+    "ak" : {
+        "name" : "Mike Dunleavy",
+		"color" : "dark-r"
+    },
+    "ar" : {
+        "name" : "Asa Hutchinson",
+		"color" : "dark-r"
+    },
+    "ca" : {
+        "name" : "Gavin Newsom",
+		"color" : "dark-d"
+    },
+    "ct" : {
+        "name" : "Ned Lamont",
+		"color" : "dark-d"
+    },
+    "hi" : {
+        "name" : "Josh Green",
+		"color" : "dark-d"
+    },
+    "id" : {
+        "name" : "Brad Little",
+		"color" : "dark-r"
+    },
+    "il" : {
+        "name" : "J. B. Pritzker",
+		"color" : "dark-d"
+    },
+    "md" : {
+        "name" : "Wes Moore",
+		"color" : "light-r"
+    },
+    "ma" : {
+        "name" : "Maura Healey",
+		"color" : "light-r"
+    },
+    "ne" : {
+        "name" : "Jim Pillen",
+		"color" : "dark-r"
+    },
+    "nh" : {
+        "name" : "Chris Sununu",
+		"color" : "dark-r"
+    },
+    "ri" : {
+        "name" : "Dan McKee",
+		"color" : "dark-d"
+    },
+    "sc" : {
+        "name" : "Henry McMaster",
+		"color" : "dark-r"
+    },
+    "sd" : {
+        "name" : "Kristi Noem",
+		"color" : "dark-r"
+    },
+    "tn" : {
+        "name" : "Bill Lee",
+		"color" : "dark-r"
+    },
+    "tx" : {
+        "name" : "Greg Abbott",
+		"color" : "dark-r"
+    },
+    "vt" : {
+        "name" : "Phil Scott",
+		"color" : "dark-r"
+    },
+    "wy" : {
+        "name" : "Mark Gordon",
+		"color" : "dark-r"
+    }
+}

@@ -1,0 +1,392 @@
+{
+    "2018-az-sen-d-primary" : {
+        "name" : "2018 Arizona Senate Democratic Primary",
+        "candidates" : ["Sinema", "Abboud"],
+        "date" : [2018, 8, 28],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "sos" : "https://cdn1.arizona.vote/data/3/0/all_county_races_3_0_en_7021.json"
+        }
+    },
+    "2020-az-house-1-d-primary" : {
+        "name" : "2020 Arizona First House District Democratic Primary",
+        "candidates" : ["O'Halleran", "Putzova"],
+        "date" : [2020, 8, 6],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "sos" : "https://cdn1.arizona.vote/data/17/0/all_county_races_17_0_en_7726.json"
+        }
+    },
+    "2020-nc-sen-election" : {
+        "name" : "2020 North Carolina Senate Election",
+        "candidates" : ["Cunningham", "Tillis"],
+        "date" : [2020, 11, 3],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "cnn" : "https://politics-elex-results.data.api.cnn.io/results/view/2020-county-races-SG-NC.json"
+        }
+    },
+    "2020-nh-gov-election" : {
+        "name" : "2020 New Hampshire Governor Election",
+        "candidates" : ["Feltes", "Sununu"],
+        "date" : [2020, 11, 3],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/race-page/new-hampshire/governor.json", 0]
+        }
+    },
+    "2022-tx-house-28-d-primary" : {
+        "name" : "2022 Texas 28th House District Democratic Primary",
+        "candidates" : ["Cuellar", "Cisneros"],
+        "date" : [2022, 3, 17],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-03-01/results-texas-us-house-district-28.json", 0]
+        }
+    },
+    "2022-oh-sen-r-primary" : {
+        "name" : "2022 Ohio Senate Republican Primary",
+        "candidates" : ["Vance", "Mandel", "Dolan"],
+        "date" : [2022, 5, 3],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-05-03/results-ohio-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-OH.json"
+        }
+    },
+    "2022-pa-sen-r-primary" : {
+        "name" : "2022 Pennsylvania Senate Republican Primary",
+        "candidates" : ["Oz", "McCormick", "Barnette"],
+        "date" : [2022, 5, 17],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-05-17/results-pennsylvania-us-senate.json", 1],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-PA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/8134/results/county", {"Oz" : "20591", "McCormick" : "20590", "Barnette" : "14891"}],
+			"ap" : "https://interactives.ap.org/election-results/data-live/2022-05-17/results/races/PA/20220517PA39291/detail.json"
+        }
+    },
+    "2022-tx-house-28-d-primary-runoff" : {
+        "name" : "2022 Texas 28th House District Democratic Primary Runoff",
+        "candidates" : ["Cuellar", "Cisneros"],
+        "date" : [2022, 5, 24],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-05-24/results-texas-us-house-district-28.json", 1]
+        }
+    },
+    "2022-ga-gov-r-primary" : {
+        "name" : "2022 Georgia Governor Republican Primary",
+        "candidates" : ["Kemp", "Perdue"],
+        "date" : [2022, 5, 24],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-05-24/results-georgia-governor.json", 0]
+        }
+    },
+    "2022-sc-house-1-r-primary" : {
+        "name" : "2022 South Carolina First House District Republican Primary",
+        "candidates" : ["Mace", "Arrington"],
+        "date" : [2022, 6, 14],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-06-14/results-south-carolina-us-house-district-1.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HR-SC-1.json"
+        }
+    },
+    "2022-md-gov-d-primary" : {
+        "name" : "2022 Maryland Governor Democratic Primary",
+        "candidates" : ["Moore", "Perez", "Franchot"],
+        "date" : [2022, 7, 19],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-07-19/results-maryland-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GD-MD.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/12052/results/county", {"Moore" : "25891", "Franchot" : "25887", "Perez" : "25892"}]
+        }
+    },
+    "2022-md-gov-r-primary" : {
+        "name" : "2022 Maryland Governor Republican Primary",
+        "candidates" : ["Cox", "Schulz"],
+        "date" : [2022, 7, 19],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-07-19/results-maryland-governor.json", 1],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GR-MD.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/12055/results/county", {"Cox" : "25897", "Schulz" : "25898"}]
+        }
+    },
+    "2022-az-sen-r-primary" : {
+        "name" : "2022 Arizona Senate Republican Primary",
+        "candidates" : ["Masters", "Lamon", "Brnovich"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-arizona-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-AZ.json",
+            "sos" : "https://cdn1.arizona.vote/data/32/0/all_county_races_32_0_en_9077.json",
+			"ap" : "https://interactives.ap.org/election-results/data-live/2022-08-02/results/races/AZ/20220802AZ3538/detail.json"
+        }
+    },
+    "2022-az-gov-r-primary" : {
+        "name" : "2022 Arizona Governor Republican Primary",
+        "candidates" : ["Lake", "Robson"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-arizona-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GR-AZ.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/12272/results/county", {"Lake" : "26347", "Robson" : "26350"}]
+        },
+        "graph-percents" : [-13.5, -12, -10.5, -9, -7.5, -6, -4.5, -3, -1.5, 0, 1.5, 3, 4.5, 6, 7.5, 9, 10.5, 12, 13.5]
+    },
+    "2022-ks-abortion-ban-referendum" : {
+        "name" : "2022 Kansas Abortion Ban Referendum",
+        "candidates" : ["Yes", "No"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-kansas.json", 201],
+            "cnn" : "https://politics.api.cnn.io/results/race/2022-I1N-KS.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14471/results/county", {"Yes" : "636", "No" : "637"}]
+        }
+    },
+    "2022-mi-gov-r-primary" : {
+        "name" : "2022 Michigan Governor Republican Primary",
+        "candidates" : ["Dixon", "Rinke", "Soldano", "Kelley"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-michigan-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GR-MI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/12396/results/county", {"Dixon" : "26592", "Rinke" : "26595", "Soldano" : "26596", "Kelley" : "26593"}]
+        }
+    },
+    "2022-mi-house-3-r-primary" : {
+        "name" : "2022 Michigan Third House District Republican Primary",
+        "candidates" : ["Gibbs", "Meijer"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-michigan-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HR-MI-3.json"
+        }
+    },
+    "2022-mo-sen-r-primary" : {
+        "name" : "2022 Missouri Senate Republican Primary",
+        "candidates" : ["Schmitt", "Greitens", "Hartzler"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-missouri.json", 1],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-MO.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/12868/results/county", {"Schmitt" : "27348", "Greitens" : "350", "Hartzler" : "1377"}]
+        }
+    },
+    "2022-wa-house-3-primary" : {
+        "name" : "2022 Washington Third House District Primary",
+        "candidates" : ["Kent", "Herrera Beutler", "Perez"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-washington-us-house-district-3.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HX-WA-3.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-wa-house-4-primary" : {
+        "name" : "2022 Washington Fourth House District Primary",
+        "candidates" : ["Culp", "Newhouse", "White"],
+        "date" : [2022, 8, 2],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-02/results-washington-us-house-district-4.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HX-WA-4.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ct-sen-r-primary" : {
+        "name" : "2022 Connecticut Senate Republican Primary",
+        "candidates" : ["Levy", "Klarides"],
+        "date" : [2022, 8, 9],
+        "when" : "past",
+        "notify" : "False",
+		"division" : "township",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-09/results-connecticut-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-CT.json"
+        }
+    },
+    "2022-wi-gov-r-primary" : {
+        "name" : "2022 Wisconsin Governor Republican Primary",
+        "candidates" : ["Michels", "Kleefisch"],
+        "date" : [2022, 8, 9],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-09/results-wisconsin-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GR-WI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/13938/results/county", {"Michels" : "29154", "Kleefisch" : "29153"}]
+        }
+    },
+    "2022-ak-sen-primary" : {
+        "name" : "2022 Alaska Senate Primary",
+        "candidates" : ["Murkowski", "Tshibaka"],
+        "date" : [2022, 8, 16],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-16/results-alaska-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SX-AK.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14296/results/county", {"Murkowski" : "1019", "Tshibaka" : "32142"}]
+        }
+    },
+    "2022-ak-house-s-election" : {
+        "name" : "2022 Alaska House District Special Election",
+        "candidates" : ["Palin", "Begich", "Peltola"],
+        "date" : [2022, 8, 16],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-16/results-alaska-us-house-special.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HP-AK-1.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14476/results/county", {"Begich" : "23370", "Palin" : "23401", "Peltola" : "23403"}]
+        }
+    },
+    "2022-wy-house-r-primary" : {
+        "name" : "2022 Wyoming House District Republican Primary",
+        "candidates" : ["Hageman", "Cheney"],
+        "date" : [2022, 8, 16],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-16/results-wyoming-us-house-district-1.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HR-WY-1.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14360/results/county", {"Cheney" : "404", "Hageman" : "10529"}]
+        }
+    },
+    "2022-fl-gov-d-primary" : {
+        "name" : "2022 Florida Governor Democratic Primary",
+        "candidates" : ["Crist", "Fried"],
+        "date" : [2022, 8, 23],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-23/results-florida-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GD-FL.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14560/results/county", {"Crist" : "11032", "Fried" : "30344"}]
+        }
+    },
+    "2022-ny-house-10-d-primary" : {
+        "name" : "2022 New York Tenth House District Democratic Primary",
+        "candidates" : ["Goldman", "Niou", "Rivera", "Jones"],
+        "date" : [2022, 8, 23],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-23/results-new-york-us-house-district-10.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HD-NY-10.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14652/results/county", {"Goldman" : "30548", "Niou" : "30555", "Rivera" : "30556", "Jones" : "13782"}]
+        }
+    },
+    "2022-ny-house-12-d-primary" : {
+        "name" : "2022 New York Twelfth House District Democratic Primary",
+        "candidates" : ["Nadler", "Maloney"],
+        "date" : [2022, 8, 23],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-23/results-new-york-us-house-district-12.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HD-NY-12.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14654/results/county", {"Nadler" : "13747", "Maloney" : "13752"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ny-house-17-d-primary" : {
+        "name" : "2022 New York Seventeenth House District Democratic Primary",
+        "candidates" : ["Maloney", "Biaggi"],
+        "date" : [2022, 8, 23],
+        "when" : "past",
+        "notify" : "False",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-23/results-new-york-us-house-district-17.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HD-NY-17.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14658/results/county", {"Maloney" : "1494", "Biaggi" : "30570"}]
+        }
+    },
+    "2022-ny-house-19-s-election" : {
+        "name" : "2022 New York Nineteenth House District Special Election",
+        "candidates" : ["Molinaro", "Ryan"],
+        "date" : [2022, 8, 23],
+        "when" : "past",
+        "notify" : "True",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-08-23/results-new-york-us-house-19-special.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-HP-NY-19.json"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ma-gov-r-primary" : {
+        "name" : "2022 Massachusetts Governor Republican Primary",
+        "candidates" : ["Diehl", "Doughty"],
+        "date" : [2022, 9, 6],
+        "when" : "past",
+        "notify" : "False",
+		"division" : "township",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-09-06/results-massachusetts-governor.json", 1],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GR-MA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/14731/results/vcu", {"Diehl" : "10771", "Doughty" : "30710"}],
+			"bg" : "https://www3.bostonglobe.com/electionapi/elections/2022-09-06?statePostal=MA&party=gop&officeName=governor&level=ru"
+        },
+        "graph-percents" : [0]
+    },
+    "2022-nh-sen-r-primary" : {
+        "name" : "2022 New Hampshire Senate Republican Primary",
+        "candidates" : ["Bolduc", "Morse", "Smith"],
+        "date" : [2022, 9, 13],
+        "when" : "past",
+        "notify" : "False",
+		"division" : "township",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-09-13/results-new-hampshire-us-senate.json", 1],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SR-NH.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15003/results/vcu", {"Bolduc" : "14426", "Morse" : "31064", "Smith" : "31066"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ri-gov-d-primary" : {
+        "name" : "2022 Rhode Island Governor Democratic Primary",
+        "candidates" : ["McKee", "Foulkes", "Gorbea"],
+        "date" : [2022, 9, 13],
+        "when" : "past",
+        "notify" : "False",
+		"division" : "township",
+        "sites" : {
+            "nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-09-13/results-rhode-island-governor.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-GD-RI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15456/results/vcu", {"McKee" : "32150", "Gorbea" : "32153", "Foulkes" : "32152"}]
+        },
+        "graph-percents" : [0]
+    }
+}

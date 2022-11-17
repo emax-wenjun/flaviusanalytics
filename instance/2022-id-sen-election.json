@@ -1,0 +1,1214 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 2404475,
+            "max_turnout": 2404475
+        },
+        {
+            "county_name": "Adams",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11762,
+            "max_turnout": 11762
+        },
+        {
+            "county_name": "Allen",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 134368,
+            "max_turnout": 134368
+        },
+        {
+            "county_name": "Bartholomew",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 28448,
+            "max_turnout": 28448
+        },
+        {
+            "county_name": "Benton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 3187,
+            "max_turnout": 3187
+        },
+        {
+            "county_name": "Blackford",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 4146,
+            "max_turnout": 4146
+        },
+        {
+            "county_name": "Boone",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 31146,
+            "max_turnout": 31146
+        },
+        {
+            "county_name": "Brown",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7609,
+            "max_turnout": 7609
+        },
+        {
+            "county_name": "Carroll",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7530,
+            "max_turnout": 7530
+        },
+        {
+            "county_name": "Cass",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11921,
+            "max_turnout": 11921
+        },
+        {
+            "county_name": "Clark",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 45671,
+            "max_turnout": 45671
+        },
+        {
+            "county_name": "Clay",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9936,
+            "max_turnout": 9936
+        },
+        {
+            "county_name": "Clinton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 10101,
+            "max_turnout": 10101
+        },
+        {
+            "county_name": "Crawford",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 4113,
+            "max_turnout": 4113
+        },
+        {
+            "county_name": "Daviess",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9413,
+            "max_turnout": 9413
+        },
+        {
+            "county_name": "DeKalb",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 15386,
+            "max_turnout": 15386
+        },
+        {
+            "county_name": "Dearborn",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 19584,
+            "max_turnout": 19584
+        },
+        {
+            "county_name": "Decatur",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9704,
+            "max_turnout": 9704
+        },
+        {
+            "county_name": "Delaware",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 38500,
+            "max_turnout": 38500
+        },
+        {
+            "county_name": "Dubois",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 18223,
+            "max_turnout": 18223
+        },
+        {
+            "county_name": "Elkhart",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 57543,
+            "max_turnout": 57543
+        },
+        {
+            "county_name": "Fayette",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7919,
+            "max_turnout": 7919
+        },
+        {
+            "county_name": "Floyd",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 33191,
+            "max_turnout": 33191
+        },
+        {
+            "county_name": "Fountain",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 6338,
+            "max_turnout": 6338
+        },
+        {
+            "county_name": "Franklin",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9446,
+            "max_turnout": 9446
+        },
+        {
+            "county_name": "Fulton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7319,
+            "max_turnout": 7319
+        },
+        {
+            "county_name": "Gibson",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 12937,
+            "max_turnout": 12937
+        },
+        {
+            "county_name": "Grant",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 21176,
+            "max_turnout": 21176
+        },
+        {
+            "county_name": "Greene",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11943,
+            "max_turnout": 11943
+        },
+        {
+            "county_name": "Hamilton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 155458,
+            "max_turnout": 155458
+        },
+        {
+            "county_name": "Hancock",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 34600,
+            "max_turnout": 34600
+        },
+        {
+            "county_name": "Harrison",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 16511,
+            "max_turnout": 16511
+        },
+        {
+            "county_name": "Hendricks",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 70671,
+            "max_turnout": 70671
+        },
+        {
+            "county_name": "Henry",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 16940,
+            "max_turnout": 16940
+        },
+        {
+            "county_name": "Howard",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 31730,
+            "max_turnout": 31730
+        },
+        {
+            "county_name": "Huntington",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 14262,
+            "max_turnout": 14262
+        },
+        {
+            "county_name": "Jackson",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 14957,
+            "max_turnout": 14957
+        },
+        {
+            "county_name": "Jasper",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11968,
+            "max_turnout": 11968
+        },
+        {
+            "county_name": "Jay",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 6583,
+            "max_turnout": 6583
+        },
+        {
+            "county_name": "Jefferson",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11864,
+            "max_turnout": 11864
+        },
+        {
+            "county_name": "Jennings",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9712,
+            "max_turnout": 9712
+        },
+        {
+            "county_name": "Johnson",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 59508,
+            "max_turnout": 59508
+        },
+        {
+            "county_name": "Knox",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 12900,
+            "max_turnout": 12900
+        },
+        {
+            "county_name": "Kosciusko",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 28386,
+            "max_turnout": 28386
+        },
+        {
+            "county_name": "LaGrange",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 8318,
+            "max_turnout": 8318
+        },
+        {
+            "county_name": "LaPorte",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 39288,
+            "max_turnout": 39288
+        },
+        {
+            "county_name": "Lake",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 171081,
+            "max_turnout": 171081
+        },
+        {
+            "county_name": "Lawrence",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 16901,
+            "max_turnout": 16901
+        },
+        {
+            "county_name": "Madison",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 44530,
+            "max_turnout": 44530
+        },
+        {
+            "county_name": "Marion",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 307087,
+            "max_turnout": 307087
+        },
+        {
+            "county_name": "Marshall",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 15904,
+            "max_turnout": 15904
+        },
+        {
+            "county_name": "Martin",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 4370,
+            "max_turnout": 4370
+        },
+        {
+            "county_name": "Miami",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11127,
+            "max_turnout": 11127
+        },
+        {
+            "county_name": "Monroe",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 48794,
+            "max_turnout": 48794
+        },
+        {
+            "county_name": "Montgomery",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 13362,
+            "max_turnout": 13362
+        },
+        {
+            "county_name": "Morgan",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 28445,
+            "max_turnout": 28445
+        },
+        {
+            "county_name": "Newton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 4912,
+            "max_turnout": 4912
+        },
+        {
+            "county_name": "Noble",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 15146,
+            "max_turnout": 15146
+        },
+        {
+            "county_name": "Ohio",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 2533,
+            "max_turnout": 2533
+        },
+        {
+            "county_name": "Orange",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7166,
+            "max_turnout": 7166
+        },
+        {
+            "county_name": "Owen",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 8103,
+            "max_turnout": 8103
+        },
+        {
+            "county_name": "Parke",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 5745,
+            "max_turnout": 5745
+        },
+        {
+            "county_name": "Perry",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7352,
+            "max_turnout": 7352
+        },
+        {
+            "county_name": "Pike",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 5237,
+            "max_turnout": 5237
+        },
+        {
+            "county_name": "Porter",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 69258,
+            "max_turnout": 69258
+        },
+        {
+            "county_name": "Posey",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 10805,
+            "max_turnout": 10805
+        },
+        {
+            "county_name": "Pulaski",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 4581,
+            "max_turnout": 4581
+        },
+        {
+            "county_name": "Putnam",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 13272,
+            "max_turnout": 13272
+        },
+        {
+            "county_name": "Randolph",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 8630,
+            "max_turnout": 8630
+        },
+        {
+            "county_name": "Ripley",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 10844,
+            "max_turnout": 10844
+        },
+        {
+            "county_name": "Rush",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 6447,
+            "max_turnout": 6447
+        },
+        {
+            "county_name": "Saint Joseph",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 92941,
+            "max_turnout": 92941
+        },
+        {
+            "county_name": "Scott",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 8243,
+            "max_turnout": 8243
+        },
+        {
+            "county_name": "Shelby",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 16072,
+            "max_turnout": 16072
+        },
+        {
+            "county_name": "Spencer",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9066,
+            "max_turnout": 9066
+        },
+        {
+            "county_name": "Starke",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 8268,
+            "max_turnout": 8268
+        },
+        {
+            "county_name": "Steuben",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 13037,
+            "max_turnout": 13037
+        },
+        {
+            "county_name": "Sullivan",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 7613,
+            "max_turnout": 7613
+        },
+        {
+            "county_name": "Switzerland",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 3247,
+            "max_turnout": 3247
+        },
+        {
+            "county_name": "Tippecanoe",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 54144,
+            "max_turnout": 54144
+        },
+        {
+            "county_name": "Tipton",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 6554,
+            "max_turnout": 6554
+        },
+        {
+            "county_name": "Union",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 2690,
+            "max_turnout": 2690
+        },
+        {
+            "county_name": "Vanderburgh",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 61366,
+            "max_turnout": 61366
+        },
+        {
+            "county_name": "Vermillion",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 5902,
+            "max_turnout": 5902
+        },
+        {
+            "county_name": "Vigo",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 33118,
+            "max_turnout": 33118
+        },
+        {
+            "county_name": "Wabash",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11945,
+            "max_turnout": 11945
+        },
+        {
+            "county_name": "Warren",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 3596,
+            "max_turnout": 3596
+        },
+        {
+            "county_name": "Warrick",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 26674,
+            "max_turnout": 26674
+        },
+        {
+            "county_name": "Washington",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9795,
+            "max_turnout": 9795
+        },
+        {
+            "county_name": "Wayne",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 21192,
+            "max_turnout": 21192
+        },
+        {
+            "county_name": "Wells",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 11585,
+            "max_turnout": 11585
+        },
+        {
+            "county_name": "White",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 9122,
+            "max_turnout": 9122
+        },
+        {
+            "county_name": "Whitley",
+            "McDermott": 0,
+            "Young": 0,
+            "total": 0,
+            "min_turnout": 14457,
+            "max_turnout": 14457
+        }
+    ],
+    "sources": "ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Allen": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Bartholomew": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Benton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Blackford": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Boone": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Brown": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Carroll": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Cass": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Clark": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Clay": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Daviess": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "DeKalb": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Dearborn": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Decatur": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Delaware": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Dubois": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Elkhart": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Fayette": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Floyd": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Fountain": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Fulton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Gibson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Grant": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Greene": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hancock": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Harrison": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hendricks": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Henry": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Howard": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Huntington": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jasper": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jay": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jennings": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Johnson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Knox": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Kosciusko": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "LaGrange": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "LaPorte": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Lawrence": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Marion": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Marshall": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Martin": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Miami": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Newton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Noble": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Ohio": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Orange": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Owen": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Parke": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Perry": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Pike": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Porter": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Posey": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Pulaski": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Randolph": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Ripley": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Rush": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Saint Joseph": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Scott": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Shelby": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Spencer": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Starke": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Steuben": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Sullivan": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Switzerland": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Tippecanoe": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Tipton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Vanderburgh": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Vermillion": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Vigo": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Wabash": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Warren": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Warrick": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Wells": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "White": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Whitley": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        }
+    }
+}

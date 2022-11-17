@@ -1,0 +1,162 @@
+[
+    {
+        "pollster": "Change Research",
+        "start": "2021-05-22",
+        "end": "2021-05-25",
+        "add": "2021-06-08",
+        "Murkowski": 19.0,
+        "Tshibaka": 39.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2021-07-11",
+        "end": "2021-07-21",
+        "add": "2021-08-02",
+        "Murkowski": 36.0,
+        "Tshibaka": 27.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2021-07-11",
+        "end": "2021-07-21",
+        "add": "2021-08-02",
+        "Murkowski": 55.0,
+        "Tshibaka": 45.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2021-10-22",
+        "end": "2021-10-27",
+        "add": "2021-11-01",
+        "Murkowski": 35.0,
+        "Tshibaka": 23.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2021-10-22",
+        "end": "2021-10-27",
+        "add": "2021-11-01",
+        "Murkowski": 60.0,
+        "Tshibaka": 40.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-03-14",
+        "end": "2022-03-16",
+        "add": "2022-03-28",
+        "Murkowski": 49.2,
+        "Tshibaka": 50.8
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-04-16",
+        "end": "2022-04-21",
+        "add": "2022-05-01",
+        "Murkowski": 55.0,
+        "Tshibaka": 45.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-07-02",
+        "end": "2022-07-05",
+        "add": "2022-07-07",
+        "Murkowski": 35.3,
+        "Tshibaka": 42.6
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-07-02",
+        "end": "2022-07-05",
+        "add": "2022-07-07",
+        "Murkowski": 35.7,
+        "Tshibaka": 44.7
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-07-02",
+        "end": "2022-07-05",
+        "add": "2022-07-07",
+        "Murkowski": 52.2,
+        "Tshibaka": 47.8
+    },
+    {
+        "pollster": "Moore Information",
+        "start": "2022-03-02",
+        "end": "2022-03-07",
+        "add": "2022-08-09",
+        "Murkowski": 38.0,
+        "Tshibaka": 28.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-09-06",
+        "end": "2022-09-11",
+        "add": "2022-09-15",
+        "Murkowski": 38.0,
+        "Tshibaka": 46.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-09-06",
+        "end": "2022-09-11",
+        "add": "2022-09-15",
+        "Murkowski": 38.0,
+        "Tshibaka": 47.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-09-06",
+        "end": "2022-09-11",
+        "add": "2022-09-15",
+        "Murkowski": 50.0,
+        "Tshibaka": 50.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-09-25",
+        "end": "2022-09-27",
+        "add": "2022-09-30",
+        "Murkowski": 41.0,
+        "Tshibaka": 38.6
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-09-25",
+        "end": "2022-09-27",
+        "add": "2022-09-30",
+        "Murkowski": 42.4,
+        "Tshibaka": 40.6
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-09-25",
+        "end": "2022-09-27",
+        "add": "2022-09-30",
+        "Murkowski": 56.6,
+        "Tshibaka": 43.4
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-10-19",
+        "end": "2022-10-22",
+        "add": "2022-10-24",
+        "Murkowski": 40.8,
+        "Tshibaka": 38.9
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-10-19",
+        "end": "2022-10-22",
+        "add": "2022-10-24",
+        "Murkowski": 42.2,
+        "Tshibaka": 41.0
+    },
+    {
+        "pollster": "Alaska Survey Research",
+        "start": "2022-10-19",
+        "end": "2022-10-22",
+        "add": "2022-10-24",
+        "Murkowski": 55.5,
+        "Tshibaka": 44.5
+    }
+]

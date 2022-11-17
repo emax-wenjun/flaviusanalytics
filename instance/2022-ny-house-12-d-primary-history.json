@@ -1,0 +1,992 @@
+{
+    "2022-08-22T20:13:32-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 532147,
+            "max_turnout": 532147
+        },
+        "1": {
+            "county_name": "New York",
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 532147,
+            "max_turnout": 532147
+        }
+    },
+    "2022-08-23T15:00:57-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -493708,
+            "max_turnout": -469366,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -493708,
+            "max_turnout": -469366,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T18:00:01-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18549,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18549,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T18:36:25-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 5793,
+            "max_turnout": 6324,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 5793,
+            "max_turnout": 6324,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:04:13-04:00": {
+        "0": {
+            "Nadler": 10091,
+            "Maloney": 1810,
+            "total": 13996,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 10091,
+            "Maloney": 1810,
+            "total": 13996,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:04:36-04:00": {
+        "0": {
+            "Nadler": 10000,
+            "Maloney": 8081,
+            "total": 21905,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 10000,
+            "Maloney": 8081,
+            "total": 21905,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:05:22-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5539,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5539,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:06:26-04:00": {
+        "0": {
+            "Nadler": 533,
+            "Maloney": 181,
+            "total": 997,
+            "min_turnout": 0,
+            "max_turnout": -189,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 533,
+            "Maloney": 181,
+            "total": 997,
+            "min_turnout": 0,
+            "max_turnout": -189,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:11:02-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67087,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67087,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:11:19-04:00": {
+        "0": {
+            "Nadler": 1606,
+            "Maloney": 680,
+            "total": 2858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 1606,
+            "Maloney": 680,
+            "total": 2858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:16:14-04:00": {
+        "0": {
+            "Nadler": 2212,
+            "Maloney": 1000,
+            "total": 4248,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 2212,
+            "Maloney": 1000,
+            "total": 4248,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:21:19-04:00": {
+        "0": {
+            "Nadler": 2124,
+            "Maloney": 566,
+            "total": 3428,
+            "min_turnout": 3200,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 2124,
+            "Maloney": 566,
+            "total": 3428,
+            "min_turnout": 3200,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:25:45-04:00": {
+        "0": {
+            "Nadler": 3284,
+            "Maloney": 1067,
+            "total": 5758,
+            "min_turnout": 5758,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 3284,
+            "Maloney": 1067,
+            "total": 5758,
+            "min_turnout": 5758,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:26:14-04:00": {
+        "0": {
+            "Nadler": 579,
+            "Maloney": 309,
+            "total": 1217,
+            "min_turnout": 1217,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 579,
+            "Maloney": 309,
+            "total": 1217,
+            "min_turnout": 1217,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:27:57-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 2863,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 2863,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:29:24-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 22740,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 22740,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:30:50-04:00": {
+        "0": {
+            "Nadler": 709,
+            "Maloney": 103,
+            "total": 1009,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 709,
+            "Maloney": 103,
+            "total": 1009,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:31:25-04:00": {
+        "0": {
+            "Nadler": 2602,
+            "Maloney": 1100,
+            "total": 4816,
+            "min_turnout": 299,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 2602,
+            "Maloney": 1100,
+            "total": 4816,
+            "min_turnout": 299,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:36:15-04:00": {
+        "0": {
+            "Nadler": 2889,
+            "Maloney": 877,
+            "total": 4722,
+            "min_turnout": -119,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 2889,
+            "Maloney": 877,
+            "total": 4722,
+            "min_turnout": -119,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:40:57-04:00": {
+        "0": {
+            "Nadler": 3112,
+            "Maloney": 1319,
+            "total": 5787,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 3112,
+            "Maloney": 1319,
+            "total": 5787,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:41:20-04:00": {
+        "0": {
+            "Nadler": 852,
+            "Maloney": 458,
+            "total": 1814,
+            "min_turnout": -460,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 852,
+            "Maloney": 458,
+            "total": 1814,
+            "min_turnout": -460,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:45:57-04:00": {
+        "0": {
+            "Nadler": 1733,
+            "Maloney": 678,
+            "total": 3120,
+            "min_turnout": 0,
+            "max_turnout": -37993,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 1733,
+            "Maloney": 678,
+            "total": 3120,
+            "min_turnout": 0,
+            "max_turnout": -37993,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:46:26-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:51:17-04:00": {
+        "0": {
+            "Nadler": 342,
+            "Maloney": 226,
+            "total": 751,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 342,
+            "Maloney": 226,
+            "total": 751,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:51:34-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 791,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 791,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:55:58-04:00": {
+        "0": {
+            "Nadler": 191,
+            "Maloney": 133,
+            "total": 449,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 191,
+            "Maloney": 133,
+            "total": 449,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:56:21-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:01:02-04:00": {
+        "0": {
+            "Nadler": 26,
+            "Maloney": 3,
+            "total": 40,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 26,
+            "Maloney": 3,
+            "total": 40,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:01:19-04:00": {
+        "0": {
+            "Nadler": 89,
+            "Maloney": 24,
+            "total": 158,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 89,
+            "Maloney": 24,
+            "total": 158,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:06:19-04:00": {
+        "0": {
+            "Nadler": 13,
+            "Maloney": 4,
+            "total": 27,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 13,
+            "Maloney": 4,
+            "total": 27,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:10:47-04:00": {
+        "0": {
+            "Nadler": 103,
+            "Maloney": 13,
+            "total": 165,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 103,
+            "Maloney": 13,
+            "total": 165,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:21:10-04:00": {
+        "0": {
+            "Nadler": 153,
+            "Maloney": 29,
+            "total": 207,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 153,
+            "Maloney": 29,
+            "total": 207,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:26:15-04:00": {
+        "0": {
+            "Nadler": 69,
+            "Maloney": 14,
+            "total": 100,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 69,
+            "Maloney": 14,
+            "total": 100,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:29:24-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -2902,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": -2902,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:36:05-04:00": {
+        "0": {
+            "Nadler": 736,
+            "Maloney": 356,
+            "total": 1350,
+            "min_turnout": 1350,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 736,
+            "Maloney": 356,
+            "total": 1350,
+            "min_turnout": 1350,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:37:24-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 797,
+            "max_turnout": 6261,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 797,
+            "max_turnout": 6261,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:40:58-04:00": {
+        "0": {
+            "Nadler": 55,
+            "Maloney": 40,
+            "total": 121,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 55,
+            "Maloney": 40,
+            "total": 121,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:41:10-04:00": {
+        "0": {
+            "Nadler": 246,
+            "Maloney": 54,
+            "total": 335,
+            "min_turnout": 460,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 246,
+            "Maloney": 54,
+            "total": 335,
+            "min_turnout": 460,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:45:29-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2125,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2125,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:46:02-04:00": {
+        "0": {
+            "Nadler": 358,
+            "Maloney": 298,
+            "total": 866,
+            "min_turnout": 65,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 358,
+            "Maloney": 298,
+            "total": 866,
+            "min_turnout": 65,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:46:19-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 810,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 810,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:51:24-04:00": {
+        "0": {
+            "Nadler": 187,
+            "Maloney": 166,
+            "total": 466,
+            "min_turnout": 471,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 187,
+            "Maloney": 166,
+            "total": 466,
+            "min_turnout": 471,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:55:01-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1019,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1019,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:55:06-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1019,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1019,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:55:12-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1019,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1019,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:56:19-04:00": {
+        "0": {
+            "Nadler": 118,
+            "Maloney": 89,
+            "total": 272,
+            "min_turnout": 275,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 118,
+            "Maloney": 89,
+            "total": 272,
+            "min_turnout": 275,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:11:13-04:00": {
+        "0": {
+            "Nadler": 47,
+            "Maloney": 21,
+            "total": 108,
+            "min_turnout": 109,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 47,
+            "Maloney": 21,
+            "total": 108,
+            "min_turnout": 109,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:16:04-04:00": {
+        "0": {
+            "Nadler": 112,
+            "Maloney": 114,
+            "total": 303,
+            "min_turnout": 306,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 112,
+            "Maloney": 114,
+            "total": 303,
+            "min_turnout": 306,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:20:46-04:00": {
+        "0": {
+            "Nadler": 158,
+            "Maloney": 197,
+            "total": 451,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 158,
+            "Maloney": 197,
+            "total": 451,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:21:13-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 455,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 455,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:32:47-04:00": {
+        "0": {
+            "Nadler": 119,
+            "Maloney": 13,
+            "total": 172,
+            "min_turnout": 174,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 119,
+            "Maloney": 13,
+            "total": 172,
+            "min_turnout": 174,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:36:00-04:00": {
+        "0": {
+            "Nadler": 97,
+            "Maloney": 15,
+            "total": 143,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 97,
+            "Maloney": 15,
+            "total": 143,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:36:39-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 144,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 144,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-24T00:11:31-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2253,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2253,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-24T00:13:39-04:00": {
+        "0": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7355,
+            "county_name": "Total"
+        },
+        "1": {
+            "Nadler": 0,
+            "Maloney": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7355,
+            "county_name": "New York"
+        }
+    }
+}

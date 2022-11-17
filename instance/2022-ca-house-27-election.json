@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Smith": 75704,
+            "Garcia": 89550,
+            "total": 165254,
+            "min_turnout": 211864,
+            "max_turnout": 220339
+        },
+        {
+            "county_name": "Los Angeles",
+            "Smith": 75704,
+            "Garcia": 89550,
+            "total": 165254,
+            "min_turnout": 211864,
+            "max_turnout": 220339
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Los Angeles": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

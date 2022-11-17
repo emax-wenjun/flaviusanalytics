@@ -1,0 +1,84 @@
+{
+    "2022-07-31T03:15:28-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Cuellar": 22901,
+            "Cisneros": 22612,
+            "total": 45513,
+            "min_turnout": 45813,
+            "max_turnout": 45813
+        },
+        "1": {
+            "county_name": "Atascosa",
+            "Cuellar": 383,
+            "Cisneros": 797,
+            "total": 1180,
+            "min_turnout": 1190,
+            "max_turnout": 1190
+        },
+        "2": {
+            "county_name": "Bexar",
+            "Cuellar": 1705,
+            "Cisneros": 10228,
+            "total": 11933,
+            "min_turnout": 11985,
+            "max_turnout": 11985
+        },
+        "3": {
+            "county_name": "Duval",
+            "Cuellar": 1643,
+            "Cisneros": 757,
+            "total": 2400,
+            "min_turnout": 2400,
+            "max_turnout": 2400
+        },
+        "4": {
+            "county_name": "Guadalupe",
+            "Cuellar": 327,
+            "Cisneros": 3315,
+            "total": 3642,
+            "min_turnout": 3665,
+            "max_turnout": 3665
+        },
+        "5": {
+            "county_name": "Jim Hogg",
+            "Cuellar": 662,
+            "Cisneros": 177,
+            "total": 839,
+            "min_turnout": 841,
+            "max_turnout": 841
+        },
+        "6": {
+            "county_name": "McMullen",
+            "Cuellar": 6,
+            "Cisneros": 3,
+            "total": 9,
+            "min_turnout": 40,
+            "max_turnout": 40
+        },
+        "7": {
+            "county_name": "Starr",
+            "Cuellar": 2518,
+            "Cisneros": 597,
+            "total": 3115,
+            "min_turnout": 3115,
+            "max_turnout": 3115
+        },
+        "8": {
+            "county_name": "Webb",
+            "Cuellar": 14334,
+            "Cisneros": 6558,
+            "total": 20892,
+            "min_turnout": 21064,
+            "max_turnout": 21064
+        },
+        "9": {
+            "county_name": "Zapata",
+            "Cuellar": 1323,
+            "Cisneros": 180,
+            "total": 1503,
+            "min_turnout": 1513,
+            "max_turnout": 1513
+        }
+    }
+}

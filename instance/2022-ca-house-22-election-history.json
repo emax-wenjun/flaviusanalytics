@@ -1,0 +1,180 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Salas": 26799,
+            "Valadao": 29677,
+            "total": 56476,
+            "min_turnout": 105866,
+            "max_turnout": 137262
+        },
+        "1": {
+            "county_name": "Kern",
+            "Salas": 15749,
+            "Valadao": 14201,
+            "total": 29950,
+            "min_turnout": 68200,
+            "max_turnout": 88088
+        },
+        "2": {
+            "county_name": "Kings",
+            "Salas": 5031,
+            "Valadao": 6580,
+            "total": 11611,
+            "min_turnout": 11970,
+            "max_turnout": 15277
+        },
+        "3": {
+            "county_name": "Tulare",
+            "Salas": 6019,
+            "Valadao": 8896,
+            "total": 14915,
+            "min_turnout": 25696,
+            "max_turnout": 33897
+        }
+    },
+    "2022-11-14T22:30:06-05:00": {
+        "0": {
+            "Salas": 348,
+            "Valadao": 533,
+            "total": 881,
+            "min_turnout": 0,
+            "max_turnout": 442,
+            "county_name": "Total"
+        },
+        "3": {
+            "Salas": 348,
+            "Valadao": 533,
+            "total": 881,
+            "min_turnout": 0,
+            "max_turnout": 442,
+            "county_name": "Tulare"
+        }
+    },
+    "2022-11-15T16:29:52-05:00": {
+        "0": {
+            "Salas": 89,
+            "Valadao": 82,
+            "total": 171,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Total"
+        },
+        "2": {
+            "Salas": 89,
+            "Valadao": 82,
+            "total": 171,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Kings"
+        }
+    },
+    "2022-11-15T18:49:17-05:00": {
+        "0": {
+            "Salas": 4216,
+            "Valadao": 4003,
+            "total": 8219,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Salas": 4216,
+            "Valadao": 4003,
+            "total": 8219,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kern"
+        }
+    },
+    "2022-11-15T18:51:04-05:00": {
+        "0": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 677,
+            "county_name": "Total"
+        },
+        "1": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 677,
+            "county_name": "Kern"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Salas": 689,
+            "Valadao": 1126,
+            "total": 1815,
+            "min_turnout": 0,
+            "max_turnout": 192,
+            "county_name": "Total"
+        },
+        "3": {
+            "Salas": 689,
+            "Valadao": 1126,
+            "total": 1815,
+            "min_turnout": 0,
+            "max_turnout": 192,
+            "county_name": "Tulare"
+        }
+    },
+    "2022-11-16T09:42:49-05:00": {
+        "0": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2899,
+            "county_name": "Total"
+        },
+        "2": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2899,
+            "county_name": "Kings"
+        }
+    },
+    "2022-11-16T09:43:28-05:00": {
+        "0": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8246,
+            "county_name": "Total"
+        },
+        "3": {
+            "Salas": 0,
+            "Valadao": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8246,
+            "county_name": "Tulare"
+        }
+    },
+    "2022-11-16T20:32:06-05:00": {
+        "0": {
+            "Salas": 1531,
+            "Valadao": 2216,
+            "total": 3747,
+            "min_turnout": 0,
+            "max_turnout": 82,
+            "county_name": "Total"
+        },
+        "3": {
+            "Salas": 1531,
+            "Valadao": 2216,
+            "total": 3747,
+            "min_turnout": 0,
+            "max_turnout": 82,
+            "county_name": "Tulare"
+        }
+    }
+}

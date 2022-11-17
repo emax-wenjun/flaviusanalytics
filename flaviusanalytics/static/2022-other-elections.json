@@ -1,0 +1,14 @@
+{
+    "2022-ca-la-mayor-election" : {
+        "name" : "2022 Los Angeles Mayoral Election",
+        "candidates" : ["Bass", "Caruso"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "current",
+        "notify" : "False",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-california-mayor-los-angeles.json", 0],
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/11082022/race/22044", {"Bass" : "23336", "Caruso" : "23337"}]
+        }
+    }
+}

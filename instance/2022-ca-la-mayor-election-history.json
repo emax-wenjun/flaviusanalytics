@@ -1,0 +1,470 @@
+{
+    "2022-11-07T03:37:21-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        },
+        "1": {
+            "county_name": "Los Angeles",
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        }
+    },
+    "2022-11-09T00:17:02-05:00": {
+        "0": {
+            "Bass": 165250,
+            "Caruso": 159857,
+            "total": 325107,
+            "min_turnout": 325107,
+            "max_turnout": 325107,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 165250,
+            "Caruso": 159857,
+            "total": 325107,
+            "min_turnout": 325107,
+            "max_turnout": 325107,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T00:21:59-05:00": {
+        "0": {
+            "Bass": 18901,
+            "Caruso": 26253,
+            "total": 45154,
+            "min_turnout": 45154,
+            "max_turnout": 45154,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 18901,
+            "Caruso": 26253,
+            "total": 45154,
+            "min_turnout": 45154,
+            "max_turnout": 45154,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T03:52:33-05:00": {
+        "0": {
+            "Bass": 25470,
+            "Caruso": 26320,
+            "total": 51790,
+            "min_turnout": 51790,
+            "max_turnout": 2796754,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 25470,
+            "Caruso": 26320,
+            "total": 51790,
+            "min_turnout": 51790,
+            "max_turnout": 2796754,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T04:12:15-05:00": {
+        "0": {
+            "Bass": 6496,
+            "Caruso": 8895,
+            "total": 15391,
+            "min_turnout": 15391,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 6496,
+            "Caruso": 8895,
+            "total": 15391,
+            "min_turnout": 15391,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T04:32:29-05:00": {
+        "0": {
+            "Bass": 2612,
+            "Caruso": 4727,
+            "total": 7339,
+            "min_turnout": 7339,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 2612,
+            "Caruso": 4727,
+            "total": 7339,
+            "min_turnout": 7339,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T04:52:18-05:00": {
+        "0": {
+            "Bass": 2211,
+            "Caruso": 2665,
+            "total": 4876,
+            "min_turnout": 4876,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 2211,
+            "Caruso": 2665,
+            "total": 4876,
+            "min_turnout": 4876,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T05:08:19-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2042873,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2042873,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T05:12:20-05:00": {
+        "0": {
+            "Bass": 14566,
+            "Caruso": 14663,
+            "total": 29229,
+            "min_turnout": 29229,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 14566,
+            "Caruso": 14663,
+            "total": 29229,
+            "min_turnout": 29229,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T05:52:24-05:00": {
+        "0": {
+            "Bass": 511,
+            "Caruso": 722,
+            "total": 1233,
+            "min_turnout": 1233,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 511,
+            "Caruso": 722,
+            "total": 1233,
+            "min_turnout": 1233,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T07:12:23-05:00": {
+        "0": {
+            "Bass": 4177,
+            "Caruso": 8374,
+            "total": 12551,
+            "min_turnout": 12551,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 4177,
+            "Caruso": 8374,
+            "total": 12551,
+            "min_turnout": 12551,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-09T21:40:28-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4437,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4437,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-10T19:08:26-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -190139,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -190139,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-10T19:30:56-05:00": {
+        "0": {
+            "Bass": 31052,
+            "Caruso": 21465,
+            "total": 52517,
+            "min_turnout": 52517,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 31052,
+            "Caruso": 21465,
+            "total": 52517,
+            "min_turnout": 52517,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-10T21:40:21-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5520,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5520,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-11T19:14:19-05:00": {
+        "0": {
+            "Bass": 18536,
+            "Caruso": 11457,
+            "total": 29993,
+            "min_turnout": 29993,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 18536,
+            "Caruso": 11457,
+            "total": 29993,
+            "min_turnout": 29993,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-11T21:36:29-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -25327,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -25327,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-12T19:04:18-05:00": {
+        "0": {
+            "Bass": 17208,
+            "Caruso": 12129,
+            "total": 29337,
+            "min_turnout": 29337,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 17208,
+            "Caruso": 12129,
+            "total": 29337,
+            "min_turnout": 29337,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:12:21-05:00": {
+        "0": {
+            "Bass": 47958,
+            "Caruso": 28150,
+            "total": 76108,
+            "min_turnout": 76108,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 47958,
+            "Caruso": 28150,
+            "total": 76108,
+            "min_turnout": 76108,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:16:16-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 46593,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 46593,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:48:28-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27009,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27009,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T21:24:32-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 74794,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 74794,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T18:50:37-05:00": {
+        "0": {
+            "Bass": 20195,
+            "Caruso": 13117,
+            "total": 33312,
+            "min_turnout": 33312,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 20195,
+            "Caruso": 13117,
+            "total": 33312,
+            "min_turnout": 33312,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27205,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27205,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T18:34:16-05:00": {
+        "0": {
+            "Bass": 28284,
+            "Caruso": 18055,
+            "total": 46339,
+            "min_turnout": 46339,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 28284,
+            "Caruso": 18055,
+            "total": 46339,
+            "min_turnout": 46339,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T22:00:18-05:00": {
+        "0": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6209,
+            "county_name": "Total"
+        },
+        "1": {
+            "Bass": 0,
+            "Caruso": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6209,
+            "county_name": "Los Angeles"
+        }
+    }
+}

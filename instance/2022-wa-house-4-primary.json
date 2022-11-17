@@ -1,0 +1,131 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Culp": 31152,
+            "Newhouse": 37006,
+            "White": 36605,
+            "total": 145074,
+            "min_turnout": 155346,
+            "max_turnout": 172636
+        },
+        {
+            "county_name": "Adams",
+            "Culp": 421,
+            "Newhouse": 358,
+            "White": 216,
+            "total": 1269,
+            "min_turnout": 1654,
+            "max_turnout": 2867
+        },
+        {
+            "county_name": "Benton",
+            "Culp": 6802,
+            "Newhouse": 12620,
+            "White": 11670,
+            "total": 47673,
+            "min_turnout": 50750,
+            "max_turnout": 54581
+        },
+        {
+            "county_name": "Douglas",
+            "Culp": 2454,
+            "Newhouse": 2284,
+            "White": 1892,
+            "total": 8077,
+            "min_turnout": 9513,
+            "max_turnout": 10267
+        },
+        {
+            "county_name": "Franklin",
+            "Culp": 2104,
+            "Newhouse": 3169,
+            "White": 2871,
+            "total": 11824,
+            "min_turnout": 14021,
+            "max_turnout": 15090
+        },
+        {
+            "county_name": "Grant",
+            "Culp": 5558,
+            "Newhouse": 5145,
+            "White": 2738,
+            "total": 16939,
+            "min_turnout": 18341,
+            "max_turnout": 21173
+        },
+        {
+            "county_name": "Klickitat",
+            "Culp": 2382,
+            "Newhouse": 1346,
+            "White": 3045,
+            "total": 7998,
+            "min_turnout": 7998,
+            "max_turnout": 8358
+        },
+        {
+            "county_name": "Okanogan",
+            "Culp": 3525,
+            "Newhouse": 2715,
+            "White": 3641,
+            "total": 11909,
+            "min_turnout": 11909,
+            "max_turnout": 13757
+        },
+        {
+            "county_name": "Yakima",
+            "Culp": 7906,
+            "Newhouse": 9369,
+            "White": 10532,
+            "total": 39385,
+            "min_turnout": 41160,
+            "max_turnout": 46543
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Klickitat": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Okanogan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Yakima": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "2022-07-31T03:15:29-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Mace": 39955,
+            "Arrington": 34046,
+            "total": 75221,
+            "min_turnout": 76725,
+            "max_turnout": 76725
+        },
+        "1": {
+            "county_name": "Beaufort",
+            "Mace": 12899,
+            "Arrington": 11204,
+            "total": 24453,
+            "min_turnout": 24942,
+            "max_turnout": 24942
+        },
+        "2": {
+            "county_name": "Berkeley",
+            "Mace": 8784,
+            "Arrington": 9365,
+            "total": 18618,
+            "min_turnout": 18990,
+            "max_turnout": 18990
+        },
+        "3": {
+            "county_name": "Charleston",
+            "Mace": 12644,
+            "Arrington": 7688,
+            "total": 20540,
+            "min_turnout": 20951,
+            "max_turnout": 20951
+        },
+        "4": {
+            "county_name": "Colleton",
+            "Mace": 248,
+            "Arrington": 156,
+            "total": 410,
+            "min_turnout": 418,
+            "max_turnout": 418
+        },
+        "5": {
+            "county_name": "Dorchester",
+            "Mace": 5057,
+            "Arrington": 5105,
+            "total": 10338,
+            "min_turnout": 10545,
+            "max_turnout": 10545
+        },
+        "6": {
+            "county_name": "Jasper",
+            "Mace": 323,
+            "Arrington": 528,
+            "total": 862,
+            "min_turnout": 879,
+            "max_turnout": 879
+        }
+    },
+    "2022-08-02T00:04:54-04:00": {
+        "0": {
+            "Mace": 34,
+            "Arrington": 39,
+            "total": 73,
+            "min_turnout": -274,
+            "max_turnout": 6329,
+            "county_name": "Total"
+        },
+        "1": {
+            "Mace": 0,
+            "Arrington": 0,
+            "total": 0,
+            "min_turnout": -270,
+            "max_turnout": 0,
+            "county_name": "Beaufort"
+        },
+        "2": {
+            "Mace": 7,
+            "Arrington": 8,
+            "total": 15,
+            "min_turnout": 0,
+            "max_turnout": 3192,
+            "county_name": "Berkeley"
+        },
+        "3": {
+            "Mace": 21,
+            "Arrington": 28,
+            "total": 49,
+            "min_turnout": 0,
+            "max_turnout": 721,
+            "county_name": "Charleston"
+        },
+        "4": {
+            "Mace": 0,
+            "Arrington": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Colleton"
+        },
+        "5": {
+            "Mace": 6,
+            "Arrington": 3,
+            "total": 9,
+            "min_turnout": 0,
+            "max_turnout": 2388,
+            "county_name": "Dorchester"
+        },
+        "6": {
+            "Mace": 0,
+            "Arrington": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 28,
+            "county_name": "Jasper"
+        }
+    }
+}

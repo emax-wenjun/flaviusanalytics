@@ -1,0 +1,630 @@
+{
+    "2022-11-12T00:40:10-05:00": {
+        "0": {
+            "county_name": "Total",
+            "McLeod-Skinner": 143270,
+            "Chavez-DeRemer": 150062,
+            "total": 293332,
+            "min_turnout": 333524,
+            "max_turnout": 359720
+        },
+        "1": {
+            "county_name": "Clackamas",
+            "McLeod-Skinner": 53211,
+            "Chavez-DeRemer": 51089,
+            "total": 104300,
+            "min_turnout": 134544,
+            "max_turnout": 146901
+        },
+        "2": {
+            "county_name": "Deschutes",
+            "McLeod-Skinner": 45593,
+            "Chavez-DeRemer": 41245,
+            "total": 86838,
+            "min_turnout": 91408,
+            "max_turnout": 98005
+        },
+        "3": {
+            "county_name": "Jefferson",
+            "McLeod-Skinner": 3,
+            "Chavez-DeRemer": 0,
+            "total": 3,
+            "min_turnout": 4,
+            "max_turnout": 75
+        },
+        "4": {
+            "county_name": "Linn",
+            "McLeod-Skinner": 17523,
+            "Chavez-DeRemer": 37220,
+            "total": 54743,
+            "min_turnout": 57624,
+            "max_turnout": 59503
+        },
+        "5": {
+            "county_name": "Marion",
+            "McLeod-Skinner": 7089,
+            "Chavez-DeRemer": 15491,
+            "total": 22580,
+            "min_turnout": 23768,
+            "max_turnout": 27248
+        },
+        "6": {
+            "county_name": "Multnomah",
+            "McLeod-Skinner": 19851,
+            "Chavez-DeRemer": 5017,
+            "total": 24868,
+            "min_turnout": 26176,
+            "max_turnout": 27988
+        }
+    },
+    "2022-11-12T13:29:42-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -661,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -661,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-12T13:57:47-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3616,
+            "county_name": "Total"
+        },
+        "2": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3616,
+            "county_name": "Deschutes"
+        }
+    },
+    "2022-11-12T14:17:40-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -1188,
+            "max_turnout": -1879,
+            "county_name": "Total"
+        },
+        "4": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -1188,
+            "max_turnout": -1879,
+            "county_name": "Linn"
+        }
+    },
+    "2022-11-12T14:21:37-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -861,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 289,
+            "county_name": "Marion"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1150,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-13T00:47:45-05:00": {
+        "0": {
+            "McLeod-Skinner": 11311,
+            "Chavez-DeRemer": 11718,
+            "total": 23029,
+            "min_turnout": 0,
+            "max_turnout": 1155,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 11311,
+            "Chavez-DeRemer": 11718,
+            "total": 23029,
+            "min_turnout": 0,
+            "max_turnout": 1155,
+            "county_name": "Clackamas"
+        }
+    },
+    "2022-11-13T14:30:06-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -800,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -800,
+            "max_turnout": -1,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-13T14:45:47-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2448,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2448,
+            "county_name": "Marion"
+        }
+    },
+    "2022-11-13T15:01:37-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-13T17:56:24-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -71,
+            "county_name": "Total"
+        },
+        "3": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -71,
+            "county_name": "Jefferson"
+        }
+    },
+    "2022-11-13T17:57:24-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12600,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12600,
+            "county_name": "Clackamas"
+        }
+    },
+    "2022-11-14T12:05:58-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2981,
+            "county_name": "Total"
+        },
+        "2": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2981,
+            "county_name": "Deschutes"
+        }
+    },
+    "2022-11-14T12:29:46-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -576,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -576,
+            "max_turnout": 0,
+            "county_name": "Linn"
+        }
+    },
+    "2022-11-14T20:12:19-05:00": {
+        "0": {
+            "McLeod-Skinner": 809,
+            "Chavez-DeRemer": 1431,
+            "total": 2240,
+            "min_turnout": 1321,
+            "max_turnout": 1037,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 509,
+            "Chavez-DeRemer": 1338,
+            "total": 1847,
+            "min_turnout": 1321,
+            "max_turnout": 623,
+            "county_name": "Marion"
+        },
+        "6": {
+            "McLeod-Skinner": 300,
+            "Chavez-DeRemer": 93,
+            "total": 393,
+            "min_turnout": 0,
+            "max_turnout": 414,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-14T20:31:46-05:00": {
+        "0": {
+            "McLeod-Skinner": 6068,
+            "Chavez-DeRemer": 5813,
+            "total": 11881,
+            "min_turnout": 4666,
+            "max_turnout": 11080,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 6068,
+            "Chavez-DeRemer": 5813,
+            "total": 11881,
+            "min_turnout": 4666,
+            "max_turnout": 11080,
+            "county_name": "Clackamas"
+        }
+    },
+    "2022-11-14T20:50:21-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 2566,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 2841,
+            "max_turnout": 0,
+            "county_name": "Clackamas"
+        },
+        "5": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -415,
+            "max_turnout": 0,
+            "county_name": "Marion"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 140,
+            "max_turnout": 0,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-14T21:29:44-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 261,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 261,
+            "max_turnout": 0,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-14T21:37:47-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Marion"
+        }
+    },
+    "2022-11-15T12:01:31-05:00": {
+        "0": {
+            "McLeod-Skinner": 1315,
+            "Chavez-DeRemer": 2222,
+            "total": 3537,
+            "min_turnout": 2420,
+            "max_turnout": 656,
+            "county_name": "Total"
+        },
+        "4": {
+            "McLeod-Skinner": 1315,
+            "Chavez-DeRemer": 2222,
+            "total": 3537,
+            "min_turnout": 2420,
+            "max_turnout": 656,
+            "county_name": "Linn"
+        }
+    },
+    "2022-11-15T12:09:47-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 589,
+            "county_name": "Total"
+        },
+        "4": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 589,
+            "county_name": "Linn"
+        }
+    },
+    "2022-11-15T17:02:05-05:00": {
+        "0": {
+            "McLeod-Skinner": 33,
+            "Chavez-DeRemer": 164,
+            "total": 197,
+            "min_turnout": 0,
+            "max_turnout": 208,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 33,
+            "Chavez-DeRemer": 164,
+            "total": 197,
+            "min_turnout": 0,
+            "max_turnout": 208,
+            "county_name": "Marion"
+        }
+    },
+    "2022-11-15T17:29:27-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Marion"
+        }
+    },
+    "2022-11-15T17:31:54-05:00": {
+        "0": {
+            "McLeod-Skinner": 87,
+            "Chavez-DeRemer": 11,
+            "total": 98,
+            "min_turnout": 0,
+            "max_turnout": 103,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 87,
+            "Chavez-DeRemer": 11,
+            "total": 98,
+            "min_turnout": 0,
+            "max_turnout": 103,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-15T17:45:28-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -162,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": -162,
+            "max_turnout": 0,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-15T17:59:30-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 589,
+            "max_turnout": 2478,
+            "county_name": "Total"
+        },
+        "4": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 589,
+            "max_turnout": 2478,
+            "county_name": "Linn"
+        }
+    },
+    "2022-11-16T16:37:34-05:00": {
+        "0": {
+            "McLeod-Skinner": 26,
+            "Chavez-DeRemer": 6,
+            "total": 32,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 26,
+            "Chavez-DeRemer": 6,
+            "total": 32,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-16T17:09:33-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Multnomah"
+        }
+    },
+    "2022-11-16T17:21:40-05:00": {
+        "0": {
+            "McLeod-Skinner": 2325,
+            "Chavez-DeRemer": 1755,
+            "total": 4080,
+            "min_turnout": 0,
+            "max_turnout": 428,
+            "county_name": "Total"
+        },
+        "2": {
+            "McLeod-Skinner": 2325,
+            "Chavez-DeRemer": 1755,
+            "total": 4080,
+            "min_turnout": 0,
+            "max_turnout": 428,
+            "county_name": "Deschutes"
+        }
+    },
+    "2022-11-16T18:35:33-05:00": {
+        "0": {
+            "McLeod-Skinner": 572,
+            "Chavez-DeRemer": 502,
+            "total": 1074,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 572,
+            "Chavez-DeRemer": 502,
+            "total": 1074,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clackamas"
+        }
+    },
+    "2022-11-16T21:02:03-05:00": {
+        "0": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 428,
+            "max_turnout": 5032,
+            "county_name": "Total"
+        },
+        "1": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1131,
+            "county_name": "Clackamas"
+        },
+        "2": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 428,
+            "max_turnout": 3867,
+            "county_name": "Deschutes"
+        },
+        "6": {
+            "McLeod-Skinner": 0,
+            "Chavez-DeRemer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 34,
+            "county_name": "Multnomah"
+        }
+    }
+}

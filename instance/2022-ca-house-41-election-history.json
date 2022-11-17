@@ -1,0 +1,236 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Rollins": 63507,
+            "Calvert": 65105,
+            "total": 128612,
+            "min_turnout": 217986,
+            "max_turnout": 267941
+        },
+        "1": {
+            "county_name": "Riverside",
+            "Rollins": 63507,
+            "Calvert": 65105,
+            "total": 128612,
+            "min_turnout": 217986,
+            "max_turnout": 267941
+        }
+    },
+    "2022-11-12T20:32:28-05:00": {
+        "0": {
+            "Rollins": 7961,
+            "Calvert": 8471,
+            "total": 16432,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 7961,
+            "Calvert": 8471,
+            "total": 16432,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-12T21:46:51-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 659,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 659,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-13T20:28:32-05:00": {
+        "0": {
+            "Rollins": 7450,
+            "Calvert": 9408,
+            "total": 16858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 7450,
+            "Calvert": 9408,
+            "total": 16858,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-13T21:21:37-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1236,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1236,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-14T20:52:17-05:00": {
+        "0": {
+            "Rollins": 6808,
+            "Calvert": 8231,
+            "total": 15039,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 6808,
+            "Calvert": 8231,
+            "total": 15039,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-14T21:01:41-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1744,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1744,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-14T22:36:29-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 3190,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 3190,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-15T10:50:37-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -38299,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -38299,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-15T11:00:45-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": -5395,
+            "max_turnout": -8617,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": -5395,
+            "max_turnout": -8617,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Rollins": 3543,
+            "Calvert": 4559,
+            "total": 8102,
+            "min_turnout": -615,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 3543,
+            "Calvert": 4559,
+            "total": 8102,
+            "min_turnout": -615,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-16T22:32:19-05:00": {
+        "0": {
+            "Rollins": 7044,
+            "Calvert": 6825,
+            "total": 13869,
+            "min_turnout": -1283,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 7044,
+            "Calvert": 6825,
+            "total": 13869,
+            "min_turnout": -1283,
+            "max_turnout": 0,
+            "county_name": "Riverside"
+        }
+    },
+    "2022-11-16T22:36:32-05:00": {
+        "0": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": -2274,
+            "max_turnout": -7293,
+            "county_name": "Total"
+        },
+        "1": {
+            "Rollins": 0,
+            "Calvert": 0,
+            "total": 0,
+            "min_turnout": -2274,
+            "max_turnout": -7293,
+            "county_name": "Riverside"
+        }
+    }
+}

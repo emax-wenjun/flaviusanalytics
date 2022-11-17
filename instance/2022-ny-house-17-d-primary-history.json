@@ -1,0 +1,1468 @@
+{
+    "2022-08-23T15:00:58-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 30684,
+            "max_turnout": 61379
+        },
+        "1": {
+            "county_name": "Dutchess",
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 1860,
+            "max_turnout": 3920
+        },
+        "2": {
+            "county_name": "Putnam",
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 2294,
+            "max_turnout": 5970
+        },
+        "3": {
+            "county_name": "Rockland",
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 9619,
+            "max_turnout": 24406
+        },
+        "4": {
+            "county_name": "Westchester",
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 16911,
+            "max_turnout": 27083
+        }
+    },
+    "2022-08-23T18:00:08-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -549,
+            "max_turnout": -16977,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -549,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1764,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -7211,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8002,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T18:36:31-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -570,
+            "max_turnout": -2590,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2590,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 1402,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 936,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -2908,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:15:05-04:00": {
+        "0": {
+            "Maloney": 979,
+            "Biaggi": 289,
+            "total": 1268,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 979,
+            "Biaggi": 289,
+            "total": 1268,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        }
+    },
+    "2022-08-23T21:16:09-04:00": {
+        "0": {
+            "Maloney": 1798,
+            "Biaggi": 1294,
+            "total": 3092,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 1798,
+            "Biaggi": 1294,
+            "total": 3092,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T21:20:27-04:00": {
+        "0": {
+            "Maloney": 178,
+            "Biaggi": 110,
+            "total": 288,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 178,
+            "Biaggi": 110,
+            "total": 288,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:24:40-04:00": {
+        "0": {
+            "Maloney": 350,
+            "Biaggi": 192,
+            "total": 542,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 350,
+            "Biaggi": 192,
+            "total": 542,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T21:25:04-04:00": {
+        "0": {
+            "Maloney": 579,
+            "Biaggi": 260,
+            "total": 839,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 579,
+            "Biaggi": 260,
+            "total": 839,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:26:37-04:00": {
+        "0": {
+            "Maloney": 232,
+            "Biaggi": 90,
+            "total": 322,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 232,
+            "Biaggi": 90,
+            "total": 322,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T21:27:17-04:00": {
+        "0": {
+            "Maloney": 114,
+            "Biaggi": 60,
+            "total": 174,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 114,
+            "Biaggi": 60,
+            "total": 174,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:29:24-04:00": {
+        "0": {
+            "Maloney": 173,
+            "Biaggi": 92,
+            "total": 265,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 173,
+            "Biaggi": 92,
+            "total": 265,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:31:43-04:00": {
+        "0": {
+            "Maloney": 159,
+            "Biaggi": 138,
+            "total": 297,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 159,
+            "Biaggi": 138,
+            "total": 297,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:31:54-04:00": {
+        "0": {
+            "Maloney": 356,
+            "Biaggi": 203,
+            "total": 559,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 356,
+            "Biaggi": 203,
+            "total": 559,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T21:33:46-04:00": {
+        "0": {
+            "Maloney": 263,
+            "Biaggi": 151,
+            "total": 414,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 263,
+            "Biaggi": 151,
+            "total": 414,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:36:15-04:00": {
+        "0": {
+            "Maloney": 365,
+            "Biaggi": 166,
+            "total": 531,
+            "min_turnout": 19,
+            "max_turnout": 34224,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 1054,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3446,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14089,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 365,
+            "Biaggi": 166,
+            "total": 531,
+            "min_turnout": 0,
+            "max_turnout": 15635,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:38:44-04:00": {
+        "0": {
+            "Maloney": 143,
+            "Biaggi": 118,
+            "total": 261,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 143,
+            "Biaggi": 118,
+            "total": 261,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:41:15-04:00": {
+        "0": {
+            "Maloney": 91,
+            "Biaggi": 45,
+            "total": 136,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 91,
+            "Biaggi": 45,
+            "total": 136,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:44:24-04:00": {
+        "0": {
+            "Maloney": 313,
+            "Biaggi": 109,
+            "total": 422,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 313,
+            "Biaggi": 109,
+            "total": 422,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:46:15-04:00": {
+        "0": {
+            "Maloney": 302,
+            "Biaggi": 94,
+            "total": 396,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 302,
+            "Biaggi": 94,
+            "total": 396,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:47:06-04:00": {
+        "0": {
+            "Maloney": 1542,
+            "Biaggi": 718,
+            "total": 2260,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 1542,
+            "Biaggi": 718,
+            "total": 2260,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T21:47:17-04:00": {
+        "0": {
+            "Maloney": 874,
+            "Biaggi": 268,
+            "total": 1142,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 874,
+            "Biaggi": 268,
+            "total": 1142,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        }
+    },
+    "2022-08-23T21:49:22-04:00": {
+        "0": {
+            "Maloney": 323,
+            "Biaggi": 179,
+            "total": 502,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 323,
+            "Biaggi": 179,
+            "total": 502,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:50:54-04:00": {
+        "0": {
+            "Maloney": 230,
+            "Biaggi": 108,
+            "total": 338,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 230,
+            "Biaggi": 108,
+            "total": 338,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:51:11-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -138,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -138,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T21:51:28-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -9140,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -9140,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:52:26-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 6969,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 6969,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:53:18-04:00": {
+        "0": {
+            "Maloney": 67,
+            "Biaggi": 19,
+            "total": 86,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 67,
+            "Biaggi": 19,
+            "total": 86,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T21:54:21-04:00": {
+        "0": {
+            "Maloney": 104,
+            "Biaggi": 59,
+            "total": 163,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 104,
+            "Biaggi": 59,
+            "total": 163,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:56:15-04:00": {
+        "0": {
+            "Maloney": 1656,
+            "Biaggi": 666,
+            "total": 2322,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 1656,
+            "Biaggi": 666,
+            "total": 2322,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T21:56:21-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:56:50-04:00": {
+        "0": {
+            "Maloney": 402,
+            "Biaggi": 212,
+            "total": 614,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 402,
+            "Biaggi": 212,
+            "total": 614,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T21:59:18-04:00": {
+        "0": {
+            "Maloney": 182,
+            "Biaggi": 96,
+            "total": 278,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 182,
+            "Biaggi": 96,
+            "total": 278,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:03:14-04:00": {
+        "0": {
+            "Maloney": 398,
+            "Biaggi": 232,
+            "total": 630,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 398,
+            "Biaggi": 232,
+            "total": 630,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:06:19-04:00": {
+        "0": {
+            "Maloney": 140,
+            "Biaggi": 66,
+            "total": 206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 140,
+            "Biaggi": 66,
+            "total": 206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:07:05-04:00": {
+        "0": {
+            "Maloney": 658,
+            "Biaggi": 263,
+            "total": 921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 658,
+            "Biaggi": 263,
+            "total": 921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        }
+    },
+    "2022-08-23T22:09:21-04:00": {
+        "0": {
+            "Maloney": 362,
+            "Biaggi": 328,
+            "total": 690,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 362,
+            "Biaggi": 328,
+            "total": 690,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:13:01-04:00": {
+        "0": {
+            "Maloney": 250,
+            "Biaggi": 179,
+            "total": 429,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 250,
+            "Biaggi": 179,
+            "total": 429,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:14:20-04:00": {
+        "0": {
+            "Maloney": 278,
+            "Biaggi": 92,
+            "total": 370,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 278,
+            "Biaggi": 92,
+            "total": 370,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T22:14:37-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 146,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 146,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:16:08-04:00": {
+        "0": {
+            "Maloney": 391,
+            "Biaggi": 231,
+            "total": 622,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 391,
+            "Biaggi": 231,
+            "total": 622,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:16:14-04:00": {
+        "0": {
+            "Maloney": 457,
+            "Biaggi": 165,
+            "total": 622,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 457,
+            "Biaggi": 165,
+            "total": 622,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T22:16:31-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -78,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -78,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:19:39-04:00": {
+        "0": {
+            "Maloney": 317,
+            "Biaggi": 198,
+            "total": 515,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 317,
+            "Biaggi": 198,
+            "total": 515,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:23:28-04:00": {
+        "0": {
+            "Maloney": 781,
+            "Biaggi": 372,
+            "total": 1153,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 353,
+            "Biaggi": 155,
+            "total": 508,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "4": {
+            "Maloney": 428,
+            "Biaggi": 217,
+            "total": 645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:23:34-04:00": {
+        "0": {
+            "Maloney": -781,
+            "Biaggi": -372,
+            "total": -1153,
+            "min_turnout": -143,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": -353,
+            "Biaggi": -155,
+            "total": -508,
+            "min_turnout": -143,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "4": {
+            "Maloney": -428,
+            "Biaggi": -217,
+            "total": -645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:23:39-04:00": {
+        "0": {
+            "Maloney": 781,
+            "Biaggi": 372,
+            "total": 1153,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 353,
+            "Biaggi": 155,
+            "total": 508,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "4": {
+            "Maloney": 428,
+            "Biaggi": 217,
+            "total": 645,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:27:46-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -332,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -332,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T22:27:57-04:00": {
+        "0": {
+            "Maloney": 295,
+            "Biaggi": 204,
+            "total": 499,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 295,
+            "Biaggi": 204,
+            "total": 499,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:29:18-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -1497,
+            "max_turnout": -43737,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -86,
+            "max_turnout": -1188,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3611,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18225,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -1411,
+            "max_turnout": -20713,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:31:16-04:00": {
+        "0": {
+            "Maloney": 415,
+            "Biaggi": 178,
+            "total": 593,
+            "min_turnout": 593,
+            "max_turnout": 175,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 415,
+            "Biaggi": 178,
+            "total": 593,
+            "min_turnout": 593,
+            "max_turnout": 175,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T22:31:23-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T22:32:19-04:00": {
+        "0": {
+            "Maloney": 177,
+            "Biaggi": 82,
+            "total": 259,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 177,
+            "Biaggi": 82,
+            "total": 259,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:36:00-04:00": {
+        "0": {
+            "Maloney": 1759,
+            "Biaggi": 848,
+            "total": 2607,
+            "min_turnout": 1449,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 1759,
+            "Biaggi": 848,
+            "total": 2607,
+            "min_turnout": 1449,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T22:37:41-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 1451,
+            "max_turnout": 13420,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 65,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 573,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5841,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 1451,
+            "max_turnout": 6941,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T22:39:39-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 72,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    },
+    "2022-08-23T22:40:58-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 202,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 202,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        }
+    },
+    "2022-08-23T22:42:34-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 631,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 631,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T22:46:58-04:00": {
+        "0": {
+            "Maloney": 664,
+            "Biaggi": 214,
+            "total": 878,
+            "min_turnout": 247,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 664,
+            "Biaggi": 214,
+            "total": 878,
+            "min_turnout": 247,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T22:53:08-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 678,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 678,
+            "max_turnout": 0,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-23T23:13:05-04:00": {
+        "0": {
+            "Maloney": 154,
+            "Biaggi": 101,
+            "total": 255,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 154,
+            "Biaggi": 101,
+            "total": 255,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T23:41:54-04:00": {
+        "0": {
+            "Maloney": 803,
+            "Biaggi": 428,
+            "total": 1231,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 803,
+            "Biaggi": 428,
+            "total": 1231,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-23T23:42:16-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 557,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 557,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-24T00:11:31-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6751,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 105,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -98,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3745,
+            "county_name": "Rockland"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3013,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-24T00:13:45-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1619,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -123,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -343,
+            "county_name": "Putnam"
+        },
+        "3": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1153,
+            "county_name": "Rockland"
+        }
+    },
+    "2022-08-24T00:24:40-04:00": {
+        "0": {
+            "Maloney": 252,
+            "Biaggi": 116,
+            "total": 368,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 252,
+            "Biaggi": 116,
+            "total": 368,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-24T00:48:11-04:00": {
+        "0": {
+            "Maloney": 1199,
+            "Biaggi": 719,
+            "total": 1918,
+            "min_turnout": 1660,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 1199,
+            "Biaggi": 719,
+            "total": 1918,
+            "min_turnout": 1660,
+            "max_turnout": 0,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-24T00:53:59-04:00": {
+        "0": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2999,
+            "county_name": "Total"
+        },
+        "4": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2999,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-25T21:16:25-04:00": {
+        "0": {
+            "Maloney": 2602,
+            "Biaggi": 1191,
+            "total": 3793,
+            "min_turnout": 3766,
+            "max_turnout": 3046,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -17,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        },
+        "2": {
+            "Maloney": 0,
+            "Biaggi": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Putnam"
+        },
+        "4": {
+            "Maloney": 2602,
+            "Biaggi": 1191,
+            "total": 3793,
+            "min_turnout": 3793,
+            "max_turnout": 3046,
+            "county_name": "Westchester"
+        }
+    },
+    "2022-08-26T10:58:35-04:00": {
+        "0": {
+            "Maloney": 7,
+            "Biaggi": 3,
+            "total": 10,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Maloney": 7,
+            "Biaggi": 3,
+            "total": 10,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Dutchess"
+        }
+    }
+}

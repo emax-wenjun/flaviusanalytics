@@ -1,0 +1,213 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hobbs": 1281997,
+            "Lake": 1264842,
+            "total": 2546839,
+            "min_turnout": 2561347,
+            "max_turnout": 2681435
+        },
+        {
+            "county_name": "Apache",
+            "Hobbs": 17402,
+            "Lake": 8698,
+            "total": 26100,
+            "min_turnout": 26364,
+            "max_turnout": 28369
+        },
+        {
+            "county_name": "Cochise",
+            "Hobbs": 19023,
+            "Lake": 27342,
+            "total": 46365,
+            "min_turnout": 46661,
+            "max_turnout": 48805
+        },
+        {
+            "county_name": "Coconino",
+            "Hobbs": 34154,
+            "Lake": 20155,
+            "total": 54309,
+            "min_turnout": 54798,
+            "max_turnout": 57167
+        },
+        {
+            "county_name": "Gila",
+            "Hobbs": 7674,
+            "Lake": 14763,
+            "total": 22437,
+            "min_turnout": 22445,
+            "max_turnout": 23617
+        },
+        {
+            "county_name": "Graham",
+            "Hobbs": 3086,
+            "Lake": 7754,
+            "total": 10840,
+            "min_turnout": 10861,
+            "max_turnout": 11410
+        },
+        {
+            "county_name": "Greenlee",
+            "Hobbs": 920,
+            "Lake": 1526,
+            "total": 2446,
+            "min_turnout": 2470,
+            "max_turnout": 2471
+        },
+        {
+            "county_name": "La Paz",
+            "Hobbs": 1643,
+            "Lake": 3844,
+            "total": 5487,
+            "min_turnout": 5487,
+            "max_turnout": 5542
+        },
+        {
+            "county_name": "Maricopa",
+            "Hobbs": 786828,
+            "Lake": 749265,
+            "total": 1536093,
+            "min_turnout": 1544690,
+            "max_turnout": 1616940
+        },
+        {
+            "county_name": "Mohave",
+            "Hobbs": 20341,
+            "Lake": 61053,
+            "total": 81394,
+            "min_turnout": 82094,
+            "max_turnout": 85677
+        },
+        {
+            "county_name": "Navajo",
+            "Hobbs": 18027,
+            "Lake": 22251,
+            "total": 40278,
+            "min_turnout": 40588,
+            "max_turnout": 42397
+        },
+        {
+            "county_name": "Pima",
+            "Hobbs": 240261,
+            "Lake": 156044,
+            "total": 396305,
+            "min_turnout": 397825,
+            "max_turnout": 417163
+        },
+        {
+            "county_name": "Pinal",
+            "Hobbs": 59847,
+            "Lake": 83336,
+            "total": 143183,
+            "min_turnout": 144262,
+            "max_turnout": 150718
+        },
+        {
+            "county_name": "Santa Cruz",
+            "Hobbs": 8618,
+            "Lake": 4326,
+            "total": 12944,
+            "min_turnout": 13075,
+            "max_turnout": 13625
+        },
+        {
+            "county_name": "Yavapai",
+            "Hobbs": 44316,
+            "Lake": 78831,
+            "total": 123147,
+            "min_turnout": 123546,
+            "max_turnout": 129628
+        },
+        {
+            "county_name": "Yuma",
+            "Hobbs": 19857,
+            "Lake": 25654,
+            "total": 45511,
+            "min_turnout": 46181,
+            "max_turnout": 47906
+        }
+    ],
+    "sources": "nyt, cnn, ddhq, sos",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Apache": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cochise": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Coconino": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gila": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Graham": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Greenlee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "La Paz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Maricopa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mohave": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Navajo": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pima": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pinal": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Santa Cruz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Yavapai": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Yuma": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        }
+    }
+}

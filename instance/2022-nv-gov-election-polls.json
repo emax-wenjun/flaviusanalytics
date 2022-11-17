@@ -1,0 +1,290 @@
+[
+    {
+        "pollster": "Mellman Group",
+        "start": "2021-09-15",
+        "end": "2021-09-22",
+        "add": "2021-10-03",
+        "Sisolak": 44.9,
+        "Lombardo": 44.4
+    },
+    {
+        "pollster": "OnMessage",
+        "start": "2021-11-16",
+        "end": "2021-11-18",
+        "add": "2021-12-14",
+        "Sisolak": 41.0,
+        "Lombardo": 51.0
+    },
+    {
+        "pollster": "ALG Research",
+        "start": "2021-12-01",
+        "end": "2021-12-07",
+        "add": "2021-12-14",
+        "Sisolak": 47.0,
+        "Lombardo": 45.0
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-01-19",
+        "end": "2022-01-26",
+        "add": "2022-02-01",
+        "Sisolak": 52.2,
+        "Lombardo": 47.8
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-03-21",
+        "end": "2022-03-24",
+        "add": "2022-03-26",
+        "Sisolak": 40.0,
+        "Lombardo": 43.2
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-04-02",
+        "end": "2022-04-06",
+        "add": "2022-04-12",
+        "Sisolak": 37.2,
+        "Lombardo": 39.2
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-04-01",
+        "end": "2022-04-09",
+        "add": "2022-04-19",
+        "Sisolak": 44.0,
+        "Lombardo": 35.0
+    },
+    {
+        "pollster": "University of Nevada",
+        "start": "2022-05-17",
+        "end": "2022-05-27",
+        "add": "2022-06-03",
+        "Sisolak": 43.0,
+        "Lombardo": 31.0
+    },
+    {
+        "pollster": "WPA Intelligence",
+        "start": "2022-06-04",
+        "end": "2022-06-06",
+        "add": "2022-06-15",
+        "Sisolak": 47.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-07-07",
+        "end": "2022-07-10",
+        "add": "2022-07-13",
+        "Sisolak": 43.6,
+        "Lombardo": 40.4
+    },
+    {
+        "pollster": "Tarrance Group",
+        "start": "2022-07-05",
+        "end": "2022-07-10",
+        "add": "2022-07-21",
+        "Sisolak": 46.0,
+        "Lombardo": 44.0
+    },
+    {
+        "pollster": "Change Research",
+        "start": "2022-06-24",
+        "end": "2022-06-27",
+        "add": "2022-07-26",
+        "Sisolak": 46.0,
+        "Lombardo": 43.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Sisolak": 49.0,
+        "Lombardo": 39.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Sisolak": 48.0,
+        "Lombardo": 46.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-08-15",
+        "end": "2022-08-18",
+        "add": "2022-08-19",
+        "Sisolak": 43.6,
+        "Lombardo": 46.2
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-08-14",
+        "end": "2022-08-17",
+        "add": "2022-08-21",
+        "Sisolak": 43.2,
+        "Lombardo": 40.2
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-08-16",
+        "end": "2022-08-24",
+        "add": "2022-09-01",
+        "Sisolak": 41.0,
+        "Lombardo": 38.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-08-16",
+        "end": "2022-08-24",
+        "add": "2022-09-01",
+        "Sisolak": 46.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-08",
+        "end": "2022-09-10",
+        "add": "2022-09-13",
+        "Sisolak": 40.4,
+        "Lombardo": 40.2
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-17",
+        "end": "2022-09-20",
+        "add": "2022-09-22",
+        "Sisolak": 44.5,
+        "Lombardo": 47.5
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-09-14",
+        "end": "2022-09-19",
+        "add": "2022-09-22",
+        "Sisolak": 45.0,
+        "Lombardo": 45.0
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-09-20",
+        "end": "2022-09-29",
+        "add": "2022-10-03",
+        "Sisolak": 42.0,
+        "Lombardo": 45.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-09-26",
+        "end": "2022-10-02",
+        "add": "2022-10-06",
+        "Sisolak": 46.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-09-26",
+        "end": "2022-10-02",
+        "add": "2022-10-06",
+        "Sisolak": 46.0,
+        "Lombardo": 46.0
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-10-04",
+        "end": "2022-10-07",
+        "add": "2022-10-12",
+        "Sisolak": 43.0,
+        "Lombardo": 43.6
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-10-14",
+        "end": "2022-10-19",
+        "add": "2022-10-20",
+        "Sisolak": 48.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "Rasmussen Reports/Pulse Opinion Research",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-21",
+        "Sisolak": 42.0,
+        "Lombardo": 47.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-20",
+        "end": "2022-10-20",
+        "add": "2022-10-23",
+        "Sisolak": 42.8,
+        "Lombardo": 48.5
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-10-22",
+        "end": "2022-10-23",
+        "add": "2022-10-25",
+        "Sisolak": 50.0,
+        "Lombardo": 45.4
+    },
+    {
+        "pollster": "BSP Research/Shaw & Company Research",
+        "start": "2022-10-12",
+        "end": "2022-10-19",
+        "add": "2022-10-25",
+        "Sisolak": 43.0,
+        "Lombardo": 41.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-10-13",
+        "end": "2022-10-19",
+        "add": "2022-10-26",
+        "Sisolak": 47.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "University of Nevada",
+        "start": "2022-10-05",
+        "end": "2022-10-19",
+        "add": "2022-10-26",
+        "Sisolak": 47.0,
+        "Lombardo": 45.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-27",
+        "Sisolak": 44.0,
+        "Lombardo": 44.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-27",
+        "Sisolak": 45.0,
+        "Lombardo": 48.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-23",
+        "end": "2022-10-25",
+        "add": "2022-10-27",
+        "Sisolak": 44.1,
+        "Lombardo": 50.9
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-10-24",
+        "end": "2022-10-27",
+        "add": "2022-10-31",
+        "Sisolak": 45.0,
+        "Lombardo": 41.0
+    }
+]

@@ -1,0 +1,117 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Kent": 49887,
+            "Herrera Beutler": 48828,
+            "Perez": 67937,
+            "total": 218898,
+            "min_turnout": 220855,
+            "max_turnout": 224827
+        },
+        {
+            "county_name": "Clark",
+            "Kent": 28477,
+            "Herrera Beutler": 30016,
+            "Perez": 50157,
+            "total": 139528,
+            "min_turnout": 140965,
+            "max_turnout": 140965
+        },
+        {
+            "county_name": "Cowlitz",
+            "Kent": 7236,
+            "Herrera Beutler": 7329,
+            "Perez": 7314,
+            "total": 31359,
+            "min_turnout": 31359,
+            "max_turnout": 31884
+        },
+        {
+            "county_name": "Lewis",
+            "Kent": 7835,
+            "Herrera Beutler": 6379,
+            "Perez": 3912,
+            "total": 24223,
+            "min_turnout": 24223,
+            "max_turnout": 25370
+        },
+        {
+            "county_name": "Pacific",
+            "Kent": 1718,
+            "Herrera Beutler": 1978,
+            "Perez": 2713,
+            "total": 8414,
+            "min_turnout": 8414,
+            "max_turnout": 8560
+        },
+        {
+            "county_name": "Skamania",
+            "Kent": 1304,
+            "Herrera Beutler": 969,
+            "Perez": 1342,
+            "total": 4669,
+            "min_turnout": 4669,
+            "max_turnout": 5503
+        },
+        {
+            "county_name": "Thurston",
+            "Kent": 2900,
+            "Herrera Beutler": 1644,
+            "Perez": 2077,
+            "total": 8771,
+            "min_turnout": 9291,
+            "max_turnout": 10524
+        },
+        {
+            "county_name": "Wahkiakum",
+            "Kent": 417,
+            "Herrera Beutler": 513,
+            "Perez": 422,
+            "total": 1934,
+            "min_turnout": 1934,
+            "max_turnout": 2021
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cowlitz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pacific": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Skamania": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Thurston": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wahkiakum": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        }
+    }
+}

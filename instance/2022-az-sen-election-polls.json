@@ -1,0 +1,410 @@
+[
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2021-09-07",
+        "end": "2021-09-12",
+        "add": "2021-09-30",
+        "Kelly": 44.0,
+        "Masters": 35.0
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-05-12",
+        "end": "2022-05-16",
+        "add": "2022-05-20",
+        "Kelly": 48.6,
+        "Masters": 32.3
+    },
+    {
+        "pollster": "Change Research",
+        "start": "2022-06-24",
+        "end": "2022-06-27",
+        "add": "2022-06-30",
+        "Kelly": 48.0,
+        "Masters": 39.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Kelly": 49.0,
+        "Masters": 34.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Kelly": 51.0,
+        "Masters": 39.0
+    },
+    {
+        "pollster": "OnMessage",
+        "start": "2022-08-01",
+        "end": "2022-08-02",
+        "add": "2022-08-03",
+        "Kelly": 49.0,
+        "Masters": 44.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates",
+        "start": "2022-07-13",
+        "end": "2022-07-14",
+        "add": "2022-08-04",
+        "Kelly": 49.0,
+        "Masters": 44.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-01",
+        "end": "2022-08-08",
+        "add": "2022-08-10",
+        "Kelly": 48.0,
+        "Masters": 34.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-01",
+        "end": "2022-08-08",
+        "add": "2022-08-10",
+        "Kelly": 50.0,
+        "Masters": 34.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-01",
+        "end": "2022-08-08",
+        "add": "2022-08-10",
+        "Kelly": 54.0,
+        "Masters": 40.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-08-12",
+        "end": "2022-08-16",
+        "add": "2022-08-18",
+        "Kelly": 50.0,
+        "Masters": 42.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-08-24",
+        "end": "2022-08-27",
+        "add": "2022-08-29",
+        "Kelly": 47.6,
+        "Masters": 44.3
+    },
+    {
+        "pollster": "RMG Research",
+        "start": "2022-08-16",
+        "end": "2022-08-22",
+        "add": "2022-08-30",
+        "Kelly": 50.0,
+        "Masters": 43.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-09-06",
+        "end": "2022-09-07",
+        "add": "2022-09-09",
+        "Kelly": 45.0,
+        "Masters": 39.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-06",
+        "end": "2022-09-07",
+        "add": "2022-09-09",
+        "Kelly": 46.7,
+        "Masters": 45.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-08-31",
+        "end": "2022-09-07",
+        "add": "2022-09-13",
+        "Kelly": 52.0,
+        "Masters": 37.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-06",
+        "end": "2022-09-09",
+        "add": "2022-09-15",
+        "Kelly": 55.0,
+        "Masters": 35.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-06",
+        "end": "2022-09-09",
+        "add": "2022-09-15",
+        "Kelly": 53.0,
+        "Masters": 32.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-14",
+        "end": "2022-09-17",
+        "add": "2022-09-18",
+        "Kelly": 46.6,
+        "Masters": 45.4
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-09-06",
+        "end": "2022-09-09",
+        "add": "2022-09-21",
+        "Kelly": 47.0,
+        "Masters": 35.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-09-08",
+        "end": "2022-09-15",
+        "add": "2022-09-22",
+        "Kelly": 50.0,
+        "Masters": 42.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-09-08",
+        "end": "2022-09-15",
+        "add": "2022-09-22",
+        "Kelly": 52.0,
+        "Masters": 45.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-09-15",
+        "end": "2022-09-19",
+        "add": "2022-09-22",
+        "Kelly": 48.0,
+        "Masters": 47.0
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-09-21",
+        "end": "2022-09-25",
+        "add": "2022-09-27",
+        "Kelly": 49.0,
+        "Masters": 42.2
+    },
+    {
+        "pollster": "Marist College",
+        "start": "2022-09-19",
+        "end": "2022-09-22",
+        "add": "2022-09-28",
+        "Kelly": 51.0,
+        "Masters": 41.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-09-22",
+        "end": "2022-09-26",
+        "add": "2022-09-30",
+        "Kelly": 46.0,
+        "Masters": 40.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-09-30",
+        "end": "2022-10-04",
+        "add": "2022-10-05",
+        "Kelly": 51.0,
+        "Masters": 48.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-09-26",
+        "end": "2022-10-02",
+        "add": "2022-10-06",
+        "Kelly": 51.0,
+        "Masters": 45.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-09-26",
+        "end": "2022-10-02",
+        "add": "2022-10-06",
+        "Kelly": 52.0,
+        "Masters": 42.0
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-10-04",
+        "end": "2022-10-06",
+        "add": "2022-10-11",
+        "Kelly": 46.0,
+        "Masters": 33.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-04",
+        "end": "2022-10-09",
+        "add": "2022-10-12",
+        "Kelly": 54.0,
+        "Masters": 32.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-04",
+        "end": "2022-10-09",
+        "add": "2022-10-12",
+        "Kelly": 55.0,
+        "Masters": 38.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-11",
+        "end": "2022-10-11",
+        "add": "2022-10-13",
+        "Kelly": 46.0,
+        "Masters": 41.6
+    },
+    {
+        "pollster": "OnMessage",
+        "start": "2022-09-06",
+        "end": "2022-09-11",
+        "add": "2022-10-13",
+        "Kelly": 50.0,
+        "Masters": 40.0
+    },
+    {
+        "pollster": "OnMessage",
+        "start": "2022-10-08",
+        "end": "2022-10-10",
+        "add": "2022-10-13",
+        "Kelly": 46.0,
+        "Masters": 43.0
+    },
+    {
+        "pollster": "HighGround",
+        "start": "2022-10-12",
+        "end": "2022-10-13",
+        "add": "2022-10-18",
+        "Kelly": 42.4,
+        "Masters": 39.6
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-16",
+        "end": "2022-10-17",
+        "add": "2022-10-19",
+        "Kelly": 47.4,
+        "Masters": 46.4
+    },
+    {
+        "pollster": "co/efficient",
+        "start": "2022-10-20",
+        "end": "2022-10-21",
+        "add": "2022-10-21",
+        "Kelly": 46.6,
+        "Masters": 44.8
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-08",
+        "end": "2022-10-13",
+        "add": "2022-10-22",
+        "Kelly": 48.9,
+        "Masters": 46.4
+    },
+    {
+        "pollster": "Susquehanna Polling & Research",
+        "start": "2022-10-14",
+        "end": "2022-10-18",
+        "add": "2022-10-24",
+        "Kelly": 47.7,
+        "Masters": 44.5
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-10-11",
+        "end": "2022-10-17",
+        "add": "2022-10-26",
+        "Kelly": 47.0,
+        "Masters": 47.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-24",
+        "end": "2022-10-25",
+        "add": "2022-10-26",
+        "Kelly": 45.0,
+        "Masters": 43.0
+    },
+    {
+        "pollster": "Siena College/The New York Times Upshot",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-31",
+        "Kelly": 51.0,
+        "Masters": 45.0
+    },
+    {
+        "pollster": "OH Predictive Insights",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-31",
+        "Kelly": 48.0,
+        "Masters": 46.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-31",
+        "Kelly": 47.0,
+        "Masters": 46.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-31",
+        "Kelly": 49.0,
+        "Masters": 49.0
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-26",
+        "end": "2022-10-30",
+        "add": "2022-10-31",
+        "Kelly": 49.2,
+        "Masters": 46.9
+    },
+    {
+        "pollster": "Ascend Action",
+        "start": "2022-10-08",
+        "end": "2022-10-10",
+        "add": "2022-10-31",
+        "Kelly": 48.0,
+        "Masters": 44.0
+    },
+    {
+        "pollster": "Hart Research Associates",
+        "start": "2022-10-10",
+        "end": "2022-10-13",
+        "add": "2022-10-31",
+        "Kelly": 47.0,
+        "Masters": 43.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-25",
+        "end": "2022-10-30",
+        "add": "2022-10-31",
+        "Kelly": 54.0,
+        "Masters": 36.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-25",
+        "end": "2022-10-30",
+        "add": "2022-10-31",
+        "Kelly": 55.0,
+        "Masters": 45.0
+    }
+]

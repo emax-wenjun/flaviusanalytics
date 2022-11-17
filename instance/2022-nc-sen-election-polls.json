@@ -1,0 +1,250 @@
+[
+    {
+        "pollster": "Redfield & Wilton Strategies",
+        "start": "2021-11-10",
+        "end": "2021-11-10",
+        "add": "2021-11-29",
+        "Beasley": 36.0,
+        "Budd": 37.0
+    },
+    {
+        "pollster": "Redfield & Wilton Strategies",
+        "start": "2021-11-10",
+        "end": "2021-11-10",
+        "add": "2021-11-29",
+        "Beasley": 39.0,
+        "Budd": 40.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-03-30",
+        "end": "2022-03-31",
+        "add": "2022-04-05",
+        "Beasley": 43.1,
+        "Budd": 44.6
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-04-02",
+        "end": "2022-04-04",
+        "add": "2022-04-05",
+        "Beasley": 42.8,
+        "Budd": 49.6
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-05-07",
+        "end": "2022-05-09",
+        "add": "2022-05-11",
+        "Beasley": 41.4,
+        "Budd": 48.2
+    },
+    {
+        "pollster": "Global Strategy Group",
+        "start": "2022-04-28",
+        "end": "2022-05-04",
+        "add": "2022-05-12",
+        "Beasley": 45.0,
+        "Budd": 45.0
+    },
+    {
+        "pollster": "Meeting Street Insights",
+        "start": "2022-05-12",
+        "end": "2022-05-16",
+        "add": "2022-05-18",
+        "Beasley": 45.0,
+        "Budd": 46.0
+    },
+    {
+        "pollster": "East Carolina University",
+        "start": "2022-05-19",
+        "end": "2022-05-20",
+        "add": "2022-05-23",
+        "Beasley": 41.5,
+        "Budd": 49.3
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-05-21",
+        "end": "2022-05-22",
+        "add": "2022-05-26",
+        "Beasley": 41.8,
+        "Budd": 43.6
+    },
+    {
+        "pollster": "SurveyUSA",
+        "start": "2022-06-08",
+        "end": "2022-06-12",
+        "add": "2022-06-14",
+        "Beasley": 44.0,
+        "Budd": 40.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-06-17",
+        "end": "2022-06-19",
+        "add": "2022-06-23",
+        "Beasley": 40.3,
+        "Budd": 45.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-06-29",
+        "end": "2022-07-01",
+        "add": "2022-07-05",
+        "Beasley": 45.1,
+        "Budd": 47.6
+    },
+    {
+        "pollster": "PEM Management Corporation",
+        "start": "2022-07-22",
+        "end": "2022-07-24",
+        "add": "2022-07-28",
+        "Beasley": 42.7,
+        "Budd": 40.3
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-08-04",
+        "end": "2022-08-06",
+        "add": "2022-08-09",
+        "Beasley": 46.0,
+        "Budd": 42.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-08-13",
+        "end": "2022-08-15",
+        "add": "2022-08-18",
+        "Beasley": 42.3,
+        "Budd": 42.3
+    },
+    {
+        "pollster": "Public Policy Polling",
+        "start": "2022-08-29",
+        "end": "2022-08-30",
+        "add": "2022-08-31",
+        "Beasley": 42.0,
+        "Budd": 41.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-01",
+        "end": "2022-09-04",
+        "add": "2022-09-07",
+        "Beasley": 43.8,
+        "Budd": 46.6
+    },
+    {
+        "pollster": "East Carolina University",
+        "start": "2022-09-07",
+        "end": "2022-09-10",
+        "add": "2022-09-13",
+        "Beasley": 45.9,
+        "Budd": 48.7
+    },
+    {
+        "pollster": "Capitol Communications",
+        "start": "2022-08-21",
+        "end": "2022-08-22",
+        "add": "2022-09-14",
+        "Beasley": 42.3,
+        "Budd": 41.4
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-15",
+        "end": "2022-09-16",
+        "add": "2022-09-20",
+        "Beasley": 43.2,
+        "Budd": 45.6
+    },
+    {
+        "pollster": "Civiqs",
+        "start": "2022-09-17",
+        "end": "2022-09-20",
+        "add": "2022-09-21",
+        "Beasley": 49.0,
+        "Budd": 48.0
+    },
+    {
+        "pollster": "Global Strategy Group",
+        "start": "2022-09-12",
+        "end": "2022-09-20",
+        "add": "2022-09-27",
+        "Beasley": 46.0,
+        "Budd": 46.0
+    },
+    {
+        "pollster": "Meredith College",
+        "start": "2022-09-20",
+        "end": "2022-09-23",
+        "add": "2022-09-29",
+        "Beasley": 41.0,
+        "Budd": 41.3
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-09-24",
+        "end": "2022-09-26",
+        "add": "2022-09-29",
+        "Beasley": 44.0,
+        "Budd": 43.7
+    },
+    {
+        "pollster": "SurveyUSA",
+        "start": "2022-09-28",
+        "end": "2022-10-02",
+        "add": "2022-10-03",
+        "Beasley": 42.0,
+        "Budd": 43.0
+    },
+    {
+        "pollster": "Public Policy Polling",
+        "start": "2022-10-07",
+        "end": "2022-10-08",
+        "add": "2022-10-11",
+        "Beasley": 45.0,
+        "Budd": 46.0
+    },
+    {
+        "pollster": "East Carolina University",
+        "start": "2022-10-10",
+        "end": "2022-10-13",
+        "add": "2022-10-17",
+        "Beasley": 44.0,
+        "Budd": 50.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-16",
+        "end": "2022-10-19",
+        "add": "2022-10-20",
+        "Beasley": 44.2,
+        "Budd": 48.4
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-08",
+        "end": "2022-10-13",
+        "add": "2022-10-22",
+        "Beasley": 44.2,
+        "Budd": 48.7
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-10-20",
+        "end": "2022-10-22",
+        "add": "2022-10-25",
+        "Beasley": 43.1,
+        "Budd": 46.9
+    },
+    {
+        "pollster": "Marist College",
+        "start": "2022-10-17",
+        "end": "2022-10-20",
+        "add": "2022-10-26",
+        "Beasley": 44.0,
+        "Budd": 44.0
+    }
+]

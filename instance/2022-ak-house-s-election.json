@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Palin": 85987,
+            "Begich": 0,
+            "Peltola": 91206,
+            "total": 177193,
+            "min_turnout": 177193,
+            "max_turnout": 195085
+        },
+        {
+            "county_name": "Alaska",
+            "Palin": 85987,
+            "Begich": 0,
+            "Peltola": 91206,
+            "total": 177193,
+            "min_turnout": 177193,
+            "max_turnout": 195085
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alaska": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

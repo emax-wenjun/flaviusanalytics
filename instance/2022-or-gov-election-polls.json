@@ -1,0 +1,137 @@
+[
+    {
+        "pollster": "Nelson Research",
+        "start": "2022-05-25",
+        "end": "2022-05-27",
+        "add": "2022-06-02",
+        "Kotek": 27.5,
+        "Drazan": 29.5,
+        "Johnson": 19.4
+    },
+    {
+        "pollster": "GS Strategy Group",
+        "start": "2022-06-23",
+        "end": "2022-06-29",
+        "add": "2022-07-06",
+        "Kotek": 33.0,
+        "Drazan": 23.0,
+        "Johnson": 30.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-06-28",
+        "end": "2022-06-30",
+        "add": "2022-07-08",
+        "Kotek": 31.4,
+        "Drazan": 32.4,
+        "Johnson": 24.4
+    },
+    {
+        "pollster": "Clout Research",
+        "start": "2022-08-10",
+        "end": "2022-08-14",
+        "add": "2022-09-06",
+        "Kotek": 32.1,
+        "Drazan": 32.8,
+        "Johnson": 20.6
+    },
+    {
+        "pollster": "DHM Research",
+        "start": "2022-09-23",
+        "end": "2022-09-24",
+        "add": "2022-09-28",
+        "Kotek": 31.0,
+        "Drazan": 32.0,
+        "Johnson": 18.0
+    },
+    {
+        "pollster": "DHM Research",
+        "start": "2022-09-23",
+        "end": "2022-09-24",
+        "add": "2022-09-28",
+        "Kotek": 33.0,
+        "Drazan": 35.0,
+        "Johnson": 21.0
+    },
+    {
+        "pollster": "Clout Research",
+        "start": "2022-09-23",
+        "end": "2022-09-26",
+        "add": "2022-09-29",
+        "Kotek": 35.1,
+        "Drazan": 38.6,
+        "Johnson": 16.2
+    },
+    {
+        "pollster": "Nelson Research",
+        "start": "2022-09-19",
+        "end": "2022-09-20",
+        "add": "2022-09-30",
+        "Kotek": 31.5,
+        "Drazan": 33.4,
+        "Johnson": 19.2
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-30",
+        "end": "2022-10-01",
+        "add": "2022-10-04",
+        "Kotek": 33.6,
+        "Drazan": 36.0,
+        "Johnson": 19.2
+    },
+    {
+        "pollster": "Clout Research",
+        "start": "2022-10-08",
+        "end": "2022-10-09",
+        "add": "2022-10-13",
+        "Kotek": 38.4,
+        "Drazan": 43.8,
+        "Johnson": 11.1
+    },
+    {
+        "pollster": "GBAO",
+        "start": "2022-10-10",
+        "end": "2022-10-13",
+        "add": "2022-10-19",
+        "Kotek": 40.0,
+        "Drazan": 38.0,
+        "Johnson": 14.0
+    },
+    {
+        "pollster": "Hoffman Research Group",
+        "start": "2022-10-17",
+        "end": "2022-10-18",
+        "add": "2022-10-20",
+        "Kotek": 35.0,
+        "Drazan": 37.0,
+        "Johnson": 17.0
+    },
+    {
+        "pollster": "Civiqs",
+        "start": "2022-10-15",
+        "end": "2022-10-18",
+        "add": "2022-10-20",
+        "Kotek": 47.0,
+        "Drazan": 39.0,
+        "Johnson": 7.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-10-16",
+        "end": "2022-10-18",
+        "add": "2022-10-22",
+        "Kotek": 42.0,
+        "Drazan": 43.0,
+        "Johnson": 12.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-18",
+        "end": "2022-10-22",
+        "add": "2022-10-26",
+        "Kotek": 40.4,
+        "Drazan": 41.7,
+        "Johnson": 13.2
+    }
+]

@@ -1,0 +1,414 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Chen": 72891,
+            "Steel": 85592,
+            "total": 158483,
+            "min_turnout": 237549,
+            "max_turnout": 258089
+        },
+        "1": {
+            "county_name": "Los Angeles",
+            "Chen": 7916,
+            "Steel": 6482,
+            "total": 14398,
+            "min_turnout": 22497,
+            "max_turnout": 29383
+        },
+        "2": {
+            "county_name": "Orange",
+            "Chen": 64975,
+            "Steel": 79110,
+            "total": 144085,
+            "min_turnout": 215052,
+            "max_turnout": 228706
+        }
+    },
+    "2022-11-12T19:00:58-05:00": {
+        "0": {
+            "Chen": 583,
+            "Steel": 381,
+            "total": 964,
+            "min_turnout": 0,
+            "max_turnout": -399,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 583,
+            "Steel": 381,
+            "total": 964,
+            "min_turnout": 0,
+            "max_turnout": -399,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-12T20:01:29-05:00": {
+        "0": {
+            "Chen": 2778,
+            "Steel": 2772,
+            "total": 5550,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 2778,
+            "Steel": 2772,
+            "total": 5550,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-12T22:01:20-05:00": {
+        "0": {
+            "Chen": 1257,
+            "Steel": 1016,
+            "total": 2273,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 1257,
+            "Steel": 1016,
+            "total": 2273,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-12T22:32:01-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1501,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1501,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-13T08:10:01-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-14T20:12:20-05:00": {
+        "0": {
+            "Chen": 4968,
+            "Steel": 6353,
+            "total": 11321,
+            "min_turnout": 0,
+            "max_turnout": 538,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 1113,
+            "Steel": 628,
+            "total": 1741,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Los Angeles"
+        },
+        "2": {
+            "Chen": 3855,
+            "Steel": 5725,
+            "total": 9580,
+            "min_turnout": 0,
+            "max_turnout": 534,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-14T20:13:30-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 1257,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 1257,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T20:49:26-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 679,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 679,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T21:21:31-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 1879,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 1879,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-14T21:53:13-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -13192,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -13192,
+            "max_turnout": 0,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-15T10:52:08-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18213,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18213,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-15T11:05:19-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8069,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8069,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-15T12:28:48-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -1161,
+            "max_turnout": -2676,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -1161,
+            "max_turnout": -2676,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T18:49:04-05:00": {
+        "0": {
+            "Chen": 211,
+            "Steel": 147,
+            "total": 358,
+            "min_turnout": -207,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 211,
+            "Steel": 147,
+            "total": 358,
+            "min_turnout": -207,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-15T20:02:49-05:00": {
+        "0": {
+            "Chen": 4798,
+            "Steel": 5697,
+            "total": 10495,
+            "min_turnout": 0,
+            "max_turnout": -2083,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 4798,
+            "Steel": 5697,
+            "total": 10495,
+            "min_turnout": 0,
+            "max_turnout": -2083,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1368,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1368,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T18:24:58-05:00": {
+        "0": {
+            "Chen": 810,
+            "Steel": 515,
+            "total": 1325,
+            "min_turnout": 0,
+            "max_turnout": 104,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 810,
+            "Steel": 515,
+            "total": 1325,
+            "min_turnout": 0,
+            "max_turnout": 104,
+            "county_name": "Los Angeles"
+        }
+    },
+    "2022-11-16T20:05:16-05:00": {
+        "0": {
+            "Chen": 5793,
+            "Steel": 4308,
+            "total": 10101,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 5793,
+            "Steel": 4308,
+            "total": 10101,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-16T20:32:19-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2256,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2256,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-16T20:42:27-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -6071,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": -6071,
+            "max_turnout": 0,
+            "county_name": "Orange"
+        }
+    },
+    "2022-11-16T22:01:09-05:00": {
+        "0": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 104,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Chen": 0,
+            "Steel": 0,
+            "total": 0,
+            "min_turnout": 104,
+            "max_turnout": 0,
+            "county_name": "Los Angeles"
+        }
+    }
+}

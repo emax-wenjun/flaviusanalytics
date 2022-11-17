@@ -1,0 +1,562 @@
+{
+    "2022-11-12T00:58:41-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Engel": 146766,
+            "Ciscomani": 149672,
+            "total": 296438,
+            "min_turnout": 349404,
+            "max_turnout": 358195
+        },
+        "1": {
+            "county_name": "Cochise",
+            "Engel": 10587,
+            "Ciscomani": 21926,
+            "total": 32513,
+            "min_turnout": 38250,
+            "max_turnout": 39716
+        },
+        "2": {
+            "county_name": "Graham",
+            "Engel": 2324,
+            "Ciscomani": 7854,
+            "total": 10178,
+            "min_turnout": 10281,
+            "max_turnout": 10713
+        },
+        "3": {
+            "county_name": "Greenlee",
+            "Engel": 878,
+            "Ciscomani": 1540,
+            "total": 2418,
+            "min_turnout": 2442,
+            "max_turnout": 2442
+        },
+        "4": {
+            "county_name": "Pima",
+            "Engel": 121046,
+            "Ciscomani": 102995,
+            "total": 224041,
+            "min_turnout": 266715,
+            "max_turnout": 273221
+        },
+        "5": {
+            "county_name": "Pinal",
+            "Engel": 11931,
+            "Ciscomani": 15357,
+            "total": 27288,
+            "min_turnout": 31716,
+            "max_turnout": 32103
+        }
+    },
+    "2022-11-12T18:45:49-05:00": {
+        "0": {
+            "Engel": 7163,
+            "Ciscomani": 5639,
+            "total": 12802,
+            "min_turnout": 2424,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 7163,
+            "Ciscomani": 5639,
+            "total": 12802,
+            "min_turnout": 2424,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-12T19:04:30-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -66,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-13T15:59:50-05:00": {
+        "0": {
+            "Engel": 253,
+            "Ciscomani": 328,
+            "total": 581,
+            "min_turnout": 0,
+            "max_turnout": -70,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 253,
+            "Ciscomani": 328,
+            "total": 581,
+            "min_turnout": 0,
+            "max_turnout": -70,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-13T17:05:45-05:00": {
+        "0": {
+            "Engel": 3192,
+            "Ciscomani": 3352,
+            "total": 6544,
+            "min_turnout": -1681,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 3192,
+            "Ciscomani": 3352,
+            "total": 6544,
+            "min_turnout": -1681,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-13T19:19:44-05:00": {
+        "0": {
+            "Engel": 152,
+            "Ciscomani": 308,
+            "total": 460,
+            "min_turnout": 0,
+            "max_turnout": -203,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 152,
+            "Ciscomani": 308,
+            "total": 460,
+            "min_turnout": 0,
+            "max_turnout": -203,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-13T19:52:35-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -1255,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -1255,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T13:08:33-05:00": {
+        "0": {
+            "Engel": 238,
+            "Ciscomani": 539,
+            "total": 777,
+            "min_turnout": 0,
+            "max_turnout": 154,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 238,
+            "Ciscomani": 539,
+            "total": 777,
+            "min_turnout": 0,
+            "max_turnout": 154,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T13:32:36-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 503,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 503,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T16:32:28-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 333,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 333,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T17:59:47-05:00": {
+        "0": {
+            "Engel": 290,
+            "Ciscomani": 314,
+            "total": 604,
+            "min_turnout": 0,
+            "max_turnout": -38,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 290,
+            "Ciscomani": 314,
+            "total": 604,
+            "min_turnout": 0,
+            "max_turnout": -38,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T20:12:20-05:00": {
+        "0": {
+            "Engel": 8492,
+            "Ciscomani": 9729,
+            "total": 18221,
+            "min_turnout": -515,
+            "max_turnout": -1638,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 1026,
+            "Ciscomani": 1741,
+            "total": 2767,
+            "min_turnout": 97,
+            "max_turnout": -881,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Engel": 7466,
+            "Ciscomani": 7988,
+            "total": 15454,
+            "min_turnout": -612,
+            "max_turnout": -757,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:15:44-05:00": {
+        "0": {
+            "Engel": 2239,
+            "Ciscomani": 2406,
+            "total": 4645,
+            "min_turnout": 0,
+            "max_turnout": 4889,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 2239,
+            "Ciscomani": 2406,
+            "total": 4645,
+            "min_turnout": 0,
+            "max_turnout": 4889,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:20:48-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 2017,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 2017,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-15T15:51:26-05:00": {
+        "0": {
+            "Engel": 187,
+            "Ciscomani": 371,
+            "total": 558,
+            "min_turnout": 0,
+            "max_turnout": -85,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 187,
+            "Ciscomani": 371,
+            "total": 558,
+            "min_turnout": 0,
+            "max_turnout": -85,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-15T18:02:00-05:00": {
+        "0": {
+            "Engel": 755,
+            "Ciscomani": 438,
+            "total": 1193,
+            "min_turnout": 0,
+            "max_turnout": 1256,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 755,
+            "Ciscomani": 438,
+            "total": 1193,
+            "min_turnout": 0,
+            "max_turnout": 1256,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-15T19:00:05-05:00": {
+        "0": {
+            "Engel": 18,
+            "Ciscomani": 21,
+            "total": 39,
+            "min_turnout": 0,
+            "max_turnout": 41,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 18,
+            "Ciscomani": 21,
+            "total": 39,
+            "min_turnout": 0,
+            "max_turnout": 41,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-15T19:04:31-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -2347,
+            "max_turnout": -422,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -2347,
+            "max_turnout": -422,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-15T19:43:54-05:00": {
+        "0": {
+            "Engel": 626,
+            "Ciscomani": 1990,
+            "total": 2616,
+            "min_turnout": 1896,
+            "max_turnout": 1543,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 626,
+            "Ciscomani": 1990,
+            "total": 2616,
+            "min_turnout": 1896,
+            "max_turnout": 1543,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -1811,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 383,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "4": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -1510,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "5": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": -684,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-16T13:43:52-05:00": {
+        "0": {
+            "Engel": 93,
+            "Ciscomani": 402,
+            "total": 495,
+            "min_turnout": 112,
+            "max_turnout": 521,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 93,
+            "Ciscomani": 402,
+            "total": 495,
+            "min_turnout": 112,
+            "max_turnout": 521,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T14:00:01-05:00": {
+        "0": {
+            "Engel": 7,
+            "Ciscomani": 16,
+            "total": 23,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 7,
+            "Ciscomani": 16,
+            "total": 23,
+            "min_turnout": 0,
+            "max_turnout": 24,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-16T14:36:35-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 388,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 388,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T19:37:56-05:00": {
+        "0": {
+            "Engel": 822,
+            "Ciscomani": 702,
+            "total": 1524,
+            "min_turnout": 0,
+            "max_turnout": 1604,
+            "county_name": "Total"
+        },
+        "4": {
+            "Engel": 822,
+            "Ciscomani": 702,
+            "total": 1524,
+            "min_turnout": 0,
+            "max_turnout": 1604,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-16T19:39:40-05:00": {
+        "0": {
+            "Engel": 5,
+            "Ciscomani": 79,
+            "total": 84,
+            "min_turnout": 0,
+            "max_turnout": 89,
+            "county_name": "Total"
+        },
+        "2": {
+            "Engel": 5,
+            "Ciscomani": 79,
+            "total": 84,
+            "min_turnout": 0,
+            "max_turnout": 89,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-16T21:36:28-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 85,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Engel": 0,
+            "Ciscomani": 0,
+            "total": 0,
+            "min_turnout": 85,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-17T11:03:57-05:00": {
+        "0": {
+            "Engel": 0,
+            "Ciscomani": 1,
+            "total": 1,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 0,
+            "Ciscomani": 1,
+            "total": 1,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-17T11:43:59-05:00": {
+        "0": {
+            "Engel": 5,
+            "Ciscomani": 17,
+            "total": 22,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Total"
+        },
+        "5": {
+            "Engel": 5,
+            "Ciscomani": 17,
+            "total": 22,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Pinal"
+        }
+    }
+}

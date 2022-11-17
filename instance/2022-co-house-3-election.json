@@ -1,0 +1,369 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Frisch": 160975,
+            "Boebert": 162078,
+            "total": 323053,
+            "min_turnout": 327518,
+            "max_turnout": 339890
+        },
+        {
+            "county_name": "Alamosa",
+            "Frisch": 2930,
+            "Boebert": 2872,
+            "total": 5802,
+            "min_turnout": 5865,
+            "max_turnout": 6107
+        },
+        {
+            "county_name": "Archuleta",
+            "Frisch": 3525,
+            "Boebert": 4141,
+            "total": 7666,
+            "min_turnout": 7757,
+            "max_turnout": 8069
+        },
+        {
+            "county_name": "Conejos",
+            "Frisch": 1580,
+            "Boebert": 1771,
+            "total": 3351,
+            "min_turnout": 3354,
+            "max_turnout": 3527
+        },
+        {
+            "county_name": "Costilla",
+            "Frisch": 1090,
+            "Boebert": 533,
+            "total": 1623,
+            "min_turnout": 1657,
+            "max_turnout": 1708
+        },
+        {
+            "county_name": "Delta",
+            "Frisch": 5544,
+            "Boebert": 10084,
+            "total": 15628,
+            "min_turnout": 15945,
+            "max_turnout": 16450
+        },
+        {
+            "county_name": "Dolores",
+            "Frisch": 323,
+            "Boebert": 948,
+            "total": 1271,
+            "min_turnout": 1291,
+            "max_turnout": 1337
+        },
+        {
+            "county_name": "Eagle",
+            "Frisch": 2916,
+            "Boebert": 1150,
+            "total": 4066,
+            "min_turnout": 4159,
+            "max_turnout": 4325
+        },
+        {
+            "county_name": "Garfield",
+            "Frisch": 13375,
+            "Boebert": 10167,
+            "total": 23542,
+            "min_turnout": 23935,
+            "max_turnout": 24781
+        },
+        {
+            "county_name": "Gunnison",
+            "Frisch": 6183,
+            "Boebert": 2747,
+            "total": 8930,
+            "min_turnout": 8979,
+            "max_turnout": 9020
+        },
+        {
+            "county_name": "Hinsdale",
+            "Frisch": 237,
+            "Boebert": 276,
+            "total": 513,
+            "min_turnout": 514,
+            "max_turnout": 540
+        },
+        {
+            "county_name": "Huerfano",
+            "Frisch": 1994,
+            "Boebert": 1793,
+            "total": 3787,
+            "min_turnout": 3788,
+            "max_turnout": 3986
+        },
+        {
+            "county_name": "La Plata",
+            "Frisch": 18539,
+            "Boebert": 10845,
+            "total": 29384,
+            "min_turnout": 29681,
+            "max_turnout": 30930
+        },
+        {
+            "county_name": "Las Animas",
+            "Frisch": 3174,
+            "Boebert": 3358,
+            "total": 6532,
+            "min_turnout": 6598,
+            "max_turnout": 6875
+        },
+        {
+            "county_name": "Mesa",
+            "Frisch": 30348,
+            "Boebert": 41527,
+            "total": 71875,
+            "min_turnout": 72939,
+            "max_turnout": 75657
+        },
+        {
+            "county_name": "Mineral",
+            "Frisch": 304,
+            "Boebert": 392,
+            "total": 696,
+            "min_turnout": 697,
+            "max_turnout": 732
+        },
+        {
+            "county_name": "Moffat",
+            "Frisch": 1081,
+            "Boebert": 4256,
+            "total": 5337,
+            "min_turnout": 5430,
+            "max_turnout": 5617
+        },
+        {
+            "county_name": "Montezuma",
+            "Frisch": 5248,
+            "Boebert": 7038,
+            "total": 12286,
+            "min_turnout": 12385,
+            "max_turnout": 12932
+        },
+        {
+            "county_name": "Montrose",
+            "Frisch": 7510,
+            "Boebert": 12773,
+            "total": 20283,
+            "min_turnout": 20579,
+            "max_turnout": 21350
+        },
+        {
+            "county_name": "Otero",
+            "Frisch": 2889,
+            "Boebert": 4100,
+            "total": 6989,
+            "min_turnout": 7137,
+            "max_turnout": 7680
+        },
+        {
+            "county_name": "Ouray",
+            "Frisch": 2205,
+            "Boebert": 1266,
+            "total": 3471,
+            "min_turnout": 3506,
+            "max_turnout": 3511
+        },
+        {
+            "county_name": "Pitkin",
+            "Frisch": 7364,
+            "Boebert": 1933,
+            "total": 9297,
+            "min_turnout": 9540,
+            "max_turnout": 9786
+        },
+        {
+            "county_name": "Pueblo",
+            "Frisch": 34892,
+            "Boebert": 30727,
+            "total": 65619,
+            "min_turnout": 66555,
+            "max_turnout": 69072
+        },
+        {
+            "county_name": "Rio Blanco",
+            "Frisch": 524,
+            "Boebert": 2455,
+            "total": 2979,
+            "min_turnout": 3009,
+            "max_turnout": 3135
+        },
+        {
+            "county_name": "Rio Grande",
+            "Frisch": 2109,
+            "Boebert": 2797,
+            "total": 4906,
+            "min_turnout": 4918,
+            "max_turnout": 5164
+        },
+        {
+            "county_name": "Saguache",
+            "Frisch": 1583,
+            "Boebert": 1162,
+            "total": 2745,
+            "min_turnout": 2748,
+            "max_turnout": 2889
+        },
+        {
+            "county_name": "San Juan",
+            "Frisch": 343,
+            "Boebert": 153,
+            "total": 496,
+            "min_turnout": 511,
+            "max_turnout": 522
+        },
+        {
+            "county_name": "San Miguel",
+            "Frisch": 3165,
+            "Boebert": 814,
+            "total": 3979,
+            "min_turnout": 4041,
+            "max_turnout": 4188
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alamosa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Archuleta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Conejos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Costilla": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Delta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dolores": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Eagle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gunnison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hinsdale": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Huerfano": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "La Plata": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Las Animas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mesa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mineral": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Moffat": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montezuma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montrose": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Otero": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ouray": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Pitkin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pueblo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rio Blanco": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rio Grande": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saguache": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "San Miguel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

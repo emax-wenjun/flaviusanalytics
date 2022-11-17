@@ -1,0 +1,4581 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Diehl": 150536,
+            "Doughty": 119597,
+            "total": 270133,
+            "min_turnout": 272675,
+            "max_turnout": 274421
+        },
+        {
+            "county_name": "Abington",
+            "Diehl": 884,
+            "Doughty": 254,
+            "total": 1138,
+            "min_turnout": 1149,
+            "max_turnout": 1149
+        },
+        {
+            "county_name": "Acton",
+            "Diehl": 269,
+            "Doughty": 356,
+            "total": 625,
+            "min_turnout": 631,
+            "max_turnout": 631
+        },
+        {
+            "county_name": "Acushnet",
+            "Diehl": 412,
+            "Doughty": 245,
+            "total": 657,
+            "min_turnout": 664,
+            "max_turnout": 664
+        },
+        {
+            "county_name": "Adams",
+            "Diehl": 145,
+            "Doughty": 103,
+            "total": 248,
+            "min_turnout": 251,
+            "max_turnout": 251
+        },
+        {
+            "county_name": "Agawam",
+            "Diehl": 835,
+            "Doughty": 761,
+            "total": 1596,
+            "min_turnout": 1612,
+            "max_turnout": 1612
+        },
+        {
+            "county_name": "Alford",
+            "Diehl": 3,
+            "Doughty": 4,
+            "total": 7,
+            "min_turnout": 7,
+            "max_turnout": 7
+        },
+        {
+            "county_name": "Amesbury",
+            "Diehl": 418,
+            "Doughty": 348,
+            "total": 766,
+            "min_turnout": 766,
+            "max_turnout": 774
+        },
+        {
+            "county_name": "Amherst",
+            "Diehl": 74,
+            "Doughty": 98,
+            "total": 172,
+            "min_turnout": 174,
+            "max_turnout": 174
+        },
+        {
+            "county_name": "Andover",
+            "Diehl": 832,
+            "Doughty": 799,
+            "total": 1631,
+            "min_turnout": 1647,
+            "max_turnout": 1647
+        },
+        {
+            "county_name": "Aquinnah",
+            "Diehl": 5,
+            "Doughty": 4,
+            "total": 9,
+            "min_turnout": 9,
+            "max_turnout": 9
+        },
+        {
+            "county_name": "Arlington",
+            "Diehl": 564,
+            "Doughty": 640,
+            "total": 1204,
+            "min_turnout": 1216,
+            "max_turnout": 1216
+        },
+        {
+            "county_name": "Ashburnham",
+            "Diehl": 243,
+            "Doughty": 136,
+            "total": 379,
+            "min_turnout": 383,
+            "max_turnout": 383
+        },
+        {
+            "county_name": "Ashby",
+            "Diehl": 213,
+            "Doughty": 120,
+            "total": 333,
+            "min_turnout": 336,
+            "max_turnout": 336
+        },
+        {
+            "county_name": "Ashfield",
+            "Diehl": 38,
+            "Doughty": 28,
+            "total": 66,
+            "min_turnout": 67,
+            "max_turnout": 67
+        },
+        {
+            "county_name": "Ashland",
+            "Diehl": 275,
+            "Doughty": 337,
+            "total": 612,
+            "min_turnout": 618,
+            "max_turnout": 618
+        },
+        {
+            "county_name": "Athol",
+            "Diehl": 282,
+            "Doughty": 219,
+            "total": 501,
+            "min_turnout": 501,
+            "max_turnout": 506
+        },
+        {
+            "county_name": "Attleboro",
+            "Diehl": 938,
+            "Doughty": 988,
+            "total": 1926,
+            "min_turnout": 1945,
+            "max_turnout": 1945
+        },
+        {
+            "county_name": "Auburn",
+            "Diehl": 473,
+            "Doughty": 410,
+            "total": 883,
+            "min_turnout": 883,
+            "max_turnout": 892
+        },
+        {
+            "county_name": "Avon",
+            "Diehl": 159,
+            "Doughty": 45,
+            "total": 204,
+            "min_turnout": 206,
+            "max_turnout": 206
+        },
+        {
+            "county_name": "Ayer",
+            "Diehl": 214,
+            "Doughty": 174,
+            "total": 388,
+            "min_turnout": 392,
+            "max_turnout": 392
+        },
+        {
+            "county_name": "Barnstable",
+            "Diehl": 2031,
+            "Doughty": 2306,
+            "total": 4337,
+            "min_turnout": 4381,
+            "max_turnout": 4771
+        },
+        {
+            "county_name": "Barre",
+            "Diehl": 215,
+            "Doughty": 152,
+            "total": 367,
+            "min_turnout": 371,
+            "max_turnout": 371
+        },
+        {
+            "county_name": "Becket",
+            "Diehl": 49,
+            "Doughty": 22,
+            "total": 71,
+            "min_turnout": 72,
+            "max_turnout": 72
+        },
+        {
+            "county_name": "Bedford",
+            "Diehl": 339,
+            "Doughty": 290,
+            "total": 629,
+            "min_turnout": 635,
+            "max_turnout": 635
+        },
+        {
+            "county_name": "Belchertown",
+            "Diehl": 367,
+            "Doughty": 332,
+            "total": 699,
+            "min_turnout": 706,
+            "max_turnout": 706
+        },
+        {
+            "county_name": "Bellingham",
+            "Diehl": 425,
+            "Doughty": 553,
+            "total": 978,
+            "min_turnout": 988,
+            "max_turnout": 988
+        },
+        {
+            "county_name": "Belmont",
+            "Diehl": 382,
+            "Doughty": 479,
+            "total": 861,
+            "min_turnout": 870,
+            "max_turnout": 870
+        },
+        {
+            "county_name": "Berkley",
+            "Diehl": 268,
+            "Doughty": 144,
+            "total": 412,
+            "min_turnout": 416,
+            "max_turnout": 416
+        },
+        {
+            "county_name": "Berlin",
+            "Diehl": 124,
+            "Doughty": 111,
+            "total": 235,
+            "min_turnout": 237,
+            "max_turnout": 237
+        },
+        {
+            "county_name": "Bernardston",
+            "Diehl": 53,
+            "Doughty": 48,
+            "total": 101,
+            "min_turnout": 102,
+            "max_turnout": 102
+        },
+        {
+            "county_name": "Beverly",
+            "Diehl": 957,
+            "Doughty": 800,
+            "total": 1757,
+            "min_turnout": 1775,
+            "max_turnout": 1775
+        },
+        {
+            "county_name": "Billerica",
+            "Diehl": 1580,
+            "Doughty": 971,
+            "total": 2551,
+            "min_turnout": 2577,
+            "max_turnout": 2577
+        },
+        {
+            "county_name": "Blackstone",
+            "Diehl": 228,
+            "Doughty": 283,
+            "total": 511,
+            "min_turnout": 516,
+            "max_turnout": 516
+        },
+        {
+            "county_name": "Blandford",
+            "Diehl": 58,
+            "Doughty": 45,
+            "total": 103,
+            "min_turnout": 104,
+            "max_turnout": 104
+        },
+        {
+            "county_name": "Bolton",
+            "Diehl": 171,
+            "Doughty": 168,
+            "total": 339,
+            "min_turnout": 342,
+            "max_turnout": 342
+        },
+        {
+            "county_name": "Boston",
+            "Diehl": 4123,
+            "Doughty": 3220,
+            "total": 7343,
+            "min_turnout": 7417,
+            "max_turnout": 8077
+        },
+        {
+            "county_name": "Bourne",
+            "Diehl": 885,
+            "Doughty": 750,
+            "total": 1635,
+            "min_turnout": 1652,
+            "max_turnout": 1652
+        },
+        {
+            "county_name": "Boxborough",
+            "Diehl": 101,
+            "Doughty": 157,
+            "total": 258,
+            "min_turnout": 261,
+            "max_turnout": 261
+        },
+        {
+            "county_name": "Boxford",
+            "Diehl": 304,
+            "Doughty": 323,
+            "total": 627,
+            "min_turnout": 633,
+            "max_turnout": 633
+        },
+        {
+            "county_name": "Boylston",
+            "Diehl": 201,
+            "Doughty": 129,
+            "total": 330,
+            "min_turnout": 330,
+            "max_turnout": 333
+        },
+        {
+            "county_name": "Braintree",
+            "Diehl": 1489,
+            "Doughty": 713,
+            "total": 2202,
+            "min_turnout": 2224,
+            "max_turnout": 2224
+        },
+        {
+            "county_name": "Brewster",
+            "Diehl": 448,
+            "Doughty": 467,
+            "total": 915,
+            "min_turnout": 924,
+            "max_turnout": 924
+        },
+        {
+            "county_name": "Bridgewater",
+            "Diehl": 1081,
+            "Doughty": 460,
+            "total": 1541,
+            "min_turnout": 1557,
+            "max_turnout": 1557
+        },
+        {
+            "county_name": "Brimfield",
+            "Diehl": 126,
+            "Doughty": 102,
+            "total": 228,
+            "min_turnout": 230,
+            "max_turnout": 230
+        },
+        {
+            "county_name": "Brockton",
+            "Diehl": 1212,
+            "Doughty": 473,
+            "total": 1685,
+            "min_turnout": 1702,
+            "max_turnout": 1702
+        },
+        {
+            "county_name": "Brookfield",
+            "Diehl": 105,
+            "Doughty": 108,
+            "total": 213,
+            "min_turnout": 215,
+            "max_turnout": 215
+        },
+        {
+            "county_name": "Brookline",
+            "Diehl": 337,
+            "Doughty": 428,
+            "total": 765,
+            "min_turnout": 773,
+            "max_turnout": 773
+        },
+        {
+            "county_name": "Buckland",
+            "Diehl": 30,
+            "Doughty": 24,
+            "total": 54,
+            "min_turnout": 55,
+            "max_turnout": 55
+        },
+        {
+            "county_name": "Burlington",
+            "Diehl": 664,
+            "Doughty": 301,
+            "total": 965,
+            "min_turnout": 975,
+            "max_turnout": 975
+        },
+        {
+            "county_name": "Cambridge",
+            "Diehl": 353,
+            "Doughty": 461,
+            "total": 814,
+            "min_turnout": 822,
+            "max_turnout": 822
+        },
+        {
+            "county_name": "Canton",
+            "Diehl": 630,
+            "Doughty": 428,
+            "total": 1058,
+            "min_turnout": 1069,
+            "max_turnout": 1164
+        },
+        {
+            "county_name": "Carlisle",
+            "Diehl": 122,
+            "Doughty": 148,
+            "total": 270,
+            "min_turnout": 273,
+            "max_turnout": 273
+        },
+        {
+            "county_name": "Carver",
+            "Diehl": 511,
+            "Doughty": 252,
+            "total": 763,
+            "min_turnout": 771,
+            "max_turnout": 771
+        },
+        {
+            "county_name": "Charlemont",
+            "Diehl": 32,
+            "Doughty": 23,
+            "total": 55,
+            "min_turnout": 56,
+            "max_turnout": 56
+        },
+        {
+            "county_name": "Charlton",
+            "Diehl": 458,
+            "Doughty": 534,
+            "total": 992,
+            "min_turnout": 1002,
+            "max_turnout": 1002
+        },
+        {
+            "county_name": "Chatham",
+            "Diehl": 247,
+            "Doughty": 387,
+            "total": 634,
+            "min_turnout": 640,
+            "max_turnout": 640
+        },
+        {
+            "county_name": "Chelmsford",
+            "Diehl": 1274,
+            "Doughty": 955,
+            "total": 2229,
+            "min_turnout": 2252,
+            "max_turnout": 2252
+        },
+        {
+            "county_name": "Chelsea",
+            "Diehl": 222,
+            "Doughty": 116,
+            "total": 338,
+            "min_turnout": 341,
+            "max_turnout": 341
+        },
+        {
+            "county_name": "Cheshire",
+            "Diehl": 75,
+            "Doughty": 61,
+            "total": 136,
+            "min_turnout": 136,
+            "max_turnout": 137
+        },
+        {
+            "county_name": "Chester",
+            "Diehl": 48,
+            "Doughty": 31,
+            "total": 79,
+            "min_turnout": 80,
+            "max_turnout": 131
+        },
+        {
+            "county_name": "Chesterfield",
+            "Diehl": 31,
+            "Doughty": 24,
+            "total": 55,
+            "min_turnout": 56,
+            "max_turnout": 56
+        },
+        {
+            "county_name": "Chicopee",
+            "Diehl": 908,
+            "Doughty": 940,
+            "total": 1848,
+            "min_turnout": 1867,
+            "max_turnout": 1867
+        },
+        {
+            "county_name": "Chilmark",
+            "Diehl": 11,
+            "Doughty": 15,
+            "total": 26,
+            "min_turnout": 26,
+            "max_turnout": 26
+        },
+        {
+            "county_name": "Clarksburg",
+            "Diehl": 28,
+            "Doughty": 35,
+            "total": 63,
+            "min_turnout": 63,
+            "max_turnout": 64
+        },
+        {
+            "county_name": "Clinton",
+            "Diehl": 332,
+            "Doughty": 238,
+            "total": 570,
+            "min_turnout": 576,
+            "max_turnout": 645
+        },
+        {
+            "county_name": "Cohasset",
+            "Diehl": 252,
+            "Doughty": 295,
+            "total": 547,
+            "min_turnout": 553,
+            "max_turnout": 553
+        },
+        {
+            "county_name": "Colrain",
+            "Diehl": 48,
+            "Doughty": 25,
+            "total": 73,
+            "min_turnout": 74,
+            "max_turnout": 74
+        },
+        {
+            "county_name": "Concord",
+            "Diehl": 278,
+            "Doughty": 411,
+            "total": 689,
+            "min_turnout": 696,
+            "max_turnout": 696
+        },
+        {
+            "county_name": "Conway",
+            "Diehl": 51,
+            "Doughty": 20,
+            "total": 71,
+            "min_turnout": 72,
+            "max_turnout": 72
+        },
+        {
+            "county_name": "Cummington",
+            "Diehl": 18,
+            "Doughty": 13,
+            "total": 31,
+            "min_turnout": 31,
+            "max_turnout": 31
+        },
+        {
+            "county_name": "Dalton",
+            "Diehl": 113,
+            "Doughty": 85,
+            "total": 198,
+            "min_turnout": 200,
+            "max_turnout": 207
+        },
+        {
+            "county_name": "Danvers",
+            "Diehl": 995,
+            "Doughty": 657,
+            "total": 1652,
+            "min_turnout": 1669,
+            "max_turnout": 1669
+        },
+        {
+            "county_name": "Dartmouth",
+            "Diehl": 877,
+            "Doughty": 614,
+            "total": 1491,
+            "min_turnout": 1506,
+            "max_turnout": 1506
+        },
+        {
+            "county_name": "Dedham",
+            "Diehl": 699,
+            "Doughty": 469,
+            "total": 1168,
+            "min_turnout": 1180,
+            "max_turnout": 1180
+        },
+        {
+            "county_name": "Deerfield",
+            "Diehl": 90,
+            "Doughty": 72,
+            "total": 162,
+            "min_turnout": 164,
+            "max_turnout": 164
+        },
+        {
+            "county_name": "Dennis",
+            "Diehl": 794,
+            "Doughty": 912,
+            "total": 1706,
+            "min_turnout": 1723,
+            "max_turnout": 1723
+        },
+        {
+            "county_name": "Dighton",
+            "Diehl": 333,
+            "Doughty": 150,
+            "total": 483,
+            "min_turnout": 488,
+            "max_turnout": 488
+        },
+        {
+            "county_name": "Douglas",
+            "Diehl": 294,
+            "Doughty": 281,
+            "total": 575,
+            "min_turnout": 575,
+            "max_turnout": 581
+        },
+        {
+            "county_name": "Dover",
+            "Diehl": 145,
+            "Doughty": 201,
+            "total": 346,
+            "min_turnout": 349,
+            "max_turnout": 349
+        },
+        {
+            "county_name": "Dracut",
+            "Diehl": 1161,
+            "Doughty": 602,
+            "total": 1763,
+            "min_turnout": 1781,
+            "max_turnout": 1781
+        },
+        {
+            "county_name": "Dudley",
+            "Diehl": 377,
+            "Doughty": 389,
+            "total": 766,
+            "min_turnout": 774,
+            "max_turnout": 774
+        },
+        {
+            "county_name": "Dunstable",
+            "Diehl": 232,
+            "Doughty": 125,
+            "total": 357,
+            "min_turnout": 361,
+            "max_turnout": 393
+        },
+        {
+            "county_name": "Duxbury",
+            "Diehl": 681,
+            "Doughty": 556,
+            "total": 1237,
+            "min_turnout": 1249,
+            "max_turnout": 1249
+        },
+        {
+            "county_name": "East Bridgewater",
+            "Diehl": 810,
+            "Doughty": 273,
+            "total": 1083,
+            "min_turnout": 1094,
+            "max_turnout": 1094
+        },
+        {
+            "county_name": "East Brookfield",
+            "Diehl": 60,
+            "Doughty": 104,
+            "total": 164,
+            "min_turnout": 166,
+            "max_turnout": 166
+        },
+        {
+            "county_name": "East Longmeadow",
+            "Diehl": 406,
+            "Doughty": 465,
+            "total": 871,
+            "min_turnout": 880,
+            "max_turnout": 880
+        },
+        {
+            "county_name": "Eastham",
+            "Diehl": 197,
+            "Doughty": 230,
+            "total": 427,
+            "min_turnout": 431,
+            "max_turnout": 431
+        },
+        {
+            "county_name": "Easthampton",
+            "Diehl": 304,
+            "Doughty": 220,
+            "total": 524,
+            "min_turnout": 529,
+            "max_turnout": 529
+        },
+        {
+            "county_name": "Easton",
+            "Diehl": 833,
+            "Doughty": 485,
+            "total": 1318,
+            "min_turnout": 1331,
+            "max_turnout": 1331
+        },
+        {
+            "county_name": "Edgartown",
+            "Diehl": 91,
+            "Doughty": 92,
+            "total": 183,
+            "min_turnout": 185,
+            "max_turnout": 185
+        },
+        {
+            "county_name": "Egremont",
+            "Diehl": 17,
+            "Doughty": 19,
+            "total": 36,
+            "min_turnout": 36,
+            "max_turnout": 36
+        },
+        {
+            "county_name": "Erving",
+            "Diehl": 33,
+            "Doughty": 24,
+            "total": 57,
+            "min_turnout": 58,
+            "max_turnout": 58
+        },
+        {
+            "county_name": "Essex",
+            "Diehl": 129,
+            "Doughty": 113,
+            "total": 242,
+            "min_turnout": 244,
+            "max_turnout": 244
+        },
+        {
+            "county_name": "Everett",
+            "Diehl": 396,
+            "Doughty": 228,
+            "total": 624,
+            "min_turnout": 630,
+            "max_turnout": 679
+        },
+        {
+            "county_name": "Fairhaven",
+            "Diehl": 683,
+            "Doughty": 460,
+            "total": 1143,
+            "min_turnout": 1155,
+            "max_turnout": 1155
+        },
+        {
+            "county_name": "Fall River",
+            "Diehl": 1036,
+            "Doughty": 677,
+            "total": 1713,
+            "min_turnout": 1730,
+            "max_turnout": 1730
+        },
+        {
+            "county_name": "Falmouth",
+            "Diehl": 1242,
+            "Doughty": 1359,
+            "total": 2601,
+            "min_turnout": 2627,
+            "max_turnout": 2627
+        },
+        {
+            "county_name": "Fitchburg",
+            "Diehl": 742,
+            "Doughty": 583,
+            "total": 1325,
+            "min_turnout": 1338,
+            "max_turnout": 1338
+        },
+        {
+            "county_name": "Florida",
+            "Diehl": 20,
+            "Doughty": 29,
+            "total": 49,
+            "min_turnout": 49,
+            "max_turnout": 49
+        },
+        {
+            "county_name": "Foxborough",
+            "Diehl": 562,
+            "Doughty": 574,
+            "total": 1136,
+            "min_turnout": 1147,
+            "max_turnout": 1147
+        },
+        {
+            "county_name": "Framingham",
+            "Diehl": 882,
+            "Doughty": 937,
+            "total": 1819,
+            "min_turnout": 1837,
+            "max_turnout": 1837
+        },
+        {
+            "county_name": "Franklin",
+            "Diehl": 686,
+            "Doughty": 1176,
+            "total": 1862,
+            "min_turnout": 1881,
+            "max_turnout": 1881
+        },
+        {
+            "county_name": "Freetown",
+            "Diehl": 388,
+            "Doughty": 212,
+            "total": 600,
+            "min_turnout": 606,
+            "max_turnout": 606
+        },
+        {
+            "county_name": "Gardner",
+            "Diehl": 463,
+            "Doughty": 377,
+            "total": 840,
+            "min_turnout": 848,
+            "max_turnout": 848
+        },
+        {
+            "county_name": "Georgetown",
+            "Diehl": 383,
+            "Doughty": 230,
+            "total": 613,
+            "min_turnout": 619,
+            "max_turnout": 619
+        },
+        {
+            "county_name": "Gill",
+            "Diehl": 40,
+            "Doughty": 27,
+            "total": 67,
+            "min_turnout": 68,
+            "max_turnout": 68
+        },
+        {
+            "county_name": "Gloucester",
+            "Diehl": 967,
+            "Doughty": 581,
+            "total": 1548,
+            "min_turnout": 1548,
+            "max_turnout": 1564
+        },
+        {
+            "county_name": "Goshen",
+            "Diehl": 30,
+            "Doughty": 32,
+            "total": 62,
+            "min_turnout": 63,
+            "max_turnout": 63
+        },
+        {
+            "county_name": "Gosnold",
+            "Diehl": 3,
+            "Doughty": 5,
+            "total": 8,
+            "min_turnout": 8,
+            "max_turnout": 8
+        },
+        {
+            "county_name": "Grafton",
+            "Diehl": 390,
+            "Doughty": 485,
+            "total": 875,
+            "min_turnout": 884,
+            "max_turnout": 884
+        },
+        {
+            "county_name": "Granby",
+            "Diehl": 214,
+            "Doughty": 204,
+            "total": 418,
+            "min_turnout": 422,
+            "max_turnout": 422
+        },
+        {
+            "county_name": "Granville",
+            "Diehl": 92,
+            "Doughty": 62,
+            "total": 154,
+            "min_turnout": 156,
+            "max_turnout": 169
+        },
+        {
+            "county_name": "Great Barrington",
+            "Diehl": 66,
+            "Doughty": 42,
+            "total": 108,
+            "min_turnout": 109,
+            "max_turnout": 109
+        },
+        {
+            "county_name": "Greenfield",
+            "Diehl": 332,
+            "Doughty": 171,
+            "total": 503,
+            "min_turnout": 508,
+            "max_turnout": 508
+        },
+        {
+            "county_name": "Groton",
+            "Diehl": 422,
+            "Doughty": 398,
+            "total": 820,
+            "min_turnout": 828,
+            "max_turnout": 828
+        },
+        {
+            "county_name": "Groveland",
+            "Diehl": 263,
+            "Doughty": 231,
+            "total": 494,
+            "min_turnout": 499,
+            "max_turnout": 499
+        },
+        {
+            "county_name": "Hadley",
+            "Diehl": 94,
+            "Doughty": 90,
+            "total": 184,
+            "min_turnout": 186,
+            "max_turnout": 186
+        },
+        {
+            "county_name": "Halifax",
+            "Diehl": 486,
+            "Doughty": 179,
+            "total": 665,
+            "min_turnout": 665,
+            "max_turnout": 672
+        },
+        {
+            "county_name": "Hamilton",
+            "Diehl": 237,
+            "Doughty": 215,
+            "total": 452,
+            "min_turnout": 457,
+            "max_turnout": 457
+        },
+        {
+            "county_name": "Hampden",
+            "Diehl": 158,
+            "Doughty": 150,
+            "total": 308,
+            "min_turnout": 311,
+            "max_turnout": 311
+        },
+        {
+            "county_name": "Hancock",
+            "Diehl": 27,
+            "Doughty": 9,
+            "total": 36,
+            "min_turnout": 36,
+            "max_turnout": 36
+        },
+        {
+            "county_name": "Hanover",
+            "Diehl": 925,
+            "Doughty": 379,
+            "total": 1304,
+            "min_turnout": 1317,
+            "max_turnout": 1317
+        },
+        {
+            "county_name": "Hanson",
+            "Diehl": 861,
+            "Doughty": 268,
+            "total": 1129,
+            "min_turnout": 1140,
+            "max_turnout": 1140
+        },
+        {
+            "county_name": "Hardwick",
+            "Diehl": 92,
+            "Doughty": 80,
+            "total": 172,
+            "min_turnout": 174,
+            "max_turnout": 174
+        },
+        {
+            "county_name": "Harvard",
+            "Diehl": 148,
+            "Doughty": 168,
+            "total": 316,
+            "min_turnout": 316,
+            "max_turnout": 319
+        },
+        {
+            "county_name": "Harwich",
+            "Diehl": 599,
+            "Doughty": 643,
+            "total": 1242,
+            "min_turnout": 1255,
+            "max_turnout": 1255
+        },
+        {
+            "county_name": "Hatfield",
+            "Diehl": 77,
+            "Doughty": 68,
+            "total": 145,
+            "min_turnout": 146,
+            "max_turnout": 146
+        },
+        {
+            "county_name": "Haverhill",
+            "Diehl": 1684,
+            "Doughty": 1177,
+            "total": 2861,
+            "min_turnout": 2890,
+            "max_turnout": 2890
+        },
+        {
+            "county_name": "Hawley",
+            "Diehl": 12,
+            "Doughty": 9,
+            "total": 21,
+            "min_turnout": 21,
+            "max_turnout": 21
+        },
+        {
+            "county_name": "Heath",
+            "Diehl": 23,
+            "Doughty": 8,
+            "total": 31,
+            "min_turnout": 31,
+            "max_turnout": 31
+        },
+        {
+            "county_name": "Hingham",
+            "Diehl": 839,
+            "Doughty": 744,
+            "total": 1583,
+            "min_turnout": 1599,
+            "max_turnout": 1599
+        },
+        {
+            "county_name": "Hinsdale",
+            "Diehl": 49,
+            "Doughty": 38,
+            "total": 87,
+            "min_turnout": 87,
+            "max_turnout": 88
+        },
+        {
+            "county_name": "Holbrook",
+            "Diehl": 402,
+            "Doughty": 198,
+            "total": 600,
+            "min_turnout": 600,
+            "max_turnout": 606
+        },
+        {
+            "county_name": "Holden",
+            "Diehl": 696,
+            "Doughty": 655,
+            "total": 1351,
+            "min_turnout": 1365,
+            "max_turnout": 1365
+        },
+        {
+            "county_name": "Holland",
+            "Diehl": 79,
+            "Doughty": 71,
+            "total": 150,
+            "min_turnout": 150,
+            "max_turnout": 152
+        },
+        {
+            "county_name": "Holliston",
+            "Diehl": 295,
+            "Doughty": 397,
+            "total": 692,
+            "min_turnout": 699,
+            "max_turnout": 699
+        },
+        {
+            "county_name": "Holyoke",
+            "Diehl": 349,
+            "Doughty": 371,
+            "total": 720,
+            "min_turnout": 727,
+            "max_turnout": 727
+        },
+        {
+            "county_name": "Hopedale",
+            "Diehl": 137,
+            "Doughty": 120,
+            "total": 257,
+            "min_turnout": 259,
+            "max_turnout": 260
+        },
+        {
+            "county_name": "Hopkinton",
+            "Diehl": 317,
+            "Doughty": 385,
+            "total": 702,
+            "min_turnout": 702,
+            "max_turnout": 709
+        },
+        {
+            "county_name": "Hubbardston",
+            "Diehl": 246,
+            "Doughty": 164,
+            "total": 410,
+            "min_turnout": 414,
+            "max_turnout": 414
+        },
+        {
+            "county_name": "Hudson",
+            "Diehl": 504,
+            "Doughty": 424,
+            "total": 928,
+            "min_turnout": 937,
+            "max_turnout": 937
+        },
+        {
+            "county_name": "Hull",
+            "Diehl": 480,
+            "Doughty": 326,
+            "total": 806,
+            "min_turnout": 814,
+            "max_turnout": 814
+        },
+        {
+            "county_name": "Huntington",
+            "Diehl": 76,
+            "Doughty": 73,
+            "total": 149,
+            "min_turnout": 149,
+            "max_turnout": 151
+        },
+        {
+            "county_name": "Ipswich",
+            "Diehl": 440,
+            "Doughty": 439,
+            "total": 879,
+            "min_turnout": 888,
+            "max_turnout": 888
+        },
+        {
+            "county_name": "Kingston",
+            "Diehl": 581,
+            "Doughty": 318,
+            "total": 899,
+            "min_turnout": 908,
+            "max_turnout": 908
+        },
+        {
+            "county_name": "Lakeville",
+            "Diehl": 545,
+            "Doughty": 371,
+            "total": 916,
+            "min_turnout": 925,
+            "max_turnout": 925
+        },
+        {
+            "county_name": "Lancaster",
+            "Diehl": 231,
+            "Doughty": 169,
+            "total": 400,
+            "min_turnout": 404,
+            "max_turnout": 404
+        },
+        {
+            "county_name": "Lanesborough",
+            "Diehl": 55,
+            "Doughty": 25,
+            "total": 80,
+            "min_turnout": 81,
+            "max_turnout": 81
+        },
+        {
+            "county_name": "Lawrence",
+            "Diehl": 369,
+            "Doughty": 301,
+            "total": 670,
+            "min_turnout": 677,
+            "max_turnout": 677
+        },
+        {
+            "county_name": "Lee",
+            "Diehl": 60,
+            "Doughty": 86,
+            "total": 146,
+            "min_turnout": 147,
+            "max_turnout": 147
+        },
+        {
+            "county_name": "Leicester",
+            "Diehl": 296,
+            "Doughty": 498,
+            "total": 794,
+            "min_turnout": 802,
+            "max_turnout": 802
+        },
+        {
+            "county_name": "Lenox",
+            "Diehl": 40,
+            "Doughty": 63,
+            "total": 103,
+            "min_turnout": 104,
+            "max_turnout": 104
+        },
+        {
+            "county_name": "Leominster",
+            "Diehl": 971,
+            "Doughty": 725,
+            "total": 1696,
+            "min_turnout": 1696,
+            "max_turnout": 1713
+        },
+        {
+            "county_name": "Leverett",
+            "Diehl": 22,
+            "Doughty": 15,
+            "total": 37,
+            "min_turnout": 37,
+            "max_turnout": 37
+        },
+        {
+            "county_name": "Lexington",
+            "Diehl": 366,
+            "Doughty": 495,
+            "total": 861,
+            "min_turnout": 870,
+            "max_turnout": 870
+        },
+        {
+            "county_name": "Leyden",
+            "Diehl": 18,
+            "Doughty": 13,
+            "total": 31,
+            "min_turnout": 31,
+            "max_turnout": 31
+        },
+        {
+            "county_name": "Lincoln",
+            "Diehl": 84,
+            "Doughty": 124,
+            "total": 208,
+            "min_turnout": 210,
+            "max_turnout": 210
+        },
+        {
+            "county_name": "Littleton",
+            "Diehl": 222,
+            "Doughty": 258,
+            "total": 480,
+            "min_turnout": 485,
+            "max_turnout": 485
+        },
+        {
+            "county_name": "Longmeadow",
+            "Diehl": 247,
+            "Doughty": 399,
+            "total": 646,
+            "min_turnout": 653,
+            "max_turnout": 653
+        },
+        {
+            "county_name": "Lowell",
+            "Diehl": 1154,
+            "Doughty": 751,
+            "total": 1905,
+            "min_turnout": 1924,
+            "max_turnout": 1924
+        },
+        {
+            "county_name": "Ludlow",
+            "Diehl": 524,
+            "Doughty": 478,
+            "total": 1002,
+            "min_turnout": 1012,
+            "max_turnout": 1012
+        },
+        {
+            "county_name": "Lunenburg",
+            "Diehl": 502,
+            "Doughty": 388,
+            "total": 890,
+            "min_turnout": 899,
+            "max_turnout": 899
+        },
+        {
+            "county_name": "Lynn",
+            "Diehl": 1014,
+            "Doughty": 644,
+            "total": 1658,
+            "min_turnout": 1675,
+            "max_turnout": 1675
+        },
+        {
+            "county_name": "Lynnfield",
+            "Diehl": 517,
+            "Doughty": 358,
+            "total": 875,
+            "min_turnout": 884,
+            "max_turnout": 884
+        },
+        {
+            "county_name": "Malden",
+            "Diehl": 627,
+            "Doughty": 428,
+            "total": 1055,
+            "min_turnout": 1066,
+            "max_turnout": 1066
+        },
+        {
+            "county_name": "Manchester-by-the-Sea",
+            "Diehl": 156,
+            "Doughty": 162,
+            "total": 318,
+            "min_turnout": 321,
+            "max_turnout": 321
+        },
+        {
+            "county_name": "Mansfield",
+            "Diehl": 586,
+            "Doughty": 640,
+            "total": 1226,
+            "min_turnout": 1238,
+            "max_turnout": 1238
+        },
+        {
+            "county_name": "Marblehead",
+            "Diehl": 520,
+            "Doughty": 512,
+            "total": 1032,
+            "min_turnout": 1042,
+            "max_turnout": 1042
+        },
+        {
+            "county_name": "Marion",
+            "Diehl": 217,
+            "Doughty": 194,
+            "total": 411,
+            "min_turnout": 415,
+            "max_turnout": 415
+        },
+        {
+            "county_name": "Marlborough",
+            "Diehl": 818,
+            "Doughty": 664,
+            "total": 1482,
+            "min_turnout": 1497,
+            "max_turnout": 1497
+        },
+        {
+            "county_name": "Marshfield",
+            "Diehl": 1546,
+            "Doughty": 695,
+            "total": 2241,
+            "min_turnout": 2264,
+            "max_turnout": 2264
+        },
+        {
+            "county_name": "Mashpee",
+            "Diehl": 732,
+            "Doughty": 710,
+            "total": 1442,
+            "min_turnout": 1457,
+            "max_turnout": 1457
+        },
+        {
+            "county_name": "Mattapoisett",
+            "Diehl": 332,
+            "Doughty": 280,
+            "total": 612,
+            "min_turnout": 618,
+            "max_turnout": 618
+        },
+        {
+            "county_name": "Maynard",
+            "Diehl": 250,
+            "Doughty": 205,
+            "total": 455,
+            "min_turnout": 455,
+            "max_turnout": 460
+        },
+        {
+            "county_name": "Medfield",
+            "Diehl": 399,
+            "Doughty": 409,
+            "total": 808,
+            "min_turnout": 816,
+            "max_turnout": 816
+        },
+        {
+            "county_name": "Medford",
+            "Diehl": 892,
+            "Doughty": 573,
+            "total": 1465,
+            "min_turnout": 1480,
+            "max_turnout": 1480
+        },
+        {
+            "county_name": "Medway",
+            "Diehl": 341,
+            "Doughty": 445,
+            "total": 786,
+            "min_turnout": 794,
+            "max_turnout": 794
+        },
+        {
+            "county_name": "Melrose",
+            "Diehl": 646,
+            "Doughty": 575,
+            "total": 1221,
+            "min_turnout": 1233,
+            "max_turnout": 1233
+        },
+        {
+            "county_name": "Mendon",
+            "Diehl": 164,
+            "Doughty": 180,
+            "total": 344,
+            "min_turnout": 347,
+            "max_turnout": 347
+        },
+        {
+            "county_name": "Merrimac",
+            "Diehl": 268,
+            "Doughty": 215,
+            "total": 483,
+            "min_turnout": 488,
+            "max_turnout": 488
+        },
+        {
+            "county_name": "Methuen",
+            "Diehl": 1251,
+            "Doughty": 712,
+            "total": 1963,
+            "min_turnout": 1983,
+            "max_turnout": 1983
+        },
+        {
+            "county_name": "Middleborough",
+            "Diehl": 1063,
+            "Doughty": 565,
+            "total": 1628,
+            "min_turnout": 1644,
+            "max_turnout": 1644
+        },
+        {
+            "county_name": "Middlefield",
+            "Diehl": 26,
+            "Doughty": 12,
+            "total": 38,
+            "min_turnout": 38,
+            "max_turnout": 38
+        },
+        {
+            "county_name": "Middleton",
+            "Diehl": 460,
+            "Doughty": 274,
+            "total": 734,
+            "min_turnout": 736,
+            "max_turnout": 741
+        },
+        {
+            "county_name": "Milford",
+            "Diehl": 472,
+            "Doughty": 530,
+            "total": 1002,
+            "min_turnout": 1012,
+            "max_turnout": 1012
+        },
+        {
+            "county_name": "Millbury",
+            "Diehl": 392,
+            "Doughty": 405,
+            "total": 797,
+            "min_turnout": 805,
+            "max_turnout": 805
+        },
+        {
+            "county_name": "Millis",
+            "Diehl": 242,
+            "Doughty": 368,
+            "total": 610,
+            "min_turnout": 616,
+            "max_turnout": 616
+        },
+        {
+            "county_name": "Millville",
+            "Diehl": 66,
+            "Doughty": 99,
+            "total": 165,
+            "min_turnout": 167,
+            "max_turnout": 167
+        },
+        {
+            "county_name": "Milton",
+            "Diehl": 674,
+            "Doughty": 437,
+            "total": 1111,
+            "min_turnout": 1122,
+            "max_turnout": 1122
+        },
+        {
+            "county_name": "Monroe",
+            "Diehl": 1,
+            "Doughty": 5,
+            "total": 6,
+            "min_turnout": 6,
+            "max_turnout": 6
+        },
+        {
+            "county_name": "Monson",
+            "Diehl": 263,
+            "Doughty": 249,
+            "total": 512,
+            "min_turnout": 512,
+            "max_turnout": 517
+        },
+        {
+            "county_name": "Montague",
+            "Diehl": 124,
+            "Doughty": 90,
+            "total": 214,
+            "min_turnout": 216,
+            "max_turnout": 216
+        },
+        {
+            "county_name": "Monterey",
+            "Diehl": 11,
+            "Doughty": 15,
+            "total": 26,
+            "min_turnout": 26,
+            "max_turnout": 26
+        },
+        {
+            "county_name": "Montgomery",
+            "Diehl": 59,
+            "Doughty": 32,
+            "total": 91,
+            "min_turnout": 92,
+            "max_turnout": 93
+        },
+        {
+            "county_name": "Mount Washington",
+            "Diehl": 0,
+            "Doughty": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 10
+        },
+        {
+            "county_name": "Nahant",
+            "Diehl": 134,
+            "Doughty": 87,
+            "total": 221,
+            "min_turnout": 223,
+            "max_turnout": 223
+        },
+        {
+            "county_name": "Nantucket",
+            "Diehl": 225,
+            "Doughty": 162,
+            "total": 387,
+            "min_turnout": 391,
+            "max_turnout": 391
+        },
+        {
+            "county_name": "Natick",
+            "Diehl": 552,
+            "Doughty": 663,
+            "total": 1215,
+            "min_turnout": 1227,
+            "max_turnout": 1227
+        },
+        {
+            "county_name": "Needham",
+            "Diehl": 497,
+            "Doughty": 632,
+            "total": 1129,
+            "min_turnout": 1139,
+            "max_turnout": 1140
+        },
+        {
+            "county_name": "New Ashford",
+            "Diehl": 5,
+            "Doughty": 4,
+            "total": 9,
+            "min_turnout": 9,
+            "max_turnout": 9
+        },
+        {
+            "county_name": "New Bedford",
+            "Diehl": 1159,
+            "Doughty": 887,
+            "total": 2046,
+            "min_turnout": 2067,
+            "max_turnout": 2166
+        },
+        {
+            "county_name": "New Braintree",
+            "Diehl": 42,
+            "Doughty": 36,
+            "total": 78,
+            "min_turnout": 79,
+            "max_turnout": 79
+        },
+        {
+            "county_name": "New Marlborough",
+            "Diehl": 53,
+            "Doughty": 49,
+            "total": 102,
+            "min_turnout": 103,
+            "max_turnout": 103
+        },
+        {
+            "county_name": "New Salem",
+            "Diehl": 53,
+            "Doughty": 34,
+            "total": 87,
+            "min_turnout": 88,
+            "max_turnout": 88
+        },
+        {
+            "county_name": "Newbury",
+            "Diehl": 313,
+            "Doughty": 212,
+            "total": 525,
+            "min_turnout": 530,
+            "max_turnout": 530
+        },
+        {
+            "county_name": "Newburyport",
+            "Diehl": 422,
+            "Doughty": 372,
+            "total": 794,
+            "min_turnout": 802,
+            "max_turnout": 802
+        },
+        {
+            "county_name": "Newton",
+            "Diehl": 842,
+            "Doughty": 868,
+            "total": 1710,
+            "min_turnout": 1727,
+            "max_turnout": 1727
+        },
+        {
+            "county_name": "Norfolk",
+            "Diehl": 291,
+            "Doughty": 559,
+            "total": 850,
+            "min_turnout": 859,
+            "max_turnout": 859
+        },
+        {
+            "county_name": "North Adams",
+            "Diehl": 101,
+            "Doughty": 81,
+            "total": 182,
+            "min_turnout": 184,
+            "max_turnout": 184
+        },
+        {
+            "county_name": "North Andover",
+            "Diehl": 890,
+            "Doughty": 675,
+            "total": 1565,
+            "min_turnout": 1581,
+            "max_turnout": 1581
+        },
+        {
+            "county_name": "North Attleborough",
+            "Diehl": 612,
+            "Doughty": 778,
+            "total": 1390,
+            "min_turnout": 1404,
+            "max_turnout": 1404
+        },
+        {
+            "county_name": "North Brookfield",
+            "Diehl": 255,
+            "Doughty": 319,
+            "total": 574,
+            "min_turnout": 580,
+            "max_turnout": 580
+        },
+        {
+            "county_name": "North Reading",
+            "Diehl": 596,
+            "Doughty": 407,
+            "total": 1003,
+            "min_turnout": 1013,
+            "max_turnout": 1013
+        },
+        {
+            "county_name": "Northampton",
+            "Diehl": 155,
+            "Doughty": 219,
+            "total": 374,
+            "min_turnout": 374,
+            "max_turnout": 378
+        },
+        {
+            "county_name": "Northborough",
+            "Diehl": 371,
+            "Doughty": 425,
+            "total": 796,
+            "min_turnout": 804,
+            "max_turnout": 804
+        },
+        {
+            "county_name": "Northbridge",
+            "Diehl": 426,
+            "Doughty": 469,
+            "total": 895,
+            "min_turnout": 904,
+            "max_turnout": 904
+        },
+        {
+            "county_name": "Northfield",
+            "Diehl": 72,
+            "Doughty": 54,
+            "total": 126,
+            "min_turnout": 127,
+            "max_turnout": 127
+        },
+        {
+            "county_name": "Norton",
+            "Diehl": 547,
+            "Doughty": 463,
+            "total": 1010,
+            "min_turnout": 1020,
+            "max_turnout": 1020
+        },
+        {
+            "county_name": "Norwell",
+            "Diehl": 476,
+            "Doughty": 297,
+            "total": 773,
+            "min_turnout": 780,
+            "max_turnout": 781
+        },
+        {
+            "county_name": "Norwood",
+            "Diehl": 734,
+            "Doughty": 548,
+            "total": 1282,
+            "min_turnout": 1295,
+            "max_turnout": 1295
+        },
+        {
+            "county_name": "Oak Bluffs",
+            "Diehl": 77,
+            "Doughty": 106,
+            "total": 183,
+            "min_turnout": 183,
+            "max_turnout": 185
+        },
+        {
+            "county_name": "Oakham",
+            "Diehl": 111,
+            "Doughty": 101,
+            "total": 212,
+            "min_turnout": 214,
+            "max_turnout": 214
+        },
+        {
+            "county_name": "Orange",
+            "Diehl": 205,
+            "Doughty": 123,
+            "total": 328,
+            "min_turnout": 331,
+            "max_turnout": 331
+        },
+        {
+            "county_name": "Orleans",
+            "Diehl": 347,
+            "Doughty": 279,
+            "total": 626,
+            "min_turnout": 632,
+            "max_turnout": 632
+        },
+        {
+            "county_name": "Otis",
+            "Diehl": 37,
+            "Doughty": 23,
+            "total": 60,
+            "min_turnout": 61,
+            "max_turnout": 61
+        },
+        {
+            "county_name": "Oxford",
+            "Diehl": 421,
+            "Doughty": 428,
+            "total": 849,
+            "min_turnout": 858,
+            "max_turnout": 858
+        },
+        {
+            "county_name": "Palmer",
+            "Diehl": 348,
+            "Doughty": 270,
+            "total": 618,
+            "min_turnout": 624,
+            "max_turnout": 624
+        },
+        {
+            "county_name": "Paxton",
+            "Diehl": 125,
+            "Doughty": 179,
+            "total": 304,
+            "min_turnout": 307,
+            "max_turnout": 307
+        },
+        {
+            "county_name": "Peabody",
+            "Diehl": 1894,
+            "Doughty": 1032,
+            "total": 2926,
+            "min_turnout": 2956,
+            "max_turnout": 2956
+        },
+        {
+            "county_name": "Pelham",
+            "Diehl": 5,
+            "Doughty": 10,
+            "total": 15,
+            "min_turnout": 15,
+            "max_turnout": 15
+        },
+        {
+            "county_name": "Pembroke",
+            "Diehl": 986,
+            "Doughty": 386,
+            "total": 1372,
+            "min_turnout": 1386,
+            "max_turnout": 1386
+        },
+        {
+            "county_name": "Pepperell",
+            "Diehl": 755,
+            "Doughty": 489,
+            "total": 1244,
+            "min_turnout": 1257,
+            "max_turnout": 1257
+        },
+        {
+            "county_name": "Peru",
+            "Diehl": 25,
+            "Doughty": 17,
+            "total": 42,
+            "min_turnout": 42,
+            "max_turnout": 42
+        },
+        {
+            "county_name": "Petersham",
+            "Diehl": 58,
+            "Doughty": 28,
+            "total": 86,
+            "min_turnout": 87,
+            "max_turnout": 87
+        },
+        {
+            "county_name": "Phillipston",
+            "Diehl": 77,
+            "Doughty": 48,
+            "total": 125,
+            "min_turnout": 125,
+            "max_turnout": 126
+        },
+        {
+            "county_name": "Pittsfield",
+            "Diehl": 474,
+            "Doughty": 425,
+            "total": 899,
+            "min_turnout": 899,
+            "max_turnout": 901
+        },
+        {
+            "county_name": "Plainfield",
+            "Diehl": 21,
+            "Doughty": 11,
+            "total": 32,
+            "min_turnout": 32,
+            "max_turnout": 32
+        },
+        {
+            "county_name": "Plainville",
+            "Diehl": 247,
+            "Doughty": 429,
+            "total": 676,
+            "min_turnout": 683,
+            "max_turnout": 744
+        },
+        {
+            "county_name": "Plymouth",
+            "Diehl": 2759,
+            "Doughty": 1857,
+            "total": 4616,
+            "min_turnout": 4663,
+            "max_turnout": 4663
+        },
+        {
+            "county_name": "Plympton",
+            "Diehl": 199,
+            "Doughty": 82,
+            "total": 281,
+            "min_turnout": 284,
+            "max_turnout": 284
+        },
+        {
+            "county_name": "Princeton",
+            "Diehl": 98,
+            "Doughty": 123,
+            "total": 221,
+            "min_turnout": 223,
+            "max_turnout": 223
+        },
+        {
+            "county_name": "Provincetown",
+            "Diehl": 17,
+            "Doughty": 22,
+            "total": 39,
+            "min_turnout": 39,
+            "max_turnout": 39
+        },
+        {
+            "county_name": "Quincy",
+            "Diehl": 2096,
+            "Doughty": 1097,
+            "total": 3193,
+            "min_turnout": 3225,
+            "max_turnout": 3225
+        },
+        {
+            "county_name": "Randolph",
+            "Diehl": 423,
+            "Doughty": 237,
+            "total": 660,
+            "min_turnout": 667,
+            "max_turnout": 667
+        },
+        {
+            "county_name": "Raynham",
+            "Diehl": 613,
+            "Doughty": 272,
+            "total": 885,
+            "min_turnout": 894,
+            "max_turnout": 894
+        },
+        {
+            "county_name": "Reading",
+            "Diehl": 750,
+            "Doughty": 643,
+            "total": 1393,
+            "min_turnout": 1407,
+            "max_turnout": 1407
+        },
+        {
+            "county_name": "Rehoboth",
+            "Diehl": 399,
+            "Doughty": 342,
+            "total": 741,
+            "min_turnout": 748,
+            "max_turnout": 748
+        },
+        {
+            "county_name": "Revere",
+            "Diehl": 811,
+            "Doughty": 384,
+            "total": 1195,
+            "min_turnout": 1195,
+            "max_turnout": 1207
+        },
+        {
+            "county_name": "Richmond",
+            "Diehl": 24,
+            "Doughty": 24,
+            "total": 48,
+            "min_turnout": 48,
+            "max_turnout": 48
+        },
+        {
+            "county_name": "Rochester",
+            "Diehl": 436,
+            "Doughty": 175,
+            "total": 611,
+            "min_turnout": 616,
+            "max_turnout": 617
+        },
+        {
+            "county_name": "Rockland",
+            "Diehl": 819,
+            "Doughty": 274,
+            "total": 1093,
+            "min_turnout": 1104,
+            "max_turnout": 1104
+        },
+        {
+            "county_name": "Rockport",
+            "Diehl": 219,
+            "Doughty": 218,
+            "total": 437,
+            "min_turnout": 441,
+            "max_turnout": 441
+        },
+        {
+            "county_name": "Rowe",
+            "Diehl": 14,
+            "Doughty": 12,
+            "total": 26,
+            "min_turnout": 26,
+            "max_turnout": 26
+        },
+        {
+            "county_name": "Rowley",
+            "Diehl": 290,
+            "Doughty": 204,
+            "total": 494,
+            "min_turnout": 499,
+            "max_turnout": 499
+        },
+        {
+            "county_name": "Royalston",
+            "Diehl": 73,
+            "Doughty": 54,
+            "total": 127,
+            "min_turnout": 128,
+            "max_turnout": 128
+        },
+        {
+            "county_name": "Russell",
+            "Diehl": 46,
+            "Doughty": 48,
+            "total": 94,
+            "min_turnout": 95,
+            "max_turnout": 95
+        },
+        {
+            "county_name": "Rutland",
+            "Diehl": 249,
+            "Doughty": 299,
+            "total": 548,
+            "min_turnout": 554,
+            "max_turnout": 554
+        },
+        {
+            "county_name": "Salem",
+            "Diehl": 628,
+            "Doughty": 455,
+            "total": 1083,
+            "min_turnout": 1094,
+            "max_turnout": 1094
+        },
+        {
+            "county_name": "Salisbury",
+            "Diehl": 434,
+            "Doughty": 299,
+            "total": 733,
+            "min_turnout": 740,
+            "max_turnout": 740
+        },
+        {
+            "county_name": "Sandisfield",
+            "Diehl": 7,
+            "Doughty": 10,
+            "total": 17,
+            "min_turnout": 17,
+            "max_turnout": 17
+        },
+        {
+            "county_name": "Sandwich",
+            "Diehl": 1018,
+            "Doughty": 988,
+            "total": 2006,
+            "min_turnout": 2026,
+            "max_turnout": 2026
+        },
+        {
+            "county_name": "Saugus",
+            "Diehl": 1083,
+            "Doughty": 490,
+            "total": 1573,
+            "min_turnout": 1589,
+            "max_turnout": 1589
+        },
+        {
+            "county_name": "Savoy",
+            "Diehl": 23,
+            "Doughty": 11,
+            "total": 34,
+            "min_turnout": 34,
+            "max_turnout": 37
+        },
+        {
+            "county_name": "Scituate",
+            "Diehl": 914,
+            "Doughty": 656,
+            "total": 1570,
+            "min_turnout": 1586,
+            "max_turnout": 1586
+        },
+        {
+            "county_name": "Seekonk",
+            "Diehl": 313,
+            "Doughty": 316,
+            "total": 629,
+            "min_turnout": 635,
+            "max_turnout": 635
+        },
+        {
+            "county_name": "Sharon",
+            "Diehl": 271,
+            "Doughty": 276,
+            "total": 547,
+            "min_turnout": 553,
+            "max_turnout": 553
+        },
+        {
+            "county_name": "Sheffield",
+            "Diehl": 53,
+            "Doughty": 46,
+            "total": 99,
+            "min_turnout": 99,
+            "max_turnout": 100
+        },
+        {
+            "county_name": "Shelburne",
+            "Diehl": 42,
+            "Doughty": 21,
+            "total": 63,
+            "min_turnout": 64,
+            "max_turnout": 69
+        },
+        {
+            "county_name": "Sherborn",
+            "Diehl": 69,
+            "Doughty": 97,
+            "total": 166,
+            "min_turnout": 166,
+            "max_turnout": 168
+        },
+        {
+            "county_name": "Shirley",
+            "Diehl": 207,
+            "Doughty": 166,
+            "total": 373,
+            "min_turnout": 377,
+            "max_turnout": 377
+        },
+        {
+            "county_name": "Shrewsbury",
+            "Diehl": 826,
+            "Doughty": 881,
+            "total": 1707,
+            "min_turnout": 1724,
+            "max_turnout": 1724
+        },
+        {
+            "county_name": "Shutesbury",
+            "Diehl": 18,
+            "Doughty": 18,
+            "total": 36,
+            "min_turnout": 36,
+            "max_turnout": 36
+        },
+        {
+            "county_name": "Somerset",
+            "Diehl": 516,
+            "Doughty": 349,
+            "total": 865,
+            "min_turnout": 874,
+            "max_turnout": 874
+        },
+        {
+            "county_name": "Somerville",
+            "Diehl": 388,
+            "Doughty": 408,
+            "total": 796,
+            "min_turnout": 804,
+            "max_turnout": 804
+        },
+        {
+            "county_name": "South Hadley",
+            "Diehl": 336,
+            "Doughty": 338,
+            "total": 674,
+            "min_turnout": 681,
+            "max_turnout": 681
+        },
+        {
+            "county_name": "Southampton",
+            "Diehl": 181,
+            "Doughty": 197,
+            "total": 378,
+            "min_turnout": 382,
+            "max_turnout": 382
+        },
+        {
+            "county_name": "Southborough",
+            "Diehl": 203,
+            "Doughty": 299,
+            "total": 502,
+            "min_turnout": 507,
+            "max_turnout": 507
+        },
+        {
+            "county_name": "Southbridge",
+            "Diehl": 215,
+            "Doughty": 288,
+            "total": 503,
+            "min_turnout": 508,
+            "max_turnout": 508
+        },
+        {
+            "county_name": "Southwick",
+            "Diehl": 371,
+            "Doughty": 327,
+            "total": 698,
+            "min_turnout": 705,
+            "max_turnout": 705
+        },
+        {
+            "county_name": "Spencer",
+            "Diehl": 310,
+            "Doughty": 468,
+            "total": 778,
+            "min_turnout": 786,
+            "max_turnout": 786
+        },
+        {
+            "county_name": "Springfield",
+            "Diehl": 851,
+            "Doughty": 937,
+            "total": 1788,
+            "min_turnout": 1806,
+            "max_turnout": 1806
+        },
+        {
+            "county_name": "Sterling",
+            "Diehl": 346,
+            "Doughty": 309,
+            "total": 655,
+            "min_turnout": 662,
+            "max_turnout": 662
+        },
+        {
+            "county_name": "Stockbridge",
+            "Diehl": 37,
+            "Doughty": 24,
+            "total": 61,
+            "min_turnout": 62,
+            "max_turnout": 62
+        },
+        {
+            "county_name": "Stoneham",
+            "Diehl": 738,
+            "Doughty": 462,
+            "total": 1200,
+            "min_turnout": 1212,
+            "max_turnout": 1212
+        },
+        {
+            "county_name": "Stoughton",
+            "Diehl": 719,
+            "Doughty": 392,
+            "total": 1111,
+            "min_turnout": 1122,
+            "max_turnout": 1122
+        },
+        {
+            "county_name": "Stow",
+            "Diehl": 222,
+            "Doughty": 226,
+            "total": 448,
+            "min_turnout": 448,
+            "max_turnout": 453
+        },
+        {
+            "county_name": "Sturbridge",
+            "Diehl": 263,
+            "Doughty": 320,
+            "total": 583,
+            "min_turnout": 589,
+            "max_turnout": 589
+        },
+        {
+            "county_name": "Sudbury",
+            "Diehl": 331,
+            "Doughty": 374,
+            "total": 705,
+            "min_turnout": 712,
+            "max_turnout": 712
+        },
+        {
+            "county_name": "Sunderland",
+            "Diehl": 35,
+            "Doughty": 40,
+            "total": 75,
+            "min_turnout": 76,
+            "max_turnout": 76
+        },
+        {
+            "county_name": "Sutton",
+            "Diehl": 306,
+            "Doughty": 336,
+            "total": 642,
+            "min_turnout": 648,
+            "max_turnout": 648
+        },
+        {
+            "county_name": "Swampscott",
+            "Diehl": 315,
+            "Doughty": 281,
+            "total": 596,
+            "min_turnout": 602,
+            "max_turnout": 602
+        },
+        {
+            "county_name": "Swansea",
+            "Diehl": 465,
+            "Doughty": 362,
+            "total": 827,
+            "min_turnout": 835,
+            "max_turnout": 835
+        },
+        {
+            "county_name": "Taunton",
+            "Diehl": 1099,
+            "Doughty": 739,
+            "total": 1838,
+            "min_turnout": 1857,
+            "max_turnout": 1857
+        },
+        {
+            "county_name": "Templeton",
+            "Diehl": 280,
+            "Doughty": 166,
+            "total": 446,
+            "min_turnout": 451,
+            "max_turnout": 451
+        },
+        {
+            "county_name": "Tewksbury",
+            "Diehl": 1182,
+            "Doughty": 742,
+            "total": 1924,
+            "min_turnout": 1943,
+            "max_turnout": 1943
+        },
+        {
+            "county_name": "Tisbury",
+            "Diehl": 64,
+            "Doughty": 42,
+            "total": 106,
+            "min_turnout": 106,
+            "max_turnout": 107
+        },
+        {
+            "county_name": "Tolland",
+            "Diehl": 36,
+            "Doughty": 20,
+            "total": 56,
+            "min_turnout": 57,
+            "max_turnout": 57
+        },
+        {
+            "county_name": "Topsfield",
+            "Diehl": 418,
+            "Doughty": 348,
+            "total": 766,
+            "min_turnout": 766,
+            "max_turnout": 774
+        },
+        {
+            "county_name": "Townsend",
+            "Diehl": 606,
+            "Doughty": 484,
+            "total": 1090,
+            "min_turnout": 1101,
+            "max_turnout": 1101
+        },
+        {
+            "county_name": "Truro",
+            "Diehl": 45,
+            "Doughty": 56,
+            "total": 101,
+            "min_turnout": 102,
+            "max_turnout": 102
+        },
+        {
+            "county_name": "Tyngsborough",
+            "Diehl": 492,
+            "Doughty": 240,
+            "total": 732,
+            "min_turnout": 739,
+            "max_turnout": 739
+        },
+        {
+            "county_name": "Tyringham",
+            "Diehl": 8,
+            "Doughty": 3,
+            "total": 11,
+            "min_turnout": 11,
+            "max_turnout": 11
+        },
+        {
+            "county_name": "Upton",
+            "Diehl": 234,
+            "Doughty": 223,
+            "total": 457,
+            "min_turnout": 462,
+            "max_turnout": 462
+        },
+        {
+            "county_name": "Uxbridge",
+            "Diehl": 425,
+            "Doughty": 494,
+            "total": 919,
+            "min_turnout": 928,
+            "max_turnout": 928
+        },
+        {
+            "county_name": "Wakefield",
+            "Diehl": 875,
+            "Doughty": 624,
+            "total": 1499,
+            "min_turnout": 1514,
+            "max_turnout": 1514
+        },
+        {
+            "county_name": "Wales",
+            "Diehl": 75,
+            "Doughty": 67,
+            "total": 142,
+            "min_turnout": 142,
+            "max_turnout": 143
+        },
+        {
+            "county_name": "Walpole",
+            "Diehl": 808,
+            "Doughty": 838,
+            "total": 1646,
+            "min_turnout": 1663,
+            "max_turnout": 1663
+        },
+        {
+            "county_name": "Waltham",
+            "Diehl": 1977,
+            "Doughty": 629,
+            "total": 2606,
+            "min_turnout": 2606,
+            "max_turnout": 2632
+        },
+        {
+            "county_name": "Ware",
+            "Diehl": 220,
+            "Doughty": 204,
+            "total": 424,
+            "min_turnout": 428,
+            "max_turnout": 428
+        },
+        {
+            "county_name": "Wareham",
+            "Diehl": 725,
+            "Doughty": 564,
+            "total": 1289,
+            "min_turnout": 1302,
+            "max_turnout": 1302
+        },
+        {
+            "county_name": "Warren",
+            "Diehl": 188,
+            "Doughty": 106,
+            "total": 294,
+            "min_turnout": 297,
+            "max_turnout": 297
+        },
+        {
+            "county_name": "Warwick",
+            "Diehl": 16,
+            "Doughty": 19,
+            "total": 35,
+            "min_turnout": 35,
+            "max_turnout": 35
+        },
+        {
+            "county_name": "Washington",
+            "Diehl": 21,
+            "Doughty": 12,
+            "total": 33,
+            "min_turnout": 33,
+            "max_turnout": 33
+        },
+        {
+            "county_name": "Watertown",
+            "Diehl": 457,
+            "Doughty": 345,
+            "total": 802,
+            "min_turnout": 810,
+            "max_turnout": 810
+        },
+        {
+            "county_name": "Wayland",
+            "Diehl": 217,
+            "Doughty": 266,
+            "total": 483,
+            "min_turnout": 488,
+            "max_turnout": 488
+        },
+        {
+            "county_name": "Webster",
+            "Diehl": 365,
+            "Doughty": 414,
+            "total": 779,
+            "min_turnout": 787,
+            "max_turnout": 787
+        },
+        {
+            "county_name": "Wellesley",
+            "Diehl": 363,
+            "Doughty": 569,
+            "total": 932,
+            "min_turnout": 941,
+            "max_turnout": 941
+        },
+        {
+            "county_name": "Wellfleet",
+            "Diehl": 67,
+            "Doughty": 74,
+            "total": 141,
+            "min_turnout": 142,
+            "max_turnout": 142
+        },
+        {
+            "county_name": "Wendell",
+            "Diehl": 0,
+            "Doughty": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 30
+        },
+        {
+            "county_name": "Wenham",
+            "Diehl": 101,
+            "Doughty": 155,
+            "total": 256,
+            "min_turnout": 259,
+            "max_turnout": 259
+        },
+        {
+            "county_name": "West Boylston",
+            "Diehl": 253,
+            "Doughty": 249,
+            "total": 502,
+            "min_turnout": 507,
+            "max_turnout": 507
+        },
+        {
+            "county_name": "West Bridgewater",
+            "Diehl": 375,
+            "Doughty": 233,
+            "total": 608,
+            "min_turnout": 614,
+            "max_turnout": 614
+        },
+        {
+            "county_name": "West Brookfield",
+            "Diehl": 161,
+            "Doughty": 116,
+            "total": 277,
+            "min_turnout": 280,
+            "max_turnout": 280
+        },
+        {
+            "county_name": "West Newbury",
+            "Diehl": 183,
+            "Doughty": 144,
+            "total": 327,
+            "min_turnout": 330,
+            "max_turnout": 330
+        },
+        {
+            "county_name": "West Springfield",
+            "Diehl": 504,
+            "Doughty": 504,
+            "total": 1008,
+            "min_turnout": 1018,
+            "max_turnout": 1018
+        },
+        {
+            "county_name": "West Stockbridge",
+            "Diehl": 10,
+            "Doughty": 13,
+            "total": 23,
+            "min_turnout": 23,
+            "max_turnout": 26
+        },
+        {
+            "county_name": "West Tisbury",
+            "Diehl": 45,
+            "Doughty": 36,
+            "total": 81,
+            "min_turnout": 81,
+            "max_turnout": 82
+        },
+        {
+            "county_name": "Westborough",
+            "Diehl": 347,
+            "Doughty": 330,
+            "total": 677,
+            "min_turnout": 677,
+            "max_turnout": 677
+        },
+        {
+            "county_name": "Westfield",
+            "Diehl": 1168,
+            "Doughty": 890,
+            "total": 2058,
+            "min_turnout": 2079,
+            "max_turnout": 2079
+        },
+        {
+            "county_name": "Westford",
+            "Diehl": 758,
+            "Doughty": 646,
+            "total": 1404,
+            "min_turnout": 1418,
+            "max_turnout": 1418
+        },
+        {
+            "county_name": "Westhampton",
+            "Diehl": 37,
+            "Doughty": 36,
+            "total": 73,
+            "min_turnout": 74,
+            "max_turnout": 74
+        },
+        {
+            "county_name": "Westminster",
+            "Diehl": 318,
+            "Doughty": 262,
+            "total": 580,
+            "min_turnout": 586,
+            "max_turnout": 586
+        },
+        {
+            "county_name": "Weston",
+            "Diehl": 205,
+            "Doughty": 267,
+            "total": 472,
+            "min_turnout": 475,
+            "max_turnout": 477
+        },
+        {
+            "county_name": "Westport",
+            "Diehl": 560,
+            "Doughty": 349,
+            "total": 909,
+            "min_turnout": 918,
+            "max_turnout": 918
+        },
+        {
+            "county_name": "Westwood",
+            "Diehl": 404,
+            "Doughty": 464,
+            "total": 868,
+            "min_turnout": 877,
+            "max_turnout": 877
+        },
+        {
+            "county_name": "Weymouth",
+            "Diehl": 2673,
+            "Doughty": 1204,
+            "total": 3877,
+            "min_turnout": 3916,
+            "max_turnout": 3916
+        },
+        {
+            "county_name": "Whately",
+            "Diehl": 39,
+            "Doughty": 31,
+            "total": 70,
+            "min_turnout": 71,
+            "max_turnout": 71
+        },
+        {
+            "county_name": "Whitman",
+            "Diehl": 969,
+            "Doughty": 241,
+            "total": 1210,
+            "min_turnout": 1215,
+            "max_turnout": 1222
+        },
+        {
+            "county_name": "Wilbraham",
+            "Diehl": 403,
+            "Doughty": 430,
+            "total": 833,
+            "min_turnout": 841,
+            "max_turnout": 841
+        },
+        {
+            "county_name": "Williamsburg",
+            "Diehl": 29,
+            "Doughty": 35,
+            "total": 64,
+            "min_turnout": 65,
+            "max_turnout": 65
+        },
+        {
+            "county_name": "Williamstown",
+            "Diehl": 40,
+            "Doughty": 45,
+            "total": 85,
+            "min_turnout": 86,
+            "max_turnout": 86
+        },
+        {
+            "county_name": "Wilmington",
+            "Diehl": 965,
+            "Doughty": 568,
+            "total": 1533,
+            "min_turnout": 1548,
+            "max_turnout": 1548
+        },
+        {
+            "county_name": "Winchendon",
+            "Diehl": 315,
+            "Doughty": 173,
+            "total": 488,
+            "min_turnout": 493,
+            "max_turnout": 493
+        },
+        {
+            "county_name": "Winchester",
+            "Diehl": 478,
+            "Doughty": 516,
+            "total": 994,
+            "min_turnout": 1004,
+            "max_turnout": 1004
+        },
+        {
+            "county_name": "Windsor",
+            "Diehl": 21,
+            "Doughty": 19,
+            "total": 40,
+            "min_turnout": 40,
+            "max_turnout": 40
+        },
+        {
+            "county_name": "Winthrop",
+            "Diehl": 457,
+            "Doughty": 220,
+            "total": 677,
+            "min_turnout": 684,
+            "max_turnout": 684
+        },
+        {
+            "county_name": "Woburn",
+            "Diehl": 1202,
+            "Doughty": 724,
+            "total": 1926,
+            "min_turnout": 1945,
+            "max_turnout": 1945
+        },
+        {
+            "county_name": "Worcester",
+            "Diehl": 1973,
+            "Doughty": 1685,
+            "total": 3658,
+            "min_turnout": 3695,
+            "max_turnout": 3695
+        },
+        {
+            "county_name": "Worthington",
+            "Diehl": 40,
+            "Doughty": 25,
+            "total": 65,
+            "min_turnout": 65,
+            "max_turnout": 66
+        },
+        {
+            "county_name": "Wrentham",
+            "Diehl": 345,
+            "Doughty": 815,
+            "total": 1160,
+            "min_turnout": 1172,
+            "max_turnout": 1172
+        },
+        {
+            "county_name": "Yarmouth",
+            "Diehl": 1191,
+            "Doughty": 1301,
+            "total": 2492,
+            "min_turnout": 2517,
+            "max_turnout": 2517
+        }
+    ],
+    "sources": "nyt, ddhq, bg",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Abington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Acton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Acushnet": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Agawam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Alford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Amesbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Amherst": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Andover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Aquinnah": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Arlington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ashburnham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ashby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ashfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Athol": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Attleboro": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Auburn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Avon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ayer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Barnstable": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barre": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Becket": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bedford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Belchertown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bellingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Belmont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Berkley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Berlin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bernardston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Beverly": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Billerica": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Blackstone": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Blandford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bolton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Boston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bourne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Boxborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Boxford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Boylston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Braintree": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Brewster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bridgewater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Brimfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Brockton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Brookfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Brookline": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Buckland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Burlington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cambridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Canton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Carlisle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Carver": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Charlemont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Charlton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chatham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chelmsford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chelsea": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cheshire": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chesterfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chicopee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chilmark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clarksburg": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cohasset": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Colrain": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Concord": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Conway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cummington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dalton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Danvers": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dartmouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dedham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Deerfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dennis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dighton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Dover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dracut": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dudley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dunstable": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Duxbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "East Bridgewater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "East Brookfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "East Longmeadow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Eastham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Easthampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Easton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Edgartown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Egremont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Erving": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Essex": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Everett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fairhaven": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Fall River": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Falmouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Fitchburg": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Florida": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Foxborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Framingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Freetown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gardner": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Georgetown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gloucester": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Goshen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gosnold": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Grafton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Granby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Granville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Great Barrington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Greenfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Groton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Groveland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hadley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Halifax": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hampden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hanover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hanson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hardwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Harvard": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Harwich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hatfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Haverhill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hawley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Heath": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hinsdale": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Holbrook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Holden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Holland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Holliston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Holyoke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hopedale": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hopkinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hubbardston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hudson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hull": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Huntington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ipswich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Kingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lakeville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lancaster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lanesborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Leicester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lenox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Leominster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Leverett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lexington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Leyden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Littleton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Longmeadow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lowell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Ludlow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lunenburg": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lynn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Lynnfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Malden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Manchester-by-the-Sea": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mansfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marblehead": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marlborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marshfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mashpee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mattapoisett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Maynard": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Medfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Medford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Medway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Melrose": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mendon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Merrimac": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Methuen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Middleborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Middlefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Middleton": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Milford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Millbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Millis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Millville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Milton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Monson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Montague": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Monterey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mount Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Nahant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Nantucket": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Natick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Needham": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "New Ashford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "New Bedford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New Braintree": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "New Marlborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "New Salem": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Newbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Newburyport": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Newton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Norfolk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Andover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Attleborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Brookfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "North Reading": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Northampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Northborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Northbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Northfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Norton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Norwell": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Norwood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Oak Bluffs": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Oakham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Orleans": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Otis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Oxford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Palmer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Paxton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Peabody": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pelham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pembroke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pepperell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Peru": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Petersham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Phillipston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pittsfield": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Plainfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Plainville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Plymouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Plympton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Princeton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Provincetown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Quincy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Raynham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Reading": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rehoboth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Revere": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Richmond": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rochester": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rockland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rockport": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rowe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rowley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Royalston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Russell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Rutland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Salem": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Salisbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sandisfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sandwich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Saugus": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Savoy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Scituate": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Seekonk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sharon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sheffield": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shelburne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sherborn": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Shirley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Shrewsbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Shutesbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Somerset": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Somerville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "South Hadley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Southampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Southborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Southbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Southwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Spencer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Springfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sterling": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Stockbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Stoneham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Stoughton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Stow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sturbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sudbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sunderland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sutton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Swampscott": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Swansea": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Taunton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Templeton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Tewksbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Tisbury": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tolland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Topsfield": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Townsend": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Truro": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Tyngsborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Tyringham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Upton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Uxbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wakefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wales": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Walpole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Waltham": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Ware": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wareham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Warwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Watertown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wayland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wellesley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wellfleet": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wendell": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wenham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Boylston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Bridgewater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Brookfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Newbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Springfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "West Stockbridge": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "West Tisbury": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Westborough": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Westfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Westford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Westhampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Westminster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Weston": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Westport": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Westwood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Weymouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Whately": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Whitman": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wilbraham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Williamsburg": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Williamstown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wilmington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Winchendon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Winchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Windsor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Winthrop": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Woburn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Worcester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Worthington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wrentham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Yarmouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        }
+    }
+}

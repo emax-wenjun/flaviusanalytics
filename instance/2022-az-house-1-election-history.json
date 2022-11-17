@@ -1,0 +1,200 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Hodge": 155558,
+            "Schweikert": 151529,
+            "total": 307087,
+            "min_turnout": 361278,
+            "max_turnout": 376001
+        },
+        "1": {
+            "county_name": "Maricopa",
+            "Hodge": 155558,
+            "Schweikert": 151529,
+            "total": 307087,
+            "min_turnout": 361278,
+            "max_turnout": 376001
+        }
+    },
+    "2022-11-12T20:04:57-05:00": {
+        "0": {
+            "Hodge": 7882,
+            "Schweikert": 9370,
+            "total": 17252,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 7882,
+            "Schweikert": 9370,
+            "total": 17252,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-12T20:10:47-05:00": {
+        "0": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": -902,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": -902,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-13T20:22:54-05:00": {
+        "0": {
+            "Hodge": 8511,
+            "Schweikert": 11946,
+            "total": 20457,
+            "min_turnout": 2567,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 8511,
+            "Schweikert": 11946,
+            "total": 20457,
+            "min_turnout": 2567,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-13T20:29:04-05:00": {
+        "0": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9197,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9197,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T16:33:07-05:00": {
+        "0": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3944,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3944,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T20:40:46-05:00": {
+        "0": {
+            "Hodge": 5916,
+            "Schweikert": 8030,
+            "total": 13946,
+            "min_turnout": 7805,
+            "max_turnout": 6875,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 5916,
+            "Schweikert": 8030,
+            "total": 13946,
+            "min_turnout": 7805,
+            "max_turnout": 6875,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T20:49:09-05:00": {
+        "0": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": -8382,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": -8382,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Hodge": 282,
+            "Schweikert": 388,
+            "total": 670,
+            "min_turnout": 676,
+            "max_turnout": 705,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 282,
+            "Schweikert": 388,
+            "total": 670,
+            "min_turnout": 676,
+            "max_turnout": 705,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-16T23:12:57-05:00": {
+        "0": {
+            "Hodge": 297,
+            "Schweikert": 291,
+            "total": 588,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 297,
+            "Schweikert": 291,
+            "total": 588,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-16T23:15:56-05:00": {
+        "0": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 619,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hodge": 0,
+            "Schweikert": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 619,
+            "county_name": "Maricopa"
+        }
+    }
+}

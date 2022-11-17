@@ -1,0 +1,812 @@
+{
+    "2022-08-22T19:54:41-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Cunningham": 2569965,
+            "Tillis": 2665598,
+            "total": 5235563,
+            "min_turnout": 5289598,
+            "max_turnout": 5289598
+        },
+        "1": {
+            "county_name": "Alamance",
+            "Cunningham": 38038,
+            "Tillis": 44246,
+            "total": 82284,
+            "min_turnout": 83115,
+            "max_turnout": 83115
+        },
+        "2": {
+            "county_name": "Alexander",
+            "Cunningham": 4287,
+            "Tillis": 14739,
+            "total": 19026,
+            "min_turnout": 19218,
+            "max_turnout": 19218
+        },
+        "3": {
+            "county_name": "Alleghany",
+            "Cunningham": 1587,
+            "Tillis": 4082,
+            "total": 5669,
+            "min_turnout": 5726,
+            "max_turnout": 5726
+        },
+        "4": {
+            "county_name": "Anson",
+            "Cunningham": 5756,
+            "Tillis": 4981,
+            "total": 10737,
+            "min_turnout": 10845,
+            "max_turnout": 10845
+        },
+        "5": {
+            "county_name": "Ashe",
+            "Cunningham": 4279,
+            "Tillis": 10619,
+            "total": 14898,
+            "min_turnout": 15048,
+            "max_turnout": 15048
+        },
+        "6": {
+            "county_name": "Avery",
+            "Cunningham": 2079,
+            "Tillis": 6865,
+            "total": 8944,
+            "min_turnout": 9034,
+            "max_turnout": 9034
+        },
+        "7": {
+            "county_name": "Beaufort",
+            "Cunningham": 9439,
+            "Tillis": 15448,
+            "total": 24887,
+            "min_turnout": 25138,
+            "max_turnout": 25138
+        },
+        "8": {
+            "county_name": "Bertie",
+            "Cunningham": 5825,
+            "Tillis": 3597,
+            "total": 9422,
+            "min_turnout": 9517,
+            "max_turnout": 9517
+        },
+        "9": {
+            "county_name": "Bladen",
+            "Cunningham": 7280,
+            "Tillis": 8967,
+            "total": 16247,
+            "min_turnout": 16411,
+            "max_turnout": 16411
+        },
+        "10": {
+            "county_name": "Brunswick",
+            "Cunningham": 32180,
+            "Tillis": 52971,
+            "total": 85151,
+            "min_turnout": 86011,
+            "max_turnout": 86011
+        },
+        "11": {
+            "county_name": "Buncombe",
+            "Cunningham": 92664,
+            "Tillis": 60688,
+            "total": 153352,
+            "min_turnout": 154901,
+            "max_turnout": 154901
+        },
+        "12": {
+            "county_name": "Burke",
+            "Cunningham": 13108,
+            "Tillis": 28934,
+            "total": 42042,
+            "min_turnout": 42466,
+            "max_turnout": 42466
+        },
+        "13": {
+            "county_name": "Cabarrus",
+            "Cunningham": 48886,
+            "Tillis": 61231,
+            "total": 110117,
+            "min_turnout": 111229,
+            "max_turnout": 111229
+        },
+        "14": {
+            "county_name": "Caldwell",
+            "Cunningham": 10288,
+            "Tillis": 29971,
+            "total": 40259,
+            "min_turnout": 40665,
+            "max_turnout": 40665
+        },
+        "15": {
+            "county_name": "Camden",
+            "Cunningham": 1403,
+            "Tillis": 4181,
+            "total": 5584,
+            "min_turnout": 5697,
+            "max_turnout": 5697
+        },
+        "16": {
+            "county_name": "Carteret",
+            "Cunningham": 11823,
+            "Tillis": 28492,
+            "total": 40315,
+            "min_turnout": 40722,
+            "max_turnout": 40722
+        },
+        "17": {
+            "county_name": "Caswell",
+            "Cunningham": 4916,
+            "Tillis": 6643,
+            "total": 11559,
+            "min_turnout": 11675,
+            "max_turnout": 11675
+        },
+        "18": {
+            "county_name": "Catawba",
+            "Cunningham": 24845,
+            "Tillis": 54004,
+            "total": 78849,
+            "min_turnout": 79645,
+            "max_turnout": 79645
+        },
+        "19": {
+            "county_name": "Chatham",
+            "Cunningham": 25697,
+            "Tillis": 21039,
+            "total": 46736,
+            "min_turnout": 47208,
+            "max_turnout": 47208
+        },
+        "20": {
+            "county_name": "Cherokee",
+            "Cunningham": 3589,
+            "Tillis": 12048,
+            "total": 15637,
+            "min_turnout": 15794,
+            "max_turnout": 15794
+        },
+        "21": {
+            "county_name": "Chowan",
+            "Cunningham": 3124,
+            "Tillis": 4353,
+            "total": 7477,
+            "min_turnout": 7552,
+            "max_turnout": 7552
+        },
+        "22": {
+            "county_name": "Clay",
+            "Cunningham": 1676,
+            "Tillis": 4897,
+            "total": 6573,
+            "min_turnout": 6639,
+            "max_turnout": 6639
+        },
+        "23": {
+            "county_name": "Cleveland",
+            "Cunningham": 16752,
+            "Tillis": 32022,
+            "total": 48774,
+            "min_turnout": 49266,
+            "max_turnout": 49266
+        },
+        "24": {
+            "county_name": "Columbus",
+            "Cunningham": 9599,
+            "Tillis": 15563,
+            "total": 25162,
+            "min_turnout": 25416,
+            "max_turnout": 25416
+        },
+        "25": {
+            "county_name": "Craven",
+            "Cunningham": 20416,
+            "Tillis": 29542,
+            "total": 49958,
+            "min_turnout": 50462,
+            "max_turnout": 50462
+        },
+        "26": {
+            "county_name": "Cumberland",
+            "Cunningham": 81001,
+            "Tillis": 57121,
+            "total": 138122,
+            "min_turnout": 139517,
+            "max_turnout": 139517
+        },
+        "27": {
+            "county_name": "Currituck",
+            "Cunningham": 3849,
+            "Tillis": 11368,
+            "total": 15217,
+            "min_turnout": 15370,
+            "max_turnout": 15370
+        },
+        "28": {
+            "county_name": "Dare",
+            "Cunningham": 9284,
+            "Tillis": 13581,
+            "total": 22865,
+            "min_turnout": 23331,
+            "max_turnout": 23331
+        },
+        "29": {
+            "county_name": "Davidson",
+            "Cunningham": 23660,
+            "Tillis": 60686,
+            "total": 84346,
+            "min_turnout": 84346,
+            "max_turnout": 84346
+        },
+        "30": {
+            "county_name": "Davie",
+            "Cunningham": 6570,
+            "Tillis": 17415,
+            "total": 23985,
+            "min_turnout": 24227,
+            "max_turnout": 24227
+        },
+        "31": {
+            "county_name": "Duplin",
+            "Cunningham": 8689,
+            "Tillis": 12954,
+            "total": 21643,
+            "min_turnout": 21861,
+            "max_turnout": 21861
+        },
+        "32": {
+            "county_name": "Durham",
+            "Cunningham": 138429,
+            "Tillis": 34152,
+            "total": 172581,
+            "min_turnout": 174324,
+            "max_turnout": 174324
+        },
+        "33": {
+            "county_name": "Edgecombe",
+            "Cunningham": 15952,
+            "Tillis": 8582,
+            "total": 24534,
+            "min_turnout": 24781,
+            "max_turnout": 24781
+        },
+        "34": {
+            "county_name": "Forsyth",
+            "Cunningham": 107277,
+            "Tillis": 83228,
+            "total": 190505,
+            "min_turnout": 192429,
+            "max_turnout": 192429
+        },
+        "35": {
+            "county_name": "Franklin",
+            "Cunningham": 15659,
+            "Tillis": 19654,
+            "total": 35313,
+            "min_turnout": 35669,
+            "max_turnout": 35669
+        },
+        "36": {
+            "county_name": "Gaston",
+            "Cunningham": 39595,
+            "Tillis": 69398,
+            "total": 108993,
+            "min_turnout": 110093,
+            "max_turnout": 110093
+        },
+        "37": {
+            "county_name": "Gates",
+            "Cunningham": 2474,
+            "Tillis": 3205,
+            "total": 5679,
+            "min_turnout": 5736,
+            "max_turnout": 5736
+        },
+        "38": {
+            "county_name": "Graham",
+            "Cunningham": 1013,
+            "Tillis": 3355,
+            "total": 4368,
+            "min_turnout": 4457,
+            "max_turnout": 4457
+        },
+        "39": {
+            "county_name": "Granville",
+            "Cunningham": 14368,
+            "Tillis": 15687,
+            "total": 30055,
+            "min_turnout": 30358,
+            "max_turnout": 30358
+        },
+        "40": {
+            "county_name": "Greene",
+            "Cunningham": 3842,
+            "Tillis": 4591,
+            "total": 8433,
+            "min_turnout": 8518,
+            "max_turnout": 8518
+        },
+        "41": {
+            "county_name": "Guilford",
+            "Cunningham": 165823,
+            "Tillis": 104908,
+            "total": 270731,
+            "min_turnout": 273465,
+            "max_turnout": 273465
+        },
+        "42": {
+            "county_name": "Halifax",
+            "Cunningham": 15438,
+            "Tillis": 9446,
+            "total": 24884,
+            "min_turnout": 25135,
+            "max_turnout": 25135
+        },
+        "43": {
+            "county_name": "Harnett",
+            "Cunningham": 21523,
+            "Tillis": 33321,
+            "total": 54844,
+            "min_turnout": 55397,
+            "max_turnout": 55397
+        },
+        "44": {
+            "county_name": "Haywood",
+            "Cunningham": 13113,
+            "Tillis": 21502,
+            "total": 34615,
+            "min_turnout": 34964,
+            "max_turnout": 34964
+        },
+        "45": {
+            "county_name": "Henderson",
+            "Cunningham": 25782,
+            "Tillis": 39359,
+            "total": 65141,
+            "min_turnout": 65798,
+            "max_turnout": 65798
+        },
+        "46": {
+            "county_name": "Hertford",
+            "Cunningham": 6815,
+            "Tillis": 3305,
+            "total": 10120,
+            "min_turnout": 10326,
+            "max_turnout": 10326
+        },
+        "47": {
+            "county_name": "Hoke",
+            "Cunningham": 11466,
+            "Tillis": 8638,
+            "total": 20104,
+            "min_turnout": 20725,
+            "max_turnout": 20725
+        },
+        "48": {
+            "county_name": "Hyde",
+            "Cunningham": 1075,
+            "Tillis": 1315,
+            "total": 2390,
+            "min_turnout": 2414,
+            "max_turnout": 2414
+        },
+        "49": {
+            "county_name": "Iredell",
+            "Cunningham": 31893,
+            "Tillis": 64319,
+            "total": 96212,
+            "min_turnout": 97183,
+            "max_turnout": 97183
+        },
+        "50": {
+            "county_name": "Jackson",
+            "Cunningham": 9382,
+            "Tillis": 10763,
+            "total": 20145,
+            "min_turnout": 20348,
+            "max_turnout": 20348
+        },
+        "51": {
+            "county_name": "Johnston",
+            "Cunningham": 39771,
+            "Tillis": 64822,
+            "total": 104593,
+            "min_turnout": 105649,
+            "max_turnout": 105649
+        },
+        "52": {
+            "county_name": "Jones",
+            "Cunningham": 2124,
+            "Tillis": 3046,
+            "total": 5170,
+            "min_turnout": 5222,
+            "max_turnout": 5222
+        },
+        "53": {
+            "county_name": "Lee",
+            "Cunningham": 11851,
+            "Tillis": 15419,
+            "total": 27270,
+            "min_turnout": 27545,
+            "max_turnout": 27545
+        },
+        "54": {
+            "county_name": "Lenoir",
+            "Cunningham": 13284,
+            "Tillis": 13898,
+            "total": 27182,
+            "min_turnout": 27456,
+            "max_turnout": 27456
+        },
+        "55": {
+            "county_name": "Lincoln",
+            "Cunningham": 12858,
+            "Tillis": 34673,
+            "total": 47531,
+            "min_turnout": 48011,
+            "max_turnout": 48011
+        },
+        "56": {
+            "county_name": "Macon",
+            "Cunningham": 6248,
+            "Tillis": 13408,
+            "total": 19656,
+            "min_turnout": 19854,
+            "max_turnout": 19854
+        },
+        "57": {
+            "county_name": "Madison",
+            "Cunningham": 4987,
+            "Tillis": 7399,
+            "total": 12386,
+            "min_turnout": 12511,
+            "max_turnout": 12511
+        },
+        "58": {
+            "county_name": "Martin",
+            "Cunningham": 5973,
+            "Tillis": 6034,
+            "total": 12007,
+            "min_turnout": 12128,
+            "max_turnout": 12128
+        },
+        "59": {
+            "county_name": "McDowell",
+            "Cunningham": 5934,
+            "Tillis": 15894,
+            "total": 21828,
+            "min_turnout": 22048,
+            "max_turnout": 22048
+        },
+        "60": {
+            "county_name": "Mecklenburg",
+            "Cunningham": 350775,
+            "Tillis": 186693,
+            "total": 537468,
+            "min_turnout": 542896,
+            "max_turnout": 542896
+        },
+        "61": {
+            "county_name": "Mitchell",
+            "Cunningham": 1919,
+            "Tillis": 6735,
+            "total": 8654,
+            "min_turnout": 8741,
+            "max_turnout": 8741
+        },
+        "62": {
+            "county_name": "Montgomery",
+            "Cunningham": 4379,
+            "Tillis": 7741,
+            "total": 12120,
+            "min_turnout": 12242,
+            "max_turnout": 12242
+        },
+        "63": {
+            "county_name": "Moore",
+            "Cunningham": 19633,
+            "Tillis": 35682,
+            "total": 55315,
+            "min_turnout": 55873,
+            "max_turnout": 55873
+        },
+        "64": {
+            "county_name": "Nash",
+            "Cunningham": 25474,
+            "Tillis": 24719,
+            "total": 50193,
+            "min_turnout": 50700,
+            "max_turnout": 50700
+        },
+        "65": {
+            "county_name": "New Hanover",
+            "Cunningham": 61702,
+            "Tillis": 61415,
+            "total": 123117,
+            "min_turnout": 124360,
+            "max_turnout": 124360
+        },
+        "66": {
+            "county_name": "Northampton",
+            "Cunningham": 6005,
+            "Tillis": 3720,
+            "total": 9725,
+            "min_turnout": 9823,
+            "max_turnout": 9823
+        },
+        "67": {
+            "county_name": "Onslow",
+            "Cunningham": 23344,
+            "Tillis": 42868,
+            "total": 66212,
+            "min_turnout": 66880,
+            "max_turnout": 66880
+        },
+        "68": {
+            "county_name": "Orange",
+            "Cunningham": 61214,
+            "Tillis": 20862,
+            "total": 82076,
+            "min_turnout": 82905,
+            "max_turnout": 82905
+        },
+        "69": {
+            "county_name": "Pamlico",
+            "Cunningham": 2681,
+            "Tillis": 4589,
+            "total": 7270,
+            "min_turnout": 7343,
+            "max_turnout": 7343
+        },
+        "70": {
+            "county_name": "Pasquotank",
+            "Cunningham": 9421,
+            "Tillis": 9491,
+            "total": 18912,
+            "min_turnout": 19103,
+            "max_turnout": 19103
+        },
+        "71": {
+            "county_name": "Pender",
+            "Cunningham": 11272,
+            "Tillis": 20660,
+            "total": 31932,
+            "min_turnout": 32254,
+            "max_turnout": 32254
+        },
+        "72": {
+            "county_name": "Perquimans",
+            "Cunningham": 2382,
+            "Tillis": 4817,
+            "total": 7199,
+            "min_turnout": 7271,
+            "max_turnout": 7271
+        },
+        "73": {
+            "county_name": "Person",
+            "Cunningham": 8475,
+            "Tillis": 12192,
+            "total": 20667,
+            "min_turnout": 20875,
+            "max_turnout": 20875
+        },
+        "74": {
+            "county_name": "Pitt",
+            "Cunningham": 45598,
+            "Tillis": 37947,
+            "total": 83545,
+            "min_turnout": 84388,
+            "max_turnout": 84388
+        },
+        "75": {
+            "county_name": "Polk",
+            "Cunningham": 4436,
+            "Tillis": 7394,
+            "total": 11830,
+            "min_turnout": 11949,
+            "max_turnout": 11949
+        },
+        "76": {
+            "county_name": "Randolph",
+            "Cunningham": 15973,
+            "Tillis": 53357,
+            "total": 69330,
+            "min_turnout": 70030,
+            "max_turnout": 70030
+        },
+        "77": {
+            "county_name": "Richmond",
+            "Cunningham": 8510,
+            "Tillis": 11002,
+            "total": 19512,
+            "min_turnout": 19910,
+            "max_turnout": 19910
+        },
+        "78": {
+            "county_name": "Robeson",
+            "Cunningham": 19135,
+            "Tillis": 25211,
+            "total": 44346,
+            "min_turnout": 45717,
+            "max_turnout": 45717
+        },
+        "79": {
+            "county_name": "Rockingham",
+            "Cunningham": 16189,
+            "Tillis": 28971,
+            "total": 45160,
+            "min_turnout": 45616,
+            "max_turnout": 45616
+        },
+        "80": {
+            "county_name": "Rowan",
+            "Cunningham": 22615,
+            "Tillis": 46446,
+            "total": 69061,
+            "min_turnout": 69758,
+            "max_turnout": 69758
+        },
+        "81": {
+            "county_name": "Rutherford",
+            "Cunningham": 9136,
+            "Tillis": 23596,
+            "total": 32732,
+            "min_turnout": 33062,
+            "max_turnout": 33062
+        },
+        "82": {
+            "county_name": "Sampson",
+            "Cunningham": 10818,
+            "Tillis": 16521,
+            "total": 27339,
+            "min_turnout": 27615,
+            "max_turnout": 27615
+        },
+        "83": {
+            "county_name": "Scotland",
+            "Cunningham": 6850,
+            "Tillis": 7066,
+            "total": 13916,
+            "min_turnout": 14200,
+            "max_turnout": 14200
+        },
+        "84": {
+            "county_name": "Stanly",
+            "Cunningham": 8045,
+            "Tillis": 23891,
+            "total": 31936,
+            "min_turnout": 32258,
+            "max_turnout": 32258
+        },
+        "85": {
+            "county_name": "Stokes",
+            "Cunningham": 5611,
+            "Tillis": 18599,
+            "total": 24210,
+            "min_turnout": 24454,
+            "max_turnout": 24454
+        },
+        "86": {
+            "county_name": "Surry",
+            "Cunningham": 9267,
+            "Tillis": 25475,
+            "total": 34742,
+            "min_turnout": 35092,
+            "max_turnout": 35092
+        },
+        "87": {
+            "county_name": "Swain",
+            "Cunningham": 2696,
+            "Tillis": 3846,
+            "total": 6542,
+            "min_turnout": 6608,
+            "max_turnout": 6608
+        },
+        "88": {
+            "county_name": "Transylvania",
+            "Cunningham": 8158,
+            "Tillis": 11209,
+            "total": 19367,
+            "min_turnout": 19562,
+            "max_turnout": 19562
+        },
+        "89": {
+            "county_name": "Tyrrell",
+            "Cunningham": 778,
+            "Tillis": 945,
+            "total": 1723,
+            "min_turnout": 1758,
+            "max_turnout": 1758
+        },
+        "90": {
+            "county_name": "Union",
+            "Cunningham": 45096,
+            "Tillis": 79645,
+            "total": 124741,
+            "min_turnout": 126001,
+            "max_turnout": 126001
+        },
+        "91": {
+            "county_name": "Vance",
+            "Cunningham": 12247,
+            "Tillis": 7876,
+            "total": 20123,
+            "min_turnout": 20326,
+            "max_turnout": 20326
+        },
+        "92": {
+            "county_name": "Wake",
+            "Cunningham": 367718,
+            "Tillis": 232388,
+            "total": 600106,
+            "min_turnout": 606167,
+            "max_turnout": 606167
+        },
+        "93": {
+            "county_name": "Warren",
+            "Cunningham": 6437,
+            "Tillis": 3520,
+            "total": 9957,
+            "min_turnout": 9957,
+            "max_turnout": 9957
+        },
+        "94": {
+            "county_name": "Washington",
+            "Cunningham": 3329,
+            "Tillis": 2584,
+            "total": 5913,
+            "min_turnout": 5972,
+            "max_turnout": 5972
+        },
+        "95": {
+            "county_name": "Watauga",
+            "Cunningham": 16193,
+            "Tillis": 14216,
+            "total": 30409,
+            "min_turnout": 30716,
+            "max_turnout": 30716
+        },
+        "96": {
+            "county_name": "Wayne",
+            "Cunningham": 23528,
+            "Tillis": 29174,
+            "total": 52702,
+            "min_turnout": 53234,
+            "max_turnout": 53234
+        },
+        "97": {
+            "county_name": "Wilkes",
+            "Cunningham": 8074,
+            "Tillis": 25488,
+            "total": 33562,
+            "min_turnout": 33901,
+            "max_turnout": 33901
+        },
+        "98": {
+            "county_name": "Wilson",
+            "Cunningham": 20445,
+            "Tillis": 18642,
+            "total": 39087,
+            "min_turnout": 39481,
+            "max_turnout": 39481
+        },
+        "99": {
+            "county_name": "Yadkin",
+            "Cunningham": 4036,
+            "Tillis": 14798,
+            "total": 18834,
+            "min_turnout": 19024,
+            "max_turnout": 19024
+        },
+        "100": {
+            "county_name": "Yancey",
+            "Cunningham": 3833,
+            "Tillis": 7038,
+            "total": 10871,
+            "min_turnout": 10980,
+            "max_turnout": 10980
+        }
+    }
+}

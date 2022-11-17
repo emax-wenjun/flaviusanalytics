@@ -1,0 +1,248 @@
+{
+    "2022-11-12T00:58:42-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Gray": 39613,
+            "Duarte": 39697,
+            "total": 79310,
+            "min_turnout": 129766,
+            "max_turnout": 168932
+        },
+        "1": {
+            "county_name": "Fresno",
+            "Gray": 4050,
+            "Duarte": 5088,
+            "total": 9138,
+            "min_turnout": 12088,
+            "max_turnout": 17241
+        },
+        "2": {
+            "county_name": "Madera",
+            "Gray": 6240,
+            "Duarte": 8231,
+            "total": 14471,
+            "min_turnout": 21926,
+            "max_turnout": 25841
+        },
+        "3": {
+            "county_name": "Merced",
+            "Gray": 16452,
+            "Duarte": 14936,
+            "total": 31388,
+            "min_turnout": 55520,
+            "max_turnout": 66782
+        },
+        "4": {
+            "county_name": "San Joaquin",
+            "Gray": 1950,
+            "Duarte": 1719,
+            "total": 3669,
+            "min_turnout": 7976,
+            "max_turnout": 9916
+        },
+        "5": {
+            "county_name": "Stanislaus",
+            "Gray": 10921,
+            "Duarte": 9723,
+            "total": 20644,
+            "min_turnout": 32256,
+            "max_turnout": 49152
+        }
+    },
+    "2022-11-14T21:17:34-05:00": {
+        "0": {
+            "Gray": 11590,
+            "Duarte": 10745,
+            "total": 22335,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gray": 11590,
+            "Duarte": 10745,
+            "total": 22335,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Merced"
+        }
+    },
+    "2022-11-14T21:27:04-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -458,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -458,
+            "county_name": "Merced"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Gray": 5318,
+            "Duarte": 5479,
+            "total": 10797,
+            "min_turnout": 1590,
+            "max_turnout": -156,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gray": 1022,
+            "Duarte": 1368,
+            "total": 2390,
+            "min_turnout": 1317,
+            "max_turnout": -36,
+            "county_name": "Fresno"
+        },
+        "4": {
+            "Gray": 1640,
+            "Duarte": 1388,
+            "total": 3028,
+            "min_turnout": 0,
+            "max_turnout": -68,
+            "county_name": "San Joaquin"
+        },
+        "5": {
+            "Gray": 2656,
+            "Duarte": 2723,
+            "total": 5379,
+            "min_turnout": 273,
+            "max_turnout": -52,
+            "county_name": "Stanislaus"
+        }
+    },
+    "2022-11-16T09:47:03-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2973,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2973,
+            "county_name": "Fresno"
+        }
+    },
+    "2022-11-16T09:47:16-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": -646,
+            "max_turnout": -3915,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": -646,
+            "max_turnout": -3915,
+            "county_name": "Madera"
+        }
+    },
+    "2022-11-16T09:48:07-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9774,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9774,
+            "county_name": "Merced"
+        }
+    },
+    "2022-11-16T09:48:46-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1780,
+            "county_name": "Total"
+        },
+        "4": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1780,
+            "county_name": "San Joaquin"
+        }
+    },
+    "2022-11-16T09:51:34-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": -794,
+            "max_turnout": -16571,
+            "county_name": "Total"
+        },
+        "5": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": -794,
+            "max_turnout": -16571,
+            "county_name": "Stanislaus"
+        }
+    },
+    "2022-11-16T20:41:48-05:00": {
+        "0": {
+            "Gray": 2600,
+            "Duarte": 4163,
+            "total": 6763,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gray": 2600,
+            "Duarte": 4163,
+            "total": 6763,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Madera"
+        }
+    },
+    "2022-11-16T22:32:19-05:00": {
+        "0": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 646,
+            "max_turnout": 425,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gray": 0,
+            "Duarte": 0,
+            "total": 0,
+            "min_turnout": 646,
+            "max_turnout": 425,
+            "county_name": "Madera"
+        }
+    }
+}

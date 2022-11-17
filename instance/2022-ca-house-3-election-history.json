@@ -1,0 +1,550 @@
+{
+    "2022-11-12T00:58:41-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Jones": 79188,
+            "Kiley": 89150,
+            "total": 168338,
+            "min_turnout": 315826,
+            "max_turnout": 328251
+        },
+        "1": {
+            "county_name": "Alpine",
+            "Jones": 344,
+            "Kiley": 228,
+            "total": 572,
+            "min_turnout": 577,
+            "max_turnout": 578
+        },
+        "2": {
+            "county_name": "El Dorado",
+            "Jones": 9935,
+            "Kiley": 10587,
+            "total": 20522,
+            "min_turnout": 26270,
+            "max_turnout": 27362
+        },
+        "3": {
+            "county_name": "Inyo",
+            "Jones": 3048,
+            "Kiley": 3147,
+            "total": 6195,
+            "min_turnout": 6960,
+            "max_turnout": 7288
+        },
+        "4": {
+            "county_name": "Mono",
+            "Jones": 1433,
+            "Kiley": 1129,
+            "total": 2562,
+            "min_turnout": 3416,
+            "max_turnout": 4926
+        },
+        "5": {
+            "county_name": "Nevada",
+            "Jones": 15981,
+            "Kiley": 12508,
+            "total": 28489,
+            "min_turnout": 47481,
+            "max_turnout": 48286
+        },
+        "6": {
+            "county_name": "Placer",
+            "Jones": 33069,
+            "Kiley": 42073,
+            "total": 75142,
+            "min_turnout": 170777,
+            "max_turnout": 173768
+        },
+        "7": {
+            "county_name": "Plumas",
+            "Jones": 2887,
+            "Kiley": 4195,
+            "total": 7082,
+            "min_turnout": 8140,
+            "max_turnout": 8234
+        },
+        "8": {
+            "county_name": "Sacramento",
+            "Jones": 11118,
+            "Kiley": 12607,
+            "total": 23725,
+            "min_turnout": 45625,
+            "max_turnout": 50478
+        },
+        "9": {
+            "county_name": "Sierra",
+            "Jones": 575,
+            "Kiley": 958,
+            "total": 1533,
+            "min_turnout": 1548,
+            "max_turnout": 1613
+        },
+        "10": {
+            "county_name": "Yuba",
+            "Jones": 798,
+            "Kiley": 1718,
+            "total": 2516,
+            "min_turnout": 5032,
+            "max_turnout": 5718
+        }
+    },
+    "2022-11-14T20:12:20-05:00": {
+        "0": {
+            "Jones": 407,
+            "Kiley": 575,
+            "total": 982,
+            "min_turnout": 328,
+            "max_turnout": 266,
+            "county_name": "Total"
+        },
+        "3": {
+            "Jones": 407,
+            "Kiley": 575,
+            "total": 982,
+            "min_turnout": 328,
+            "max_turnout": 266,
+            "county_name": "Inyo"
+        }
+    },
+    "2022-11-14T20:40:55-05:00": {
+        "0": {
+            "Jones": 1098,
+            "Kiley": 683,
+            "total": 1781,
+            "min_turnout": 927,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 1098,
+            "Kiley": 683,
+            "total": 1781,
+            "min_turnout": 927,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-14T21:08:53-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 483,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 483,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-14T21:19:44-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-14T21:53:01-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -206,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -206,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-15T09:08:43-05:00": {
+        "0": {
+            "Jones": 9,
+            "Kiley": 57,
+            "total": 66,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Jones": 9,
+            "Kiley": 57,
+            "total": 66,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Yuba"
+        }
+    },
+    "2022-11-15T10:13:17-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 24,
+            "county_name": "Total"
+        },
+        "1": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 24,
+            "county_name": "Alpine"
+        }
+    },
+    "2022-11-15T10:14:17-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -1244,
+            "max_turnout": -1092,
+            "county_name": "Total"
+        },
+        "2": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -1244,
+            "max_turnout": -1092,
+            "county_name": "El Dorado"
+        }
+    },
+    "2022-11-15T10:15:39-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -778,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -778,
+            "max_turnout": 0,
+            "county_name": "Nevada"
+        }
+    },
+    "2022-11-15T10:16:02-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 2991,
+            "max_turnout": 9505,
+            "county_name": "Total"
+        },
+        "6": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 2991,
+            "max_turnout": 9505,
+            "county_name": "Placer"
+        }
+    },
+    "2022-11-15T10:16:34-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": -94,
+            "county_name": "Total"
+        },
+        "7": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": -94,
+            "county_name": "Plumas"
+        }
+    },
+    "2022-11-15T10:17:16-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4853,
+            "county_name": "Total"
+        },
+        "8": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4853,
+            "county_name": "Sacramento"
+        }
+    },
+    "2022-11-15T10:17:49-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -65,
+            "county_name": "Total"
+        },
+        "9": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -65,
+            "county_name": "Sierra"
+        }
+    },
+    "2022-11-15T10:18:11-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 656,
+            "max_turnout": 19,
+            "county_name": "Total"
+        },
+        "10": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 656,
+            "max_turnout": 19,
+            "county_name": "Yuba"
+        }
+    },
+    "2022-11-15T15:51:26-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 206,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 206,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-15T18:16:52-05:00": {
+        "0": {
+            "Jones": 3357,
+            "Kiley": 3668,
+            "total": 7025,
+            "min_turnout": 0,
+            "max_turnout": 270,
+            "county_name": "Total"
+        },
+        "8": {
+            "Jones": 3357,
+            "Kiley": 3668,
+            "total": 7025,
+            "min_turnout": 0,
+            "max_turnout": 270,
+            "county_name": "Sacramento"
+        }
+    },
+    "2022-11-15T18:31:08-05:00": {
+        "0": {
+            "Jones": 253,
+            "Kiley": 237,
+            "total": 490,
+            "min_turnout": 0,
+            "max_turnout": -3197,
+            "county_name": "Total"
+        },
+        "6": {
+            "Jones": 253,
+            "Kiley": 237,
+            "total": 490,
+            "min_turnout": 0,
+            "max_turnout": -3197,
+            "county_name": "Placer"
+        }
+    },
+    "2022-11-15T18:36:01-05:00": {
+        "0": {
+            "Jones": 23,
+            "Kiley": 18,
+            "total": 41,
+            "min_turnout": 1,
+            "max_turnout": 43,
+            "county_name": "Total"
+        },
+        "3": {
+            "Jones": 17,
+            "Kiley": 8,
+            "total": 25,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Inyo"
+        },
+        "9": {
+            "Jones": 6,
+            "Kiley": 10,
+            "total": 16,
+            "min_turnout": 1,
+            "max_turnout": 16,
+            "county_name": "Sierra"
+        }
+    },
+    "2022-11-15T19:21:19-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "9": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 1,
+            "county_name": "Sierra"
+        }
+    },
+    "2022-11-15T19:56:29-05:00": {
+        "0": {
+            "Jones": 2462,
+            "Kiley": 2686,
+            "total": 5148,
+            "min_turnout": 1244,
+            "max_turnout": 751,
+            "county_name": "Total"
+        },
+        "2": {
+            "Jones": 2462,
+            "Kiley": 2686,
+            "total": 5148,
+            "min_turnout": 1244,
+            "max_turnout": 751,
+            "county_name": "El Dorado"
+        }
+    },
+    "2022-11-16T01:02:07-05:00": {
+        "0": {
+            "Jones": 44,
+            "Kiley": 28,
+            "total": 72,
+            "min_turnout": 0,
+            "max_turnout": -30,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 44,
+            "Kiley": 28,
+            "total": 72,
+            "min_turnout": 0,
+            "max_turnout": -30,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-16T18:06:23-05:00": {
+        "0": {
+            "Jones": 5464,
+            "Kiley": 3636,
+            "total": 9100,
+            "min_turnout": 283,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Jones": 5464,
+            "Kiley": 3636,
+            "total": 9100,
+            "min_turnout": 283,
+            "max_turnout": 0,
+            "county_name": "Nevada"
+        }
+    },
+    "2022-11-16T18:07:40-05:00": {
+        "0": {
+            "Jones": 496,
+            "Kiley": 981,
+            "total": 1477,
+            "min_turnout": 0,
+            "max_turnout": 61,
+            "county_name": "Total"
+        },
+        "10": {
+            "Jones": 496,
+            "Kiley": 981,
+            "total": 1477,
+            "min_turnout": 0,
+            "max_turnout": 61,
+            "county_name": "Yuba"
+        }
+    },
+    "2022-11-16T20:41:09-05:00": {
+        "0": {
+            "Jones": 2,
+            "Kiley": 13,
+            "total": 15,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 2,
+            "Kiley": 13,
+            "total": 15,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    },
+    "2022-11-16T20:44:57-05:00": {
+        "0": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -259,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Jones": 0,
+            "Kiley": 0,
+            "total": 0,
+            "min_turnout": -259,
+            "max_turnout": 0,
+            "county_name": "Mono"
+        }
+    }
+}

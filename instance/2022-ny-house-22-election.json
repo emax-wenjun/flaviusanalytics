@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Conole": 132432,
+            "Williams": 135061,
+            "total": 267493,
+            "min_turnout": 269963,
+            "max_turnout": 280426
+        },
+        {
+            "county_name": "Madison",
+            "Conole": 10418,
+            "Williams": 14936,
+            "total": 25354,
+            "min_turnout": 26138,
+            "max_turnout": 26688
+        },
+        {
+            "county_name": "Oneida",
+            "Conole": 27800,
+            "Williams": 46020,
+            "total": 73820,
+            "min_turnout": 74799,
+            "max_turnout": 76560
+        },
+        {
+            "county_name": "Onondaga",
+            "Conole": 94188,
+            "Williams": 74003,
+            "total": 168191,
+            "min_turnout": 168897,
+            "max_turnout": 177043
+        },
+        {
+            "county_name": "Oswego",
+            "Conole": 26,
+            "Williams": 102,
+            "total": 128,
+            "min_turnout": 129,
+            "max_turnout": 135
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Oneida": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Onondaga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Oswego": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

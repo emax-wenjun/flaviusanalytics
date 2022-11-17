@@ -1,0 +1,1513 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Valentine": 868873,
+            "Schmitt": 1143626,
+            "total": 2061753,
+            "min_turnout": 2082525,
+            "max_turnout": 2341895
+        },
+        {
+            "county_name": "Adair",
+            "Valentine": 2447,
+            "Schmitt": 4407,
+            "total": 7042,
+            "min_turnout": 7113,
+            "max_turnout": 8257
+        },
+        {
+            "county_name": "Andrew",
+            "Valentine": 1657,
+            "Schmitt": 4882,
+            "total": 6724,
+            "min_turnout": 6792,
+            "max_turnout": 7265
+        },
+        {
+            "county_name": "Atchison",
+            "Valentine": 392,
+            "Schmitt": 1467,
+            "total": 1909,
+            "min_turnout": 1928,
+            "max_turnout": 2136
+        },
+        {
+            "county_name": "Audrain",
+            "Valentine": 2067,
+            "Schmitt": 5208,
+            "total": 7464,
+            "min_turnout": 7539,
+            "max_turnout": 8362
+        },
+        {
+            "county_name": "Barry",
+            "Valentine": 2043,
+            "Schmitt": 8535,
+            "total": 10968,
+            "min_turnout": 11079,
+            "max_turnout": 11624
+        },
+        {
+            "county_name": "Barton",
+            "Valentine": 586,
+            "Schmitt": 3653,
+            "total": 4325,
+            "min_turnout": 4369,
+            "max_turnout": 4817
+        },
+        {
+            "county_name": "Bates",
+            "Valentine": 1362,
+            "Schmitt": 4222,
+            "total": 5761,
+            "min_turnout": 5819,
+            "max_turnout": 6345
+        },
+        {
+            "county_name": "Benton",
+            "Valentine": 1773,
+            "Schmitt": 5712,
+            "total": 7723,
+            "min_turnout": 7801,
+            "max_turnout": 7962
+        },
+        {
+            "county_name": "Bollinger",
+            "Valentine": 507,
+            "Schmitt": 3589,
+            "total": 4168,
+            "min_turnout": 4210,
+            "max_turnout": 4654
+        },
+        {
+            "county_name": "Boone",
+            "Valentine": 35388,
+            "Schmitt": 25868,
+            "total": 62811,
+            "min_turnout": 63445,
+            "max_turnout": 72065
+        },
+        {
+            "county_name": "Buchanan",
+            "Valentine": 8867,
+            "Schmitt": 14805,
+            "total": 24528,
+            "min_turnout": 24776,
+            "max_turnout": 28520
+        },
+        {
+            "county_name": "Butler",
+            "Valentine": 1872,
+            "Schmitt": 9333,
+            "total": 11507,
+            "min_turnout": 11623,
+            "max_turnout": 13339
+        },
+        {
+            "county_name": "Caldwell",
+            "Valentine": 745,
+            "Schmitt": 2588,
+            "total": 3432,
+            "min_turnout": 3467,
+            "max_turnout": 3583
+        },
+        {
+            "county_name": "Callaway",
+            "Valentine": 4616,
+            "Schmitt": 9907,
+            "total": 14986,
+            "min_turnout": 15137,
+            "max_turnout": 16317
+        },
+        {
+            "county_name": "Camden",
+            "Valentine": 4376,
+            "Schmitt": 13352,
+            "total": 18252,
+            "min_turnout": 18436,
+            "max_turnout": 19062
+        },
+        {
+            "county_name": "Cape Girardeau",
+            "Valentine": 6630,
+            "Schmitt": 20481,
+            "total": 27835,
+            "min_turnout": 28116,
+            "max_turnout": 31162
+        },
+        {
+            "county_name": "Carroll",
+            "Valentine": 685,
+            "Schmitt": 2607,
+            "total": 3356,
+            "min_turnout": 3390,
+            "max_turnout": 3617
+        },
+        {
+            "county_name": "Carter",
+            "Valentine": 298,
+            "Schmitt": 1577,
+            "total": 1910,
+            "min_turnout": 1929,
+            "max_turnout": 2259
+        },
+        {
+            "county_name": "Cass",
+            "Valentine": 13905,
+            "Schmitt": 24808,
+            "total": 39736,
+            "min_turnout": 40137,
+            "max_turnout": 42079
+        },
+        {
+            "county_name": "Cedar",
+            "Valentine": 927,
+            "Schmitt": 3956,
+            "total": 5141,
+            "min_turnout": 5141,
+            "max_turnout": 5193
+        },
+        {
+            "county_name": "Chariton",
+            "Valentine": 667,
+            "Schmitt": 2082,
+            "total": 2812,
+            "min_turnout": 2840,
+            "max_turnout": 3234
+        },
+        {
+            "county_name": "Christian",
+            "Valentine": 8059,
+            "Schmitt": 24181,
+            "total": 33264,
+            "min_turnout": 33600,
+            "max_turnout": 34666
+        },
+        {
+            "county_name": "Clark",
+            "Valentine": 535,
+            "Schmitt": 1719,
+            "total": 2330,
+            "min_turnout": 2354,
+            "max_turnout": 2561
+        },
+        {
+            "county_name": "Clay",
+            "Valentine": 41866,
+            "Schmitt": 43070,
+            "total": 87136,
+            "min_turnout": 88016,
+            "max_turnout": 93336
+        },
+        {
+            "county_name": "Clinton",
+            "Valentine": 2211,
+            "Schmitt": 5119,
+            "total": 7530,
+            "min_turnout": 7606,
+            "max_turnout": 8235
+        },
+        {
+            "county_name": "Cole",
+            "Valentine": 9470,
+            "Schmitt": 18267,
+            "total": 28493,
+            "min_turnout": 28781,
+            "max_turnout": 31881
+        },
+        {
+            "county_name": "Cooper",
+            "Valentine": 1734,
+            "Schmitt": 4196,
+            "total": 6123,
+            "min_turnout": 6185,
+            "max_turnout": 6662
+        },
+        {
+            "county_name": "Crawford",
+            "Valentine": 1610,
+            "Schmitt": 5822,
+            "total": 7603,
+            "min_turnout": 7680,
+            "max_turnout": 8167
+        },
+        {
+            "county_name": "Dade",
+            "Valentine": 501,
+            "Schmitt": 2395,
+            "total": 2997,
+            "min_turnout": 3027,
+            "max_turnout": 3217
+        },
+        {
+            "county_name": "Dallas",
+            "Valentine": 1095,
+            "Schmitt": 4448,
+            "total": 5748,
+            "min_turnout": 5806,
+            "max_turnout": 6158
+        },
+        {
+            "county_name": "Daviess",
+            "Valentine": 600,
+            "Schmitt": 2002,
+            "total": 2674,
+            "min_turnout": 2701,
+            "max_turnout": 2891
+        },
+        {
+            "county_name": "DeKalb",
+            "Valentine": 700,
+            "Schmitt": 2575,
+            "total": 3394,
+            "min_turnout": 3428,
+            "max_turnout": 3559
+        },
+        {
+            "county_name": "Dent",
+            "Valentine": 822,
+            "Schmitt": 4030,
+            "total": 5014,
+            "min_turnout": 5065,
+            "max_turnout": 5708
+        },
+        {
+            "county_name": "Douglas",
+            "Valentine": 778,
+            "Schmitt": 4099,
+            "total": 5027,
+            "min_turnout": 5078,
+            "max_turnout": 5301
+        },
+        {
+            "county_name": "Dunklin",
+            "Valentine": 1163,
+            "Schmitt": 4884,
+            "total": 6190,
+            "min_turnout": 6253,
+            "max_turnout": 7654
+        },
+        {
+            "county_name": "Franklin",
+            "Valentine": 11128,
+            "Schmitt": 25061,
+            "total": 37047,
+            "min_turnout": 37421,
+            "max_turnout": 41123
+        },
+        {
+            "county_name": "Gasconade",
+            "Valentine": 1298,
+            "Schmitt": 4301,
+            "total": 5706,
+            "min_turnout": 5764,
+            "max_turnout": 6152
+        },
+        {
+            "county_name": "Gentry",
+            "Valentine": 528,
+            "Schmitt": 1748,
+            "total": 2325,
+            "min_turnout": 2348,
+            "max_turnout": 2447
+        },
+        {
+            "county_name": "Greene",
+            "Valentine": 38947,
+            "Schmitt": 55230,
+            "total": 97458,
+            "min_turnout": 98442,
+            "max_turnout": 109508
+        },
+        {
+            "county_name": "Grundy",
+            "Valentine": 641,
+            "Schmitt": 2514,
+            "total": 3226,
+            "min_turnout": 3259,
+            "max_turnout": 3505
+        },
+        {
+            "county_name": "Harrison",
+            "Valentine": 445,
+            "Schmitt": 2236,
+            "total": 2735,
+            "min_turnout": 2763,
+            "max_turnout": 2822
+        },
+        {
+            "county_name": "Henry",
+            "Valentine": 2084,
+            "Schmitt": 5225,
+            "total": 7521,
+            "min_turnout": 7597,
+            "max_turnout": 8212
+        },
+        {
+            "county_name": "Hickory",
+            "Valentine": 795,
+            "Schmitt": 2744,
+            "total": 3664,
+            "min_turnout": 3701,
+            "max_turnout": 3932
+        },
+        {
+            "county_name": "Holt",
+            "Valentine": 262,
+            "Schmitt": 1382,
+            "total": 1670,
+            "min_turnout": 1687,
+            "max_turnout": 1847
+        },
+        {
+            "county_name": "Howard",
+            "Valentine": 1210,
+            "Schmitt": 2528,
+            "total": 3869,
+            "min_turnout": 3908,
+            "max_turnout": 3976
+        },
+        {
+            "county_name": "Howell",
+            "Valentine": 2447,
+            "Schmitt": 10323,
+            "total": 13279,
+            "min_turnout": 13413,
+            "max_turnout": 13731
+        },
+        {
+            "county_name": "Iron",
+            "Valentine": 747,
+            "Schmitt": 2246,
+            "total": 3072,
+            "min_turnout": 3103,
+            "max_turnout": 3440
+        },
+        {
+            "county_name": "Jackson",
+            "Valentine": 130306,
+            "Schmitt": 80658,
+            "total": 215681,
+            "min_turnout": 217860,
+            "max_turnout": 254173
+        },
+        {
+            "county_name": "Jasper",
+            "Valentine": 8468,
+            "Schmitt": 25131,
+            "total": 34612,
+            "min_turnout": 34962,
+            "max_turnout": 38619
+        },
+        {
+            "county_name": "Jefferson",
+            "Valentine": 28653,
+            "Schmitt": 48845,
+            "total": 79383,
+            "min_turnout": 80185,
+            "max_turnout": 87076
+        },
+        {
+            "county_name": "Johnson",
+            "Valentine": 5125,
+            "Schmitt": 10001,
+            "total": 15641,
+            "min_turnout": 15799,
+            "max_turnout": 16806
+        },
+        {
+            "county_name": "Knox",
+            "Valentine": 317,
+            "Schmitt": 994,
+            "total": 1364,
+            "min_turnout": 1378,
+            "max_turnout": 1489
+        },
+        {
+            "county_name": "LaClede",
+            "Valentine": 1947,
+            "Schmitt": 9015,
+            "total": 11347,
+            "min_turnout": 11462,
+            "max_turnout": 12746
+        },
+        {
+            "county_name": "Lafayette",
+            "Valentine": 3510,
+            "Schmitt": 8202,
+            "total": 11984,
+            "min_turnout": 12105,
+            "max_turnout": 12870
+        },
+        {
+            "county_name": "Lawrence",
+            "Valentine": 2311,
+            "Schmitt": 9836,
+            "total": 12559,
+            "min_turnout": 12686,
+            "max_turnout": 13348
+        },
+        {
+            "county_name": "Lewis",
+            "Valentine": 716,
+            "Schmitt": 2337,
+            "total": 3150,
+            "min_turnout": 3182,
+            "max_turnout": 3392
+        },
+        {
+            "county_name": "Lincoln",
+            "Valentine": 5161,
+            "Schmitt": 14029,
+            "total": 19759,
+            "min_turnout": 19959,
+            "max_turnout": 20414
+        },
+        {
+            "county_name": "Linn",
+            "Valentine": 1129,
+            "Schmitt": 2914,
+            "total": 4130,
+            "min_turnout": 4172,
+            "max_turnout": 4492
+        },
+        {
+            "county_name": "Livingston",
+            "Valentine": 1133,
+            "Schmitt": 3526,
+            "total": 4753,
+            "min_turnout": 4801,
+            "max_turnout": 5009
+        },
+        {
+            "county_name": "Macon",
+            "Valentine": 1174,
+            "Schmitt": 4264,
+            "total": 5588,
+            "min_turnout": 5644,
+            "max_turnout": 6257
+        },
+        {
+            "county_name": "Madison",
+            "Valentine": 721,
+            "Schmitt": 2907,
+            "total": 3720,
+            "min_turnout": 3758,
+            "max_turnout": 4268
+        },
+        {
+            "county_name": "Maries",
+            "Valentine": 651,
+            "Schmitt": 2734,
+            "total": 3450,
+            "min_turnout": 3485,
+            "max_turnout": 3803
+        },
+        {
+            "county_name": "Marion",
+            "Valentine": 2190,
+            "Schmitt": 6242,
+            "total": 8674,
+            "min_turnout": 8762,
+            "max_turnout": 10282
+        },
+        {
+            "county_name": "McDonald",
+            "Valentine": 886,
+            "Schmitt": 4989,
+            "total": 6076,
+            "min_turnout": 6137,
+            "max_turnout": 6250
+        },
+        {
+            "county_name": "Mercer",
+            "Valentine": 213,
+            "Schmitt": 1028,
+            "total": 1264,
+            "min_turnout": 1277,
+            "max_turnout": 1320
+        },
+        {
+            "county_name": "Miller",
+            "Valentine": 1572,
+            "Schmitt": 6884,
+            "total": 8732,
+            "min_turnout": 8820,
+            "max_turnout": 9395
+        },
+        {
+            "county_name": "Mississippi",
+            "Valentine": 592,
+            "Schmitt": 2237,
+            "total": 2896,
+            "min_turnout": 2925,
+            "max_turnout": 3674
+        },
+        {
+            "county_name": "Moniteau",
+            "Valentine": 1088,
+            "Schmitt": 3903,
+            "total": 5128,
+            "min_turnout": 5180,
+            "max_turnout": 5671
+        },
+        {
+            "county_name": "Monroe",
+            "Valentine": 735,
+            "Schmitt": 2327,
+            "total": 3137,
+            "min_turnout": 3169,
+            "max_turnout": 3560
+        },
+        {
+            "county_name": "Montgomery",
+            "Valentine": 1010,
+            "Schmitt": 2973,
+            "total": 4063,
+            "min_turnout": 4104,
+            "max_turnout": 4526
+        },
+        {
+            "county_name": "Morgan",
+            "Valentine": 1581,
+            "Schmitt": 5141,
+            "total": 6939,
+            "min_turnout": 7009,
+            "max_turnout": 7468
+        },
+        {
+            "county_name": "New Madrid",
+            "Valentine": 964,
+            "Schmitt": 3341,
+            "total": 4406,
+            "min_turnout": 4451,
+            "max_turnout": 5519
+        },
+        {
+            "county_name": "Newton",
+            "Valentine": 3878,
+            "Schmitt": 15565,
+            "total": 19937,
+            "min_turnout": 20138,
+            "max_turnout": 21603
+        },
+        {
+            "county_name": "Nodaway",
+            "Valentine": 1980,
+            "Schmitt": 4350,
+            "total": 6472,
+            "min_turnout": 6537,
+            "max_turnout": 7360
+        },
+        {
+            "county_name": "Oregon",
+            "Valentine": 569,
+            "Schmitt": 2385,
+            "total": 3062,
+            "min_turnout": 3093,
+            "max_turnout": 3602
+        },
+        {
+            "county_name": "Osage",
+            "Valentine": 855,
+            "Schmitt": 4570,
+            "total": 5515,
+            "min_turnout": 5571,
+            "max_turnout": 5833
+        },
+        {
+            "county_name": "Ozark",
+            "Valentine": 610,
+            "Schmitt": 2957,
+            "total": 3696,
+            "min_turnout": 3733,
+            "max_turnout": 3835
+        },
+        {
+            "county_name": "Pemiscot",
+            "Valentine": 706,
+            "Schmitt": 2457,
+            "total": 3216,
+            "min_turnout": 3248,
+            "max_turnout": 4393
+        },
+        {
+            "county_name": "Perry",
+            "Valentine": 1099,
+            "Schmitt": 5098,
+            "total": 6322,
+            "min_turnout": 6386,
+            "max_turnout": 7042
+        },
+        {
+            "county_name": "Pettis",
+            "Valentine": 3666,
+            "Schmitt": 9005,
+            "total": 13111,
+            "min_turnout": 13243,
+            "max_turnout": 14398
+        },
+        {
+            "county_name": "Phelps",
+            "Valentine": 3984,
+            "Schmitt": 9245,
+            "total": 13574,
+            "min_turnout": 13711,
+            "max_turnout": 15382
+        },
+        {
+            "county_name": "Pike",
+            "Valentine": 1299,
+            "Schmitt": 3728,
+            "total": 5155,
+            "min_turnout": 5207,
+            "max_turnout": 6056
+        },
+        {
+            "county_name": "Platte",
+            "Valentine": 19862,
+            "Schmitt": 20264,
+            "total": 41023,
+            "min_turnout": 41437,
+            "max_turnout": 42687
+        },
+        {
+            "county_name": "Polk",
+            "Valentine": 2178,
+            "Schmitt": 7945,
+            "total": 10553,
+            "min_turnout": 10660,
+            "max_turnout": 11003
+        },
+        {
+            "county_name": "Pulaski",
+            "Valentine": 2224,
+            "Schmitt": 6703,
+            "total": 9313,
+            "min_turnout": 9407,
+            "max_turnout": 10144
+        },
+        {
+            "county_name": "Putnam",
+            "Valentine": 286,
+            "Schmitt": 1376,
+            "total": 1710,
+            "min_turnout": 1727,
+            "max_turnout": 1826
+        },
+        {
+            "county_name": "Ralls",
+            "Valentine": 934,
+            "Schmitt": 2917,
+            "total": 3981,
+            "min_turnout": 4021,
+            "max_turnout": 4185
+        },
+        {
+            "county_name": "Randolph",
+            "Valentine": 1953,
+            "Schmitt": 5238,
+            "total": 7419,
+            "min_turnout": 7494,
+            "max_turnout": 8460
+        },
+        {
+            "county_name": "Ray",
+            "Valentine": 2401,
+            "Schmitt": 5283,
+            "total": 7934,
+            "min_turnout": 8014,
+            "max_turnout": 9040
+        },
+        {
+            "county_name": "Reynolds",
+            "Valentine": 512,
+            "Schmitt": 1816,
+            "total": 2395,
+            "min_turnout": 2419,
+            "max_turnout": 2450
+        },
+        {
+            "county_name": "Ripley",
+            "Valentine": 605,
+            "Schmitt": 2998,
+            "total": 3724,
+            "min_turnout": 3762,
+            "max_turnout": 4238
+        },
+        {
+            "county_name": "Saint Charles",
+            "Valentine": 64298,
+            "Schmitt": 83330,
+            "total": 150479,
+            "min_turnout": 151999,
+            "max_turnout": 169687
+        },
+        {
+            "county_name": "Saint Clair",
+            "Valentine": 835,
+            "Schmitt": 2711,
+            "total": 3691,
+            "min_turnout": 3728,
+            "max_turnout": 3896
+        },
+        {
+            "county_name": "Saint Francois",
+            "Valentine": 5193,
+            "Schmitt": 12539,
+            "total": 18219,
+            "min_turnout": 18403,
+            "max_turnout": 20861
+        },
+        {
+            "county_name": "Saint Louis",
+            "Valentine": 226253,
+            "Schmitt": 136996,
+            "total": 368888,
+            "min_turnout": 372614,
+            "max_turnout": 442986
+        },
+        {
+            "county_name": "Saint Louis City",
+            "Valentine": 69118,
+            "Schmitt": 12749,
+            "total": 83273,
+            "min_turnout": 84114,
+            "max_turnout": 110631
+        },
+        {
+            "county_name": "Saline",
+            "Valentine": 2078,
+            "Schmitt": 4027,
+            "total": 6273,
+            "min_turnout": 6336,
+            "max_turnout": 7537
+        },
+        {
+            "county_name": "Schuyler",
+            "Valentine": 304,
+            "Schmitt": 1182,
+            "total": 1530,
+            "min_turnout": 1545,
+            "max_turnout": 1564
+        },
+        {
+            "county_name": "Scotland",
+            "Valentine": 305,
+            "Schmitt": 1010,
+            "total": 1360,
+            "min_turnout": 1374,
+            "max_turnout": 1529
+        },
+        {
+            "county_name": "Scott",
+            "Valentine": 2161,
+            "Schmitt": 9210,
+            "total": 11625,
+            "min_turnout": 11742,
+            "max_turnout": 13867
+        },
+        {
+            "county_name": "Shannon",
+            "Valentine": 586,
+            "Schmitt": 2238,
+            "total": 2904,
+            "min_turnout": 2933,
+            "max_turnout": 3103
+        },
+        {
+            "county_name": "Shelby",
+            "Valentine": 479,
+            "Schmitt": 1753,
+            "total": 2298,
+            "min_turnout": 2321,
+            "max_turnout": 2625
+        },
+        {
+            "county_name": "Ste. Genevieve",
+            "Valentine": 2179,
+            "Schmitt": 4323,
+            "total": 6632,
+            "min_turnout": 6699,
+            "max_turnout": 7224
+        },
+        {
+            "county_name": "Stoddard",
+            "Valentine": 1145,
+            "Schmitt": 7318,
+            "total": 8630,
+            "min_turnout": 8717,
+            "max_turnout": 10448
+        },
+        {
+            "county_name": "Stone",
+            "Valentine": 2651,
+            "Schmitt": 10755,
+            "total": 13768,
+            "min_turnout": 13907,
+            "max_turnout": 14111
+        },
+        {
+            "county_name": "Sullivan",
+            "Valentine": 344,
+            "Schmitt": 1360,
+            "total": 1744,
+            "min_turnout": 1762,
+            "max_turnout": 1893
+        },
+        {
+            "county_name": "Taney",
+            "Valentine": 3528,
+            "Schmitt": 13688,
+            "total": 17734,
+            "min_turnout": 17913,
+            "max_turnout": 19563
+        },
+        {
+            "county_name": "Texas",
+            "Valentine": 1337,
+            "Schmitt": 6621,
+            "total": 8257,
+            "min_turnout": 8340,
+            "max_turnout": 8844
+        },
+        {
+            "county_name": "Vernon",
+            "Valentine": 1323,
+            "Schmitt": 4610,
+            "total": 6144,
+            "min_turnout": 6206,
+            "max_turnout": 6819
+        },
+        {
+            "county_name": "Warren",
+            "Valentine": 3762,
+            "Schmitt": 9081,
+            "total": 13144,
+            "min_turnout": 13277,
+            "max_turnout": 13378
+        },
+        {
+            "county_name": "Washington",
+            "Valentine": 1498,
+            "Schmitt": 5267,
+            "total": 6934,
+            "min_turnout": 7004,
+            "max_turnout": 7121
+        },
+        {
+            "county_name": "Wayne",
+            "Valentine": 604,
+            "Schmitt": 3369,
+            "total": 4057,
+            "min_turnout": 4098,
+            "max_turnout": 4566
+        },
+        {
+            "county_name": "Webster",
+            "Valentine": 2651,
+            "Schmitt": 9896,
+            "total": 13042,
+            "min_turnout": 13174,
+            "max_turnout": 13787
+        },
+        {
+            "county_name": "Worth",
+            "Valentine": 184,
+            "Schmitt": 649,
+            "total": 861,
+            "min_turnout": 870,
+            "max_turnout": 876
+        },
+        {
+            "county_name": "Wright",
+            "Valentine": 817,
+            "Schmitt": 5202,
+            "total": 6233,
+            "min_turnout": 6296,
+            "max_turnout": 6472
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Andrew": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Atchison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Audrain": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Barry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Barton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bates": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bollinger": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Boone": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Buchanan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Caldwell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Callaway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Camden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cape Girardeau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cass": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cedar": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Chariton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Christian": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cooper": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dallas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Daviess": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "DeKalb": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dunklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gasconade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gentry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grundy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Harrison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Henry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hickory": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Holt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Howard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Howell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jasper": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Knox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "LaClede": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lawrence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Livingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Macon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Maries": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "McDonald": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mercer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Miller": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mississippi": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Moniteau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Madrid": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nodaway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Oregon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Osage": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ozark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pemiscot": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Perry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pettis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Phelps": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Platte": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pulaski": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ralls": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ray": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Reynolds": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ripley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Charles": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Clair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Francois": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Louis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Louis City": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saline": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Schuyler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scotland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scott": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Shannon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Shelby": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ste. Genevieve": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stoddard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stone": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Taney": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Texas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Vernon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Worth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wright": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

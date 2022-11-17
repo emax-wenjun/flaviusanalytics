@@ -1,0 +1,1305 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Franken": 533585,
+            "Grassley": 679670,
+            "total": 1213255,
+            "min_turnout": 1225265,
+            "max_turnout": 1311608
+        },
+        {
+            "county_name": "Adair",
+            "Franken": 886,
+            "Grassley": 2278,
+            "total": 3164,
+            "min_turnout": 3196,
+            "max_turnout": 3365
+        },
+        {
+            "county_name": "Adams",
+            "Franken": 467,
+            "Grassley": 1167,
+            "total": 1634,
+            "min_turnout": 1650,
+            "max_turnout": 1702
+        },
+        {
+            "county_name": "Allamakee",
+            "Franken": 1933,
+            "Grassley": 3806,
+            "total": 5739,
+            "min_turnout": 5796,
+            "max_turnout": 6041
+        },
+        {
+            "county_name": "Appanoose",
+            "Franken": 1348,
+            "Grassley": 3356,
+            "total": 4704,
+            "min_turnout": 4751,
+            "max_turnout": 4951
+        },
+        {
+            "county_name": "Audubon",
+            "Franken": 760,
+            "Grassley": 1660,
+            "total": 2420,
+            "min_turnout": 2442,
+            "max_turnout": 2630
+        },
+        {
+            "county_name": "Benton",
+            "Franken": 3822,
+            "Grassley": 7501,
+            "total": 11323,
+            "min_turnout": 11436,
+            "max_turnout": 11918
+        },
+        {
+            "county_name": "Black Hawk",
+            "Franken": 24028,
+            "Grassley": 23127,
+            "total": 47155,
+            "min_turnout": 47627,
+            "max_turnout": 51818
+        },
+        {
+            "county_name": "Boone",
+            "Franken": 4616,
+            "Grassley": 6453,
+            "total": 11069,
+            "min_turnout": 11180,
+            "max_turnout": 15812
+        },
+        {
+            "county_name": "Bremer",
+            "Franken": 4334,
+            "Grassley": 6628,
+            "total": 10962,
+            "min_turnout": 11072,
+            "max_turnout": 11538
+        },
+        {
+            "county_name": "Buchanan",
+            "Franken": 3071,
+            "Grassley": 5085,
+            "total": 8156,
+            "min_turnout": 8238,
+            "max_turnout": 8585
+        },
+        {
+            "county_name": "Buena Vista",
+            "Franken": 1518,
+            "Grassley": 3530,
+            "total": 5048,
+            "min_turnout": 5098,
+            "max_turnout": 6389
+        },
+        {
+            "county_name": "Butler",
+            "Franken": 1669,
+            "Grassley": 4334,
+            "total": 6003,
+            "min_turnout": 6063,
+            "max_turnout": 6318
+        },
+        {
+            "county_name": "Calhoun",
+            "Franken": 1926,
+            "Grassley": 2853,
+            "total": 4779,
+            "min_turnout": 4779,
+            "max_turnout": 5030
+        },
+        {
+            "county_name": "Carroll",
+            "Franken": 2326,
+            "Grassley": 5771,
+            "total": 8097,
+            "min_turnout": 8178,
+            "max_turnout": 8801
+        },
+        {
+            "county_name": "Cass",
+            "Franken": 1502,
+            "Grassley": 3698,
+            "total": 5200,
+            "min_turnout": 5252,
+            "max_turnout": 5253
+        },
+        {
+            "county_name": "Cedar",
+            "Franken": 3105,
+            "Grassley": 4806,
+            "total": 7911,
+            "min_turnout": 7990,
+            "max_turnout": 8327
+        },
+        {
+            "county_name": "Cerro Gordo",
+            "Franken": 7643,
+            "Grassley": 9256,
+            "total": 16899,
+            "min_turnout": 17068,
+            "max_turnout": 17070
+        },
+        {
+            "county_name": "Cherokee",
+            "Franken": 1159,
+            "Grassley": 3338,
+            "total": 4497,
+            "min_turnout": 4542,
+            "max_turnout": 5052
+        },
+        {
+            "county_name": "Chickasaw",
+            "Franken": 1665,
+            "Grassley": 3274,
+            "total": 4939,
+            "min_turnout": 4988,
+            "max_turnout": 5198
+        },
+        {
+            "county_name": "Clarke",
+            "Franken": 1005,
+            "Grassley": 2332,
+            "total": 3337,
+            "min_turnout": 3370,
+            "max_turnout": 3627
+        },
+        {
+            "county_name": "Clay",
+            "Franken": 1793,
+            "Grassley": 4576,
+            "total": 6369,
+            "min_turnout": 6433,
+            "max_turnout": 6775
+        },
+        {
+            "county_name": "Clayton",
+            "Franken": 2510,
+            "Grassley": 4839,
+            "total": 7349,
+            "min_turnout": 7422,
+            "max_turnout": 8233
+        },
+        {
+            "county_name": "Clinton",
+            "Franken": 7213,
+            "Grassley": 9594,
+            "total": 16807,
+            "min_turnout": 16975,
+            "max_turnout": 17879
+        },
+        {
+            "county_name": "Crawford",
+            "Franken": 1101,
+            "Grassley": 3289,
+            "total": 4390,
+            "min_turnout": 4434,
+            "max_turnout": 5289
+        },
+        {
+            "county_name": "Dallas",
+            "Franken": 20751,
+            "Grassley": 23279,
+            "total": 44030,
+            "min_turnout": 44470,
+            "max_turnout": 44475
+        },
+        {
+            "county_name": "Davis",
+            "Franken": 764,
+            "Grassley": 2206,
+            "total": 2970,
+            "min_turnout": 3000,
+            "max_turnout": 3126
+        },
+        {
+            "county_name": "Decatur",
+            "Franken": 794,
+            "Grassley": 1944,
+            "total": 2738,
+            "min_turnout": 2765,
+            "max_turnout": 2882
+        },
+        {
+            "county_name": "Delaware",
+            "Franken": 2208,
+            "Grassley": 5422,
+            "total": 7630,
+            "min_turnout": 7706,
+            "max_turnout": 8031
+        },
+        {
+            "county_name": "Des Moines",
+            "Franken": 5240,
+            "Grassley": 7132,
+            "total": 12372,
+            "min_turnout": 12583,
+            "max_turnout": 14728
+        },
+        {
+            "county_name": "Dickinson",
+            "Franken": 2459,
+            "Grassley": 5821,
+            "total": 8280,
+            "min_turnout": 8363,
+            "max_turnout": 8715
+        },
+        {
+            "county_name": "Dubuque",
+            "Franken": 18015,
+            "Grassley": 20761,
+            "total": 38776,
+            "min_turnout": 39164,
+            "max_turnout": 41694
+        },
+        {
+            "county_name": "Emmet",
+            "Franken": 935,
+            "Grassley": 2389,
+            "total": 3324,
+            "min_turnout": 3357,
+            "max_turnout": 3693
+        },
+        {
+            "county_name": "Fayette",
+            "Franken": 2744,
+            "Grassley": 4784,
+            "total": 7528,
+            "min_turnout": 7603,
+            "max_turnout": 8770
+        },
+        {
+            "county_name": "Floyd",
+            "Franken": 2243,
+            "Grassley": 3464,
+            "total": 5707,
+            "min_turnout": 5764,
+            "max_turnout": 6203
+        },
+        {
+            "county_name": "Franklin",
+            "Franken": 1022,
+            "Grassley": 2555,
+            "total": 3577,
+            "min_turnout": 3613,
+            "max_turnout": 4019
+        },
+        {
+            "county_name": "Fremont",
+            "Franken": 735,
+            "Grassley": 1861,
+            "total": 2596,
+            "min_turnout": 2622,
+            "max_turnout": 2950
+        },
+        {
+            "county_name": "Greene",
+            "Franken": 1218,
+            "Grassley": 2339,
+            "total": 3557,
+            "min_turnout": 3593,
+            "max_turnout": 3996
+        },
+        {
+            "county_name": "Grundy",
+            "Franken": 2041,
+            "Grassley": 4537,
+            "total": 6578,
+            "min_turnout": 6578,
+            "max_turnout": 6924
+        },
+        {
+            "county_name": "Guthrie",
+            "Franken": 1549,
+            "Grassley": 3448,
+            "total": 4997,
+            "min_turnout": 5047,
+            "max_turnout": 5098
+        },
+        {
+            "county_name": "Hamilton",
+            "Franken": 1945,
+            "Grassley": 3757,
+            "total": 5702,
+            "min_turnout": 5759,
+            "max_turnout": 6265
+        },
+        {
+            "county_name": "Hancock",
+            "Franken": 1194,
+            "Grassley": 3148,
+            "total": 4342,
+            "min_turnout": 4385,
+            "max_turnout": 4719
+        },
+        {
+            "county_name": "Hardin",
+            "Franken": 2041,
+            "Grassley": 4537,
+            "total": 6578,
+            "min_turnout": 6644,
+            "max_turnout": 7073
+        },
+        {
+            "county_name": "Harrison",
+            "Franken": 1546,
+            "Grassley": 3889,
+            "total": 5435,
+            "min_turnout": 5489,
+            "max_turnout": 5844
+        },
+        {
+            "county_name": "Henry",
+            "Franken": 2261,
+            "Grassley": 4602,
+            "total": 6863,
+            "min_turnout": 6932,
+            "max_turnout": 7301
+        },
+        {
+            "county_name": "Howard",
+            "Franken": 1221,
+            "Grassley": 2125,
+            "total": 3346,
+            "min_turnout": 3379,
+            "max_turnout": 3522
+        },
+        {
+            "county_name": "Humboldt",
+            "Franken": 931,
+            "Grassley": 2896,
+            "total": 3827,
+            "min_turnout": 3865,
+            "max_turnout": 4028
+        },
+        {
+            "county_name": "Ida",
+            "Franken": 587,
+            "Grassley": 2130,
+            "total": 2717,
+            "min_turnout": 2744,
+            "max_turnout": 2890
+        },
+        {
+            "county_name": "Iowa",
+            "Franken": 2538,
+            "Grassley": 4802,
+            "total": 7340,
+            "min_turnout": 7413,
+            "max_turnout": 7726
+        },
+        {
+            "county_name": "Jackson",
+            "Franken": 2813,
+            "Grassley": 4816,
+            "total": 7629,
+            "min_turnout": 7705,
+            "max_turnout": 8383
+        },
+        {
+            "county_name": "Jasper",
+            "Franken": 5658,
+            "Grassley": 9298,
+            "total": 14956,
+            "min_turnout": 15106,
+            "max_turnout": 15743
+        },
+        {
+            "county_name": "Jefferson",
+            "Franken": 3210,
+            "Grassley": 3262,
+            "total": 6472,
+            "min_turnout": 6537,
+            "max_turnout": 6885
+        },
+        {
+            "county_name": "Johnson",
+            "Franken": 45372,
+            "Grassley": 18242,
+            "total": 63614,
+            "min_turnout": 64250,
+            "max_turnout": 66962
+        },
+        {
+            "county_name": "Jones",
+            "Franken": 3041,
+            "Grassley": 5118,
+            "total": 8159,
+            "min_turnout": 8241,
+            "max_turnout": 8411
+        },
+        {
+            "county_name": "Keokuk",
+            "Franken": 949,
+            "Grassley": 2811,
+            "total": 3760,
+            "min_turnout": 3798,
+            "max_turnout": 4000
+        },
+        {
+            "county_name": "Kossuth",
+            "Franken": 1924,
+            "Grassley": 4781,
+            "total": 6705,
+            "min_turnout": 6772,
+            "max_turnout": 7209
+        },
+        {
+            "county_name": "Lee",
+            "Franken": 4476,
+            "Grassley": 6964,
+            "total": 11440,
+            "min_turnout": 11554,
+            "max_turnout": 12301
+        },
+        {
+            "county_name": "Linn",
+            "Franken": 51371,
+            "Grassley": 42743,
+            "total": 94114,
+            "min_turnout": 95055,
+            "max_turnout": 100121
+        },
+        {
+            "county_name": "Louisa",
+            "Franken": 1038,
+            "Grassley": 2441,
+            "total": 3479,
+            "min_turnout": 3514,
+            "max_turnout": 3740
+        },
+        {
+            "county_name": "Lucas",
+            "Franken": 937,
+            "Grassley": 2512,
+            "total": 3449,
+            "min_turnout": 3483,
+            "max_turnout": 3630
+        },
+        {
+            "county_name": "Lyon",
+            "Franken": 662,
+            "Grassley": 4277,
+            "total": 4939,
+            "min_turnout": 4988,
+            "max_turnout": 5198
+        },
+        {
+            "county_name": "Madison",
+            "Franken": 2404,
+            "Grassley": 5063,
+            "total": 7467,
+            "min_turnout": 7542,
+            "max_turnout": 7859
+        },
+        {
+            "county_name": "Mahaska",
+            "Franken": 1935,
+            "Grassley": 6041,
+            "total": 7976,
+            "min_turnout": 8056,
+            "max_turnout": 8395
+        },
+        {
+            "county_name": "Marion",
+            "Franken": 4340,
+            "Grassley": 9799,
+            "total": 14139,
+            "min_turnout": 14280,
+            "max_turnout": 14883
+        },
+        {
+            "county_name": "Marshall",
+            "Franken": 5056,
+            "Grassley": 7307,
+            "total": 12363,
+            "min_turnout": 12487,
+            "max_turnout": 14375
+        },
+        {
+            "county_name": "Mills",
+            "Franken": 1645,
+            "Grassley": 3922,
+            "total": 5567,
+            "min_turnout": 5623,
+            "max_turnout": 6185
+        },
+        {
+            "county_name": "Mitchell",
+            "Franken": 1479,
+            "Grassley": 2761,
+            "total": 4240,
+            "min_turnout": 4282,
+            "max_turnout": 4463
+        },
+        {
+            "county_name": "Monona",
+            "Franken": 879,
+            "Grassley": 2375,
+            "total": 3254,
+            "min_turnout": 3287,
+            "max_turnout": 3697
+        },
+        {
+            "county_name": "Monroe",
+            "Franken": 762,
+            "Grassley": 2135,
+            "total": 2897,
+            "min_turnout": 2926,
+            "max_turnout": 3081
+        },
+        {
+            "county_name": "Montgomery",
+            "Franken": 1001,
+            "Grassley": 2507,
+            "total": 3508,
+            "min_turnout": 3543,
+            "max_turnout": 3897
+        },
+        {
+            "county_name": "Muscatine",
+            "Franken": 5546,
+            "Grassley": 7618,
+            "total": 13164,
+            "min_turnout": 13296,
+            "max_turnout": 13856
+        },
+        {
+            "county_name": "O'Brien",
+            "Franken": 972,
+            "Grassley": 4354,
+            "total": 5326,
+            "min_turnout": 5379,
+            "max_turnout": 5726
+        },
+        {
+            "county_name": "Osceola",
+            "Franken": 346,
+            "Grassley": 1923,
+            "total": 2269,
+            "min_turnout": 2292,
+            "max_turnout": 2388
+        },
+        {
+            "county_name": "Page",
+            "Franken": 1384,
+            "Grassley": 3707,
+            "total": 5091,
+            "min_turnout": 5142,
+            "max_turnout": 5533
+        },
+        {
+            "county_name": "Palo Alto",
+            "Franken": 994,
+            "Grassley": 2586,
+            "total": 3580,
+            "min_turnout": 3616,
+            "max_turnout": 3768
+        },
+        {
+            "county_name": "Plymouth",
+            "Franken": 2053,
+            "Grassley": 7649,
+            "total": 9702,
+            "min_turnout": 9799,
+            "max_turnout": 10545
+        },
+        {
+            "county_name": "Pocahontas",
+            "Franken": 658,
+            "Grassley": 2158,
+            "total": 2816,
+            "min_turnout": 2844,
+            "max_turnout": 3060
+        },
+        {
+            "county_name": "Polk",
+            "Franken": 107460,
+            "Grassley": 83266,
+            "total": 190726,
+            "min_turnout": 192633,
+            "max_turnout": 202900
+        },
+        {
+            "county_name": "Pottawattamie",
+            "Franken": 11164,
+            "Grassley": 17778,
+            "total": 28942,
+            "min_turnout": 29231,
+            "max_turnout": 33266
+        },
+        {
+            "county_name": "Poweshiek",
+            "Franken": 3167,
+            "Grassley": 4323,
+            "total": 7490,
+            "min_turnout": 7565,
+            "max_turnout": 8141
+        },
+        {
+            "county_name": "Ringgold",
+            "Franken": 556,
+            "Grassley": 1484,
+            "total": 2040,
+            "min_turnout": 2060,
+            "max_turnout": 2266
+        },
+        {
+            "county_name": "Sac",
+            "Franken": 914,
+            "Grassley": 2999,
+            "total": 3913,
+            "min_turnout": 3952,
+            "max_turnout": 4207
+        },
+        {
+            "county_name": "Scott",
+            "Franken": 30326,
+            "Grassley": 32802,
+            "total": 63128,
+            "min_turnout": 63759,
+            "max_turnout": 66450
+        },
+        {
+            "county_name": "Shelby",
+            "Franken": 1213,
+            "Grassley": 3400,
+            "total": 4613,
+            "min_turnout": 4659,
+            "max_turnout": 4960
+        },
+        {
+            "county_name": "Sioux",
+            "Franken": 1691,
+            "Grassley": 12392,
+            "total": 14083,
+            "min_turnout": 14224,
+            "max_turnout": 14669
+        },
+        {
+            "county_name": "Story",
+            "Franken": 20991,
+            "Grassley": 15856,
+            "total": 36847,
+            "min_turnout": 37215,
+            "max_turnout": 41871
+        },
+        {
+            "county_name": "Tama",
+            "Franken": 2732,
+            "Grassley": 4241,
+            "total": 6973,
+            "min_turnout": 6973,
+            "max_turnout": 7188
+        },
+        {
+            "county_name": "Taylor",
+            "Franken": 487,
+            "Grassley": 1764,
+            "total": 2251,
+            "min_turnout": 2251,
+            "max_turnout": 2394
+        },
+        {
+            "county_name": "Union",
+            "Franken": 1464,
+            "Grassley": 3033,
+            "total": 4497,
+            "min_turnout": 4542,
+            "max_turnout": 4784
+        },
+        {
+            "county_name": "Van Buren",
+            "Franken": 671,
+            "Grassley": 2096,
+            "total": 2767,
+            "min_turnout": 2795,
+            "max_turnout": 2912
+        },
+        {
+            "county_name": "Wapello",
+            "Franken": 3837,
+            "Grassley": 6601,
+            "total": 10438,
+            "min_turnout": 10542,
+            "max_turnout": 11861
+        },
+        {
+            "county_name": "Warren",
+            "Franken": 8836,
+            "Grassley": 11955,
+            "total": 20791,
+            "min_turnout": 21001,
+            "max_turnout": 24061
+        },
+        {
+            "county_name": "Washington",
+            "Franken": 3232,
+            "Grassley": 5449,
+            "total": 8681,
+            "min_turnout": 8768,
+            "max_turnout": 9137
+        },
+        {
+            "county_name": "Wayne",
+            "Franken": 514,
+            "Grassley": 1861,
+            "total": 2375,
+            "min_turnout": 2398,
+            "max_turnout": 2399
+        },
+        {
+            "county_name": "Webster",
+            "Franken": 4239,
+            "Grassley": 7695,
+            "total": 11934,
+            "min_turnout": 12053,
+            "max_turnout": 13876
+        },
+        {
+            "county_name": "Winnebago",
+            "Franken": 1476,
+            "Grassley": 2881,
+            "total": 4357,
+            "min_turnout": 4401,
+            "max_turnout": 4538
+        },
+        {
+            "county_name": "Winneshiek",
+            "Franken": 4474,
+            "Grassley": 5094,
+            "total": 9568,
+            "min_turnout": 9664,
+            "max_turnout": 10071
+        },
+        {
+            "county_name": "Woodbury",
+            "Franken": 10403,
+            "Grassley": 18138,
+            "total": 28541,
+            "min_turnout": 28826,
+            "max_turnout": 34806
+        },
+        {
+            "county_name": "Worth",
+            "Franken": 1183,
+            "Grassley": 2031,
+            "total": 3214,
+            "min_turnout": 3246,
+            "max_turnout": 3455
+        },
+        {
+            "county_name": "Wright",
+            "Franken": 1268,
+            "Grassley": 2982,
+            "total": 4250,
+            "min_turnout": 4292,
+            "max_turnout": 4829
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Allamakee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Appanoose": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Audubon": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Black Hawk": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Boone": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bremer": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Buchanan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Buena Vista": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Calhoun": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cass": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cedar": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cerro Gordo": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Cherokee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Chickasaw": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clarke": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clayton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dallas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Davis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Decatur": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Des Moines": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dickinson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dubuque": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Emmet": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Floyd": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Fremont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grundy": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Guthrie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Hardin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Harrison": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Henry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Howard": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Humboldt": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Ida": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Iowa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jasper": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jones": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Keokuk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kossuth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Louisa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lucas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lyon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mahaska": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Marshall": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Mills": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mitchell": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Monona": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Muscatine": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "O'Brien": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Osceola": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Page": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Palo Alto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plymouth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pocahontas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pottawattamie": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Poweshiek": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Ringgold": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Sac": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Scott": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Shelby": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Sioux": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Story": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Tama": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Taylor": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Van Buren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wapello": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Winnebago": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Winneshiek": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Woodbury": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Worth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wright": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        }
+    }
+}

@@ -1,0 +1,370 @@
+[
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-06-10",
+        "end": "2022-06-13",
+        "add": "2022-06-15",
+        "Shapiro": 44.0,
+        "Mastriano": 40.2
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-06-12",
+        "end": "2022-06-19",
+        "add": "2022-06-22",
+        "Shapiro": 49.0,
+        "Mastriano": 46.0
+    },
+    {
+        "pollster": "Cygnal",
+        "start": "2022-06-17",
+        "end": "2022-06-19",
+        "add": "2022-06-23",
+        "Shapiro": 48.2,
+        "Mastriano": 45.3
+    },
+    {
+        "pollster": "Blueprint Polling",
+        "start": "2022-07-19",
+        "end": "2022-07-21",
+        "add": "2022-07-26",
+        "Shapiro": 50.7,
+        "Mastriano": 39.4
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-07-22",
+        "end": "2022-07-26",
+        "add": "2022-07-28",
+        "Shapiro": 50.0,
+        "Mastriano": 40.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Shapiro": 49.0,
+        "Mastriano": 35.0
+    },
+    {
+        "pollster": "Beacon Research",
+        "start": "2022-07-05",
+        "end": "2022-07-20",
+        "add": "2022-07-29",
+        "Shapiro": 52.0,
+        "Mastriano": 39.0
+    },
+    {
+        "pollster": "Public Opinion Strategies",
+        "start": "2022-08-07",
+        "end": "2022-08-10",
+        "add": "2022-08-17",
+        "Shapiro": 50.0,
+        "Mastriano": 35.0
+    },
+    {
+        "pollster": "Global Strategy Group",
+        "start": "2022-07-14",
+        "end": "2022-07-19",
+        "add": "2022-08-17",
+        "Shapiro": 50.0,
+        "Mastriano": 42.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-08-15",
+        "end": "2022-08-18",
+        "add": "2022-08-22",
+        "Shapiro": 48.6,
+        "Mastriano": 44.7
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-08-15",
+        "end": "2022-08-21",
+        "add": "2022-08-25",
+        "Shapiro": 44.0,
+        "Mastriano": 33.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-08-22",
+        "end": "2022-08-23",
+        "add": "2022-08-25",
+        "Shapiro": 47.2,
+        "Mastriano": 44.2
+    },
+    {
+        "pollster": "RABA Research",
+        "start": "2022-08-31",
+        "end": "2022-09-03",
+        "add": "2022-09-08",
+        "Shapiro": 47.0,
+        "Mastriano": 41.0
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-08-31",
+        "end": "2022-09-07",
+        "add": "2022-09-13",
+        "Shapiro": 55.0,
+        "Mastriano": 36.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-09-06",
+        "end": "2022-09-12",
+        "add": "2022-09-14",
+        "Shapiro": 55.0,
+        "Mastriano": 44.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-31",
+        "end": "2022-09-01",
+        "add": "2022-09-15",
+        "Shapiro": 53.0,
+        "Mastriano": 32.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-08-31",
+        "end": "2022-09-01",
+        "add": "2022-09-15",
+        "Shapiro": 56.0,
+        "Mastriano": 35.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-13",
+        "end": "2022-09-15",
+        "add": "2022-09-16",
+        "Shapiro": 47.4,
+        "Mastriano": 45.4
+    },
+    {
+        "pollster": "Muhlenberg College",
+        "start": "2022-09-13",
+        "end": "2022-09-16",
+        "add": "2022-09-22",
+        "Shapiro": 53.0,
+        "Mastriano": 42.0
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-09-16",
+        "end": "2022-09-19",
+        "add": "2022-09-26",
+        "Shapiro": 45.9,
+        "Mastriano": 42.5
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-09-23",
+        "end": "2022-09-24",
+        "add": "2022-09-26",
+        "Shapiro": 51.9,
+        "Mastriano": 37.1
+    },
+    {
+        "pollster": "Marist College",
+        "start": "2022-09-19",
+        "end": "2022-09-22",
+        "add": "2022-09-27",
+        "Shapiro": 53.0,
+        "Mastriano": 40.0
+    },
+    {
+        "pollster": "Beacon Research/Shaw & Company Research",
+        "start": "2022-09-22",
+        "end": "2022-09-26",
+        "add": "2022-09-28",
+        "Shapiro": 51.0,
+        "Mastriano": 40.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-09-19",
+        "end": "2022-09-25",
+        "add": "2022-09-29",
+        "Shapiro": 51.0,
+        "Mastriano": 37.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-23",
+        "end": "2022-09-26",
+        "add": "2022-09-30",
+        "Shapiro": 50.6,
+        "Mastriano": 40.5
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-09-27",
+        "end": "2022-09-30",
+        "add": "2022-10-04",
+        "Shapiro": 48.2,
+        "Mastriano": 36.8
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-10-08",
+        "end": "2022-10-11",
+        "add": "2022-10-14",
+        "Shapiro": 52.8,
+        "Mastriano": 43.5
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-10-04",
+        "end": "2022-10-12",
+        "add": "2022-10-18",
+        "Shapiro": 53.0,
+        "Mastriano": 42.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-19",
+        "end": "2022-10-19",
+        "add": "2022-10-20",
+        "Shapiro": 48.5,
+        "Mastriano": 42.2
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-10-18",
+        "end": "2022-10-20",
+        "add": "2022-10-21",
+        "Shapiro": 50.0,
+        "Mastriano": 38.0
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-08",
+        "end": "2022-10-13",
+        "add": "2022-10-22",
+        "Shapiro": 48.5,
+        "Mastriano": 46.4
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-24",
+        "Shapiro": 56.0,
+        "Mastriano": 39.0
+    },
+    {
+        "pollster": "SSRS",
+        "start": "2022-10-13",
+        "end": "2022-10-17",
+        "add": "2022-10-24",
+        "Shapiro": 56.0,
+        "Mastriano": 41.0
+    },
+    {
+        "pollster": "Rasmussen Reports/Pulse Opinion Research",
+        "start": "2022-10-19",
+        "end": "2022-10-20",
+        "add": "2022-10-24",
+        "Shapiro": 43.0,
+        "Mastriano": 40.0
+    },
+    {
+        "pollster": "YouGov",
+        "start": "2022-10-21",
+        "end": "2022-10-24",
+        "add": "2022-10-26",
+        "Shapiro": 54.0,
+        "Mastriano": 45.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-10-14",
+        "end": "2022-10-23",
+        "add": "2022-10-27",
+        "Shapiro": 58.0,
+        "Mastriano": 36.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-10-14",
+        "end": "2022-10-23",
+        "add": "2022-10-27",
+        "Shapiro": 54.0,
+        "Mastriano": 32.0
+    },
+    {
+        "pollster": "Franklin & Marshall College",
+        "start": "2022-10-14",
+        "end": "2022-10-23",
+        "add": "2022-10-27",
+        "Shapiro": 56.0,
+        "Mastriano": 33.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-26",
+        "end": "2022-10-26",
+        "add": "2022-10-27",
+        "Shapiro": 50.2,
+        "Mastriano": 41.8
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-30",
+        "end": "2022-09-30",
+        "add": "2022-10-28",
+        "Shapiro": 55.0,
+        "Mastriano": 34.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-09-30",
+        "end": "2022-09-30",
+        "add": "2022-10-28",
+        "Shapiro": 57.0,
+        "Mastriano": 37.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-28",
+        "Shapiro": 58.0,
+        "Mastriano": 34.0
+    },
+    {
+        "pollster": "Center Street PAC",
+        "start": "2022-10-24",
+        "end": "2022-10-26",
+        "add": "2022-10-28",
+        "Shapiro": 60.0,
+        "Mastriano": 35.0
+    },
+    {
+        "pollster": "Wick",
+        "start": "2022-10-26",
+        "end": "2022-10-27",
+        "add": "2022-10-28",
+        "Shapiro": 49.2,
+        "Mastriano": 43.3
+    },
+    {
+        "pollster": "co/efficient",
+        "start": "2022-10-26",
+        "end": "2022-10-28",
+        "add": "2022-10-28",
+        "Shapiro": 51.0,
+        "Mastriano": 41.0
+    },
+    {
+        "pollster": "Patriot Polling",
+        "start": "2022-10-10",
+        "end": "2022-10-12",
+        "add": "2022-10-31",
+        "Shapiro": 50.1,
+        "Mastriano": 44.7
+    }
+]

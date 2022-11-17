@@ -1,0 +1,250 @@
+{
+    "2022-ak-sen-election" : {
+        "name" : "2022 Alaska Senate Election",
+        "candidates" : ["Murkowski", "Tshibaka"],
+        "date" : [2022, 11, 8],
+		"time" : 12,
+        "when" : "current",
+        "notify" : "True",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-alaska-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-AK.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15865/results/county", {"Murkowski" : "1019", "Tshibaka" : "32142"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/alaska/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-az-sen-election" : {
+        "name" : "2022 Arizona Senate Election",
+        "candidates" : ["Kelly", "Masters", "Victor"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-arizona-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-AZ.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/15941/results/county", {"Kelly" : "14737", "Masters" : "26311", "Victor" : "44228"}],
+			"sos" : "https://cdn1.arizona.vote/data/33/0/all_county_races_33_0_en_9733.json"
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/arizona/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-ga-sen-election" : {
+        "name" : "2022 Georgia Senate Election",
+        "candidates" : ["Warnock", "Walker"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-georgia-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-GA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17003/results/county", {"Warnock" : "13483", "Walker" : "21580", "Oliver" : "14810"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/georgia/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-nv-sen-election" : {
+        "name" : "2022 Nevada Senate Election",
+        "candidates" : ["Cortez Masto", "Laxalt"],
+        "date" : [2022, 11, 8],
+		"time" : 10,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "light-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-nevada-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NV.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19253/results/county", {"Cortez Masto" : "44242", "Laxalt" : "9709"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/nevada/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-nh-sen-election" : {
+        "name" : "2022 New Hampshire Senate Election",
+        "candidates" : ["Hassan", "Bolduc"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-d",
+		"division" : "township",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-new-hampshire-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NH.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19484/results/vcu", {"Hassan" : "338", "Bolduc" : "14426"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/new-hampshire/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-nc-sen-election" : {
+        "name" : "2022 North Carolina Senate Election",
+        "candidates" : ["Beasley", "Budd"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-north-carolina-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-NC.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19896/results/county", {"Beasley" : "20215", "Budd" : "20252"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/north-carolina/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-pa-sen-election" : {
+        "name" : "2022 Pennsylvania Senate Election",
+        "candidates" : ["Fetterman", "Oz"],
+        "date" : [2022, 11, 8],
+		"time" : 8,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "light-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-pennsylvania-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-PA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20494/results/county", {"Fetterman" : "20566", "Oz" : "20591"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/pennsylvania/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-wi-sen-election" : {
+        "name" : "2022 Wisconsin Senate Election",
+        "candidates" : ["Barnes", "Johnson"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "current",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-wisconsin-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-WI.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21821/results/county", {"Barnes" : "29124", "Johnson" : "339"}]
+        },
+		"polls" : "https://projects.fivethirtyeight.com/polls/senate/2022/wisconsin/polls.json",
+        "graph-percents" : [0]
+    },
+    "2022-co-sen-election" : {
+        "name" : "2022 Colorado Senate Election",
+        "candidates" : ["Bennet", "O'Dea"],
+        "date" : [2022, 11, 8],
+		"time" : 9,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-colorado-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-CO.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16344/results/county", {"Bennet" : "315", "O'Dea" : "24669"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-fl-sen-election" : {
+        "name" : "2022 Florida Senate Election",
+        "candidates" : ["Demings", "Rubio"],
+        "date" : [2022, 11, 8],
+		"time" : 7,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-florida-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-FL.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/16744/results/county", {"Demings" : "648", "Rubio" : "4"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-in-sen-election" : {
+        "name" : "2022 Indiana Senate Election",
+        "candidates" : ["McDermott", "Young"],
+        "date" : [2022, 11, 8],
+		"time" : 6,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-indiana-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-IN.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17522/results/county", {"McDermott" : "44237", "Young" : "1029"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ia-sen-election" : {
+        "name" : "2022 Iowa Senate Election",
+        "candidates" : ["Franken", "Grassley"],
+        "date" : [2022, 11, 8],
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-iowa-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-IA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/17667/results/county", {"Franken" : "12863", "Grassley" : "22707"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-mo-sen-election" : {
+        "name" : "2022 Missouri Senate Election",
+        "candidates" : ["Valentine", "Schmitt"],
+        "date" : [2022, 11, 8],
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-missouri-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-MO.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/19030/results/county", {"Valentine" : "27326", "Schmitt" : "27348"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-oh-sen-election" : {
+        "name" : "2022 Ohio Senate Election",
+        "candidates" : ["Ryan", "Vance"],
+        "date" : [2022, 11, 8],
+		"time" : 7.5,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-ohio-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-OH.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/20108/results/county", {"Ryan" : "1540", "Vance" : "19151"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-ut-sen-election" : {
+        "name" : "2022 Utah Senate Election",
+        "candidates" : ["McMullin", "Lee"],
+        "date" : [2022, 11, 8],
+		"time" : 10,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-r",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-utah-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-UT.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21298/results/county", {"McMullin" : "1792", "Lee" : "1042"}]
+        },
+        "graph-percents" : [0]
+    },
+    "2022-wa-sen-election" : {
+        "name" : "2022 Washington Senate Election",
+        "candidates" : ["Murray", "Smiley"],
+        "date" : [2022, 11, 8],
+		"time" : 11,
+        "when" : "past",
+        "notify" : "False",
+		"color" : "dark-d",
+        "sites" : {
+			"nyt" : ["https://static01.nyt.com/elections-assets/2022/data/2022-11-08/results-washington-us-senate.json", 0],
+            "cnn" : "https://politics.api.cnn.io/results/county-races/2022-SG-WA.json",
+            "ddhq" : ["https://embeds.ddhq.io/api/v2/race/21573/results/county", {"Murray" : "1016", "Smiley" : "27752"}]
+        },
+        "graph-percents" : [0]
+    }
+}

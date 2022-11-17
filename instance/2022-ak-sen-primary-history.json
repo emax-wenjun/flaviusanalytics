@@ -1,0 +1,380 @@
+{
+    "2022-08-17T00:14:31-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        },
+        "1": {
+            "county_name": "Alaska",
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        }
+    },
+    "2022-08-17T00:47:58-04:00": {
+        "0": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 150148,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 150148,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T01:34:43-04:00": {
+        "0": {
+            "Murkowski": 38549,
+            "Tshibaka": 38311,
+            "total": 91491,
+            "min_turnout": 91491,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 38549,
+            "Tshibaka": 38311,
+            "total": 91491,
+            "min_turnout": 91491,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T01:52:53-04:00": {
+        "0": {
+            "Murkowski": 8218,
+            "Tshibaka": 7188,
+            "total": 18289,
+            "min_turnout": 18289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 8218,
+            "Tshibaka": 7188,
+            "total": 18289,
+            "min_turnout": 18289,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T01:57:32-04:00": {
+        "0": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60271,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60271,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:09:30-04:00": {
+        "0": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29606,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29606,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:15:26-04:00": {
+        "0": {
+            "Murkowski": 3742,
+            "Tshibaka": 3545,
+            "total": 8570,
+            "min_turnout": 8570,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 3742,
+            "Tshibaka": 3545,
+            "total": 8570,
+            "min_turnout": 8570,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:15:32-04:00": {
+        "0": {
+            "Murkowski": -3742,
+            "Tshibaka": -3545,
+            "total": -8570,
+            "min_turnout": -8570,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": -3742,
+            "Tshibaka": -3545,
+            "total": -8570,
+            "min_turnout": -8570,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:15:37-04:00": {
+        "0": {
+            "Murkowski": 3742,
+            "Tshibaka": 3545,
+            "total": 8570,
+            "min_turnout": 8570,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 3742,
+            "Tshibaka": 3545,
+            "total": 8570,
+            "min_turnout": 8570,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T03:05:00-04:00": {
+        "0": {
+            "Murkowski": 516,
+            "Tshibaka": 339,
+            "total": 1064,
+            "min_turnout": 1064,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 516,
+            "Tshibaka": 339,
+            "total": 1064,
+            "min_turnout": 1064,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T04:17:07-04:00": {
+        "0": {
+            "Murkowski": 10478,
+            "Tshibaka": 8874,
+            "total": 22637,
+            "min_turnout": 22637,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 10478,
+            "Tshibaka": 8874,
+            "total": 22637,
+            "min_turnout": 22637,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T05:47:09-04:00": {
+        "0": {
+            "Murkowski": 4785,
+            "Tshibaka": 2968,
+            "total": 9536,
+            "min_turnout": 9536,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 4785,
+            "Tshibaka": 2968,
+            "total": 9536,
+            "min_turnout": 9536,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T12:15:24-04:00": {
+        "0": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 76201,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 0,
+            "min_turnout": 76201,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-19T16:36:34-04:00": {
+        "0": {
+            "Murkowski": 2512,
+            "Tshibaka": 769,
+            "total": 4125,
+            "min_turnout": -49091,
+            "max_turnout": -41194,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 2512,
+            "Tshibaka": 769,
+            "total": 4125,
+            "min_turnout": -49091,
+            "max_turnout": -41194,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T18:23:41-04:00": {
+        "0": {
+            "Murkowski": 1240,
+            "Tshibaka": 666,
+            "total": 2332,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 1240,
+            "Tshibaka": 666,
+            "total": 2332,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T21:29:47-04:00": {
+        "0": {
+            "Murkowski": 2023,
+            "Tshibaka": 895,
+            "total": 3647,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 2023,
+            "Tshibaka": 895,
+            "total": 3647,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T21:40:45-04:00": {
+        "0": {
+            "Murkowski": 4431,
+            "Tshibaka": 2192,
+            "total": 8003,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 4431,
+            "Tshibaka": 2192,
+            "total": 8003,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T22:24:53-04:00": {
+        "0": {
+            "Murkowski": 2504,
+            "Tshibaka": 3765,
+            "total": 7366,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 2504,
+            "Tshibaka": 3765,
+            "total": 7366,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-26T06:09:39-04:00": {
+        "0": {
+            "Murkowski": 2454,
+            "Tshibaka": 1300,
+            "total": 4713,
+            "min_turnout": 3076,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 2454,
+            "Tshibaka": 1300,
+            "total": 4713,
+            "min_turnout": 3076,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-26T10:05:57-04:00": {
+        "0": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 2,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 0,
+            "Tshibaka": 0,
+            "total": 2,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-26T23:58:22-04:00": {
+        "0": {
+            "Murkowski": 3892,
+            "Tshibaka": 2349,
+            "total": 7863,
+            "min_turnout": 7863,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Murkowski": 3892,
+            "Tshibaka": 2349,
+            "total": 7863,
+            "min_turnout": 7863,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    }
+}

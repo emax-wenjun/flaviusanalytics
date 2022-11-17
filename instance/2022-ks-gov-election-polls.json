@@ -1,0 +1,50 @@
+[
+    {
+        "pollster": "Clarity Campaign Labs",
+        "start": "2021-09-13",
+        "end": "2021-09-15",
+        "add": "2021-09-27",
+        "Kelly": 47.0,
+        "Schmidt": 44.0
+    },
+    {
+        "pollster": "Remington Research Group",
+        "start": "2021-09-07",
+        "end": "2021-09-09",
+        "add": "2021-09-27",
+        "Kelly": 40.0,
+        "Schmidt": 44.0
+    },
+    {
+        "pollster": "WPA Intelligence",
+        "start": "2022-04-26",
+        "end": "2022-04-27",
+        "add": "2022-05-09",
+        "Kelly": 43.0,
+        "Schmidt": 47.0
+    },
+    {
+        "pollster": "Battleground Connect",
+        "start": "2022-08-08",
+        "end": "2022-08-10",
+        "add": "2022-08-17",
+        "Kelly": 45.4,
+        "Schmidt": 47.9
+    },
+    {
+        "pollster": "Echelon Insights",
+        "start": "2022-08-31",
+        "end": "2022-09-07",
+        "add": "2022-09-13",
+        "Kelly": 53.0,
+        "Schmidt": 41.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-15",
+        "end": "2022-09-18",
+        "add": "2022-09-21",
+        "Kelly": 44.6,
+        "Schmidt": 43.1
+    }
+]

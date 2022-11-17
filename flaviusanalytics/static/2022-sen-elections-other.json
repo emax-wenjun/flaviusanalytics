@@ -1,0 +1,70 @@
+{
+    "al" : {
+        "name" : "Katie Britt",
+		"color" : "dark-r"
+    },
+    "ar" : {
+        "name" : "John Boozman",
+		"color" : "dark-r"
+    },
+    "ca" : {
+        "name" : "Alex Padilla",
+		"color" : "dark-d"
+    },
+    "ct" : {
+        "name" : "Richard Blumenthal",
+		"color" : "dark-d"
+    },
+    "hi" : {
+        "name" : "Brian Schatz",
+		"color" : "dark-d"
+    },
+    "id" : {
+        "name" : "Mike Crapo",
+		"color" : "dark-r"
+    },
+    "il" : {
+        "name" : "Tammy Duckworth",
+		"color" : "dark-d"
+    },
+    "ks" : {
+        "name" : "Jerry Moran",
+		"color" : "dark-r"
+    },
+    "la" : {
+        "name" : "John Kennedy",
+		"color" : "dark-r"
+    },
+    "md" : {
+        "name" : "Chris van Hollen",
+		"color" : "dark-d"
+    },
+    "ny" : {
+        "name" : "Chuck Schumer",
+		"color" : "dark-d"
+    },
+    "nd" : {
+        "name" : "John Hoeven",
+		"color" : "dark-r"
+    },
+    "ok" : {
+        "name" : "James Lankford and Markwayne Mullin",
+		"color" : "dark-r"
+    },
+    "or" : {
+        "name" : "Ron Wyden",
+		"color" : "dark-d"
+    },
+    "sc" : {
+        "name" : "Tim Scott",
+		"color" : "dark-r"
+    },
+    "sd" : {
+        "name" : "John Thune",
+		"color" : "dark-r"
+    },
+    "vt" : {
+        "name" : "Peter Welch",
+		"color" : "dark-d"
+    }
+}

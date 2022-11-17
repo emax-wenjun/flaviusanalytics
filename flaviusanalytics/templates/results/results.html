@@ -1,0 +1,121 @@
+{% extends 'base.html' %}
+
+{% block title %}{{title}} Results{% endblock %}
+
+{% block content %}
+	<div id="content">
+		{% if candidates|length > 2 %}
+			<div style="margin:10px">
+				<label for="candidate-selector-first">Graph the margin between </label>
+				<select class="dropdown" id="candidate-selector-first">
+					{% for candidate in candidates %}
+						<option value="{{candidate}}">{{candidate}}</option>
+					{% endfor %}
+				</select>
+				<label for="candidate-selector-second"> and </label>
+				<select class="dropdown" id="candidate-selector-second">
+					{% for candidate in candidates %}
+						{% if candidate in candidates[1] %}
+							<option value="{{candidate}}" selected>{{candidate}}</option>
+						{% else %}
+							<option value="{{candidate}}">{{candidate}}</option>
+						{% endif %}
+					{% endfor %}
+				</select>
+				<button onclick="new_compare()">Calculate</button>
+			</div>
+		{% endif %}
+		<div class="graphics" id="graphics">
+			<div class="graph" id="graph"></div>
+			<div class="settings" id="window">
+				<label for="x-min-input">X min: </label>
+				<input class="dim-input" id="x-min-input">
+				<br/>
+				<label for="x-max-input">X max: </label>
+				<input class="dim-input" id="x-max-input">
+				<br/>
+				<label for="y-min-input">Y min: </label>
+				<input class="dim-input" id="y-min-input">
+				<br/>
+				<label for="y-max-input">Y max: </label>
+				<input class="dim-input" id="y-max-input">
+				<br/>
+				<button class="settings-button" id="window-input-button" onclick="adjust_window()">Adjust Window</button>
+				<br/>
+				<label for="hypo-input">Hypo. %: </label>
+				<input class="dim-input" id="hypo-input">
+				<br/>
+				<button class="settings-button" id="hypo-button" onclick="draw_hypo()">Calculate</button>
+			</div>
+			<div class="history" id="history"></div>
+		</div>
+		<div id="table">{{temp_html | safe}}</div>
+		<p><a href="display/{{race_id}}">View .json</a></p>
+		<p><a href="display/{{race_id}}-history">View history .json</a></p>
+	</div>
+	<script>
+		var candidate_first = "{{candidates[0]}}";
+		var candidate_second = "{{candidates[1]}}";
+		var window_input = ["Nope", "Nope", "Nope", "Nope"]
+		var hypo_percent = "";
+		function display_table(){
+			$.ajax({
+				url: "/results/get-content",
+				type: "POST",
+				data: JSON.stringify({"race_id" : "{{race_id}}", "compare" : [candidate_first, candidate_second]}),
+				contentType: 'application/json;charset=UTF-8',
+				success: function(response) {
+					if (response == "No sites available yet"){
+						window.location.href = "/error?error_id=patience";
+					} else {
+						$("#table").html(response)
+					}
+				 }
+			}); 
+		}
+		function display_graph(){
+			$.ajax({
+				url: "/results/get-graph",
+				type: "POST",
+				data: JSON.stringify({"race_id" : "{{race_id}}", "compare" : [candidate_first, candidate_second], "window_input" : window_input, "hypo_percent" : hypo_percent }),
+				contentType: 'application/json;charset=UTF-8',
+				success: function(response) {
+					if (response["graph"] == "No sites available yet"){
+						window.location.href = "/error?error_id=patience";
+					} else if (response["graph"] == ""){
+						$("#graphics").hide();
+					} else{
+						$("#graphics").show();
+						$("#graph").html(response["graph"]);
+						$("#history").html(response["history"]);
+					}
+				 }
+			}); 
+		}
+		function adjust_window(){
+			window_input = [document.getElementById("x-min-input").value, document.getElementById("x-max-input").value, document.getElementById("y-min-input").value, document.getElementById("y-max-input").value];
+			display_graph();
+		}
+		function display_graph_and_table(){
+			display_table();
+			display_graph();
+		}
+		function new_compare(){
+			dropdown_first = document.getElementById("candidate-selector-first");
+			dropdown_second = document.getElementById("candidate-selector-second");
+			if (dropdown_first.value == dropdown_second.value){
+				alert("Maybe don't compare the same candidate.");
+				return;
+			}
+			candidate_first = dropdown_first.value;
+			candidate_second = dropdown_second.value;
+			display_graph_and_table();
+		}
+		function draw_hypo(){
+			hypo_percent = document.getElementById("hypo-input").value;
+			display_graph();
+		}
+		display_graph_and_table();
+		setInterval(display_graph_and_table, 2000);
+	</script>
+{% endblock %}

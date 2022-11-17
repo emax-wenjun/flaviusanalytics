@@ -1,0 +1,3498 @@
+{
+    "2022-08-02T00:04:04-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0
+        },
+        "1": {
+            "county_name": "Kent",
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0
+        },
+        "2": {
+            "county_name": "Muskegon",
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0
+        },
+        "3": {
+            "county_name": "Ottawa",
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0
+        }
+    },
+    "2022-08-02T18:57:06-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 165076,
+            "max_turnout": 165076,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 134130,
+            "max_turnout": 134130,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 12313,
+            "max_turnout": 12313,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 18633,
+            "max_turnout": 18633,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T19:32:32-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1073,
+            "max_turnout": 1073,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1073,
+            "max_turnout": 1073,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T20:48:36-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 6,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 5,
+            "county_name": "Kent"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T20:52:11-04:00": {
+        "0": {
+            "Gibbs": 2631,
+            "Meijer": 1547,
+            "total": 4178,
+            "min_turnout": -4228,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 2631,
+            "Meijer": 1547,
+            "total": 4178,
+            "min_turnout": -4228,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:09:18-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 16,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 13,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:14:19-04:00": {
+        "0": {
+            "Gibbs": 4642,
+            "Meijer": 3654,
+            "total": 8296,
+            "min_turnout": 98,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 4642,
+            "Meijer": 3654,
+            "total": 8296,
+            "min_turnout": 98,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:25:39-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 55,
+            "max_turnout": 62,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 51,
+            "max_turnout": 51,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 4,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:27:02-04:00": {
+        "0": {
+            "Gibbs": 2248,
+            "Meijer": 3101,
+            "total": 5349,
+            "min_turnout": -81782,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 2248,
+            "Meijer": 3101,
+            "total": 5349,
+            "min_turnout": -81782,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T21:29:59-04:00": {
+        "0": {
+            "Gibbs": 515,
+            "Meijer": 519,
+            "total": 1034,
+            "min_turnout": -297,
+            "max_turnout": 23,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 515,
+            "Meijer": 519,
+            "total": 1034,
+            "min_turnout": -299,
+            "max_turnout": 18,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:40:04-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 27,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:42:03-04:00": {
+        "0": {
+            "Gibbs": 529,
+            "Meijer": 968,
+            "total": 1497,
+            "min_turnout": -658,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 529,
+            "Meijer": 968,
+            "total": 1497,
+            "min_turnout": -658,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T21:44:13-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 38,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 31,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 3,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:44:37-04:00": {
+        "0": {
+            "Gibbs": 1061,
+            "Meijer": 847,
+            "total": 1908,
+            "min_turnout": 634,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 1061,
+            "Meijer": 847,
+            "total": 1908,
+            "min_turnout": 634,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:45:58-04:00": {
+        "0": {
+            "Gibbs": 695,
+            "Meijer": 1294,
+            "total": 1989,
+            "min_turnout": -591,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 695,
+            "Meijer": 1294,
+            "total": 1989,
+            "min_turnout": -591,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T21:48:55-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:54:41-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:57:05-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 94,
+            "max_turnout": 1267,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1031,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 94,
+            "max_turnout": 94,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 142,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T21:59:04-04:00": {
+        "0": {
+            "Gibbs": 143,
+            "Meijer": 106,
+            "total": 249,
+            "min_turnout": -4120,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 143,
+            "Meijer": 106,
+            "total": 249,
+            "min_turnout": -4120,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T22:01:25-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1267,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1031,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -94,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -142,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:07:43-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 19,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:10:04-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:13:01-04:00": {
+        "0": {
+            "Gibbs": 513,
+            "Meijer": 688,
+            "total": 1201,
+            "min_turnout": 1265,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 513,
+            "Meijer": 688,
+            "total": 1201,
+            "min_turnout": 1265,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:18:18-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 63,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 52,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:18:53-04:00": {
+        "0": {
+            "Gibbs": 346,
+            "Meijer": 467,
+            "total": 813,
+            "min_turnout": 1468,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 346,
+            "Meijer": 467,
+            "total": 813,
+            "min_turnout": 1468,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T22:24:26-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:26:48-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 124,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 100,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 10,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:29:08-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:33:55-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 71,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 58,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:36:06-04:00": {
+        "0": {
+            "Gibbs": 4657,
+            "Meijer": 4491,
+            "total": 9148,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 4657,
+            "Meijer": 4491,
+            "total": 9148,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T22:42:04-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T22:46:41-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 98,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 80,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:48:18-04:00": {
+        "0": {
+            "Gibbs": 622,
+            "Meijer": 871,
+            "total": 1493,
+            "min_turnout": 673,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 622,
+            "Meijer": 871,
+            "total": 1493,
+            "min_turnout": 673,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:48:30-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 898,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 898,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:50:43-04:00": {
+        "0": {
+            "Gibbs": 866,
+            "Meijer": 821,
+            "total": 1687,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 866,
+            "Meijer": 821,
+            "total": 1687,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T22:51:08-04:00": {
+        "0": {
+            "Gibbs": 3124,
+            "Meijer": 3688,
+            "total": 6812,
+            "min_turnout": -310,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 3124,
+            "Meijer": 3688,
+            "total": 6812,
+            "min_turnout": -310,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T22:52:43-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:55:06-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Kent"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T22:59:00-04:00": {
+        "0": {
+            "Gibbs": 1827,
+            "Meijer": 1875,
+            "total": 3702,
+            "min_turnout": -49,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 1827,
+            "Meijer": 1875,
+            "total": 3702,
+            "min_turnout": -49,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:02:28-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:04:25-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:09:33-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1318,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1318,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T23:21:54-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 31,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 26,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:23:42-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 267,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 217,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 20,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 30,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:25:55-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:26:56-04:00": {
+        "0": {
+            "Gibbs": 4299,
+            "Meijer": 3128,
+            "total": 7427,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 4299,
+            "Meijer": 3128,
+            "total": 7427,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:29:41-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -36,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -44,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:34:05-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 82,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 81,
+            "county_name": "Kent"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:38:15-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 25,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 20,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:42:39-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 423,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 345,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 31,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 47,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:48:38-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 49,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 39,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:49:26-04:00": {
+        "0": {
+            "Gibbs": 989,
+            "Meijer": 1340,
+            "total": 2329,
+            "min_turnout": 1431,
+            "max_turnout": 609,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 989,
+            "Meijer": 1340,
+            "total": 2329,
+            "min_turnout": 1431,
+            "max_turnout": 609,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:50:25-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1021,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1021,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:51:00-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 873,
+            "max_turnout": 323,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 296,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 873,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-02T23:52:58-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 62,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 62,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T23:53:58-04:00": {
+        "0": {
+            "Gibbs": 3604,
+            "Meijer": 2711,
+            "total": 6315,
+            "min_turnout": -83,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 3604,
+            "Meijer": 2711,
+            "total": 6315,
+            "min_turnout": -83,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:55:09-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -51,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -48,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T23:57:21-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2253,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2063,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -190,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-02T23:59:11-04:00": {
+        "0": {
+            "Gibbs": 1932,
+            "Meijer": 1627,
+            "total": 3559,
+            "min_turnout": -177,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 1932,
+            "Meijer": 1627,
+            "total": 3559,
+            "min_turnout": -177,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-02T23:59:35-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2356,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2159,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 197,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:01:34-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -610,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -559,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -51,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:05:54-04:00": {
+        "0": {
+            "Gibbs": 2683,
+            "Meijer": 1855,
+            "total": 4538,
+            "min_turnout": 0,
+            "max_turnout": 1047,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 959,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 2683,
+            "Meijer": 1855,
+            "total": 4538,
+            "min_turnout": 0,
+            "max_turnout": 88,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:07:59-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1974,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1809,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 165,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:11:36-04:00": {
+        "0": {
+            "Gibbs": 1214,
+            "Meijer": 752,
+            "total": 1966,
+            "min_turnout": 1093,
+            "max_turnout": 2069,
+            "county_name": "Total"
+        },
+        "3": {
+            "Gibbs": 1214,
+            "Meijer": 752,
+            "total": 1966,
+            "min_turnout": 1093,
+            "max_turnout": 2069,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T00:14:22-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1520,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1393,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 127,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:16:58-04:00": {
+        "0": {
+            "Gibbs": 1222,
+            "Meijer": 1013,
+            "total": 2235,
+            "min_turnout": 125,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 1222,
+            "Meijer": 1013,
+            "total": 2235,
+            "min_turnout": 125,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:20:32-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:20:56-04:00": {
+        "0": {
+            "Gibbs": 2351,
+            "Meijer": 1238,
+            "total": 3589,
+            "min_turnout": 3220,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 2351,
+            "Meijer": 1238,
+            "total": 3589,
+            "min_turnout": 3220,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:23:22-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:24:59-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:25:23-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:29:57-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 46,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:31:34-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 19025,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 19025,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:31:58-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1164,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1067,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 97,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:34:22-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 962,
+            "max_turnout": 370,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 339,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 31,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 962,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T00:34:58-04:00": {
+        "0": {
+            "Gibbs": 3112,
+            "Meijer": 1834,
+            "total": 4946,
+            "min_turnout": -417,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 3112,
+            "Meijer": 1834,
+            "total": 4946,
+            "min_turnout": -417,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:36:21-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -434,
+            "max_turnout": 225,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 207,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -434,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T00:43:27-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:52:14-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T00:57:22-04:00": {
+        "0": {
+            "Gibbs": 2071,
+            "Meijer": 2267,
+            "total": 4338,
+            "min_turnout": 1003,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 2071,
+            "Meijer": 2267,
+            "total": 4338,
+            "min_turnout": 1003,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T00:59:21-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 1008,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1078,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -70,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:01:08-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 227,
+            "max_turnout": -13429,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12380,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 569,
+            "max_turnout": -1049,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -342,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:02:54-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1671,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1533,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -138,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T01:05:52-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 386,
+            "max_turnout": 16764,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15469,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1295,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 386,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:12:26-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 84,
+            "max_turnout": 3214,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3004,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 210,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 84,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:14:36-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 1647,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1357,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 290,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 39,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:16:59-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": -231,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -213,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:30:15-04:00": {
+        "0": {
+            "Gibbs": 599,
+            "Meijer": 997,
+            "total": 1596,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 599,
+            "Meijer": 997,
+            "total": 1596,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T01:38:10-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T01:40:32-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T01:43:18-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 418,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 386,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 32,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:44:54-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 35,
+            "max_turnout": 1323,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1220,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 103,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 35,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:46:55-04:00": {
+        "0": {
+            "Gibbs": 2640,
+            "Meijer": 1945,
+            "total": 4585,
+            "min_turnout": 98,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 2640,
+            "Meijer": 1945,
+            "total": 4585,
+            "min_turnout": 98,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T01:49:54-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 195,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 180,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T01:57:55-04:00": {
+        "0": {
+            "Gibbs": 1373,
+            "Meijer": 2382,
+            "total": 3755,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 1373,
+            "Meijer": 2382,
+            "total": 3755,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T02:00:30-04:00": {
+        "0": {
+            "Gibbs": 103,
+            "Meijer": 68,
+            "total": 171,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 103,
+            "Meijer": 68,
+            "total": 171,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T02:01:06-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 60,
+            "total": 60,
+            "min_turnout": 243,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 60,
+            "total": 60,
+            "min_turnout": 243,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T02:02:06-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 362,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 350,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T02:06:27-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -79,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -79,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T02:08:13-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1162,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1162,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T02:24:22-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 108,
+            "max_turnout": 3842,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3525,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 317,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 108,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T02:31:43-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": -537,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 407,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -944,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T02:38:36-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 431,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 416,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T02:42:09-04:00": {
+        "0": {
+            "Gibbs": 917,
+            "Meijer": 805,
+            "total": 1722,
+            "min_turnout": 237,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 917,
+            "Meijer": 805,
+            "total": 1722,
+            "min_turnout": 237,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T02:56:11-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -529,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -529,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T03:50:07-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 1324,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1276,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 48,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T04:00:49-04:00": {
+        "0": {
+            "Gibbs": 537,
+            "Meijer": 1312,
+            "total": 1849,
+            "min_turnout": 360,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 537,
+            "Meijer": 1312,
+            "total": 1849,
+            "min_turnout": 360,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T04:02:28-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 84,
+            "max_turnout": 2781,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2680,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 101,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 84,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T04:09:16-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -108,
+            "max_turnout": -4694,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4565,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -129,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -108,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T07:17:32-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 682,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 656,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 26,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T07:44:43-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 56,
+            "max_turnout": 1764,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1697,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 56,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T07:55:36-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T07:57:34-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 36,
+            "max_turnout": 1100,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1058,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 36,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T07:59:45-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -24,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -24,
+            "county_name": "Kent"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T08:18:16-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 153,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 147,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T09:14:52-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 930,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 894,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 36,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T09:34:35-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -339,
+            "max_turnout": -6205,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4631,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -187,
+            "max_turnout": -1574,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -152,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T09:36:35-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -1060,
+            "max_turnout": -74258,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -74258,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -251,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -809,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T09:56:40-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -76,
+            "max_turnout": -296,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -296,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -70,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:22:35-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": -23,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -23,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:40:12-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -21,
+            "max_turnout": -22,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:42:34-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 8,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Kent"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:44:33-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 28,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 28,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:50:53-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T10:54:50-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 205,
+            "max_turnout": 216,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 216,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        },
+        "3": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 174,
+            "max_turnout": 0,
+            "county_name": "Ottawa"
+        }
+    },
+    "2022-08-03T11:32:55-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T11:34:54-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T12:01:00-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T12:27:23-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 9,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T12:32:45-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T13:10:27-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-03T13:42:00-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": -2,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T15:11:36-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": -15,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -15,
+            "county_name": "Kent"
+        },
+        "2": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Muskegon"
+        }
+    },
+    "2022-08-03T16:04:30-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-04T19:15:03-04:00": {
+        "0": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 0,
+            "Meijer": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -28,
+            "county_name": "Kent"
+        }
+    },
+    "2022-08-16T21:12:40-04:00": {
+        "0": {
+            "Gibbs": 70,
+            "Meijer": 228,
+            "total": 298,
+            "min_turnout": 314,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Gibbs": 70,
+            "Meijer": 228,
+            "total": 298,
+            "min_turnout": 314,
+            "max_turnout": 0,
+            "county_name": "Kent"
+        }
+    }
+}

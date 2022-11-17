@@ -1,0 +1,889 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Demings": 3197146,
+            "Rubio": 4469887,
+            "total": 7748233,
+            "min_turnout": 7813355,
+            "max_turnout": 8459828
+        },
+        {
+            "county_name": "Alachua",
+            "Demings": 55359,
+            "Rubio": 39190,
+            "total": 95622,
+            "min_turnout": 95622,
+            "max_turnout": 110956
+        },
+        {
+            "county_name": "Baker",
+            "Demings": 1181,
+            "Rubio": 9431,
+            "total": 10692,
+            "min_turnout": 10800,
+            "max_turnout": 11552
+        },
+        {
+            "county_name": "Bay",
+            "Demings": 14512,
+            "Rubio": 51587,
+            "total": 66846,
+            "min_turnout": 66846,
+            "max_turnout": 70188
+        },
+        {
+            "county_name": "Bradford",
+            "Demings": 1941,
+            "Rubio": 8156,
+            "total": 10208,
+            "min_turnout": 10208,
+            "max_turnout": 11346
+        },
+        {
+            "county_name": "Brevard",
+            "Demings": 98839,
+            "Rubio": 165109,
+            "total": 266884,
+            "min_turnout": 269580,
+            "max_turnout": 283993
+        },
+        {
+            "county_name": "Broward",
+            "Demings": 353264,
+            "Rubio": 238847,
+            "total": 597489,
+            "min_turnout": 603524,
+            "max_turnout": 716538
+        },
+        {
+            "county_name": "Calhoun",
+            "Demings": 698,
+            "Rubio": 4063,
+            "total": 4826,
+            "min_turnout": 4875,
+            "max_turnout": 5067
+        },
+        {
+            "county_name": "Charlotte",
+            "Demings": 27737,
+            "Rubio": 63798,
+            "total": 92377,
+            "min_turnout": 93310,
+            "max_turnout": 96996
+        },
+        {
+            "county_name": "Citrus",
+            "Demings": 19601,
+            "Rubio": 55033,
+            "total": 75576,
+            "min_turnout": 76339,
+            "max_turnout": 79355
+        },
+        {
+            "county_name": "Clay",
+            "Demings": 23036,
+            "Rubio": 65939,
+            "total": 89994,
+            "min_turnout": 89994,
+            "max_turnout": 98030
+        },
+        {
+            "county_name": "Collier",
+            "Demings": 46497,
+            "Rubio": 115983,
+            "total": 163377,
+            "min_turnout": 164121,
+            "max_turnout": 171546
+        },
+        {
+            "county_name": "Columbia",
+            "Demings": 5066,
+            "Rubio": 18342,
+            "total": 23649,
+            "min_turnout": 23888,
+            "max_turnout": 26606
+        },
+        {
+            "county_name": "DeSoto",
+            "Demings": 2097,
+            "Rubio": 6466,
+            "total": 8656,
+            "min_turnout": 8743,
+            "max_turnout": 9109
+        },
+        {
+            "county_name": "Dixie",
+            "Demings": 826,
+            "Rubio": 5224,
+            "total": 6133,
+            "min_turnout": 6195,
+            "max_turnout": 6368
+        },
+        {
+            "county_name": "Duval",
+            "Demings": 147520,
+            "Rubio": 177275,
+            "total": 328580,
+            "min_turnout": 331658,
+            "max_turnout": 390604
+        },
+        {
+            "county_name": "Escambia",
+            "Demings": 40741,
+            "Rubio": 73166,
+            "total": 115381,
+            "min_turnout": 116231,
+            "max_turnout": 130209
+        },
+        {
+            "county_name": "Flagler",
+            "Demings": 20177,
+            "Rubio": 37885,
+            "total": 58543,
+            "min_turnout": 59134,
+            "max_turnout": 61470
+        },
+        {
+            "county_name": "Franklin",
+            "Demings": 1470,
+            "Rubio": 3883,
+            "total": 5415,
+            "min_turnout": 5461,
+            "max_turnout": 5680
+        },
+        {
+            "county_name": "Gadsden",
+            "Demings": 11090,
+            "Rubio": 6072,
+            "total": 17347,
+            "min_turnout": 17522,
+            "max_turnout": 20246
+        },
+        {
+            "county_name": "Gilchrist",
+            "Demings": 1084,
+            "Rubio": 6651,
+            "total": 7836,
+            "min_turnout": 7836,
+            "max_turnout": 8069
+        },
+        {
+            "county_name": "Glades",
+            "Demings": 764,
+            "Rubio": 3026,
+            "total": 3818,
+            "min_turnout": 3857,
+            "max_turnout": 3989
+        },
+        {
+            "county_name": "Gulf",
+            "Demings": 1295,
+            "Rubio": 5065,
+            "total": 6415,
+            "min_turnout": 6480,
+            "max_turnout": 6736
+        },
+        {
+            "county_name": "Hamilton",
+            "Demings": 1213,
+            "Rubio": 3030,
+            "total": 4280,
+            "min_turnout": 4323,
+            "max_turnout": 4758
+        },
+        {
+            "county_name": "Hardee",
+            "Demings": 971,
+            "Rubio": 4465,
+            "total": 5497,
+            "min_turnout": 5553,
+            "max_turnout": 6191
+        },
+        {
+            "county_name": "Hendry",
+            "Demings": 2116,
+            "Rubio": 6000,
+            "total": 8220,
+            "min_turnout": 8303,
+            "max_turnout": 9240
+        },
+        {
+            "county_name": "Hernando",
+            "Demings": 24271,
+            "Rubio": 54776,
+            "total": 80074,
+            "min_turnout": 80883,
+            "max_turnout": 83207
+        },
+        {
+            "county_name": "Highlands",
+            "Demings": 10428,
+            "Rubio": 28715,
+            "total": 39616,
+            "min_turnout": 40016,
+            "max_turnout": 41597
+        },
+        {
+            "county_name": "Hillsborough",
+            "Demings": 222090,
+            "Rubio": 253195,
+            "total": 481735,
+            "min_turnout": 486601,
+            "max_turnout": 527191
+        },
+        {
+            "county_name": "Holmes",
+            "Demings": 556,
+            "Rubio": 6148,
+            "total": 6767,
+            "min_turnout": 6835,
+            "max_turnout": 7046
+        },
+        {
+            "county_name": "Indian River",
+            "Demings": 25586,
+            "Rubio": 50843,
+            "total": 77126,
+            "min_turnout": 77905,
+            "max_turnout": 80982
+        },
+        {
+            "county_name": "Jackson",
+            "Demings": 3834,
+            "Rubio": 11998,
+            "total": 15961,
+            "min_turnout": 16122,
+            "max_turnout": 16665
+        },
+        {
+            "county_name": "Jefferson",
+            "Demings": 2929,
+            "Rubio": 4137,
+            "total": 7124,
+            "min_turnout": 7196,
+            "max_turnout": 7518
+        },
+        {
+            "county_name": "Lafayette",
+            "Demings": 348,
+            "Rubio": 2519,
+            "total": 2905,
+            "min_turnout": 2905,
+            "max_turnout": 3050
+        },
+        {
+            "county_name": "Lake",
+            "Demings": 55268,
+            "Rubio": 103009,
+            "total": 159806,
+            "min_turnout": 161420,
+            "max_turnout": 166607
+        },
+        {
+            "county_name": "Lee",
+            "Demings": 87063,
+            "Rubio": 185050,
+            "total": 274391,
+            "min_turnout": 277163,
+            "max_turnout": 287875
+        },
+        {
+            "county_name": "Leon",
+            "Demings": 69577,
+            "Rubio": 46472,
+            "total": 117342,
+            "min_turnout": 118527,
+            "max_turnout": 136217
+        },
+        {
+            "county_name": "Levy",
+            "Demings": 3943,
+            "Rubio": 13684,
+            "total": 17856,
+            "min_turnout": 18036,
+            "max_turnout": 18552
+        },
+        {
+            "county_name": "Liberty",
+            "Demings": 405,
+            "Rubio": 2163,
+            "total": 2600,
+            "min_turnout": 2626,
+            "max_turnout": 2739
+        },
+        {
+            "county_name": "Madison",
+            "Demings": 2442,
+            "Rubio": 4468,
+            "total": 6968,
+            "min_turnout": 6979,
+            "max_turnout": 7765
+        },
+        {
+            "county_name": "Manatee",
+            "Demings": 61237,
+            "Rubio": 107991,
+            "total": 170946,
+            "min_turnout": 172673,
+            "max_turnout": 179493
+        },
+        {
+            "county_name": "Marion",
+            "Demings": 49640,
+            "Rubio": 104574,
+            "total": 155643,
+            "min_turnout": 157215,
+            "max_turnout": 159263
+        },
+        {
+            "county_name": "Martin",
+            "Demings": 24626,
+            "Rubio": 52293,
+            "total": 77528,
+            "min_turnout": 78303,
+            "max_turnout": 80123
+        },
+        {
+            "county_name": "Miami-Dade",
+            "Demings": 318760,
+            "Rubio": 386135,
+            "total": 711369,
+            "min_turnout": 718487,
+            "max_turnout": 774902
+        },
+        {
+            "county_name": "Monroe",
+            "Demings": 13740,
+            "Rubio": 19893,
+            "total": 33951,
+            "min_turnout": 34294,
+            "max_turnout": 35403
+        },
+        {
+            "county_name": "Nassau",
+            "Demings": 11322,
+            "Rubio": 35902,
+            "total": 47654,
+            "min_turnout": 47701,
+            "max_turnout": 50037
+        },
+        {
+            "county_name": "Okaloosa",
+            "Demings": 18814,
+            "Rubio": 60746,
+            "total": 80686,
+            "min_turnout": 81501,
+            "max_turnout": 83747
+        },
+        {
+            "county_name": "Okeechobee",
+            "Demings": 2216,
+            "Rubio": 8523,
+            "total": 10852,
+            "min_turnout": 10852,
+            "max_turnout": 11546
+        },
+        {
+            "county_name": "Orange",
+            "Demings": 225109,
+            "Rubio": 176705,
+            "total": 406175,
+            "min_turnout": 406175,
+            "max_turnout": 478225
+        },
+        {
+            "county_name": "Osceola",
+            "Demings": 49867,
+            "Rubio": 51376,
+            "total": 102596,
+            "min_turnout": 103632,
+            "max_turnout": 119516
+        },
+        {
+            "county_name": "Palm Beach",
+            "Demings": 269265,
+            "Rubio": 267371,
+            "total": 541669,
+            "min_turnout": 547140,
+            "max_turnout": 576495
+        },
+        {
+            "county_name": "Pasco",
+            "Demings": 77588,
+            "Rubio": 143668,
+            "total": 224263,
+            "min_turnout": 225375,
+            "max_turnout": 232901
+        },
+        {
+            "county_name": "Pinellas",
+            "Demings": 191914,
+            "Rubio": 223643,
+            "total": 421793,
+            "min_turnout": 426054,
+            "max_turnout": 437428
+        },
+        {
+            "county_name": "Polk",
+            "Demings": 82166,
+            "Rubio": 144405,
+            "total": 229247,
+            "min_turnout": 231563,
+            "max_turnout": 257082
+        },
+        {
+            "county_name": "Putnam",
+            "Demings": 6442,
+            "Rubio": 19807,
+            "total": 26527,
+            "min_turnout": 26527,
+            "max_turnout": 29200
+        },
+        {
+            "county_name": "Saint Johns",
+            "Demings": 44309,
+            "Rubio": 98498,
+            "total": 144220,
+            "min_turnout": 145677,
+            "max_turnout": 151431
+        },
+        {
+            "county_name": "Saint Lucie",
+            "Demings": 50771,
+            "Rubio": 69850,
+            "total": 121669,
+            "min_turnout": 122898,
+            "max_turnout": 134758
+        },
+        {
+            "county_name": "Santa Rosa",
+            "Demings": 15416,
+            "Rubio": 58330,
+            "total": 74637,
+            "min_turnout": 75391,
+            "max_turnout": 78415
+        },
+        {
+            "county_name": "Sarasota",
+            "Demings": 86485,
+            "Rubio": 129718,
+            "total": 218130,
+            "min_turnout": 218386,
+            "max_turnout": 229036
+        },
+        {
+            "county_name": "Seminole",
+            "Demings": 83188,
+            "Rubio": 97707,
+            "total": 182871,
+            "min_turnout": 184718,
+            "max_turnout": 205738
+        },
+        {
+            "county_name": "Sumter",
+            "Demings": 25000,
+            "Rubio": 63789,
+            "total": 89287,
+            "min_turnout": 89685,
+            "max_turnout": 93751
+        },
+        {
+            "county_name": "Suwannee",
+            "Demings": 3017,
+            "Rubio": 13113,
+            "total": 16292,
+            "min_turnout": 16457,
+            "max_turnout": 17002
+        },
+        {
+            "county_name": "Taylor",
+            "Demings": 1495,
+            "Rubio": 6055,
+            "total": 7609,
+            "min_turnout": 7626,
+            "max_turnout": 8050
+        },
+        {
+            "county_name": "Union",
+            "Demings": 580,
+            "Rubio": 3916,
+            "total": 4538,
+            "min_turnout": 4541,
+            "max_turnout": 4984
+        },
+        {
+            "county_name": "Volusia",
+            "Demings": 84345,
+            "Rubio": 138717,
+            "total": 225286,
+            "min_turnout": 227562,
+            "max_turnout": 238024
+        },
+        {
+            "county_name": "Wakulla",
+            "Demings": 4337,
+            "Rubio": 10480,
+            "total": 14986,
+            "min_turnout": 14986,
+            "max_turnout": 15447
+        },
+        {
+            "county_name": "Walton",
+            "Demings": 6317,
+            "Rubio": 28178,
+            "total": 34782,
+            "min_turnout": 35133,
+            "max_turnout": 36521
+        },
+        {
+            "county_name": "Washington",
+            "Demings": 1345,
+            "Rubio": 7641,
+            "total": 9095,
+            "min_turnout": 9186,
+            "max_turnout": 9457
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alachua": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Baker": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bradford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brevard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Broward": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Calhoun": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Charlotte": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Citrus": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clay": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Collier": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "DeSoto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dixie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Duval": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Escambia": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Flagler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gadsden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gilchrist": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Glades": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gulf": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hardee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hendry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hernando": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Highlands": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hillsborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Holmes": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Indian River": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Leon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Levy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Liberty": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Manatee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Martin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Miami-Dade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nassau": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Okaloosa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Okeechobee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Osceola": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Palm Beach": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pasco": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pinellas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saint Johns": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saint Lucie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Santa Rosa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sarasota": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Seminole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sumter": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Suwannee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Taylor": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Volusia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wakulla": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Walton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

@@ -1,0 +1,447 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Lujan Grisham": 370318,
+            "Ronchetti": 325808,
+            "total": 712434,
+            "min_turnout": 721513,
+            "max_turnout": 754964
+        },
+        {
+            "county_name": "Bernalillo",
+            "Lujan Grisham": 140974,
+            "Ronchetti": 99518,
+            "total": 244968,
+            "min_turnout": 248235,
+            "max_turnout": 261400
+        },
+        {
+            "county_name": "Catron",
+            "Lujan Grisham": 467,
+            "Ronchetti": 1493,
+            "total": 2017,
+            "min_turnout": 2046,
+            "max_turnout": 2118
+        },
+        {
+            "county_name": "Chaves",
+            "Lujan Grisham": 5068,
+            "Ronchetti": 12670,
+            "total": 17738,
+            "min_turnout": 17738,
+            "max_turnout": 17917
+        },
+        {
+            "county_name": "Cibola",
+            "Lujan Grisham": 3345,
+            "Ronchetti": 3190,
+            "total": 6753,
+            "min_turnout": 6891,
+            "max_turnout": 7183
+        },
+        {
+            "county_name": "Colfax",
+            "Lujan Grisham": 2053,
+            "Ronchetti": 2719,
+            "total": 4909,
+            "min_turnout": 5009,
+            "max_turnout": 5154
+        },
+        {
+            "county_name": "Curry",
+            "Lujan Grisham": 3320,
+            "Ronchetti": 8158,
+            "total": 11478,
+            "min_turnout": 11478,
+            "max_turnout": 11593
+        },
+        {
+            "county_name": "DeBaca",
+            "Lujan Grisham": 167,
+            "Ronchetti": 566,
+            "total": 758,
+            "min_turnout": 773,
+            "max_turnout": 842
+        },
+        {
+            "county_name": "Dona Ana",
+            "Lujan Grisham": 32114,
+            "Ronchetti": 23197,
+            "total": 57672,
+            "min_turnout": 58283,
+            "max_turnout": 63812
+        },
+        {
+            "county_name": "Eddy",
+            "Lujan Grisham": 3363,
+            "Ronchetti": 12967,
+            "total": 16673,
+            "min_turnout": 16673,
+            "max_turnout": 17507
+        },
+        {
+            "county_name": "Grant",
+            "Lujan Grisham": 6171,
+            "Ronchetti": 5201,
+            "total": 11666,
+            "min_turnout": 11666,
+            "max_turnout": 12249
+        },
+        {
+            "county_name": "Guadalupe",
+            "Lujan Grisham": 915,
+            "Ronchetti": 784,
+            "total": 1741,
+            "min_turnout": 1777,
+            "max_turnout": 1828
+        },
+        {
+            "county_name": "Harding",
+            "Lujan Grisham": 129,
+            "Ronchetti": 280,
+            "total": 419,
+            "min_turnout": 427,
+            "max_turnout": 501
+        },
+        {
+            "county_name": "Hidalgo",
+            "Lujan Grisham": 645,
+            "Ronchetti": 911,
+            "total": 1621,
+            "min_turnout": 1621,
+            "max_turnout": 1702
+        },
+        {
+            "county_name": "Lea",
+            "Lujan Grisham": 2098,
+            "Ronchetti": 11534,
+            "total": 13994,
+            "min_turnout": 14280,
+            "max_turnout": 14694
+        },
+        {
+            "county_name": "Lincoln",
+            "Lujan Grisham": 2314,
+            "Ronchetti": 5755,
+            "total": 8310,
+            "min_turnout": 8480,
+            "max_turnout": 8726
+        },
+        {
+            "county_name": "Los Alamos",
+            "Lujan Grisham": 6118,
+            "Ronchetti": 3737,
+            "total": 10059,
+            "min_turnout": 10264,
+            "max_turnout": 10562
+        },
+        {
+            "county_name": "Luna",
+            "Lujan Grisham": 2445,
+            "Ronchetti": 3250,
+            "total": 5889,
+            "min_turnout": 5994,
+            "max_turnout": 6183
+        },
+        {
+            "county_name": "McKinley",
+            "Lujan Grisham": 12873,
+            "Ronchetti": 5784,
+            "total": 19427,
+            "min_turnout": 19638,
+            "max_turnout": 20398
+        },
+        {
+            "county_name": "Mora",
+            "Lujan Grisham": 1582,
+            "Ronchetti": 831,
+            "total": 2454,
+            "min_turnout": 2504,
+            "max_turnout": 2577
+        },
+        {
+            "county_name": "Otero",
+            "Lujan Grisham": 5827,
+            "Ronchetti": 11160,
+            "total": 17594,
+            "min_turnout": 17858,
+            "max_turnout": 18474
+        },
+        {
+            "county_name": "Quay",
+            "Lujan Grisham": 803,
+            "Ronchetti": 2104,
+            "total": 3027,
+            "min_turnout": 3084,
+            "max_turnout": 3178
+        },
+        {
+            "county_name": "Rio Arriba",
+            "Lujan Grisham": 7982,
+            "Ronchetti": 4717,
+            "total": 12893,
+            "min_turnout": 13156,
+            "max_turnout": 13538
+        },
+        {
+            "county_name": "Roosevelt",
+            "Lujan Grisham": 1071,
+            "Ronchetti": 3170,
+            "total": 4639,
+            "min_turnout": 4639,
+            "max_turnout": 4871
+        },
+        {
+            "county_name": "San Juan",
+            "Lujan Grisham": 12823,
+            "Ronchetti": 25554,
+            "total": 40004,
+            "min_turnout": 40004,
+            "max_turnout": 42004
+        },
+        {
+            "county_name": "San Miguel",
+            "Lujan Grisham": 6484,
+            "Ronchetti": 2773,
+            "total": 9409,
+            "min_turnout": 9601,
+            "max_turnout": 9879
+        },
+        {
+            "county_name": "Sandoval",
+            "Lujan Grisham": 30267,
+            "Ronchetti": 29031,
+            "total": 60384,
+            "min_turnout": 61616,
+            "max_turnout": 63403
+        },
+        {
+            "county_name": "Santa Fe",
+            "Lujan Grisham": 52099,
+            "Ronchetti": 16256,
+            "total": 69220,
+            "min_turnout": 70050,
+            "max_turnout": 72681
+        },
+        {
+            "county_name": "Sierra",
+            "Lujan Grisham": 1780,
+            "Ronchetti": 3001,
+            "total": 4919,
+            "min_turnout": 5010,
+            "max_turnout": 5165
+        },
+        {
+            "county_name": "Socorro",
+            "Lujan Grisham": 2950,
+            "Ronchetti": 2988,
+            "total": 6140,
+            "min_turnout": 6213,
+            "max_turnout": 6447
+        },
+        {
+            "county_name": "Taos",
+            "Lujan Grisham": 10098,
+            "Ronchetti": 2958,
+            "total": 13248,
+            "min_turnout": 13518,
+            "max_turnout": 14347
+        },
+        {
+            "county_name": "Torrance",
+            "Lujan Grisham": 1580,
+            "Ronchetti": 3706,
+            "total": 5529,
+            "min_turnout": 5564,
+            "max_turnout": 5805
+        },
+        {
+            "county_name": "Union",
+            "Lujan Grisham": 328,
+            "Ronchetti": 1101,
+            "total": 1500,
+            "min_turnout": 1523,
+            "max_turnout": 1575
+        },
+        {
+            "county_name": "Valencia",
+            "Lujan Grisham": 10065,
+            "Ronchetti": 14744,
+            "total": 25382,
+            "min_turnout": 25900,
+            "max_turnout": 26651
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Bernalillo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Catron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chaves": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Cibola": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Colfax": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Curry": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "DeBaca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dona Ana": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Eddy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Guadalupe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Harding": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hidalgo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lea": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Los Alamos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Luna": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "McKinley": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Mora": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Otero": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Quay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rio Arriba": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Roosevelt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "San Miguel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sandoval": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Santa Fe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sierra": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Socorro": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Taos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Torrance": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Valencia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

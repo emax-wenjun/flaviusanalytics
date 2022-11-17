@@ -1,0 +1,1182 @@
+{
+    "2022-08-17T00:40:19-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        },
+        "1": {
+            "county_name": "Alaska",
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 0
+        }
+    },
+    "2022-08-17T00:45:23-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 150148,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 150148,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T01:35:37-04:00": {
+        "0": {
+            "Palin": 30275,
+            "Begich": 25969,
+            "Peltola": 33372,
+            "total": 90825,
+            "min_turnout": 90825,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 30275,
+            "Begich": 25969,
+            "Peltola": 33372,
+            "total": 90825,
+            "min_turnout": 90825,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T01:52:47-04:00": {
+        "0": {
+            "Palin": 5435,
+            "Begich": 5340,
+            "Peltola": 7127,
+            "total": 18159,
+            "min_turnout": 18159,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 5435,
+            "Begich": 5340,
+            "Peltola": 7127,
+            "total": 18159,
+            "min_turnout": 18159,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:04:55-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60271,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 60271,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:09:30-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29606,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 29606,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T02:14:54-04:00": {
+        "0": {
+            "Palin": 2706,
+            "Begich": 2640,
+            "Peltola": 3036,
+            "total": 8506,
+            "min_turnout": 8506,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 2706,
+            "Begich": 2640,
+            "Peltola": 3036,
+            "total": 8506,
+            "min_turnout": 8506,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T03:06:58-04:00": {
+        "0": {
+            "Palin": 357,
+            "Begich": 223,
+            "Peltola": 475,
+            "total": 1062,
+            "min_turnout": 1062,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 357,
+            "Begich": 223,
+            "Peltola": 475,
+            "total": 1062,
+            "min_turnout": 1062,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T04:17:50-04:00": {
+        "0": {
+            "Palin": 6769,
+            "Begich": 6467,
+            "Peltola": 8785,
+            "total": 22374,
+            "min_turnout": 22374,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 6769,
+            "Begich": 6467,
+            "Peltola": 8785,
+            "total": 22374,
+            "min_turnout": 22374,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T05:46:58-04:00": {
+        "0": {
+            "Palin": 2762,
+            "Begich": 2399,
+            "Peltola": 4097,
+            "total": 7308,
+            "min_turnout": 7308,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 2762,
+            "Begich": 2399,
+            "Peltola": 4097,
+            "total": 7308,
+            "min_turnout": 7308,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T05:47:04-04:00": {
+        "0": {
+            "Palin": -2762,
+            "Begich": -2399,
+            "Peltola": -4097,
+            "total": -7308,
+            "min_turnout": -7308,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": -2762,
+            "Begich": -2399,
+            "Peltola": -4097,
+            "total": -7308,
+            "min_turnout": -7308,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T05:47:09-04:00": {
+        "0": {
+            "Palin": 2762,
+            "Begich": 2399,
+            "Peltola": 4097,
+            "total": 7308,
+            "min_turnout": 7308,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 2762,
+            "Begich": 2399,
+            "Peltola": 4097,
+            "total": 7308,
+            "min_turnout": 7308,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T05:47:52-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 2150,
+            "min_turnout": 2150,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 2150,
+            "min_turnout": 2150,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:21:47-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4460,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4460,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:23:50-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 5030,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 5030,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:25:50-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 5092,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 5092,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:28:11-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4810,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4810,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:28:54-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2330,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2330,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:29:43-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2455,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2455,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:30:44-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2658,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2658,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T07:31:11-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1766,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1766,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:04:35-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4935,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 4935,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:05:03-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": -3472,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": -3472,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:05:36-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1769,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1769,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:05:52-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1391,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1391,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:06:03-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1579,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1579,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:06:19-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 456,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 456,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:06:52-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 3059,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 3059,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:07:03-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1911,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1911,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:07:20-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1279,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1279,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:07:37-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1875,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1875,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:08:43-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 757,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 757,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:09:00-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1333,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1333,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:09:11-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 909,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 909,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:09:28-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1264,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1264,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:09:45-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2887,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2887,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:10:29-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1220,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1220,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:10:45-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 670,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 670,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:10:56-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1702,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1702,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:11:13-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1629,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1629,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:11:30-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2181,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2181,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:11:57-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 3537,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 3537,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:12:14-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1971,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1971,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:12:30-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1352,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1352,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:12:47-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1767,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1767,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:12:58-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2798,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 2798,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:13:15-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 974,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 974,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:13:31-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1793,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1793,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:13:43-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1006,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 1006,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-17T11:14:00-04:00": {
+        "0": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 643,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 0,
+            "Begich": 0,
+            "Peltola": 0,
+            "total": 0,
+            "min_turnout": 643,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-19T16:36:34-04:00": {
+        "0": {
+            "Palin": 958,
+            "Begich": 1027,
+            "Peltola": 1797,
+            "total": 3920,
+            "min_turnout": -45463,
+            "max_turnout": -44940,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 958,
+            "Begich": 1027,
+            "Peltola": 1797,
+            "total": 3920,
+            "min_turnout": -45463,
+            "max_turnout": -44940,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T18:25:04-04:00": {
+        "0": {
+            "Palin": 566,
+            "Begich": 523,
+            "Peltola": 1135,
+            "total": 2295,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 566,
+            "Begich": 523,
+            "Peltola": 1135,
+            "total": 2295,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T21:22:16-04:00": {
+        "0": {
+            "Palin": 754,
+            "Begich": 787,
+            "Peltola": 2044,
+            "total": 3633,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 754,
+            "Begich": 787,
+            "Peltola": 2044,
+            "total": 3633,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T21:39:01-04:00": {
+        "0": {
+            "Palin": 1512,
+            "Begich": 1938,
+            "Peltola": 4362,
+            "total": 7979,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 1512,
+            "Begich": 1938,
+            "Peltola": 4362,
+            "total": 7979,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-23T22:33:54-04:00": {
+        "0": {
+            "Palin": 2992,
+            "Begich": 2143,
+            "Peltola": 2050,
+            "total": 7301,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 2992,
+            "Begich": 2143,
+            "Peltola": 2050,
+            "total": 7301,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-26T06:15:14-04:00": {
+        "0": {
+            "Palin": 1160,
+            "Begich": 1002,
+            "Peltola": 2450,
+            "total": 4682,
+            "min_turnout": 1497,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 1160,
+            "Begich": 1002,
+            "Peltola": 2450,
+            "total": 4682,
+            "min_turnout": 1497,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-26T23:59:40-04:00": {
+        "0": {
+            "Palin": 1903,
+            "Begich": 1862,
+            "Peltola": 3766,
+            "total": 7725,
+            "min_turnout": 7725,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 1903,
+            "Begich": 1862,
+            "Peltola": 3766,
+            "total": 7725,
+            "min_turnout": 7725,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-31T20:30:08-04:00": {
+        "0": {
+            "Palin": 179,
+            "Begich": 184,
+            "Peltola": 311,
+            "total": 691,
+            "min_turnout": 691,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 179,
+            "Begich": 184,
+            "Peltola": 311,
+            "total": 691,
+            "min_turnout": 691,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    },
+    "2022-08-31T21:06:21-04:00": {
+        "0": {
+            "Palin": 27659,
+            "Begich": -52504,
+            "Peltola": 16399,
+            "total": -11417,
+            "min_turnout": -11417,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Palin": 27659,
+            "Begich": -52504,
+            "Peltola": 16399,
+            "total": -11417,
+            "min_turnout": -11417,
+            "max_turnout": 0,
+            "county_name": "Alaska"
+        }
+    }
+}

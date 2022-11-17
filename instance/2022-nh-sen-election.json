@@ -1,0 +1,3073 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hassan": 334995,
+            "Bolduc": 275775,
+            "total": 622689,
+            "min_turnout": 628330,
+            "max_turnout": 655352
+        },
+        {
+            "county_name": "Acworth",
+            "Hassan": 251,
+            "Bolduc": 202,
+            "total": 462,
+            "min_turnout": 462,
+            "max_turnout": 476
+        },
+        {
+            "county_name": "Albany",
+            "Hassan": 208,
+            "Bolduc": 140,
+            "total": 353,
+            "min_turnout": 357,
+            "max_turnout": 366
+        },
+        {
+            "county_name": "Alexandria",
+            "Hassan": 359,
+            "Bolduc": 468,
+            "total": 850,
+            "min_turnout": 859,
+            "max_turnout": 892
+        },
+        {
+            "county_name": "Allenstown",
+            "Hassan": 810,
+            "Bolduc": 897,
+            "total": 1752,
+            "min_turnout": 1770,
+            "max_turnout": 1795
+        },
+        {
+            "county_name": "Alstead",
+            "Hassan": 554,
+            "Bolduc": 358,
+            "total": 932,
+            "min_turnout": 960,
+            "max_turnout": 1022
+        },
+        {
+            "county_name": "Alton",
+            "Hassan": 1198,
+            "Bolduc": 1938,
+            "total": 3184,
+            "min_turnout": 3216,
+            "max_turnout": 3343
+        },
+        {
+            "county_name": "Amherst",
+            "Hassan": 3912,
+            "Bolduc": 2664,
+            "total": 6681,
+            "min_turnout": 6681,
+            "max_turnout": 6951
+        },
+        {
+            "county_name": "Andover",
+            "Hassan": 652,
+            "Bolduc": 547,
+            "total": 1217,
+            "min_turnout": 1229,
+            "max_turnout": 1262
+        },
+        {
+            "county_name": "Antrim",
+            "Hassan": 653,
+            "Bolduc": 595,
+            "total": 1286,
+            "min_turnout": 1299,
+            "max_turnout": 1302
+        },
+        {
+            "county_name": "Ashland",
+            "Hassan": 513,
+            "Bolduc": 433,
+            "total": 963,
+            "min_turnout": 973,
+            "max_turnout": 1011
+        },
+        {
+            "county_name": "Atkinson",
+            "Hassan": 1777,
+            "Bolduc": 2237,
+            "total": 4079,
+            "min_turnout": 4120,
+            "max_turnout": 4283
+        },
+        {
+            "county_name": "Auburn",
+            "Hassan": 1301,
+            "Bolduc": 1754,
+            "total": 3128,
+            "min_turnout": 3160,
+            "max_turnout": 3284
+        },
+        {
+            "county_name": "Barnstead",
+            "Hassan": 866,
+            "Bolduc": 1358,
+            "total": 2269,
+            "min_turnout": 2269,
+            "max_turnout": 2341
+        },
+        {
+            "county_name": "Barrington",
+            "Hassan": 2528,
+            "Bolduc": 2091,
+            "total": 4710,
+            "min_turnout": 4758,
+            "max_turnout": 4862
+        },
+        {
+            "county_name": "Bartlett",
+            "Hassan": 1153,
+            "Bolduc": 628,
+            "total": 1807,
+            "min_turnout": 1807,
+            "max_turnout": 1897
+        },
+        {
+            "county_name": "Bath",
+            "Hassan": 225,
+            "Bolduc": 267,
+            "total": 509,
+            "min_turnout": 509,
+            "max_turnout": 517
+        },
+        {
+            "county_name": "Bedford",
+            "Hassan": 5896,
+            "Bolduc": 5452,
+            "total": 11493,
+            "min_turnout": 11609,
+            "max_turnout": 11945
+        },
+        {
+            "county_name": "Belmont",
+            "Hassan": 1259,
+            "Bolduc": 1839,
+            "total": 3161,
+            "min_turnout": 3193,
+            "max_turnout": 3319
+        },
+        {
+            "county_name": "Bennington",
+            "Hassan": 333,
+            "Bolduc": 338,
+            "total": 688,
+            "min_turnout": 688,
+            "max_turnout": 695
+        },
+        {
+            "county_name": "Benton",
+            "Hassan": 69,
+            "Bolduc": 115,
+            "total": 188,
+            "min_turnout": 190,
+            "max_turnout": 197
+        },
+        {
+            "county_name": "Berlin",
+            "Hassan": 1589,
+            "Bolduc": 1328,
+            "total": 3000,
+            "min_turnout": 3030,
+            "max_turnout": 3150
+        },
+        {
+            "county_name": "Bethlehem",
+            "Hassan": 856,
+            "Bolduc": 464,
+            "total": 1365,
+            "min_turnout": 1379,
+            "max_turnout": 1389
+        },
+        {
+            "county_name": "Boscawen",
+            "Hassan": 734,
+            "Bolduc": 741,
+            "total": 1515,
+            "min_turnout": 1530,
+            "max_turnout": 1552
+        },
+        {
+            "county_name": "Bow",
+            "Hassan": 2638,
+            "Bolduc": 1752,
+            "total": 4473,
+            "min_turnout": 4473,
+            "max_turnout": 4525
+        },
+        {
+            "county_name": "Bradford",
+            "Hassan": 493,
+            "Bolduc": 396,
+            "total": 903,
+            "min_turnout": 912,
+            "max_turnout": 948
+        },
+        {
+            "county_name": "Brentwood",
+            "Hassan": 1249,
+            "Bolduc": 1152,
+            "total": 2441,
+            "min_turnout": 2441,
+            "max_turnout": 2527
+        },
+        {
+            "county_name": "Bridgewater",
+            "Hassan": 276,
+            "Bolduc": 394,
+            "total": 684,
+            "min_turnout": 691,
+            "max_turnout": 692
+        },
+        {
+            "county_name": "Bristol",
+            "Hassan": 762,
+            "Bolduc": 748,
+            "total": 1548,
+            "min_turnout": 1564,
+            "max_turnout": 1625
+        },
+        {
+            "county_name": "Brookfield",
+            "Hassan": 204,
+            "Bolduc": 271,
+            "total": 483,
+            "min_turnout": 488,
+            "max_turnout": 507
+        },
+        {
+            "county_name": "Brookline",
+            "Hassan": 1594,
+            "Bolduc": 1325,
+            "total": 2919,
+            "min_turnout": 2919,
+            "max_turnout": 2948
+        },
+        {
+            "county_name": "Campton",
+            "Hassan": 921,
+            "Bolduc": 750,
+            "total": 1715,
+            "min_turnout": 1715,
+            "max_turnout": 1801
+        },
+        {
+            "county_name": "Canaan",
+            "Hassan": 930,
+            "Bolduc": 633,
+            "total": 1595,
+            "min_turnout": 1611,
+            "max_turnout": 1645
+        },
+        {
+            "county_name": "Candia",
+            "Hassan": 909,
+            "Bolduc": 1339,
+            "total": 2291,
+            "min_turnout": 2314,
+            "max_turnout": 2406
+        },
+        {
+            "county_name": "Canterbury",
+            "Hassan": 873,
+            "Bolduc": 561,
+            "total": 1461,
+            "min_turnout": 1476,
+            "max_turnout": 1509
+        },
+        {
+            "county_name": "Carroll",
+            "Hassan": 217,
+            "Bolduc": 200,
+            "total": 427,
+            "min_turnout": 431,
+            "max_turnout": 448
+        },
+        {
+            "county_name": "Center Harbor",
+            "Hassan": 320,
+            "Bolduc": 341,
+            "total": 672,
+            "min_turnout": 679,
+            "max_turnout": 706
+        },
+        {
+            "county_name": "Charlestown",
+            "Hassan": 869,
+            "Bolduc": 915,
+            "total": 1837,
+            "min_turnout": 1856,
+            "max_turnout": 1920
+        },
+        {
+            "county_name": "Chatham",
+            "Hassan": 91,
+            "Bolduc": 96,
+            "total": 190,
+            "min_turnout": 190,
+            "max_turnout": 192
+        },
+        {
+            "county_name": "Chester",
+            "Hassan": 1150,
+            "Bolduc": 1528,
+            "total": 2736,
+            "min_turnout": 2736,
+            "max_turnout": 2873
+        },
+        {
+            "county_name": "Chesterfield",
+            "Hassan": 1119,
+            "Bolduc": 820,
+            "total": 1961,
+            "min_turnout": 1961,
+            "max_turnout": 2059
+        },
+        {
+            "county_name": "Chichester",
+            "Hassan": 617,
+            "Bolduc": 763,
+            "total": 1401,
+            "min_turnout": 1401,
+            "max_turnout": 1415
+        },
+        {
+            "county_name": "Claremont",
+            "Hassan": 2206,
+            "Bolduc": 1966,
+            "total": 4291,
+            "min_turnout": 4291,
+            "max_turnout": 4391
+        },
+        {
+            "county_name": "Clarksville",
+            "Hassan": 62,
+            "Bolduc": 89,
+            "total": 157,
+            "min_turnout": 157,
+            "max_turnout": 165
+        },
+        {
+            "county_name": "Colebrook",
+            "Hassan": 341,
+            "Bolduc": 515,
+            "total": 882,
+            "min_turnout": 891,
+            "max_turnout": 926
+        },
+        {
+            "county_name": "Columbia",
+            "Hassan": 106,
+            "Bolduc": 193,
+            "total": 303,
+            "min_turnout": 306,
+            "max_turnout": 318
+        },
+        {
+            "county_name": "Concord",
+            "Hassan": 12465,
+            "Bolduc": 5644,
+            "total": 18507,
+            "min_turnout": 18694,
+            "max_turnout": 20197
+        },
+        {
+            "county_name": "Conway",
+            "Hassan": 2601,
+            "Bolduc": 1705,
+            "total": 4367,
+            "min_turnout": 4367,
+            "max_turnout": 4411
+        },
+        {
+            "county_name": "Cornish",
+            "Hassan": 561,
+            "Bolduc": 371,
+            "total": 945,
+            "min_turnout": 945,
+            "max_turnout": 981
+        },
+        {
+            "county_name": "Croydon",
+            "Hassan": 157,
+            "Bolduc": 253,
+            "total": 419,
+            "min_turnout": 423,
+            "max_turnout": 440
+        },
+        {
+            "county_name": "Dalton",
+            "Hassan": 215,
+            "Bolduc": 233,
+            "total": 458,
+            "min_turnout": 463,
+            "max_turnout": 481
+        },
+        {
+            "county_name": "Danbury",
+            "Hassan": 242,
+            "Bolduc": 326,
+            "total": 601,
+            "min_turnout": 601,
+            "max_turnout": 631
+        },
+        {
+            "county_name": "Danville",
+            "Hassan": 830,
+            "Bolduc": 1266,
+            "total": 2147,
+            "min_turnout": 2147,
+            "max_turnout": 2254
+        },
+        {
+            "county_name": "Deerfield",
+            "Hassan": 1166,
+            "Bolduc": 1376,
+            "total": 2602,
+            "min_turnout": 2602,
+            "max_turnout": 2732
+        },
+        {
+            "county_name": "Deering",
+            "Hassan": 366,
+            "Bolduc": 538,
+            "total": 927,
+            "min_turnout": 936,
+            "max_turnout": 973
+        },
+        {
+            "county_name": "Derry",
+            "Hassan": 5581,
+            "Bolduc": 6062,
+            "total": 11934,
+            "min_turnout": 12055,
+            "max_turnout": 12936
+        },
+        {
+            "county_name": "Dixville",
+            "Hassan": 5,
+            "Bolduc": 0,
+            "total": 5,
+            "min_turnout": 5,
+            "max_turnout": 5
+        },
+        {
+            "county_name": "Dorchester",
+            "Hassan": 83,
+            "Bolduc": 92,
+            "total": 181,
+            "min_turnout": 183,
+            "max_turnout": 190
+        },
+        {
+            "county_name": "Dover",
+            "Hassan": 10164,
+            "Bolduc": 4539,
+            "total": 14963,
+            "min_turnout": 14963,
+            "max_turnout": 15114
+        },
+        {
+            "county_name": "Dublin",
+            "Hassan": 577,
+            "Bolduc": 347,
+            "total": 935,
+            "min_turnout": 944,
+            "max_turnout": 982
+        },
+        {
+            "county_name": "Dummer",
+            "Hassan": 50,
+            "Bolduc": 80,
+            "total": 133,
+            "min_turnout": 134,
+            "max_turnout": 140
+        },
+        {
+            "county_name": "Dunbarton",
+            "Hassan": 719,
+            "Bolduc": 908,
+            "total": 1656,
+            "min_turnout": 1656,
+            "max_turnout": 1737
+        },
+        {
+            "county_name": "Durham",
+            "Hassan": 4778,
+            "Bolduc": 1038,
+            "total": 5906,
+            "min_turnout": 5966,
+            "max_turnout": 7272
+        },
+        {
+            "county_name": "East Kingston",
+            "Hassan": 668,
+            "Bolduc": 715,
+            "total": 1410,
+            "min_turnout": 1424,
+            "max_turnout": 1424
+        },
+        {
+            "county_name": "Easton",
+            "Hassan": 145,
+            "Bolduc": 63,
+            "total": 213,
+            "min_turnout": 213,
+            "max_turnout": 218
+        },
+        {
+            "county_name": "Eaton",
+            "Hassan": 167,
+            "Bolduc": 100,
+            "total": 270,
+            "min_turnout": 270,
+            "max_turnout": 281
+        },
+        {
+            "county_name": "Effingham",
+            "Hassan": 298,
+            "Bolduc": 422,
+            "total": 736,
+            "min_turnout": 736,
+            "max_turnout": 757
+        },
+        {
+            "county_name": "Ellsworth",
+            "Hassan": 33,
+            "Bolduc": 29,
+            "total": 63,
+            "min_turnout": 64,
+            "max_turnout": 66
+        },
+        {
+            "county_name": "Enfield",
+            "Hassan": 1424,
+            "Bolduc": 742,
+            "total": 2218,
+            "min_turnout": 2240,
+            "max_turnout": 2329
+        },
+        {
+            "county_name": "Epping",
+            "Hassan": 1624,
+            "Bolduc": 1848,
+            "total": 3558,
+            "min_turnout": 3558,
+            "max_turnout": 3736
+        },
+        {
+            "county_name": "Epsom",
+            "Hassan": 947,
+            "Bolduc": 1332,
+            "total": 2333,
+            "min_turnout": 2357,
+            "max_turnout": 2450
+        },
+        {
+            "county_name": "Errol",
+            "Hassan": 70,
+            "Bolduc": 130,
+            "total": 203,
+            "min_turnout": 203,
+            "max_turnout": 213
+        },
+        {
+            "county_name": "Exeter",
+            "Hassan": 5738,
+            "Bolduc": 2617,
+            "total": 8456,
+            "min_turnout": 8456,
+            "max_turnout": 8696
+        },
+        {
+            "county_name": "Farmington",
+            "Hassan": 1053,
+            "Bolduc": 1396,
+            "total": 2504,
+            "min_turnout": 2529,
+            "max_turnout": 2577
+        },
+        {
+            "county_name": "Fitzwilliam",
+            "Hassan": 536,
+            "Bolduc": 551,
+            "total": 1122,
+            "min_turnout": 1133,
+            "max_turnout": 1178
+        },
+        {
+            "county_name": "Francestown",
+            "Hassan": 517,
+            "Bolduc": 439,
+            "total": 974,
+            "min_turnout": 984,
+            "max_turnout": 1006
+        },
+        {
+            "county_name": "Franconia",
+            "Hassan": 468,
+            "Bolduc": 225,
+            "total": 703,
+            "min_turnout": 710,
+            "max_turnout": 738
+        },
+        {
+            "county_name": "Franklin",
+            "Hassan": 1394,
+            "Bolduc": 1614,
+            "total": 3096,
+            "min_turnout": 3096,
+            "max_turnout": 3335
+        },
+        {
+            "county_name": "Freedom",
+            "Hassan": 450,
+            "Bolduc": 487,
+            "total": 949,
+            "min_turnout": 959,
+            "max_turnout": 996
+        },
+        {
+            "county_name": "Fremont",
+            "Hassan": 957,
+            "Bolduc": 1368,
+            "total": 2399,
+            "min_turnout": 2399,
+            "max_turnout": 2423
+        },
+        {
+            "county_name": "Gilford",
+            "Hassan": 1981,
+            "Bolduc": 2163,
+            "total": 4206,
+            "min_turnout": 4248,
+            "max_turnout": 4416
+        },
+        {
+            "county_name": "Gilmanton",
+            "Hassan": 850,
+            "Bolduc": 1153,
+            "total": 2042,
+            "min_turnout": 2063,
+            "max_turnout": 2144
+        },
+        {
+            "county_name": "Gilsum",
+            "Hassan": 203,
+            "Bolduc": 189,
+            "total": 401,
+            "min_turnout": 405,
+            "max_turnout": 421
+        },
+        {
+            "county_name": "Goffstown",
+            "Hassan": 3869,
+            "Bolduc": 3687,
+            "total": 7708,
+            "min_turnout": 7953,
+            "max_turnout": 8290
+        },
+        {
+            "county_name": "Gorham",
+            "Hassan": 733,
+            "Bolduc": 532,
+            "total": 1286,
+            "min_turnout": 1286,
+            "max_turnout": 1331
+        },
+        {
+            "county_name": "Goshen",
+            "Hassan": 135,
+            "Bolduc": 234,
+            "total": 369,
+            "min_turnout": 369,
+            "max_turnout": 388
+        },
+        {
+            "county_name": "Grafton",
+            "Hassan": 359,
+            "Bolduc": 468,
+            "total": 850,
+            "min_turnout": 850,
+            "max_turnout": 892
+        },
+        {
+            "county_name": "Grantham",
+            "Hassan": 1431,
+            "Bolduc": 625,
+            "total": 2084,
+            "min_turnout": 2084,
+            "max_turnout": 2188
+        },
+        {
+            "county_name": "Greenfield",
+            "Hassan": 427,
+            "Bolduc": 373,
+            "total": 825,
+            "min_turnout": 833,
+            "max_turnout": 866
+        },
+        {
+            "county_name": "Greenland",
+            "Hassan": 1422,
+            "Bolduc": 960,
+            "total": 2421,
+            "min_turnout": 2479,
+            "max_turnout": 2595
+        },
+        {
+            "county_name": "Greenville",
+            "Hassan": 341,
+            "Bolduc": 381,
+            "total": 739,
+            "min_turnout": 746,
+            "max_turnout": 760
+        },
+        {
+            "county_name": "Groton",
+            "Hassan": 124,
+            "Bolduc": 180,
+            "total": 313,
+            "min_turnout": 316,
+            "max_turnout": 329
+        },
+        {
+            "county_name": "Hampstead",
+            "Hassan": 1966,
+            "Bolduc": 2590,
+            "total": 4645,
+            "min_turnout": 4692,
+            "max_turnout": 4877
+        },
+        {
+            "county_name": "Hampton",
+            "Hassan": 5004,
+            "Bolduc": 4214,
+            "total": 9336,
+            "min_turnout": 9430,
+            "max_turnout": 9703
+        },
+        {
+            "county_name": "Hampton Falls",
+            "Hassan": 672,
+            "Bolduc": 747,
+            "total": 1440,
+            "min_turnout": 1455,
+            "max_turnout": 1512
+        },
+        {
+            "county_name": "Hancock",
+            "Hassan": 770,
+            "Bolduc": 349,
+            "total": 1125,
+            "min_turnout": 1136,
+            "max_turnout": 1181
+        },
+        {
+            "county_name": "Hanover",
+            "Hassan": 4887,
+            "Bolduc": 682,
+            "total": 5618,
+            "min_turnout": 5618,
+            "max_turnout": 5675
+        },
+        {
+            "county_name": "Harrisville",
+            "Hassan": 474,
+            "Bolduc": 160,
+            "total": 644,
+            "min_turnout": 651,
+            "max_turnout": 667
+        },
+        {
+            "county_name": "Haverhill",
+            "Hassan": 745,
+            "Bolduc": 911,
+            "total": 1716,
+            "min_turnout": 1733,
+            "max_turnout": 1833
+        },
+        {
+            "county_name": "Hebron",
+            "Hassan": 233,
+            "Bolduc": 228,
+            "total": 466,
+            "min_turnout": 471,
+            "max_turnout": 489
+        },
+        {
+            "county_name": "Henniker",
+            "Hassan": 1242,
+            "Bolduc": 822,
+            "total": 2105,
+            "min_turnout": 2126,
+            "max_turnout": 2344
+        },
+        {
+            "county_name": "Hill",
+            "Hassan": 199,
+            "Bolduc": 301,
+            "total": 513,
+            "min_turnout": 518,
+            "max_turnout": 539
+        },
+        {
+            "county_name": "Hillsborough",
+            "Hassan": 1183,
+            "Bolduc": 1269,
+            "total": 2522,
+            "min_turnout": 2522,
+            "max_turnout": 2586
+        },
+        {
+            "county_name": "Hinsdale",
+            "Hassan": 714,
+            "Bolduc": 544,
+            "total": 1295,
+            "min_turnout": 1308,
+            "max_turnout": 1409
+        },
+        {
+            "county_name": "Holderness",
+            "Hassan": 2237,
+            "Bolduc": 1165,
+            "total": 3465,
+            "min_turnout": 3465,
+            "max_turnout": 3638
+        },
+        {
+            "county_name": "Hollis",
+            "Hassan": 2629,
+            "Bolduc": 2030,
+            "total": 4737,
+            "min_turnout": 4785,
+            "max_turnout": 4974
+        },
+        {
+            "county_name": "Hooksett",
+            "Hassan": 3285,
+            "Bolduc": 3304,
+            "total": 6589,
+            "min_turnout": 6605,
+            "max_turnout": 6655
+        },
+        {
+            "county_name": "Hopkinton",
+            "Hassan": 2237,
+            "Bolduc": 1165,
+            "total": 3466,
+            "min_turnout": 3501,
+            "max_turnout": 3581
+        },
+        {
+            "county_name": "Hudson",
+            "Hassan": 4663,
+            "Bolduc": 5418,
+            "total": 10287,
+            "min_turnout": 10391,
+            "max_turnout": 10611
+        },
+        {
+            "county_name": "Jackson",
+            "Hassan": 498,
+            "Bolduc": 200,
+            "total": 707,
+            "min_turnout": 707,
+            "max_turnout": 734
+        },
+        {
+            "county_name": "Jaffrey",
+            "Hassan": 1287,
+            "Bolduc": 1049,
+            "total": 2391,
+            "min_turnout": 2414,
+            "max_turnout": 2453
+        },
+        {
+            "county_name": "Jefferson",
+            "Hassan": 201,
+            "Bolduc": 328,
+            "total": 539,
+            "min_turnout": 539,
+            "max_turnout": 556
+        },
+        {
+            "county_name": "Keene",
+            "Hassan": 6871,
+            "Bolduc": 2463,
+            "total": 9503,
+            "min_turnout": 9598,
+            "max_turnout": 9825
+        },
+        {
+            "county_name": "Kensington",
+            "Hassan": 640,
+            "Bolduc": 583,
+            "total": 1240,
+            "min_turnout": 1253,
+            "max_turnout": 1287
+        },
+        {
+            "county_name": "Kingston",
+            "Hassan": 1376,
+            "Bolduc": 1739,
+            "total": 3173,
+            "min_turnout": 3205,
+            "max_turnout": 3332
+        },
+        {
+            "county_name": "Laconia",
+            "Hassan": 3312,
+            "Bolduc": 3595,
+            "total": 7032,
+            "min_turnout": 7032,
+            "max_turnout": 7130
+        },
+        {
+            "county_name": "Lancaster",
+            "Hassan": 608,
+            "Bolduc": 616,
+            "total": 1287,
+            "min_turnout": 1288,
+            "max_turnout": 1347
+        },
+        {
+            "county_name": "Landaff",
+            "Hassan": 99,
+            "Bolduc": 119,
+            "total": 219,
+            "min_turnout": 221,
+            "max_turnout": 229
+        },
+        {
+            "county_name": "Langdon",
+            "Hassan": 146,
+            "Bolduc": 171,
+            "total": 325,
+            "min_turnout": 328,
+            "max_turnout": 341
+        },
+        {
+            "county_name": "Lebanon",
+            "Hassan": 4724,
+            "Bolduc": 1339,
+            "total": 6155,
+            "min_turnout": 6217,
+            "max_turnout": 6463
+        },
+        {
+            "county_name": "Lee",
+            "Hassan": 1580,
+            "Bolduc": 751,
+            "total": 2395,
+            "min_turnout": 2453,
+            "max_turnout": 2632
+        },
+        {
+            "county_name": "Lempster",
+            "Hassan": 229,
+            "Bolduc": 333,
+            "total": 571,
+            "min_turnout": 577,
+            "max_turnout": 600
+        },
+        {
+            "county_name": "Lincoln",
+            "Hassan": 396,
+            "Bolduc": 300,
+            "total": 719,
+            "min_turnout": 719,
+            "max_turnout": 732
+        },
+        {
+            "county_name": "Lisbon",
+            "Hassan": 273,
+            "Bolduc": 315,
+            "total": 608,
+            "min_turnout": 608,
+            "max_turnout": 638
+        },
+        {
+            "county_name": "Litchfield",
+            "Hassan": 1908,
+            "Bolduc": 2133,
+            "total": 4120,
+            "min_turnout": 4120,
+            "max_turnout": 4162
+        },
+        {
+            "county_name": "Littleton",
+            "Hassan": 1257,
+            "Bolduc": 1154,
+            "total": 2489,
+            "min_turnout": 2489,
+            "max_turnout": 2537
+        },
+        {
+            "county_name": "Londonderry",
+            "Hassan": 5833,
+            "Bolduc": 5930,
+            "total": 11959,
+            "min_turnout": 12079,
+            "max_turnout": 12382
+        },
+        {
+            "county_name": "Loudon",
+            "Hassan": 1226,
+            "Bolduc": 1655,
+            "total": 2936,
+            "min_turnout": 2966,
+            "max_turnout": 3092
+        },
+        {
+            "county_name": "Lyman",
+            "Hassan": 140,
+            "Bolduc": 177,
+            "total": 326,
+            "min_turnout": 326,
+            "max_turnout": 333
+        },
+        {
+            "county_name": "Lyme",
+            "Hassan": 894,
+            "Bolduc": 167,
+            "total": 1068,
+            "min_turnout": 1068,
+            "max_turnout": 1121
+        },
+        {
+            "county_name": "Lyndeborough",
+            "Hassan": 472,
+            "Bolduc": 435,
+            "total": 937,
+            "min_turnout": 946,
+            "max_turnout": 954
+        },
+        {
+            "county_name": "Madbury",
+            "Hassan": 663,
+            "Bolduc": 363,
+            "total": 1042,
+            "min_turnout": 1042,
+            "max_turnout": 1094
+        },
+        {
+            "county_name": "Madison",
+            "Hassan": 786,
+            "Bolduc": 596,
+            "total": 1402,
+            "min_turnout": 1416,
+            "max_turnout": 1472
+        },
+        {
+            "county_name": "Manchester",
+            "Hassan": 20661,
+            "Bolduc": 14850,
+            "total": 36336,
+            "min_turnout": 36703,
+            "max_turnout": 39921
+        },
+        {
+            "county_name": "Marlborough",
+            "Hassan": 668,
+            "Bolduc": 304,
+            "total": 994,
+            "min_turnout": 1004,
+            "max_turnout": 1023
+        },
+        {
+            "county_name": "Marlow",
+            "Hassan": 196,
+            "Bolduc": 166,
+            "total": 370,
+            "min_turnout": 374,
+            "max_turnout": 388
+        },
+        {
+            "county_name": "Mason",
+            "Hassan": 310,
+            "Bolduc": 433,
+            "total": 772,
+            "min_turnout": 780,
+            "max_turnout": 811
+        },
+        {
+            "county_name": "Meredith",
+            "Hassan": 1777,
+            "Bolduc": 1812,
+            "total": 3647,
+            "min_turnout": 3684,
+            "max_turnout": 3777
+        },
+        {
+            "county_name": "Merrimack",
+            "Hassan": 6749,
+            "Bolduc": 5852,
+            "total": 12804,
+            "min_turnout": 12932,
+            "max_turnout": 13264
+        },
+        {
+            "county_name": "Middleton",
+            "Hassan": 279,
+            "Bolduc": 514,
+            "total": 808,
+            "min_turnout": 816,
+            "max_turnout": 848
+        },
+        {
+            "county_name": "Milan",
+            "Hassan": 276,
+            "Bolduc": 322,
+            "total": 614,
+            "min_turnout": 620,
+            "max_turnout": 629
+        },
+        {
+            "county_name": "Milford",
+            "Hassan": 3706,
+            "Bolduc": 3025,
+            "total": 6899,
+            "min_turnout": 6899,
+            "max_turnout": 7313
+        },
+        {
+            "county_name": "Millsfield",
+            "Hassan": 4,
+            "Bolduc": 14,
+            "total": 18,
+            "min_turnout": 18,
+            "max_turnout": 608
+        },
+        {
+            "county_name": "Milton",
+            "Hassan": 751,
+            "Bolduc": 1132,
+            "total": 1930,
+            "min_turnout": 1949,
+            "max_turnout": 2026
+        },
+        {
+            "county_name": "Monroe",
+            "Hassan": 178,
+            "Bolduc": 229,
+            "total": 416,
+            "min_turnout": 420,
+            "max_turnout": 459
+        },
+        {
+            "county_name": "Moultonborough",
+            "Hassan": 1394,
+            "Bolduc": 1756,
+            "total": 3180,
+            "min_turnout": 3181,
+            "max_turnout": 3339
+        },
+        {
+            "county_name": "Mt Vernon",
+            "Hassan": 822,
+            "Bolduc": 636,
+            "total": 1458,
+            "min_turnout": 1458,
+            "max_turnout": 1534
+        },
+        {
+            "county_name": "Nashua",
+            "Hassan": 18858,
+            "Bolduc": 12488,
+            "total": 32071,
+            "min_turnout": 32387,
+            "max_turnout": 33416
+        },
+        {
+            "county_name": "Nelson",
+            "Hassan": 229,
+            "Bolduc": 126,
+            "total": 364,
+            "min_turnout": 368,
+            "max_turnout": 373
+        },
+        {
+            "county_name": "New Boston",
+            "Hassan": 1568,
+            "Bolduc": 1557,
+            "total": 3177,
+            "min_turnout": 3209,
+            "max_turnout": 3336
+        },
+        {
+            "county_name": "New Castle",
+            "Hassan": 472,
+            "Bolduc": 274,
+            "total": 753,
+            "min_turnout": 761,
+            "max_turnout": 793
+        },
+        {
+            "county_name": "New Durham",
+            "Hassan": 617,
+            "Bolduc": 888,
+            "total": 1535,
+            "min_turnout": 1535,
+            "max_turnout": 1584
+        },
+        {
+            "county_name": "New Hampton",
+            "Hassan": 604,
+            "Bolduc": 691,
+            "total": 1313,
+            "min_turnout": 1313,
+            "max_turnout": 1363
+        },
+        {
+            "county_name": "New Ipswich",
+            "Hassan": 1710,
+            "Bolduc": 1674,
+            "total": 3384,
+            "min_turnout": 3384,
+            "max_turnout": 3562
+        },
+        {
+            "county_name": "New London",
+            "Hassan": 1767,
+            "Bolduc": 895,
+            "total": 2691,
+            "min_turnout": 2718,
+            "max_turnout": 2802
+        },
+        {
+            "county_name": "Newbury",
+            "Hassan": 750,
+            "Bolduc": 632,
+            "total": 1399,
+            "min_turnout": 1413,
+            "max_turnout": 1469
+        },
+        {
+            "county_name": "Newfields",
+            "Hassan": 622,
+            "Bolduc": 444,
+            "total": 1091,
+            "min_turnout": 1102,
+            "max_turnout": 1124
+        },
+        {
+            "county_name": "Newington",
+            "Hassan": 257,
+            "Bolduc": 277,
+            "total": 541,
+            "min_turnout": 546,
+            "max_turnout": 562
+        },
+        {
+            "county_name": "Newmarket",
+            "Hassan": 3176,
+            "Bolduc": 1429,
+            "total": 4723,
+            "min_turnout": 4771,
+            "max_turnout": 4864
+        },
+        {
+            "county_name": "Newport",
+            "Hassan": 1005,
+            "Bolduc": 1250,
+            "total": 2323,
+            "min_turnout": 2346,
+            "max_turnout": 2348
+        },
+        {
+            "county_name": "Newton",
+            "Hassan": 1248,
+            "Bolduc": 1152,
+            "total": 2440,
+            "min_turnout": 2440,
+            "max_turnout": 2562
+        },
+        {
+            "county_name": "North Hampton",
+            "Hassan": 1616,
+            "Bolduc": 1162,
+            "total": 2826,
+            "min_turnout": 2826,
+            "max_turnout": 2855
+        },
+        {
+            "county_name": "Northfield",
+            "Hassan": 875,
+            "Bolduc": 987,
+            "total": 1932,
+            "min_turnout": 1952,
+            "max_turnout": 2105
+        },
+        {
+            "county_name": "Northumberland",
+            "Hassan": 318,
+            "Bolduc": 416,
+            "total": 752,
+            "min_turnout": 756,
+            "max_turnout": 773
+        },
+        {
+            "county_name": "Northwood",
+            "Hassan": 1066,
+            "Bolduc": 1080,
+            "total": 2192,
+            "min_turnout": 2214,
+            "max_turnout": 2276
+        },
+        {
+            "county_name": "Nottingham",
+            "Hassan": 1493,
+            "Bolduc": 1386,
+            "total": 2937,
+            "min_turnout": 2967,
+            "max_turnout": 3084
+        },
+        {
+            "county_name": "Orange",
+            "Hassan": 76,
+            "Bolduc": 68,
+            "total": 149,
+            "min_turnout": 150,
+            "max_turnout": 151
+        },
+        {
+            "county_name": "Orford",
+            "Hassan": 440,
+            "Bolduc": 203,
+            "total": 655,
+            "min_turnout": 655,
+            "max_turnout": 687
+        },
+        {
+            "county_name": "Ossipee",
+            "Hassan": 791,
+            "Bolduc": 1163,
+            "total": 1997,
+            "min_turnout": 1997,
+            "max_turnout": 2017
+        },
+        {
+            "county_name": "Pelham",
+            "Hassan": 2590,
+            "Bolduc": 3864,
+            "total": 6642,
+            "min_turnout": 6699,
+            "max_turnout": 6974
+        },
+        {
+            "county_name": "Pembroke",
+            "Hassan": 1734,
+            "Bolduc": 1455,
+            "total": 3255,
+            "min_turnout": 3255,
+            "max_turnout": 3288
+        },
+        {
+            "county_name": "Peterborough",
+            "Hassan": 2512,
+            "Bolduc": 957,
+            "total": 3524,
+            "min_turnout": 3524,
+            "max_turnout": 3658
+        },
+        {
+            "county_name": "Piermont",
+            "Hassan": 187,
+            "Bolduc": 163,
+            "total": 362,
+            "min_turnout": 365,
+            "max_turnout": 380
+        },
+        {
+            "county_name": "Pittsburg",
+            "Hassan": 146,
+            "Bolduc": 317,
+            "total": 463,
+            "min_turnout": 463,
+            "max_turnout": 486
+        },
+        {
+            "county_name": "Pittsfield",
+            "Hassan": 672,
+            "Bolduc": 962,
+            "total": 1634,
+            "min_turnout": 1634,
+            "max_turnout": 1720
+        },
+        {
+            "county_name": "Plainfield",
+            "Hassan": 927,
+            "Bolduc": 397,
+            "total": 1357,
+            "min_turnout": 1371,
+            "max_turnout": 1393
+        },
+        {
+            "county_name": "Plaistow",
+            "Hassan": 1455,
+            "Bolduc": 1822,
+            "total": 3372,
+            "min_turnout": 3372,
+            "max_turnout": 3541
+        },
+        {
+            "county_name": "Plymouth",
+            "Hassan": 1565,
+            "Bolduc": 684,
+            "total": 2306,
+            "min_turnout": 2329,
+            "max_turnout": 2898
+        },
+        {
+            "county_name": "Portsmouth",
+            "Hassan": 8514,
+            "Bolduc": 2970,
+            "total": 11484,
+            "min_turnout": 11773,
+            "max_turnout": 12088
+        },
+        {
+            "county_name": "Randolph",
+            "Hassan": 170,
+            "Bolduc": 67,
+            "total": 241,
+            "min_turnout": 241,
+            "max_turnout": 249
+        },
+        {
+            "county_name": "Raymond",
+            "Hassan": 1814,
+            "Bolduc": 2623,
+            "total": 4542,
+            "min_turnout": 4588,
+            "max_turnout": 4769
+        },
+        {
+            "county_name": "Richmond",
+            "Hassan": 239,
+            "Bolduc": 301,
+            "total": 544,
+            "min_turnout": 554,
+            "max_turnout": 563
+        },
+        {
+            "county_name": "Rindge",
+            "Hassan": 1105,
+            "Bolduc": 1659,
+            "total": 2821,
+            "min_turnout": 2848,
+            "max_turnout": 2962
+        },
+        {
+            "county_name": "Rochester",
+            "Hassan": 6191,
+            "Bolduc": 6011,
+            "total": 12549,
+            "min_turnout": 12549,
+            "max_turnout": 13590
+        },
+        {
+            "county_name": "Rollinsford",
+            "Hassan": 801,
+            "Bolduc": 555,
+            "total": 1382,
+            "min_turnout": 1382,
+            "max_turnout": 1427
+        },
+        {
+            "county_name": "Roxbury",
+            "Hassan": 72,
+            "Bolduc": 32,
+            "total": 106,
+            "min_turnout": 107,
+            "max_turnout": 115
+        },
+        {
+            "county_name": "Rumney",
+            "Hassan": 0,
+            "Bolduc": 0,
+            "total": 0,
+            "min_turnout": 769,
+            "max_turnout": 811
+        },
+        {
+            "county_name": "Rye",
+            "Hassan": 2194,
+            "Bolduc": 1480,
+            "total": 3713,
+            "min_turnout": 3751,
+            "max_turnout": 3867
+        },
+        {
+            "county_name": "Salem",
+            "Hassan": 5441,
+            "Bolduc": 7213,
+            "total": 12977,
+            "min_turnout": 13108,
+            "max_turnout": 13626
+        },
+        {
+            "county_name": "Salisbury",
+            "Hassan": 325,
+            "Bolduc": 425,
+            "total": 768,
+            "min_turnout": 776,
+            "max_turnout": 806
+        },
+        {
+            "county_name": "Sanbornton",
+            "Hassan": 764,
+            "Bolduc": 933,
+            "total": 1723,
+            "min_turnout": 1740,
+            "max_turnout": 1809
+        },
+        {
+            "county_name": "Sandown",
+            "Hassan": 1202,
+            "Bolduc": 1747,
+            "total": 3001,
+            "min_turnout": 3104,
+            "max_turnout": 3274
+        },
+        {
+            "county_name": "Sandwich",
+            "Hassan": 660,
+            "Bolduc": 354,
+            "total": 1026,
+            "min_turnout": 1036,
+            "max_turnout": 1077
+        },
+        {
+            "county_name": "Seabrook",
+            "Hassan": 1459,
+            "Bolduc": 2046,
+            "total": 3565,
+            "min_turnout": 3565,
+            "max_turnout": 3743
+        },
+        {
+            "county_name": "Sharon",
+            "Hassan": 131,
+            "Bolduc": 101,
+            "total": 236,
+            "min_turnout": 238,
+            "max_turnout": 248
+        },
+        {
+            "county_name": "Shelburne",
+            "Hassan": 107,
+            "Bolduc": 115,
+            "total": 222,
+            "min_turnout": 222,
+            "max_turnout": 233
+        },
+        {
+            "county_name": "Somersworth",
+            "Hassan": 2704,
+            "Bolduc": 1794,
+            "total": 4597,
+            "min_turnout": 4597,
+            "max_turnout": 4734
+        },
+        {
+            "county_name": "South Hampton",
+            "Hassan": 239,
+            "Bolduc": 267,
+            "total": 522,
+            "min_turnout": 522,
+            "max_turnout": 548
+        },
+        {
+            "county_name": "Springfield",
+            "Hassan": 378,
+            "Bolduc": 358,
+            "total": 754,
+            "min_turnout": 762,
+            "max_turnout": 792
+        },
+        {
+            "county_name": "Stark",
+            "Hassan": 86,
+            "Bolduc": 161,
+            "total": 252,
+            "min_turnout": 255,
+            "max_turnout": 265
+        },
+        {
+            "county_name": "Stewartstown",
+            "Hassan": 83,
+            "Bolduc": 212,
+            "total": 301,
+            "min_turnout": 304,
+            "max_turnout": 316
+        },
+        {
+            "county_name": "Stoddard",
+            "Hassan": 340,
+            "Bolduc": 349,
+            "total": 705,
+            "min_turnout": 712,
+            "max_turnout": 740
+        },
+        {
+            "county_name": "Strafford",
+            "Hassan": 1131,
+            "Bolduc": 1145,
+            "total": 2313,
+            "min_turnout": 2313,
+            "max_turnout": 2429
+        },
+        {
+            "county_name": "Stratford",
+            "Hassan": 0,
+            "Bolduc": 0,
+            "total": 0,
+            "min_turnout": 244,
+            "max_turnout": 245
+        },
+        {
+            "county_name": "Stratham",
+            "Hassan": 2792,
+            "Bolduc": 1758,
+            "total": 4611,
+            "min_turnout": 4611,
+            "max_turnout": 4658
+        },
+        {
+            "county_name": "Sugar Hill",
+            "Hassan": 284,
+            "Bolduc": 128,
+            "total": 419,
+            "min_turnout": 419,
+            "max_turnout": 433
+        },
+        {
+            "county_name": "Sullivan",
+            "Hassan": 170,
+            "Bolduc": 142,
+            "total": 322,
+            "min_turnout": 325,
+            "max_turnout": 329
+        },
+        {
+            "county_name": "Sunapee",
+            "Hassan": 1088,
+            "Bolduc": 912,
+            "total": 2038,
+            "min_turnout": 2059,
+            "max_turnout": 2140
+        },
+        {
+            "county_name": "Surry",
+            "Hassan": 252,
+            "Bolduc": 185,
+            "total": 437,
+            "min_turnout": 437,
+            "max_turnout": 459
+        },
+        {
+            "county_name": "Sutton",
+            "Hassan": 630,
+            "Bolduc": 494,
+            "total": 1141,
+            "min_turnout": 1153,
+            "max_turnout": 1198
+        },
+        {
+            "county_name": "Swanzey",
+            "Hassan": 1627,
+            "Bolduc": 1378,
+            "total": 3054,
+            "min_turnout": 3085,
+            "max_turnout": 3163
+        },
+        {
+            "county_name": "Tamworth",
+            "Hassan": 735,
+            "Bolduc": 649,
+            "total": 1420,
+            "min_turnout": 1434,
+            "max_turnout": 1456
+        },
+        {
+            "county_name": "Temple",
+            "Hassan": 911,
+            "Bolduc": 634,
+            "total": 1578,
+            "min_turnout": 1578,
+            "max_turnout": 1657
+        },
+        {
+            "county_name": "Thornton",
+            "Hassan": 794,
+            "Bolduc": 619,
+            "total": 1414,
+            "min_turnout": 1428,
+            "max_turnout": 1485
+        },
+        {
+            "county_name": "Tilton",
+            "Hassan": 738,
+            "Bolduc": 768,
+            "total": 1532,
+            "min_turnout": 1547,
+            "max_turnout": 1585
+        },
+        {
+            "county_name": "Troy",
+            "Hassan": 363,
+            "Bolduc": 429,
+            "total": 817,
+            "min_turnout": 825,
+            "max_turnout": 833
+        },
+        {
+            "county_name": "Tuftonboro",
+            "Hassan": 720,
+            "Bolduc": 850,
+            "total": 1585,
+            "min_turnout": 1585,
+            "max_turnout": 1664
+        },
+        {
+            "county_name": "Unity",
+            "Hassan": 245,
+            "Bolduc": 386,
+            "total": 652,
+            "min_turnout": 659,
+            "max_turnout": 677
+        },
+        {
+            "county_name": "Wakefield",
+            "Hassan": 962,
+            "Bolduc": 1600,
+            "total": 2610,
+            "min_turnout": 2610,
+            "max_turnout": 2696
+        },
+        {
+            "county_name": "Walpole",
+            "Hassan": 1205,
+            "Bolduc": 649,
+            "total": 1879,
+            "min_turnout": 1879,
+            "max_turnout": 1973
+        },
+        {
+            "county_name": "Warner",
+            "Hassan": 911,
+            "Bolduc": 634,
+            "total": 1578,
+            "min_turnout": 1594,
+            "max_turnout": 1626
+        },
+        {
+            "county_name": "Warren",
+            "Hassan": 151,
+            "Bolduc": 204,
+            "total": 374,
+            "min_turnout": 378,
+            "max_turnout": 379
+        },
+        {
+            "county_name": "Washington",
+            "Hassan": 287,
+            "Bolduc": 370,
+            "total": 669,
+            "min_turnout": 676,
+            "max_turnout": 702
+        },
+        {
+            "county_name": "Waterville Valley",
+            "Hassan": 201,
+            "Bolduc": 153,
+            "total": 361,
+            "min_turnout": 365,
+            "max_turnout": 379
+        },
+        {
+            "county_name": "Weare",
+            "Hassan": 1756,
+            "Bolduc": 2437,
+            "total": 4282,
+            "min_turnout": 4282,
+            "max_turnout": 4496
+        },
+        {
+            "county_name": "Webster",
+            "Hassan": 471,
+            "Bolduc": 509,
+            "total": 1004,
+            "min_turnout": 1004,
+            "max_turnout": 1054
+        },
+        {
+            "county_name": "Wentworth",
+            "Hassan": 204,
+            "Bolduc": 282,
+            "total": 498,
+            "min_turnout": 503,
+            "max_turnout": 523
+        },
+        {
+            "county_name": "Westmoreland",
+            "Hassan": 547,
+            "Bolduc": 355,
+            "total": 919,
+            "min_turnout": 928,
+            "max_turnout": 949
+        },
+        {
+            "county_name": "Whitefield",
+            "Hassan": 546,
+            "Bolduc": 504,
+            "total": 1089,
+            "min_turnout": 1100,
+            "max_turnout": 1143
+        },
+        {
+            "county_name": "Wilmot",
+            "Hassan": 509,
+            "Bolduc": 304,
+            "total": 820,
+            "min_turnout": 828,
+            "max_turnout": 861
+        },
+        {
+            "county_name": "Wilton",
+            "Hassan": 1046,
+            "Bolduc": 835,
+            "total": 1932,
+            "min_turnout": 1948,
+            "max_turnout": 1980
+        },
+        {
+            "county_name": "Winchester",
+            "Hassan": 736,
+            "Bolduc": 690,
+            "total": 1468,
+            "min_turnout": 1483,
+            "max_turnout": 1730
+        },
+        {
+            "county_name": "Windham",
+            "Hassan": 3408,
+            "Bolduc": 3968,
+            "total": 7535,
+            "min_turnout": 7535,
+            "max_turnout": 7912
+        },
+        {
+            "county_name": "Windsor",
+            "Hassan": 21,
+            "Bolduc": 74,
+            "total": 98,
+            "min_turnout": 98,
+            "max_turnout": 99
+        },
+        {
+            "county_name": "Wolfeboro",
+            "Hassan": 1925,
+            "Bolduc": 1955,
+            "total": 3933,
+            "min_turnout": 3972,
+            "max_turnout": 4084
+        },
+        {
+            "county_name": "Woodstock",
+            "Hassan": 367,
+            "Bolduc": 282,
+            "total": 659,
+            "min_turnout": 666,
+            "max_turnout": 683
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Acworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Albany": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Alexandria": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Allenstown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Alstead": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Alton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Amherst": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Andover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Antrim": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Atkinson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Auburn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barnstead": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Barrington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bartlett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bath": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bedford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Belmont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bennington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Berlin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bethlehem": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Boscawen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bradford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brentwood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bridgewater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bristol": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brookfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brookline": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Campton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Canaan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Candia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Canterbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Center Harbor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Charlestown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chatham": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Chester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chesterfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chichester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Claremont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clarksville": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Colebrook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Concord": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Conway": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cornish": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Croydon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dalton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Danbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Danville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Deerfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Deering": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Derry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dixville": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Dorchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dublin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dummer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dunbarton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Durham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "East Kingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Easton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Eaton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Effingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ellsworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Enfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Epping": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Epsom": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Errol": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Exeter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Farmington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Fitzwilliam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Francestown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Franconia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Freedom": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fremont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gilford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gilmanton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gilsum": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Goffstown": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Gorham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Goshen": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Grafton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Grantham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greenfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greenland": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Greenville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Groton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hampstead": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hampton Falls": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hanover": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Harrisville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Haverhill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hebron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Henniker": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hillsborough": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hinsdale": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Holderness": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Hollis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hooksett": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hopkinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hudson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jaffrey": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Keene": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kensington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Laconia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lancaster": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Landaff": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Langdon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lebanon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lempster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lisbon": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Litchfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Littleton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Londonderry": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Loudon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lyman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lyme": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Lyndeborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Manchester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marlborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marlow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mason": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Meredith": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Merrimack": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Middleton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Milan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Milford": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Millsfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Milton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Moultonborough": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Mt Vernon": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Nashua": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nelson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Boston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New Castle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "New Durham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Hampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Ipswich": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "New London": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Newfields": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Newington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newmarket": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Newport": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Newton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "North Hampton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Northfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Northumberland": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Northwood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Nottingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Orange": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Orford": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Ossipee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pelham": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pembroke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Peterborough": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Piermont": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pittsburg": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Pittsfield": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plainfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Plaistow": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Plymouth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Portsmouth": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Raymond": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Richmond": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Rindge": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rochester": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rollinsford": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Roxbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rumney": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rye": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Salem": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Salisbury": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sanbornton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sandown": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sandwich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Seabrook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sharon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shelburne": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Somersworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "South Hampton": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Springfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stewartstown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stoddard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Strafford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stratford": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Stratham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Sugar Hill": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sullivan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sunapee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Surry": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Sutton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Swanzey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tamworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Temple": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Thornton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Tilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Troy": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tuftonboro": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Unity": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wakefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Walpole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Warner": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Waterville Valley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Weare": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wentworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Westmoreland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Whitefield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wilmot": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wilton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Winchester": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Windham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Windsor": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wolfeboro": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Woodstock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

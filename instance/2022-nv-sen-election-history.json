@@ -1,0 +1,7018 @@
+{
+    "2022-11-07T02:55:08-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1004381,
+            "max_turnout": 1004381
+        },
+        "1": {
+            "county_name": "Carson City",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 22195,
+            "max_turnout": 22195
+        },
+        "2": {
+            "county_name": "Churchill",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9779,
+            "max_turnout": 9779
+        },
+        "3": {
+            "county_name": "Clark",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 682607,
+            "max_turnout": 682607
+        },
+        "4": {
+            "county_name": "Douglas",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 25930,
+            "max_turnout": 25930
+        },
+        "5": {
+            "county_name": "Elko",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 16062,
+            "max_turnout": 16062
+        },
+        "6": {
+            "county_name": "Esmeralda",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 274,
+            "max_turnout": 274
+        },
+        "7": {
+            "county_name": "Eureka",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 794,
+            "max_turnout": 794
+        },
+        "8": {
+            "county_name": "Humboldt",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5698,
+            "max_turnout": 5698
+        },
+        "9": {
+            "county_name": "Lander",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2011,
+            "max_turnout": 2011
+        },
+        "10": {
+            "county_name": "Lincoln",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2030,
+            "max_turnout": 2030
+        },
+        "11": {
+            "county_name": "Lyon",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 22122,
+            "max_turnout": 22122
+        },
+        "12": {
+            "county_name": "Mineral",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1900,
+            "max_turnout": 1900
+        },
+        "13": {
+            "county_name": "Nye",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 18883,
+            "max_turnout": 18883
+        },
+        "14": {
+            "county_name": "Pershing",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1818,
+            "max_turnout": 1818
+        },
+        "15": {
+            "county_name": "Storey",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2373,
+            "max_turnout": 2373
+        },
+        "16": {
+            "county_name": "Washoe",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 186309,
+            "max_turnout": 186309
+        },
+        "17": {
+            "county_name": "White Pine",
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3596,
+            "max_turnout": 3596
+        }
+    },
+    "2022-11-08T15:12:10-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -22161,
+            "max_turnout": 354874,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -375,
+            "max_turnout": 7884,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -174,
+            "max_turnout": 4419,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16208,
+            "max_turnout": 247393,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -435,
+            "max_turnout": 5195,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -351,
+            "max_turnout": 6007,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 226,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": 230,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -112,
+            "max_turnout": 2302,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": 789,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 570,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -487,
+            "max_turnout": 7140,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 900,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -412,
+            "max_turnout": 7153,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -31,
+            "max_turnout": 382,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -35,
+            "max_turnout": 527,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3344,
+            "max_turnout": 62753,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -84,
+            "max_turnout": 1004,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:07:24-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -110789,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1871,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -869,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -81040,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2176,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1757,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -44,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -557,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -173,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2433,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2060,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -155,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -176,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16720,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -420,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:28:44-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -67541,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1187,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -592,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -48435,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1480,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1110,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -46,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -343,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -113,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -106,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1593,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -101,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1359,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -103,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -127,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -10578,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -242,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:54:32-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 78,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1054,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 11,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 200,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 194,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 369,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:54:42-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -31,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -78,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1054,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -69,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -200,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -194,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -20,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -369,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-08T23:54:51-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2289,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 78,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1054,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 69,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 11,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 200,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 194,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 369,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:12:57-05:00": {
+        "0": {
+            "Cortez Masto": 248243,
+            "Laxalt": 190526,
+            "total": 451013,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 248243,
+            "Laxalt": 190526,
+            "total": 451013,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T00:21:55-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 51035,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 946,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 374,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 37452,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 880,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 776,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 15,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 27,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 64,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 995,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 841,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 80,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 75,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7981,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 123,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:23:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -23170,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -421,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -191,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -17019,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -410,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -339,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -110,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -512,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -45,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -468,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -38,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3431,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:26:38-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16972,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -237,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -53,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -12938,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -232,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -349,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -221,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2734,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -19,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:27:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 21435,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 392,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 15029,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 497,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 445,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 122,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 45,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 25,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 366,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 178,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4072,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 49,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:29:36-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2796,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -85,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4112,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -284,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -84,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -20,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -559,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -30,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:32:32-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7105,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 192,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 195,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3116,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 519,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 178,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 49,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 50,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 426,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 43,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 401,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 54,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1754,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:35:44-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -4465,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -93,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2688,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -218,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -104,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -21,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -245,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -21,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -232,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -677,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -23,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:40:16-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -43029,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -796,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -301,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -31354,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -780,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -699,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -23,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -219,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -72,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -51,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -806,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -47,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -624,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -66,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -64,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7016,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -102,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:41:46-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 23866,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 489,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 230,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 16048,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 671,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 452,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 136,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 51,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 553,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 415,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 59,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4539,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:42:47-05:00": {
+        "0": {
+            "Cortez Masto": 646,
+            "Laxalt": 1117,
+            "total": 1873,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Cortez Masto": 646,
+            "Laxalt": 1117,
+            "total": 1873,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-09T00:42:59-05:00": {
+        "0": {
+            "Cortez Masto": 2273,
+            "Laxalt": 6778,
+            "total": 9187,
+            "min_turnout": 751,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 2273,
+            "Laxalt": 6778,
+            "total": 9187,
+            "min_turnout": 751,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-09T00:44:39-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 15499,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 229,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 13007,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 133,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 54,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 317,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1411,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:46:54-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29227,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -508,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -22379,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -393,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -400,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -133,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -32,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -588,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -547,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -45,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -4043,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -63,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:49:16-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 252,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 252,
+            "min_turnout": 252,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-09T00:50:59-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 13047,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 239,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 10454,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 66,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 57,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 12,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 193,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1657,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 22,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:51:52-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -38731,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -803,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29193,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -552,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -473,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -193,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -55,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -47,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -684,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -665,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -64,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -50,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5999,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 76,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:56:07-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 33833,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 234,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 32617,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 150,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 276,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 672,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -177,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T00:58:45-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9244,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 157,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7015,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -89,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 243,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -17,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -183,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -12,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2086,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:01:06-05:00": {
+        "0": {
+            "Cortez Masto": 65,
+            "Laxalt": 343,
+            "total": 449,
+            "min_turnout": 246,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Cortez Masto": 65,
+            "Laxalt": 343,
+            "total": 449,
+            "min_turnout": 246,
+            "max_turnout": 0,
+            "county_name": "Esmeralda"
+        }
+    },
+    "2022-11-09T01:01:28-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1558,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 116,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2212,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 550,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 23,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 33,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 846,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 914,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 48,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 947,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 62,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:02:31-05:00": {
+        "0": {
+            "Cortez Masto": 783,
+            "Laxalt": 2415,
+            "total": 3309,
+            "min_turnout": 0,
+            "max_turnout": -28020,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 783,
+            "Laxalt": 2415,
+            "total": 3309,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -27974,
+            "county_name": "Clark"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -46,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-09T01:03:14-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5150,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 335,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -8436,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 406,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -9,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 60,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 29,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 41,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -189,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -252,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 13,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2735,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 61,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:04:40-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 43845,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 760,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31948,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 911,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 784,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 28,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 220,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 63,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 970,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 755,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 68,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7078,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 109,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:06:21-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 36905,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 302,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 31980,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -88,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 553,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 120,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 20,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 513,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 359,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 30,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3144,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:08:46-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3505,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 58,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3140,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -8,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -83,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -189,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 10,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:11:42-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 49050,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 805,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 36122,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 995,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 850,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 32,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 234,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 85,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1198,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1007,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 77,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 95,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7350,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 123,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T01:13:13-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -97211,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1395,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -75340,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1288,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1592,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -41,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -423,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -123,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -100,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2004,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1626,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -131,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -115,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -12864,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -169,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T03:52:28-05:00": {
+        "0": {
+            "Cortez Masto": 123813,
+            "Laxalt": 175262,
+            "total": 308735,
+            "min_turnout": 115458,
+            "max_turnout": -167853,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 7283,
+            "Laxalt": 7984,
+            "total": 15785,
+            "min_turnout": 1768,
+            "max_turnout": -4620,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 186,
+            "max_turnout": -3710,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 54710,
+            "Laxalt": 84137,
+            "total": 143402,
+            "min_turnout": 84413,
+            "max_turnout": -102352,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2512,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 2640,
+            "Laxalt": 10568,
+            "total": 13761,
+            "min_turnout": 1645,
+            "max_turnout": -6149,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": -27,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 69,
+            "Laxalt": 649,
+            "total": 751,
+            "min_turnout": 82,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 1155,
+            "Laxalt": 3976,
+            "total": 5379,
+            "min_turnout": 551,
+            "max_turnout": -1675,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 378,
+            "Laxalt": 1646,
+            "total": 2170,
+            "min_turnout": 413,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 306,
+            "Laxalt": 1636,
+            "total": 2047,
+            "min_turnout": 254,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2911,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 19,
+            "max_turnout": -673,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 4707,
+            "Laxalt": 9874,
+            "total": 15307,
+            "min_turnout": 2173,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 408,
+            "Laxalt": 1241,
+            "total": 1729,
+            "min_turnout": 174,
+            "max_turnout": -347,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 701,
+            "Laxalt": 1693,
+            "total": 2500,
+            "min_turnout": 419,
+            "max_turnout": -268,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 50775,
+            "Laxalt": 49355,
+            "total": 102558,
+            "min_turnout": 17526,
+            "max_turnout": -46954,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 681,
+            "Laxalt": 2503,
+            "total": 3346,
+            "min_turnout": 410,
+            "max_turnout": -1078,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T03:52:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -327,
+            "max_turnout": -65488,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -57905,
+            "county_name": "Clark"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -327,
+            "max_turnout": -7583,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T03:53:17-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": -3,
+            "total": -3,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": -3,
+            "total": -3,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Humboldt"
+        }
+    },
+    "2022-11-09T04:16:19-05:00": {
+        "0": {
+            "Cortez Masto": 13411,
+            "Laxalt": 27915,
+            "total": 40804,
+            "min_turnout": 0,
+            "max_turnout": -1003,
+            "county_name": "Total"
+        },
+        "11": {
+            "Cortez Masto": 3561,
+            "Laxalt": 11796,
+            "total": 16027,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "16": {
+            "Cortez Masto": 9850,
+            "Laxalt": 16119,
+            "total": 24777,
+            "min_turnout": 0,
+            "max_turnout": -1003,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T04:17:07-05:00": {
+        "0": {
+            "Cortez Masto": 6632,
+            "Laxalt": 14108,
+            "total": 20921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 6632,
+            "Laxalt": 14108,
+            "total": 20921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T04:17:17-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 339,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 339,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T04:28:53-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -390,
+            "max_turnout": -6865,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1250,
+            "county_name": "Clark"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -228,
+            "county_name": "Eureka"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -522,
+            "county_name": "Lander"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -390,
+            "max_turnout": -7365,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-09T04:29:22-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 2056,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 2056,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T05:12:45-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": -16,
+            "county_name": "Total"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": -7,
+            "county_name": "Storey"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": -9,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T13:28:12-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -12206,
+            "max_turnout": -1135,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -188,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -91,
+            "max_turnout": -393,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -8809,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -124,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1390,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2,
+            "county_name": "Esmeralda"
+        },
+        "7": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 0,
+            "county_name": "Eureka"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -65,
+            "max_turnout": -508,
+            "county_name": "Humboldt"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -114,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -118,
+            "county_name": "Nye"
+        },
+        "14": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -46,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -26,
+            "max_turnout": 0,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1404,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -34,
+            "max_turnout": 0,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-09T13:58:50-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7497,
+            "max_turnout": -16,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 153,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5882,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 161,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 34,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1301,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:01:04-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -7426,
+            "max_turnout": 16,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -144,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5918,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -145,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -34,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1219,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:19:18-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6712,
+            "max_turnout": -32,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 140,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5230,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 18,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1191,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:22:06-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6712,
+            "max_turnout": 32,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -140,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5230,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -151,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -18,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1191,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:36:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -669,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -14,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -546,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -104,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T14:44:56-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6594,
+            "max_turnout": -39,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 138,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 5138,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 149,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1169,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T15:29:56-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13673,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -13673,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T16:00:01-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5425,
+            "max_turnout": 39,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -138,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -5138,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -149,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:01:50-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7662,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 163,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 7360,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 139,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 55,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:07:31-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6697,
+            "max_turnout": -5,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -170,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -6343,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -55,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:11:09-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6697,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 170,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 6343,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -50,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 55,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:18:16-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 165,
+            "max_turnout": 12,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 192,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -16,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T16:39:58-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2493,
+            "max_turnout": -67,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 307,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1975,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 251,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -40,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T17:02:50-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 969,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 24,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 919,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 26,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T18:53:43-05:00": {
+        "0": {
+            "Cortez Masto": 387,
+            "Laxalt": 484,
+            "total": 546,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 387,
+            "Laxalt": 484,
+            "total": 546,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T20:15:40-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 352,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 352,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T20:48:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -52360,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -47302,
+            "county_name": "Clark"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5058,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-09T20:54:51-05:00": {
+        "0": {
+            "Cortez Masto": 9158,
+            "Laxalt": 4269,
+            "total": 3651,
+            "min_turnout": 0,
+            "max_turnout": -292,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 9158,
+            "Laxalt": 4269,
+            "total": 3651,
+            "min_turnout": 0,
+            "max_turnout": -292,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T21:00:55-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 10363,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 10363,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-09T23:00:55-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1203,
+            "max_turnout": -3523,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1203,
+            "max_turnout": -3523,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-09T23:36:49-05:00": {
+        "0": {
+            "Cortez Masto": 529,
+            "Laxalt": 2074,
+            "total": 2728,
+            "min_turnout": 27,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 529,
+            "Laxalt": 2074,
+            "total": 2728,
+            "min_turnout": 27,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-09T23:37:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 89,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 89,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T00:05:53-05:00": {
+        "0": {
+            "Cortez Masto": 2527,
+            "Laxalt": 4196,
+            "total": 6359,
+            "min_turnout": 1017,
+            "max_turnout": 1667,
+            "county_name": "Total"
+        },
+        "11": {
+            "Cortez Masto": 2527,
+            "Laxalt": 4196,
+            "total": 6359,
+            "min_turnout": 1017,
+            "max_turnout": 1667,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-10T00:34:45-05:00": {
+        "0": {
+            "Cortez Masto": 12575,
+            "Laxalt": 7370,
+            "total": 20607,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 12575,
+            "Laxalt": 7370,
+            "total": 20607,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T00:37:02-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 93,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 93,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T07:40:52-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 746,
+            "min_turnout": 928,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 746,
+            "min_turnout": 746,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 182,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T08:17:12-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1244,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1244,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T08:21:25-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 118,
+            "max_turnout": 169,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 118,
+            "max_turnout": 169,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T11:48:48-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3899,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3899,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T15:12:18-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4028,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4028,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T15:37:19-05:00": {
+        "0": {
+            "Cortez Masto": 109,
+            "Laxalt": 164,
+            "total": 294,
+            "min_turnout": 199,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 109,
+            "Laxalt": 164,
+            "total": 294,
+            "min_turnout": 199,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T16:30:15-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -22,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T17:05:12-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 172,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 172,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-10T19:46:17-05:00": {
+        "0": {
+            "Cortez Masto": 308,
+            "Laxalt": 689,
+            "total": 1061,
+            "min_turnout": 922,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Cortez Masto": 308,
+            "Laxalt": 689,
+            "total": 1061,
+            "min_turnout": 922,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        }
+    },
+    "2022-11-10T19:52:42-05:00": {
+        "0": {
+            "Cortez Masto": 5,
+            "Laxalt": 16,
+            "total": 25,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Cortez Masto": 5,
+            "Laxalt": 16,
+            "total": 25,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        }
+    },
+    "2022-11-10T20:09:43-05:00": {
+        "0": {
+            "Cortez Masto": 928,
+            "Laxalt": 625,
+            "total": 1650,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 928,
+            "Laxalt": 625,
+            "total": 1650,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-10T20:17:15-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19413,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -19413,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T20:32:04-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 12253,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 12253,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T21:04:16-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Total"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Elko"
+        }
+    },
+    "2022-11-10T21:12:56-05:00": {
+        "0": {
+            "Cortez Masto": 7480,
+            "Laxalt": 4195,
+            "total": 12239,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 7480,
+            "Laxalt": 4195,
+            "total": 12239,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T21:13:13-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1686,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1686,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-10T21:18:18-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 107,
+            "max_turnout": 752,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -22,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 340,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -333,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 40,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 234,
+            "max_turnout": 725,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -27,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -125,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T21:37:10-05:00": {
+        "0": {
+            "Cortez Masto": 492,
+            "Laxalt": 1426,
+            "total": 2044,
+            "min_turnout": 1771,
+            "max_turnout": 1486,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 492,
+            "Laxalt": 1426,
+            "total": 2044,
+            "min_turnout": 1771,
+            "max_turnout": 1486,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-10T21:43:56-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -60,
+            "max_turnout": 1004,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -3,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -28,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1004,
+            "county_name": "Nye"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -29,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-10T22:49:45-05:00": {
+        "0": {
+            "Cortez Masto": 11182,
+            "Laxalt": 6565,
+            "total": 18365,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 11182,
+            "Laxalt": 6565,
+            "total": 18365,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-11T13:07:13-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 371,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 150,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 18,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 203,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-11T19:00:58-05:00": {
+        "0": {
+            "Cortez Masto": 17150,
+            "Laxalt": 8960,
+            "total": 15842,
+            "min_turnout": 0,
+            "max_turnout": -288,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 17150,
+            "Laxalt": 8960,
+            "total": 15842,
+            "min_turnout": 0,
+            "max_turnout": -288,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T19:01:26-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 11387,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 11387,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T19:53:30-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11987,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11987,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-11T21:04:48-05:00": {
+        "0": {
+            "Cortez Masto": 1870,
+            "Laxalt": 3023,
+            "total": 4604,
+            "min_turnout": 2142,
+            "max_turnout": 568,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 1870,
+            "Laxalt": 3023,
+            "total": 4604,
+            "min_turnout": 2142,
+            "max_turnout": 568,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-11T21:21:12-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 464,
+            "min_turnout": 464,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 464,
+            "min_turnout": 464,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        }
+    },
+    "2022-11-11T22:24:41-05:00": {
+        "0": {
+            "Cortez Masto": 5821,
+            "Laxalt": 4691,
+            "total": 10943,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 5821,
+            "Laxalt": 4691,
+            "total": 10943,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-11T23:58:38-05:00": {
+        "0": {
+            "Cortez Masto": 1188,
+            "Laxalt": 1229,
+            "total": 2579,
+            "min_turnout": 1542,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 1188,
+            "Laxalt": 1229,
+            "total": 2579,
+            "min_turnout": 1542,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-12T14:05:17-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6664,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6664,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T14:09:24-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 468,
+            "max_turnout": -1353,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -908,
+            "county_name": "Carson City"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 468,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -445,
+            "county_name": "Lincoln"
+        }
+    },
+    "2022-11-12T17:46:38-05:00": {
+        "0": {
+            "Cortez Masto": 2,
+            "Laxalt": 3,
+            "total": 7,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Cortez Masto": 2,
+            "Laxalt": 3,
+            "total": 7,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        }
+    },
+    "2022-11-12T19:23:01-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 16882,
+            "max_turnout": 474,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 613,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 12724,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 275,
+            "max_turnout": 417,
+            "county_name": "Douglas"
+        },
+        "5": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -470,
+            "max_turnout": 0,
+            "county_name": "Elko"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Lander"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Mineral"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 3740,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:45:17-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6569,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6569,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T19:55:12-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1068,
+            "max_turnout": 132,
+            "county_name": "Total"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 669,
+            "max_turnout": 72,
+            "county_name": "Douglas"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 198,
+            "max_turnout": 60,
+            "county_name": "Lyon"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 201,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T20:19:05-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        }
+    },
+    "2022-11-12T21:14:34-05:00": {
+        "0": {
+            "Cortez Masto": 14084,
+            "Laxalt": 8239,
+            "total": 11280,
+            "min_turnout": 10282,
+            "max_turnout": 11873,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 14084,
+            "Laxalt": 8239,
+            "total": 11280,
+            "min_turnout": 10282,
+            "max_turnout": 11873,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T21:15:43-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 11921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 11921,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T21:24:10-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1705,
+            "max_turnout": 10783,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 1705,
+            "max_turnout": 10783,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T21:41:14-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2006,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 2006,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-12T22:25:19-05:00": {
+        "0": {
+            "Cortez Masto": 179,
+            "Laxalt": 339,
+            "total": 560,
+            "min_turnout": 156,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 179,
+            "Laxalt": 339,
+            "total": 560,
+            "min_turnout": 156,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T22:27:53-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 277,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 277,
+            "max_turnout": 0,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-12T23:01:50-05:00": {
+        "0": {
+            "Cortez Masto": 5989,
+            "Laxalt": 4255,
+            "total": 10780,
+            "min_turnout": 2709,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 5989,
+            "Laxalt": 4255,
+            "total": 10780,
+            "min_turnout": 2709,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:01:54-05:00": {
+        "0": {
+            "Cortez Masto": -5989,
+            "Laxalt": -4255,
+            "total": -10780,
+            "min_turnout": -2709,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": -5989,
+            "Laxalt": -4255,
+            "total": -10780,
+            "min_turnout": -2709,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:01:58-05:00": {
+        "0": {
+            "Cortez Masto": 5989,
+            "Laxalt": 4255,
+            "total": 10780,
+            "min_turnout": 2709,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 5989,
+            "Laxalt": 4255,
+            "total": 10780,
+            "min_turnout": 2709,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:06:02-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1483,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1483,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-12T23:07:01-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4812,
+            "max_turnout": 3209,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 4812,
+            "max_turnout": 3209,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T08:08:42-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 588,
+            "county_name": "Total"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 588,
+            "county_name": "Nye"
+        }
+    },
+    "2022-11-13T20:01:29-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2892,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2892,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:49:23-05:00": {
+        "0": {
+            "Cortez Masto": 491,
+            "Laxalt": 465,
+            "total": 978,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 491,
+            "Laxalt": 465,
+            "total": 978,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:45-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1027,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1027,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1027,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1027,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-13T21:56:58-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1027,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1027,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T15:17:35-05:00": {
+        "0": {
+            "Cortez Masto": 53,
+            "Laxalt": 67,
+            "total": 130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 53,
+            "Laxalt": 67,
+            "total": 130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-14T20:12:17-05:00": {
+        "0": {
+            "Cortez Masto": 2228,
+            "Laxalt": 883,
+            "total": 3229,
+            "min_turnout": -244,
+            "max_turnout": -62,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -246,
+            "max_turnout": -62,
+            "county_name": "Carson City"
+        },
+        "3": {
+            "Cortez Masto": 2214,
+            "Laxalt": 876,
+            "total": 3208,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        },
+        "12": {
+            "Cortez Masto": 14,
+            "Laxalt": 7,
+            "total": 21,
+            "min_turnout": 2,
+            "max_turnout": 0,
+            "county_name": "Mineral"
+        }
+    },
+    "2022-11-14T21:21:25-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2886,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -2886,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-14T21:47:18-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3368,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3368,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-14T22:00:08-05:00": {
+        "0": {
+            "Cortez Masto": 598,
+            "Laxalt": 303,
+            "total": 929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 598,
+            "Laxalt": 303,
+            "total": 929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:00:12-05:00": {
+        "0": {
+            "Cortez Masto": -598,
+            "Laxalt": -303,
+            "total": -929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": -598,
+            "Laxalt": -303,
+            "total": -929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:00:16-05:00": {
+        "0": {
+            "Cortez Masto": 598,
+            "Laxalt": 303,
+            "total": 929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 598,
+            "Laxalt": 303,
+            "total": 929,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-14T22:06:23-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 976,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 976,
+            "county_name": "Washoe"
+        }
+    },
+    "2022-11-15T11:29:20-05:00": {
+        "0": {
+            "Cortez Masto": 203,
+            "Laxalt": 483,
+            "total": 736,
+            "min_turnout": 682,
+            "max_turnout": 295,
+            "county_name": "Total"
+        },
+        "8": {
+            "Cortez Masto": 203,
+            "Laxalt": 483,
+            "total": 736,
+            "min_turnout": 682,
+            "max_turnout": 295,
+            "county_name": "Humboldt"
+        }
+    },
+    "2022-11-15T15:51:24-05:00": {
+        "0": {
+            "Cortez Masto": 13,
+            "Laxalt": 39,
+            "total": 58,
+            "min_turnout": 31,
+            "max_turnout": 146,
+            "county_name": "Total"
+        },
+        "8": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 146,
+            "county_name": "Humboldt"
+        },
+        "9": {
+            "Cortez Masto": 2,
+            "Laxalt": 8,
+            "total": 10,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Lander"
+        },
+        "14": {
+            "Cortez Masto": 11,
+            "Laxalt": 31,
+            "total": 48,
+            "min_turnout": 31,
+            "max_turnout": 0,
+            "county_name": "Pershing"
+        }
+    },
+    "2022-11-15T18:49:28-05:00": {
+        "0": {
+            "Cortez Masto": 1885,
+            "Laxalt": 702,
+            "total": 2698,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 1885,
+            "Laxalt": 702,
+            "total": 2698,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-15T19:09:29-05:00": {
+        "0": {
+            "Cortez Masto": 41,
+            "Laxalt": 90,
+            "total": 147,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 41,
+            "Laxalt": 90,
+            "total": 147,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        }
+    },
+    "2022-11-15T19:49:23-05:00": {
+        "0": {
+            "Cortez Masto": 102,
+            "Laxalt": 131,
+            "total": 241,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 102,
+            "Laxalt": 131,
+            "total": 241,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Carson City"
+        }
+    },
+    "2022-11-16T01:02:05-05:00": {
+        "0": {
+            "Cortez Masto": 1315,
+            "Laxalt": 857,
+            "total": 2243,
+            "min_turnout": 1052,
+            "max_turnout": -10472,
+            "county_name": "Total"
+        },
+        "1": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -553,
+            "county_name": "Carson City"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -193,
+            "max_turnout": 0,
+            "county_name": "Churchill"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -8075,
+            "county_name": "Clark"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -672,
+            "max_turnout": 0,
+            "county_name": "Douglas"
+        },
+        "6": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -17,
+            "county_name": "Esmeralda"
+        },
+        "9": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -88,
+            "county_name": "Lander"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -40,
+            "max_turnout": 0,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -201,
+            "max_turnout": 0,
+            "county_name": "Lyon"
+        },
+        "12": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -29,
+            "county_name": "Mineral"
+        },
+        "13": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -71,
+            "max_turnout": -633,
+            "county_name": "Nye"
+        },
+        "15": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -60,
+            "county_name": "Storey"
+        },
+        "16": {
+            "Cortez Masto": 1315,
+            "Laxalt": 857,
+            "total": 2243,
+            "min_turnout": 2230,
+            "max_turnout": -920,
+            "county_name": "Washoe"
+        },
+        "17": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -97,
+            "county_name": "White Pine"
+        }
+    },
+    "2022-11-16T10:45:01-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1494,
+            "county_name": "Total"
+        },
+        "2": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -172,
+            "county_name": "Churchill"
+        },
+        "4": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -489,
+            "county_name": "Douglas"
+        },
+        "10": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -48,
+            "county_name": "Lincoln"
+        },
+        "11": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -785,
+            "county_name": "Lyon"
+        }
+    },
+    "2022-11-16T20:14:55-05:00": {
+        "0": {
+            "Cortez Masto": 2351,
+            "Laxalt": 2229,
+            "total": 4794,
+            "min_turnout": 681,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 2351,
+            "Laxalt": 2229,
+            "total": 4794,
+            "min_turnout": 681,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T20:18:49-05:00": {
+        "0": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4921,
+            "county_name": "Total"
+        },
+        "3": {
+            "Cortez Masto": 0,
+            "Laxalt": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4921,
+            "county_name": "Clark"
+        }
+    },
+    "2022-11-16T22:42:11-05:00": {
+        "0": {
+            "Cortez Masto": 21,
+            "Laxalt": 22,
+            "total": 44,
+            "min_turnout": 44,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "16": {
+            "Cortez Masto": 21,
+            "Laxalt": 22,
+            "total": 44,
+            "min_turnout": 44,
+            "max_turnout": 0,
+            "county_name": "Washoe"
+        }
+    }
+}

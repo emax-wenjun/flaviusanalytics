@@ -1,0 +1,565 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "McKee": 37045,
+            "Foulkes": 33813,
+            "Gorbea": 29623,
+            "total": 112974,
+            "min_turnout": 113012,
+            "max_turnout": 115761
+        },
+        {
+            "county_name": "Barrington",
+            "McKee": 530,
+            "Foulkes": 1130,
+            "Gorbea": 806,
+            "total": 2683,
+            "min_turnout": 2683,
+            "max_turnout": 2710
+        },
+        {
+            "county_name": "Bristol",
+            "McKee": 645,
+            "Foulkes": 775,
+            "Gorbea": 556,
+            "total": 2114,
+            "min_turnout": 2114,
+            "max_turnout": 2135
+        },
+        {
+            "county_name": "Burrillville",
+            "McKee": 329,
+            "Foulkes": 237,
+            "Gorbea": 192,
+            "total": 863,
+            "min_turnout": 863,
+            "max_turnout": 871
+        },
+        {
+            "county_name": "Central Falls",
+            "McKee": 250,
+            "Foulkes": 81,
+            "Gorbea": 459,
+            "total": 880,
+            "min_turnout": 880,
+            "max_turnout": 888
+        },
+        {
+            "county_name": "Charlestown",
+            "McKee": 302,
+            "Foulkes": 290,
+            "Gorbea": 257,
+            "total": 946,
+            "min_turnout": 946,
+            "max_turnout": 955
+        },
+        {
+            "county_name": "Coventry",
+            "McKee": 988,
+            "Foulkes": 848,
+            "Gorbea": 641,
+            "total": 2742,
+            "min_turnout": 2742,
+            "max_turnout": 2848
+        },
+        {
+            "county_name": "Cranston",
+            "McKee": 2667,
+            "Foulkes": 2639,
+            "Gorbea": 1987,
+            "total": 8197,
+            "min_turnout": 8197,
+            "max_turnout": 8279
+        },
+        {
+            "county_name": "Cumberland",
+            "McKee": 1931,
+            "Foulkes": 1243,
+            "Gorbea": 785,
+            "total": 4236,
+            "min_turnout": 4257,
+            "max_turnout": 4278
+        },
+        {
+            "county_name": "East Greenwich",
+            "McKee": 431,
+            "Foulkes": 714,
+            "Gorbea": 596,
+            "total": 1876,
+            "min_turnout": 1876,
+            "max_turnout": 1894
+        },
+        {
+            "county_name": "East Providence",
+            "McKee": 2303,
+            "Foulkes": 1807,
+            "Gorbea": 1491,
+            "total": 6488,
+            "min_turnout": 6488,
+            "max_turnout": 6553
+        },
+        {
+            "county_name": "Exeter",
+            "McKee": 160,
+            "Foulkes": 182,
+            "Gorbea": 186,
+            "total": 580,
+            "min_turnout": 580,
+            "max_turnout": 585
+        },
+        {
+            "county_name": "Foster",
+            "McKee": 103,
+            "Foulkes": 113,
+            "Gorbea": 98,
+            "total": 365,
+            "min_turnout": 365,
+            "max_turnout": 368
+        },
+        {
+            "county_name": "Glocester",
+            "McKee": 266,
+            "Foulkes": 247,
+            "Gorbea": 209,
+            "total": 818,
+            "min_turnout": 818,
+            "max_turnout": 826
+        },
+        {
+            "county_name": "Hopkinton",
+            "McKee": 185,
+            "Foulkes": 167,
+            "Gorbea": 156,
+            "total": 597,
+            "min_turnout": 597,
+            "max_turnout": 603
+        },
+        {
+            "county_name": "Jamestown",
+            "McKee": 276,
+            "Foulkes": 431,
+            "Gorbea": 408,
+            "total": 1192,
+            "min_turnout": 1200,
+            "max_turnout": 1204
+        },
+        {
+            "county_name": "Johnston",
+            "McKee": 1655,
+            "Foulkes": 1052,
+            "Gorbea": 632,
+            "total": 3681,
+            "min_turnout": 3681,
+            "max_turnout": 3718
+        },
+        {
+            "county_name": "Lincoln",
+            "McKee": 869,
+            "Foulkes": 745,
+            "Gorbea": 472,
+            "total": 2259,
+            "min_turnout": 2259,
+            "max_turnout": 2281
+        },
+        {
+            "county_name": "Little Compton",
+            "McKee": 103,
+            "Foulkes": 216,
+            "Gorbea": 144,
+            "total": 489,
+            "min_turnout": 489,
+            "max_turnout": 493
+        },
+        {
+            "county_name": "Middletown",
+            "McKee": 334,
+            "Foulkes": 514,
+            "Gorbea": 320,
+            "total": 1272,
+            "min_turnout": 1272,
+            "max_turnout": 1284
+        },
+        {
+            "county_name": "Narragansett",
+            "McKee": 671,
+            "Foulkes": 870,
+            "Gorbea": 575,
+            "total": 2233,
+            "min_turnout": 2233,
+            "max_turnout": 2255
+        },
+        {
+            "county_name": "New Shoreham",
+            "McKee": 40,
+            "Foulkes": 67,
+            "Gorbea": 51,
+            "total": 169,
+            "min_turnout": 169,
+            "max_turnout": 170
+        },
+        {
+            "county_name": "Newport",
+            "McKee": 573,
+            "Foulkes": 702,
+            "Gorbea": 528,
+            "total": 1986,
+            "min_turnout": 1986,
+            "max_turnout": 2006
+        },
+        {
+            "county_name": "North Kingstown",
+            "McKee": 1056,
+            "Foulkes": 1308,
+            "Gorbea": 1196,
+            "total": 3944,
+            "min_turnout": 3944,
+            "max_turnout": 3983
+        },
+        {
+            "county_name": "North Providence",
+            "McKee": 2097,
+            "Foulkes": 1477,
+            "Gorbea": 855,
+            "total": 4883,
+            "min_turnout": 4883,
+            "max_turnout": 4932
+        },
+        {
+            "county_name": "North Smithfield",
+            "McKee": 382,
+            "Foulkes": 315,
+            "Gorbea": 278,
+            "total": 1072,
+            "min_turnout": 1072,
+            "max_turnout": 1082
+        },
+        {
+            "county_name": "Pawtucket",
+            "McKee": 2158,
+            "Foulkes": 1324,
+            "Gorbea": 1490,
+            "total": 5854,
+            "min_turnout": 5854,
+            "max_turnout": 6119
+        },
+        {
+            "county_name": "Portsmouth",
+            "McKee": 663,
+            "Foulkes": 764,
+            "Gorbea": 568,
+            "total": 2174,
+            "min_turnout": 2174,
+            "max_turnout": 2318
+        },
+        {
+            "county_name": "Providence",
+            "McKee": 5901,
+            "Foulkes": 5071,
+            "Gorbea": 7090,
+            "total": 21090,
+            "min_turnout": 21090,
+            "max_turnout": 22513
+        },
+        {
+            "county_name": "Richmond",
+            "McKee": 212,
+            "Foulkes": 202,
+            "Gorbea": 203,
+            "total": 708,
+            "min_turnout": 708,
+            "max_turnout": 715
+        },
+        {
+            "county_name": "Scituate",
+            "McKee": 248,
+            "Foulkes": 238,
+            "Gorbea": 207,
+            "total": 789,
+            "min_turnout": 789,
+            "max_turnout": 796
+        },
+        {
+            "county_name": "Smithfield",
+            "McKee": 831,
+            "Foulkes": 656,
+            "Gorbea": 461,
+            "total": 2140,
+            "min_turnout": 2145,
+            "max_turnout": 2161
+        },
+        {
+            "county_name": "South Kingstown",
+            "McKee": 1069,
+            "Foulkes": 1355,
+            "Gorbea": 1302,
+            "total": 4162,
+            "min_turnout": 4162,
+            "max_turnout": 4204
+        },
+        {
+            "county_name": "Tiverton",
+            "McKee": 396,
+            "Foulkes": 378,
+            "Gorbea": 334,
+            "total": 1225,
+            "min_turnout": 1225,
+            "max_turnout": 1237
+        },
+        {
+            "county_name": "Warren",
+            "McKee": 324,
+            "Foulkes": 349,
+            "Gorbea": 312,
+            "total": 1104,
+            "min_turnout": 1104,
+            "max_turnout": 1162
+        },
+        {
+            "county_name": "Warwick",
+            "McKee": 3570,
+            "Foulkes": 3430,
+            "Gorbea": 2390,
+            "total": 10627,
+            "min_turnout": 10627,
+            "max_turnout": 10734
+        },
+        {
+            "county_name": "West Greenwich",
+            "McKee": 189,
+            "Foulkes": 146,
+            "Gorbea": 118,
+            "total": 495,
+            "min_turnout": 497,
+            "max_turnout": 500
+        },
+        {
+            "county_name": "West Warwick",
+            "McKee": 754,
+            "Foulkes": 583,
+            "Gorbea": 479,
+            "total": 2041,
+            "min_turnout": 2041,
+            "max_turnout": 2061
+        },
+        {
+            "county_name": "Westerly",
+            "McKee": 812,
+            "Foulkes": 550,
+            "Gorbea": 418,
+            "total": 1985,
+            "min_turnout": 1985,
+            "max_turnout": 2005
+        },
+        {
+            "county_name": "Woonsocket",
+            "McKee": 772,
+            "Foulkes": 597,
+            "Gorbea": 373,
+            "total": 2015,
+            "min_turnout": 2017,
+            "max_turnout": 2035
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Barrington": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Bristol": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Burrillville": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Central Falls": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Charlestown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Coventry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cranston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cumberland": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Greenwich": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "East Providence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Exeter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Foster": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Glocester": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Hopkinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jamestown": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Johnston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Little Compton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Middletown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Narragansett": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "New Shoreham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newport": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "North Kingstown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "North Providence": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "North Smithfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pawtucket": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Portsmouth": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Providence": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Richmond": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Scituate": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Smithfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "South Kingstown": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Tiverton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Warwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "West Greenwich": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "West Warwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Westerly": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woonsocket": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

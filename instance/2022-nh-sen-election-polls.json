@@ -1,0 +1,194 @@
+[
+    {
+        "pollster": "University of New Hampshire",
+        "start": "2021-02-18",
+        "end": "2021-02-22",
+        "add": "2021-02-25",
+        "Hassan": 52.0,
+        "Bolduc": 39.0
+    },
+    {
+        "pollster": "University of New Hampshire",
+        "start": "2021-07-15",
+        "end": "2021-07-19",
+        "add": "2021-07-22",
+        "Hassan": 51.0,
+        "Bolduc": 41.0
+    },
+    {
+        "pollster": "University of New Hampshire",
+        "start": "2021-10-14",
+        "end": "2021-10-18",
+        "add": "2021-10-21",
+        "Hassan": 47.0,
+        "Bolduc": 42.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2021-12-10",
+        "end": "2021-12-12",
+        "add": "2021-12-16",
+        "Hassan": 46.1,
+        "Bolduc": 40.3
+    },
+    {
+        "pollster": "Saint Anselm College",
+        "start": "2022-01-11",
+        "end": "2022-01-12",
+        "add": "2022-01-19",
+        "Hassan": 43.0,
+        "Bolduc": 36.0
+    },
+    {
+        "pollster": "Saint Anselm College",
+        "start": "2022-03-23",
+        "end": "2022-03-24",
+        "add": "2022-04-01",
+        "Hassan": 44.0,
+        "Bolduc": 39.0
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-04-04",
+        "end": "2022-04-08",
+        "add": "2022-04-11",
+        "Hassan": 45.4,
+        "Bolduc": 39.5
+    },
+    {
+        "pollster": "Phillips Academy",
+        "start": "2022-04-04",
+        "end": "2022-04-08",
+        "add": "2022-04-11",
+        "Hassan": 54.1,
+        "Bolduc": 39.2
+    },
+    {
+        "pollster": "University of New Hampshire",
+        "start": "2022-04-14",
+        "end": "2022-04-18",
+        "add": "2022-04-21",
+        "Hassan": 47.0,
+        "Bolduc": 46.0
+    },
+    {
+        "pollster": "Change Research",
+        "start": "2022-06-24",
+        "end": "2022-06-27",
+        "add": "2022-06-30",
+        "Hassan": 49.0,
+        "Bolduc": 40.0
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-06-22",
+        "end": "2022-07-08",
+        "add": "2022-07-21",
+        "Hassan": 49.0,
+        "Bolduc": 45.0
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-09-14",
+        "end": "2022-09-15",
+        "add": "2022-09-16",
+        "Hassan": 50.6,
+        "Bolduc": 40.1
+    },
+    {
+        "pollster": "American Research Group",
+        "start": "2022-09-15",
+        "end": "2022-09-19",
+        "add": "2022-09-21",
+        "Hassan": 53.0,
+        "Bolduc": 40.0
+    },
+    {
+        "pollster": "University of New Hampshire",
+        "start": "2022-09-15",
+        "end": "2022-09-19",
+        "add": "2022-09-22",
+        "Hassan": 49.0,
+        "Bolduc": 41.0
+    },
+    {
+        "pollster": "Suffolk University",
+        "start": "2022-09-23",
+        "end": "2022-09-26",
+        "add": "2022-09-29",
+        "Hassan": 49.6,
+        "Bolduc": 41.2
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-09-23",
+        "end": "2022-09-30",
+        "add": "2022-10-04",
+        "Hassan": 50.0,
+        "Bolduc": 43.0
+    },
+    {
+        "pollster": "Trafalgar Group",
+        "start": "2022-09-26",
+        "end": "2022-09-30",
+        "add": "2022-10-04",
+        "Hassan": 48.2,
+        "Bolduc": 45.0
+    },
+    {
+        "pollster": "Saint Anselm College",
+        "start": "2022-09-27",
+        "end": "2022-09-28",
+        "add": "2022-10-04",
+        "Hassan": 49.0,
+        "Bolduc": 43.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates/Impact Research",
+        "start": "2022-10-02",
+        "end": "2022-10-06",
+        "add": "2022-10-12",
+        "Hassan": 52.0,
+        "Bolduc": 45.0
+    },
+    {
+        "pollster": "Fabrizio, Lee & Associates",
+        "start": "2022-10-17",
+        "end": "2022-10-19",
+        "add": "2022-10-21",
+        "Hassan": 49.0,
+        "Bolduc": 47.0
+    },
+    {
+        "pollster": "InsiderAdvantage",
+        "start": "2022-10-23",
+        "end": "2022-10-23",
+        "add": "2022-10-24",
+        "Hassan": 47.6,
+        "Bolduc": 47.1
+    },
+    {
+        "pollster": "Emerson College",
+        "start": "2022-10-18",
+        "end": "2022-10-19",
+        "add": "2022-10-24",
+        "Hassan": 49.5,
+        "Bolduc": 45.4
+    },
+    {
+        "pollster": "Data for Progress",
+        "start": "2022-10-14",
+        "end": "2022-10-19",
+        "add": "2022-10-26",
+        "Hassan": 50.0,
+        "Bolduc": 44.0
+    },
+    {
+        "pollster": "co/efficient",
+        "start": "2022-10-25",
+        "end": "2022-10-26",
+        "add": "2022-10-28",
+        "Hassan": 45.0,
+        "Bolduc": 45.0
+    }
+]

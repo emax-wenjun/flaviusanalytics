@@ -1,0 +1,2087 @@
+{
+    "2022-08-02T11:26:27-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "1": {
+            "county_name": "Clark",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "2": {
+            "county_name": "Cowlitz",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "3": {
+            "county_name": "Lewis",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "4": {
+            "county_name": "Pacific",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "5": {
+            "county_name": "Skamania",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "6": {
+            "county_name": "Thurston",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        },
+        "7": {
+            "county_name": "Wahkiakum",
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0
+        }
+    },
+    "2022-08-02T18:57:08-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 218847,
+            "max_turnout": 218847,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 137666,
+            "max_turnout": 137666,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 31597,
+            "max_turnout": 31597,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 24790,
+            "max_turnout": 24790,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 8316,
+            "max_turnout": 8316,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 4118,
+            "max_turnout": 4118,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 10563,
+            "max_turnout": 10563,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1797,
+            "max_turnout": 1797,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-02T19:32:32-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -8171,
+            "max_turnout": -8171,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -6495,
+            "max_turnout": -6495,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -2554,
+            "max_turnout": -2554,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1640,
+            "max_turnout": 1640,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -471,
+            "max_turnout": -471,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 674,
+            "max_turnout": 674,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -1104,
+            "max_turnout": -1104,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 139,
+            "max_turnout": 139,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-02T19:58:44-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -20768,
+            "max_turnout": -20768,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -17259,
+            "max_turnout": -17259,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -2484,
+            "max_turnout": -2484,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -2225,
+            "max_turnout": -2225,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -67,
+            "max_turnout": -67,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 640,
+            "max_turnout": 640,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 861,
+            "max_turnout": 861,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -234,
+            "max_turnout": -234,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-02T23:15:45-04:00": {
+        "0": {
+            "Kent": 2429,
+            "Herrera Beutler": 3368,
+            "Perez": 3269,
+            "total": 12979,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 2429,
+            "Herrera Beutler": 3368,
+            "Perez": 3269,
+            "total": 12979,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-02T23:16:57-04:00": {
+        "0": {
+            "Kent": 1320,
+            "Herrera Beutler": 886,
+            "Perez": 1096,
+            "total": 4367,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 1320,
+            "Herrera Beutler": 886,
+            "Perez": 1096,
+            "total": 4367,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-02T23:20:18-04:00": {
+        "0": {
+            "Kent": 790,
+            "Herrera Beutler": 1058,
+            "Perez": 1394,
+            "total": 4271,
+            "min_turnout": -890,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Kent": 790,
+            "Herrera Beutler": 1058,
+            "Perez": 1394,
+            "total": 4271,
+            "min_turnout": -890,
+            "max_turnout": 0,
+            "county_name": "Pacific"
+        }
+    },
+    "2022-08-02T23:21:43-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 1,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 1,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-02T23:23:19-04:00": {
+        "0": {
+            "Kent": 5647,
+            "Herrera Beutler": 5364,
+            "Perez": 3650,
+            "total": 19462,
+            "min_turnout": -5134,
+            "max_turnout": 2938,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2938,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 4714,
+            "Herrera Beutler": 4367,
+            "Perez": 2654,
+            "total": 15549,
+            "min_turnout": -1993,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        },
+        "5": {
+            "Kent": 689,
+            "Herrera Beutler": 624,
+            "Perez": 734,
+            "total": 2672,
+            "min_turnout": -1870,
+            "max_turnout": 0,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -1029,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 244,
+            "Herrera Beutler": 373,
+            "Perez": 262,
+            "total": 1241,
+            "min_turnout": -242,
+            "max_turnout": 0,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-02T23:25:43-04:00": {
+        "0": {
+            "Kent": 11480,
+            "Herrera Beutler": 15697,
+            "Perez": 24820,
+            "total": 66572,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 11480,
+            "Herrera Beutler": 15697,
+            "Perez": 24820,
+            "total": 66572,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-03T18:55:16-04:00": {
+        "0": {
+            "Kent": 1077,
+            "Herrera Beutler": 1069,
+            "Perez": 1107,
+            "total": 4620,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 1077,
+            "Herrera Beutler": 1069,
+            "Perez": 1107,
+            "total": 4620,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-04T19:15:15-04:00": {
+        "0": {
+            "Kent": 5205,
+            "Herrera Beutler": 4405,
+            "Perez": 7585,
+            "total": 21825,
+            "min_turnout": 1854,
+            "max_turnout": 856,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 2680,
+            "Herrera Beutler": 2701,
+            "Perez": 5667,
+            "total": 13759,
+            "min_turnout": 604,
+            "max_turnout": 604,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 143,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 1085,
+            "Herrera Beutler": 774,
+            "Perez": 484,
+            "total": 3128,
+            "min_turnout": 0,
+            "max_turnout": 124,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 465,
+            "Herrera Beutler": 418,
+            "Perez": 628,
+            "total": 1990,
+            "min_turnout": 0,
+            "max_turnout": 39,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 615,
+            "Herrera Beutler": 345,
+            "Perez": 608,
+            "total": 1997,
+            "min_turnout": 1107,
+            "max_turnout": 24,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 360,
+            "Herrera Beutler": 167,
+            "Perez": 198,
+            "total": 951,
+            "min_turnout": 0,
+            "max_turnout": 56,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 9,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-04T19:55:40-04:00": {
+        "0": {
+            "Kent": 599,
+            "Herrera Beutler": 426,
+            "Perez": 494,
+            "total": 2188,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 599,
+            "Herrera Beutler": 426,
+            "Perez": 494,
+            "total": 2188,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-04T19:57:27-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -4,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-04T20:16:18-04:00": {
+        "0": {
+            "Kent": 1919,
+            "Herrera Beutler": 1182,
+            "Perez": 728,
+            "total": 5219,
+            "min_turnout": 1684,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Kent": 1919,
+            "Herrera Beutler": 1182,
+            "Perez": 728,
+            "total": 5219,
+            "min_turnout": 1684,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-08-04T20:18:53-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -110,
+            "county_name": "Total"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -110,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-08-04T20:26:37-04:00": {
+        "0": {
+            "Kent": 4127,
+            "Herrera Beutler": 3216,
+            "Perez": 4827,
+            "total": 15866,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 4127,
+            "Herrera Beutler": 3216,
+            "Perez": 4827,
+            "total": 15866,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-04T20:27:24-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": -73,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -73,
+            "max_turnout": -73,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-04T21:26:40-04:00": {
+        "0": {
+            "Kent": 316,
+            "Herrera Beutler": 183,
+            "Perez": 232,
+            "total": 975,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 316,
+            "Herrera Beutler": 183,
+            "Perez": 232,
+            "total": 975,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T09:54:38-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -439,
+            "max_turnout": -442,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -348,
+            "max_turnout": -348,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -91,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -9,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -26,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -16,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T13:20:24-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 3281,
+            "max_turnout": -2890,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2890,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 314,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 903,
+            "max_turnout": 0,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 771,
+            "max_turnout": 0,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1048,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 245,
+            "max_turnout": 0,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T14:28:18-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -3281,
+            "max_turnout": 2890,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2890,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -314,
+            "max_turnout": 0,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -903,
+            "max_turnout": 0,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -771,
+            "max_turnout": 0,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -1048,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -245,
+            "max_turnout": 0,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T14:31:18-04:00": {
+        "0": {
+            "Kent": 173,
+            "Herrera Beutler": 140,
+            "Perez": 160,
+            "total": 693,
+            "min_turnout": 474,
+            "max_turnout": 229,
+            "county_name": "Total"
+        },
+        "7": {
+            "Kent": 173,
+            "Herrera Beutler": 140,
+            "Perez": 160,
+            "total": 693,
+            "min_turnout": 474,
+            "max_turnout": 229,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T14:34:07-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 203,
+            "max_turnout": 222,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 161,
+            "max_turnout": 161,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 42,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 17,
+            "county_name": "Thurston"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 20,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T14:54:17-04:00": {
+        "0": {
+            "Kent": 763,
+            "Herrera Beutler": 519,
+            "Perez": 477,
+            "total": 2476,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 763,
+            "Herrera Beutler": 519,
+            "Perez": 477,
+            "total": 2476,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-05T14:57:27-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -10,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-05T15:32:52-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 21,
+            "max_turnout": 21,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 17,
+            "max_turnout": 17,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 4,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Pacific"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T18:40:27-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 3,
+            "max_turnout": 71,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 2,
+            "max_turnout": 2,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Skamania"
+        },
+        "7": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 67,
+            "county_name": "Wahkiakum"
+        }
+    },
+    "2022-08-05T18:42:23-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Total"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-08-05T19:51:21-04:00": {
+        "0": {
+            "Kent": 463,
+            "Herrera Beutler": 502,
+            "Perez": 691,
+            "total": 2153,
+            "min_turnout": 1526,
+            "max_turnout": 609,
+            "county_name": "Total"
+        },
+        "4": {
+            "Kent": 463,
+            "Herrera Beutler": 502,
+            "Perez": 691,
+            "total": 2153,
+            "min_turnout": 1526,
+            "max_turnout": 609,
+            "county_name": "Pacific"
+        }
+    },
+    "2022-08-05T19:53:07-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 417,
+            "max_turnout": 434,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 338,
+            "max_turnout": 338,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 79,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 31,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 14,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 36,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T19:56:30-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -156,
+            "max_turnout": 208,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -126,
+            "max_turnout": -126,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -30,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -11,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 365,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -6,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T20:05:56-04:00": {
+        "0": {
+            "Kent": 1263,
+            "Herrera Beutler": 835,
+            "Perez": 814,
+            "total": 4251,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 1263,
+            "Herrera Beutler": 835,
+            "Perez": 814,
+            "total": 4251,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-05T20:08:24-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -117,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -117,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-05T20:22:46-04:00": {
+        "0": {
+            "Kent": 3284,
+            "Herrera Beutler": 2543,
+            "Perez": 5702,
+            "total": 14573,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 3284,
+            "Herrera Beutler": 2543,
+            "Perez": 5702,
+            "total": 14573,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-05T20:24:21-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -381,
+            "max_turnout": -381,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -381,
+            "max_turnout": -381,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-05T20:30:21-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 184,
+            "max_turnout": -82,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 170,
+            "max_turnout": 170,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 14,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 45,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -373,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 23,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 53,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T20:30:38-04:00": {
+        "0": {
+            "Kent": 491,
+            "Herrera Beutler": 210,
+            "Perez": 299,
+            "total": 1320,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 491,
+            "Herrera Beutler": 210,
+            "Perez": 299,
+            "total": 1320,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T20:32:31-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-05T20:40:22-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -81,
+            "max_turnout": 245,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -75,
+            "max_turnout": -75,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": -6,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 373,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -10,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -23,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-07T16:39:42-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 655,
+            "max_turnout": 655,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 655,
+            "max_turnout": 655,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-07T16:41:45-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 175,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 175,
+            "max_turnout": 0,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-07T16:43:54-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 51,
+            "county_name": "Total"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 51,
+            "county_name": "Lewis"
+        }
+    },
+    "2022-08-08T18:18:55-04:00": {
+        "0": {
+            "Kent": 958,
+            "Herrera Beutler": 1004,
+            "Perez": 1052,
+            "total": 4311,
+            "min_turnout": 4066,
+            "max_turnout": 1328,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 958,
+            "Herrera Beutler": 1004,
+            "Perez": 1052,
+            "total": 4311,
+            "min_turnout": 4066,
+            "max_turnout": 1328,
+            "county_name": "Cowlitz"
+        }
+    },
+    "2022-08-08T18:21:55-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 538,
+            "max_turnout": 815,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 538,
+            "max_turnout": 538,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 495,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 74,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -364,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 22,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 50,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-08T20:23:07-04:00": {
+        "0": {
+            "Kent": 5053,
+            "Herrera Beutler": 3937,
+            "Perez": 6139,
+            "total": 19967,
+            "min_turnout": 15342,
+            "max_turnout": 15342,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 5053,
+            "Herrera Beutler": 3937,
+            "Perez": 6139,
+            "total": 19967,
+            "min_turnout": 15342,
+            "max_turnout": 15342,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-08T20:24:46-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 5883,
+            "max_turnout": 6180,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 5883,
+            "max_turnout": 5883,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 115,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 35,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 78,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-08T20:45:37-04:00": {
+        "0": {
+            "Kent": 266,
+            "Herrera Beutler": 119,
+            "Perez": 182,
+            "total": 760,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 266,
+            "Herrera Beutler": 119,
+            "Perez": 182,
+            "total": 760,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-08T20:48:48-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-08T21:47:16-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Lewis"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-09T18:41:18-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 874,
+            "county_name": "Total"
+        },
+        "2": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 849,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 48,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 12,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -15,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-09T20:05:17-04:00": {
+        "0": {
+            "Kent": 1769,
+            "Herrera Beutler": 1860,
+            "Perez": 2897,
+            "total": 8458,
+            "min_turnout": 2575,
+            "max_turnout": 2575,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 1769,
+            "Herrera Beutler": 1860,
+            "Perez": 2897,
+            "total": 8458,
+            "min_turnout": 2575,
+            "max_turnout": 2575,
+            "county_name": "Clark"
+        }
+    },
+    "2022-08-09T20:12:08-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 4305,
+            "max_turnout": 4445,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 4305,
+            "max_turnout": 4305,
+            "county_name": "Clark"
+        },
+        "3": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 72,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 15,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 37,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-09T20:36:37-04:00": {
+        "0": {
+            "Kent": 123,
+            "Herrera Beutler": 64,
+            "Perez": 59,
+            "total": 320,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 123,
+            "Herrera Beutler": 64,
+            "Perez": 59,
+            "total": 320,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-09T20:43:33-04:00": {
+        "0": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Total"
+        },
+        "6": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -37,
+            "county_name": "Thurston"
+        }
+    },
+    "2022-08-16T21:12:40-04:00": {
+        "0": {
+            "Kent": 372,
+            "Herrera Beutler": 241,
+            "Perez": 263,
+            "total": 1272,
+            "min_turnout": -1674,
+            "max_turnout": -2066,
+            "county_name": "Total"
+        },
+        "1": {
+            "Kent": 84,
+            "Herrera Beutler": 62,
+            "Perez": 105,
+            "total": 333,
+            "min_turnout": -2535,
+            "max_turnout": -2535,
+            "county_name": "Clark"
+        },
+        "2": {
+            "Kent": 147,
+            "Herrera Beutler": 108,
+            "Perez": 101,
+            "total": 534,
+            "min_turnout": 534,
+            "max_turnout": -328,
+            "county_name": "Cowlitz"
+        },
+        "3": {
+            "Kent": 117,
+            "Herrera Beutler": 56,
+            "Perez": 46,
+            "total": 327,
+            "min_turnout": 327,
+            "max_turnout": 725,
+            "county_name": "Lewis"
+        },
+        "4": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 76,
+            "county_name": "Pacific"
+        },
+        "5": {
+            "Kent": 0,
+            "Herrera Beutler": 0,
+            "Perez": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -20,
+            "county_name": "Skamania"
+        },
+        "6": {
+            "Kent": 24,
+            "Herrera Beutler": 15,
+            "Perez": 11,
+            "total": 78,
+            "min_turnout": 0,
+            "max_turnout": 16,
+            "county_name": "Thurston"
+        }
+    }
+}

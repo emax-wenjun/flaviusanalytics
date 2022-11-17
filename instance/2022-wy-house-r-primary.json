@@ -1,0 +1,317 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hageman": 113025,
+            "Cheney": 49316,
+            "total": 170409,
+            "min_turnout": 172059,
+            "max_turnout": 172919
+        },
+        {
+            "county_name": "Albany",
+            "Hageman": 3967,
+            "Cheney": 4218,
+            "total": 8399,
+            "min_turnout": 8473,
+            "max_turnout": 8484
+        },
+        {
+            "county_name": "Big Horn",
+            "Hageman": 3123,
+            "Cheney": 732,
+            "total": 4104,
+            "min_turnout": 4145,
+            "max_turnout": 4452
+        },
+        {
+            "county_name": "Campbell",
+            "Hageman": 9164,
+            "Cheney": 1633,
+            "total": 12003,
+            "min_turnout": 12124,
+            "max_turnout": 12143
+        },
+        {
+            "county_name": "Carbon",
+            "Hageman": 2852,
+            "Cheney": 819,
+            "total": 3931,
+            "min_turnout": 3970,
+            "max_turnout": 3991
+        },
+        {
+            "county_name": "Converse",
+            "Hageman": 3829,
+            "Cheney": 822,
+            "total": 4905,
+            "min_turnout": 4954,
+            "max_turnout": 4972
+        },
+        {
+            "county_name": "Crook",
+            "Hageman": 2370,
+            "Cheney": 403,
+            "total": 2957,
+            "min_turnout": 2986,
+            "max_turnout": 3020
+        },
+        {
+            "county_name": "Fremont",
+            "Hageman": 7380,
+            "Cheney": 3458,
+            "total": 11221,
+            "min_turnout": 11334,
+            "max_turnout": 11398
+        },
+        {
+            "county_name": "Goshen",
+            "Hageman": 3356,
+            "Cheney": 958,
+            "total": 4456,
+            "min_turnout": 4501,
+            "max_turnout": 4518
+        },
+        {
+            "county_name": "Hot Springs",
+            "Hageman": 1440,
+            "Cheney": 383,
+            "total": 1906,
+            "min_turnout": 1925,
+            "max_turnout": 1936
+        },
+        {
+            "county_name": "Johnson",
+            "Hageman": 2738,
+            "Cheney": 890,
+            "total": 3834,
+            "min_turnout": 3872,
+            "max_turnout": 3905
+        },
+        {
+            "county_name": "Laramie",
+            "Hageman": 14424,
+            "Cheney": 9757,
+            "total": 25340,
+            "min_turnout": 25595,
+            "max_turnout": 25720
+        },
+        {
+            "county_name": "Lincoln",
+            "Hageman": 4886,
+            "Cheney": 1221,
+            "total": 6456,
+            "min_turnout": 6521,
+            "max_turnout": 6528
+        },
+        {
+            "county_name": "Natrona",
+            "Hageman": 14200,
+            "Cheney": 6511,
+            "total": 21374,
+            "min_turnout": 21589,
+            "max_turnout": 21632
+        },
+        {
+            "county_name": "Niobrara",
+            "Hageman": 908,
+            "Cheney": 113,
+            "total": 1065,
+            "min_turnout": 1075,
+            "max_turnout": 1083
+        },
+        {
+            "county_name": "Park",
+            "Hageman": 8672,
+            "Cheney": 2821,
+            "total": 11862,
+            "min_turnout": 11965,
+            "max_turnout": 11982
+        },
+        {
+            "county_name": "Platte",
+            "Hageman": 2777,
+            "Cheney": 535,
+            "total": 3460,
+            "min_turnout": 3473,
+            "max_turnout": 3495
+        },
+        {
+            "county_name": "Sheridan",
+            "Hageman": 7366,
+            "Cheney": 3057,
+            "total": 10882,
+            "min_turnout": 10991,
+            "max_turnout": 11063
+        },
+        {
+            "county_name": "Sublette",
+            "Hageman": 2538,
+            "Cheney": 849,
+            "total": 3532,
+            "min_turnout": 3567,
+            "max_turnout": 3580
+        },
+        {
+            "county_name": "Sweetwater",
+            "Hageman": 6722,
+            "Cheney": 2162,
+            "total": 9641,
+            "min_turnout": 9738,
+            "max_turnout": 9738
+        },
+        {
+            "county_name": "Teton",
+            "Hageman": 1928,
+            "Cheney": 5955,
+            "total": 7945,
+            "min_turnout": 8025,
+            "max_turnout": 8025
+        },
+        {
+            "county_name": "Uinta",
+            "Hageman": 4030,
+            "Cheney": 1156,
+            "total": 5557,
+            "min_turnout": 5613,
+            "max_turnout": 5619
+        },
+        {
+            "county_name": "Washakie",
+            "Hageman": 2213,
+            "Cheney": 531,
+            "total": 2919,
+            "min_turnout": 2938,
+            "max_turnout": 2948
+        },
+        {
+            "county_name": "Weston",
+            "Hageman": 2142,
+            "Cheney": 332,
+            "total": 2660,
+            "min_turnout": 2685,
+            "max_turnout": 2687
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Albany": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Big Horn": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Campbell": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Carbon": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Converse": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Crook": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Fremont": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Goshen": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Hot Springs": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Laramie": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Natrona": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Niobrara": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Park": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Platte": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sheridan": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sublette": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Sweetwater": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Teton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Uinta": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Washakie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Weston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

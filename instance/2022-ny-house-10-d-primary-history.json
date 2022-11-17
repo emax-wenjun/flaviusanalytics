@@ -1,0 +1,1534 @@
+{
+    "2022-08-22T20:13:31-04:00": {
+        "0": {
+            "county_name": "Total",
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 718083,
+            "max_turnout": 718083
+        },
+        "1": {
+            "county_name": "Kings",
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 409824,
+            "max_turnout": 409824
+        },
+        "2": {
+            "county_name": "New York",
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 308259,
+            "max_turnout": 308259
+        }
+    },
+    "2022-08-23T15:00:57-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -679216,
+            "max_turnout": -635268,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -389023,
+            "max_turnout": -385020,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -290193,
+            "max_turnout": -250248,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T18:00:01-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -3326,
+            "max_turnout": -21143,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -3326,
+            "max_turnout": -4003,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -17140,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T18:36:31-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 4459,
+            "max_turnout": 6999,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6999,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 4459,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:04:13-04:00": {
+        "0": {
+            "Goldman": 3150,
+            "Niou": 1487,
+            "Rivera": 1157,
+            "Jones": 1463,
+            "total": 8782,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 3150,
+            "Niou": 1487,
+            "Rivera": 1157,
+            "Jones": 1463,
+            "total": 8782,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:04:36-04:00": {
+        "0": {
+            "Goldman": 2729,
+            "Niou": 3161,
+            "Rivera": 2146,
+            "Jones": 2414,
+            "total": 12758,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 2729,
+            "Niou": 3161,
+            "Rivera": 2146,
+            "Jones": 2414,
+            "total": 12758,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:05:22-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -570,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -570,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:06:25-04:00": {
+        "0": {
+            "Goldman": 198,
+            "Niou": 221,
+            "Rivera": 133,
+            "Jones": 148,
+            "total": 797,
+            "min_turnout": 25,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 50,
+            "Niou": 119,
+            "Rivera": 70,
+            "Jones": 70,
+            "total": 347,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 148,
+            "Niou": 102,
+            "Rivera": 63,
+            "Jones": 78,
+            "total": 450,
+            "min_turnout": 25,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:11:19-04:00": {
+        "0": {
+            "Goldman": 1373,
+            "Niou": 756,
+            "Rivera": 744,
+            "Jones": 673,
+            "total": 4208,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 342,
+            "Niou": 208,
+            "Rivera": 235,
+            "Jones": 136,
+            "total": 1210,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 1031,
+            "Niou": 548,
+            "Rivera": 509,
+            "Jones": 537,
+            "total": 2998,
+            "min_turnout": -141,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:16:20-04:00": {
+        "0": {
+            "Goldman": 913,
+            "Niou": 928,
+            "Rivera": 586,
+            "Jones": 581,
+            "total": 3537,
+            "min_turnout": 81,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 415,
+            "Niou": 449,
+            "Rivera": 288,
+            "Jones": 292,
+            "total": 1738,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 498,
+            "Niou": 479,
+            "Rivera": 298,
+            "Jones": 289,
+            "total": 1799,
+            "min_turnout": 81,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:17:06-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4306,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4306,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:17:23-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 605,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 605,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:20:56-04:00": {
+        "0": {
+            "Goldman": 70,
+            "Niou": 42,
+            "Rivera": 33,
+            "Jones": 46,
+            "total": 227,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 70,
+            "Niou": 42,
+            "Rivera": 33,
+            "Jones": 46,
+            "total": 227,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:21:13-04:00": {
+        "0": {
+            "Goldman": 1011,
+            "Niou": 792,
+            "Rivera": 797,
+            "Jones": 612,
+            "total": 3748,
+            "min_turnout": 150,
+            "max_turnout": -61,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 252,
+            "Niou": 324,
+            "Rivera": 348,
+            "Jones": 205,
+            "total": 1345,
+            "min_turnout": 150,
+            "max_turnout": -61,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 759,
+            "Niou": 468,
+            "Rivera": 449,
+            "Jones": 407,
+            "total": 2403,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:25:51-04:00": {
+        "0": {
+            "Goldman": 92,
+            "Niou": 105,
+            "Rivera": 134,
+            "Jones": 61,
+            "total": 453,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 92,
+            "Niou": 105,
+            "Rivera": 134,
+            "Jones": 61,
+            "total": 453,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:26:13-04:00": {
+        "0": {
+            "Goldman": 417,
+            "Niou": 748,
+            "Rivera": 409,
+            "Jones": 498,
+            "total": 2377,
+            "min_turnout": 2377,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 417,
+            "Niou": 748,
+            "Rivera": 409,
+            "Jones": 498,
+            "total": 2377,
+            "min_turnout": 2377,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:26:19-04:00": {
+        "0": {
+            "Goldman": 227,
+            "Niou": 469,
+            "Rivera": 259,
+            "Jones": 341,
+            "total": 1498,
+            "min_turnout": 1498,
+            "max_turnout": 44,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 227,
+            "Niou": 469,
+            "Rivera": 259,
+            "Jones": 341,
+            "total": 1498,
+            "min_turnout": 1498,
+            "max_turnout": 44,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:30:44-04:00": {
+        "0": {
+            "Goldman": 539,
+            "Niou": 429,
+            "Rivera": 295,
+            "Jones": 334,
+            "total": 1864,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 539,
+            "Niou": 429,
+            "Rivera": 295,
+            "Jones": 334,
+            "total": 1864,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:31:19-04:00": {
+        "0": {
+            "Goldman": 125,
+            "Niou": 76,
+            "Rivera": 146,
+            "Jones": 98,
+            "total": 491,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 125,
+            "Niou": 76,
+            "Rivera": 146,
+            "Jones": 98,
+            "total": 491,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:31:25-04:00": {
+        "0": {
+            "Goldman": 386,
+            "Niou": 883,
+            "Rivera": 489,
+            "Jones": 506,
+            "total": 2584,
+            "min_turnout": 2584,
+            "max_turnout": 23,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 386,
+            "Niou": 883,
+            "Rivera": 489,
+            "Jones": 506,
+            "total": 2584,
+            "min_turnout": 2584,
+            "max_turnout": 23,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:36:14-04:00": {
+        "0": {
+            "Goldman": 402,
+            "Niou": 354,
+            "Rivera": 366,
+            "Jones": 200,
+            "total": 1573,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 402,
+            "Niou": 354,
+            "Rivera": 366,
+            "Jones": 200,
+            "total": 1573,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:36:26-04:00": {
+        "0": {
+            "Goldman": 605,
+            "Niou": 628,
+            "Rivera": 443,
+            "Jones": 555,
+            "total": 2621,
+            "min_turnout": 2621,
+            "max_turnout": 62,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 605,
+            "Niou": 628,
+            "Rivera": 443,
+            "Jones": 555,
+            "total": 2621,
+            "min_turnout": 2621,
+            "max_turnout": 62,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:37:35-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 1095,
+            "max_turnout": 33488,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 1095,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 33488,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:40:28-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4916,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4916,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:40:57-04:00": {
+        "0": {
+            "Goldman": 342,
+            "Niou": 299,
+            "Rivera": 193,
+            "Jones": 203,
+            "total": 1200,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 342,
+            "Niou": 299,
+            "Rivera": 193,
+            "Jones": 203,
+            "total": 1200,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:41:14-04:00": {
+        "0": {
+            "Goldman": 497,
+            "Niou": 762,
+            "Rivera": 479,
+            "Jones": 493,
+            "total": 2641,
+            "min_turnout": 1546,
+            "max_turnout": 56,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 497,
+            "Niou": 762,
+            "Rivera": 479,
+            "Jones": 493,
+            "total": 2641,
+            "min_turnout": 1546,
+            "max_turnout": 56,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:46:02-04:00": {
+        "0": {
+            "Goldman": 1066,
+            "Niou": 1414,
+            "Rivera": 829,
+            "Jones": 851,
+            "total": 4739,
+            "min_turnout": 4227,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 455,
+            "Niou": 952,
+            "Rivera": 513,
+            "Jones": 591,
+            "total": 2837,
+            "min_turnout": 2837,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 611,
+            "Niou": 462,
+            "Rivera": 316,
+            "Jones": 260,
+            "total": 1902,
+            "min_turnout": 1390,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:46:20-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -155,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -155,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:50:25-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 4335,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 4335,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:51:17-04:00": {
+        "0": {
+            "Goldman": 1068,
+            "Niou": 1043,
+            "Rivera": 630,
+            "Jones": 768,
+            "total": 4158,
+            "min_turnout": 4062,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 1039,
+            "Niou": 1027,
+            "Rivera": 612,
+            "Jones": 748,
+            "total": 4062,
+            "min_turnout": 4062,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 29,
+            "Niou": 16,
+            "Rivera": 18,
+            "Jones": 20,
+            "total": 96,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:51:22-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1161,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1161,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:55:58-04:00": {
+        "0": {
+            "Goldman": 75,
+            "Niou": 33,
+            "Rivera": 29,
+            "Jones": 40,
+            "total": 199,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 75,
+            "Niou": 33,
+            "Rivera": 29,
+            "Jones": 40,
+            "total": 199,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T21:56:21-04:00": {
+        "0": {
+            "Goldman": 56,
+            "Niou": 129,
+            "Rivera": 85,
+            "Jones": 81,
+            "total": 391,
+            "min_turnout": 391,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 56,
+            "Niou": 129,
+            "Rivera": 85,
+            "Jones": 81,
+            "total": 391,
+            "min_turnout": 391,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T21:56:27-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 412,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 412,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:01:02-04:00": {
+        "0": {
+            "Goldman": 355,
+            "Niou": 107,
+            "Rivera": 101,
+            "Jones": 239,
+            "total": 912,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 355,
+            "Niou": 107,
+            "Rivera": 101,
+            "Jones": 239,
+            "total": 912,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:01:19-04:00": {
+        "0": {
+            "Goldman": 78,
+            "Niou": 41,
+            "Rivera": 24,
+            "Jones": 45,
+            "total": 235,
+            "min_turnout": 170,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 49,
+            "Niou": 28,
+            "Rivera": 19,
+            "Jones": 35,
+            "total": 170,
+            "min_turnout": 170,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 29,
+            "Niou": 13,
+            "Rivera": 5,
+            "Jones": 10,
+            "total": 65,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:01:30-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 179,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 179,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:03:31-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2257,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2257,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:06:13-04:00": {
+        "0": {
+            "Goldman": 182,
+            "Niou": 23,
+            "Rivera": 22,
+            "Jones": 35,
+            "total": 302,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 150,
+            "Niou": 8,
+            "Rivera": 8,
+            "Jones": 9,
+            "total": 197,
+            "min_turnout": 197,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 32,
+            "Niou": 15,
+            "Rivera": 14,
+            "Jones": 26,
+            "total": 105,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:15:40-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 3,
+            "Rivera": 3,
+            "Jones": 1,
+            "total": 7,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 3,
+            "Rivera": 3,
+            "Jones": 1,
+            "total": 7,
+            "min_turnout": 7,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:16:20-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -24523,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -24523,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:26:14-04:00": {
+        "0": {
+            "Goldman": 79,
+            "Niou": 129,
+            "Rivera": 52,
+            "Jones": 70,
+            "total": 366,
+            "min_turnout": 366,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 79,
+            "Niou": 129,
+            "Rivera": 52,
+            "Jones": 70,
+            "total": 366,
+            "min_turnout": 366,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:29:18-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -2958,
+            "max_turnout": -16990,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": -2958,
+            "max_turnout": -16990,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:33:15-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4596,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4596,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:36:00-04:00": {
+        "0": {
+            "Goldman": 273,
+            "Niou": 92,
+            "Rivera": 76,
+            "Jones": 177,
+            "total": 734,
+            "min_turnout": 734,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 8,
+            "Niou": 19,
+            "Rivera": 17,
+            "Jones": 6,
+            "total": 86,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 265,
+            "Niou": 73,
+            "Rivera": 59,
+            "Jones": 171,
+            "total": 648,
+            "min_turnout": 648,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:37:30-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 2233,
+            "max_turnout": 4477,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 1971,
+            "max_turnout": 2972,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 262,
+            "max_turnout": 1505,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:41:04-04:00": {
+        "0": {
+            "Goldman": 17,
+            "Niou": 22,
+            "Rivera": 44,
+            "Jones": 17,
+            "total": 109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 17,
+            "Niou": 22,
+            "Rivera": 44,
+            "Jones": 17,
+            "total": 109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:41:09-04:00": {
+        "0": {
+            "Goldman": 7,
+            "Niou": 25,
+            "Rivera": 15,
+            "Jones": 7,
+            "total": 87,
+            "min_turnout": 202,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 7,
+            "Niou": 25,
+            "Rivera": 15,
+            "Jones": 7,
+            "total": 87,
+            "min_turnout": 92,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 110,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:45:23-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1094,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 203,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 891,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:46:02-04:00": {
+        "0": {
+            "Goldman": 120,
+            "Niou": 47,
+            "Rivera": 44,
+            "Jones": 60,
+            "total": 319,
+            "min_turnout": 56,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 120,
+            "Niou": 47,
+            "Rivera": 44,
+            "Jones": 60,
+            "total": 319,
+            "min_turnout": 56,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:46:13-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 266,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 266,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T22:51:19-04:00": {
+        "0": {
+            "Goldman": 3,
+            "Niou": 2,
+            "Rivera": 18,
+            "Jones": 5,
+            "total": 36,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 3,
+            "Niou": 2,
+            "Rivera": 18,
+            "Jones": 5,
+            "total": 36,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:51:30-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 38,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 38,
+            "max_turnout": 0,
+            "county_name": "Kings"
+        }
+    },
+    "2022-08-23T22:55:12-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 375,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 375,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:01:05-04:00": {
+        "0": {
+            "Goldman": 25,
+            "Niou": 18,
+            "Rivera": 38,
+            "Jones": 24,
+            "total": 128,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 25,
+            "Niou": 18,
+            "Rivera": 38,
+            "Jones": 24,
+            "total": 128,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:01:11-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:05:58-04:00": {
+        "0": {
+            "Goldman": 104,
+            "Niou": 70,
+            "Rivera": 91,
+            "Jones": 58,
+            "total": 367,
+            "min_turnout": 100,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 104,
+            "Niou": 70,
+            "Rivera": 91,
+            "Jones": 58,
+            "total": 367,
+            "min_turnout": 100,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:06:15-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 271,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 271,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-23T23:11:07-04:00": {
+        "0": {
+            "Goldman": 102,
+            "Niou": 42,
+            "Rivera": 75,
+            "Jones": 73,
+            "total": 324,
+            "min_turnout": 327,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Goldman": 102,
+            "Niou": 42,
+            "Rivera": 75,
+            "Jones": 73,
+            "total": 324,
+            "min_turnout": 327,
+            "max_turnout": 0,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-24T00:11:25-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1007,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 43,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 964,
+            "county_name": "New York"
+        }
+    },
+    "2022-08-24T00:13:50-04:00": {
+        "0": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -5799,
+            "county_name": "Total"
+        },
+        "1": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3365,
+            "county_name": "Kings"
+        },
+        "2": {
+            "Goldman": 0,
+            "Niou": 0,
+            "Rivera": 0,
+            "Jones": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -2434,
+            "county_name": "New York"
+        }
+    }
+}

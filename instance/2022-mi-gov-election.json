@@ -1,0 +1,1097 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Whitmer": 2428598,
+            "Dixon": 1957896,
+            "total": 4456794,
+            "min_turnout": 4496307,
+            "max_turnout": 4677689
+        },
+        {
+            "county_name": "Alcona",
+            "Whitmer": 2076,
+            "Dixon": 3802,
+            "total": 5981,
+            "min_turnout": 5981,
+            "max_turnout": 6280
+        },
+        {
+            "county_name": "Alger",
+            "Whitmer": 1984,
+            "Dixon": 2258,
+            "total": 4326,
+            "min_turnout": 4326,
+            "max_turnout": 4370
+        },
+        {
+            "county_name": "Allegan",
+            "Whitmer": 22802,
+            "Dixon": 33590,
+            "total": 57341,
+            "min_turnout": 57920,
+            "max_turnout": 60208
+        },
+        {
+            "county_name": "Alpena",
+            "Whitmer": 5779,
+            "Dixon": 7920,
+            "total": 13980,
+            "min_turnout": 14121,
+            "max_turnout": 14679
+        },
+        {
+            "county_name": "Antrim",
+            "Whitmer": 5937,
+            "Dixon": 7827,
+            "total": 14014,
+            "min_turnout": 14014,
+            "max_turnout": 14715
+        },
+        {
+            "county_name": "Arenac",
+            "Whitmer": 2709,
+            "Dixon": 4314,
+            "total": 7170,
+            "min_turnout": 7242,
+            "max_turnout": 7392
+        },
+        {
+            "county_name": "Baraga",
+            "Whitmer": 1329,
+            "Dixon": 2056,
+            "total": 3444,
+            "min_turnout": 3444,
+            "max_turnout": 3496
+        },
+        {
+            "county_name": "Barry",
+            "Whitmer": 11553,
+            "Dixon": 18546,
+            "total": 30697,
+            "min_turnout": 31007,
+            "max_turnout": 32232
+        },
+        {
+            "county_name": "Bay",
+            "Whitmer": 24780,
+            "Dixon": 23443,
+            "total": 49201,
+            "min_turnout": 49648,
+            "max_turnout": 51661
+        },
+        {
+            "county_name": "Benzie",
+            "Whitmer": 5443,
+            "Dixon": 5064,
+            "total": 10685,
+            "min_turnout": 10776,
+            "max_turnout": 11219
+        },
+        {
+            "county_name": "Berrien",
+            "Whitmer": 29527,
+            "Dixon": 32781,
+            "total": 63360,
+            "min_turnout": 64000,
+            "max_turnout": 65979
+        },
+        {
+            "county_name": "Branch",
+            "Whitmer": 5674,
+            "Dixon": 10131,
+            "total": 16127,
+            "min_turnout": 16290,
+            "max_turnout": 16933
+        },
+        {
+            "county_name": "Calhoun",
+            "Whitmer": 24916,
+            "Dixon": 25694,
+            "total": 51576,
+            "min_turnout": 52097,
+            "max_turnout": 53894
+        },
+        {
+            "county_name": "Cass",
+            "Whitmer": 7350,
+            "Dixon": 12666,
+            "total": 20353,
+            "min_turnout": 20559,
+            "max_turnout": 21119
+        },
+        {
+            "county_name": "Charlevoix",
+            "Whitmer": 6728,
+            "Dixon": 7667,
+            "total": 14669,
+            "min_turnout": 14816,
+            "max_turnout": 15152
+        },
+        {
+            "county_name": "Cheboygan",
+            "Whitmer": 5073,
+            "Dixon": 7039,
+            "total": 12365,
+            "min_turnout": 12490,
+            "max_turnout": 13526
+        },
+        {
+            "county_name": "Chippewa",
+            "Whitmer": 6303,
+            "Dixon": 7902,
+            "total": 14535,
+            "min_turnout": 14535,
+            "max_turnout": 14794
+        },
+        {
+            "county_name": "Clare",
+            "Whitmer": 6303,
+            "Dixon": 7902,
+            "total": 14535,
+            "min_turnout": 14535,
+            "max_turnout": 15262
+        },
+        {
+            "county_name": "Clinton",
+            "Whitmer": 20664,
+            "Dixon": 19904,
+            "total": 41204,
+            "min_turnout": 41204,
+            "max_turnout": 43470
+        },
+        {
+            "county_name": "Crawford",
+            "Whitmer": 2655,
+            "Dixon": 3728,
+            "total": 6531,
+            "min_turnout": 6531,
+            "max_turnout": 6858
+        },
+        {
+            "county_name": "Delta",
+            "Whitmer": 6890,
+            "Dixon": 10102,
+            "total": 17346,
+            "min_turnout": 17346,
+            "max_turnout": 17655
+        },
+        {
+            "county_name": "Dickinson",
+            "Whitmer": 4310,
+            "Dixon": 7446,
+            "total": 11985,
+            "min_turnout": 11985,
+            "max_turnout": 12114
+        },
+        {
+            "county_name": "Eaton",
+            "Whitmer": 28209,
+            "Dixon": 23775,
+            "total": 52903,
+            "min_turnout": 53437,
+            "max_turnout": 54720
+        },
+        {
+            "county_name": "Emmet",
+            "Whitmer": 9285,
+            "Dixon": 9590,
+            "total": 19195,
+            "min_turnout": 19195,
+            "max_turnout": 20155
+        },
+        {
+            "county_name": "Genesee",
+            "Whitmer": 100323,
+            "Dixon": 68282,
+            "total": 171591,
+            "min_turnout": 173324,
+            "max_turnout": 180721
+        },
+        {
+            "county_name": "Gladwin",
+            "Whitmer": 4422,
+            "Dixon": 7357,
+            "total": 12025,
+            "min_turnout": 12145,
+            "max_turnout": 12626
+        },
+        {
+            "county_name": "Gogebic",
+            "Whitmer": 2940,
+            "Dixon": 3413,
+            "total": 6466,
+            "min_turnout": 6531,
+            "max_turnout": 6758
+        },
+        {
+            "county_name": "Grand Traverse",
+            "Whitmer": 27396,
+            "Dixon": 24005,
+            "total": 52301,
+            "min_turnout": 52829,
+            "max_turnout": 54916
+        },
+        {
+            "county_name": "Gratiot",
+            "Whitmer": 6285,
+            "Dixon": 8660,
+            "total": 15324,
+            "min_turnout": 15324,
+            "max_turnout": 15477
+        },
+        {
+            "county_name": "Hillsdale",
+            "Whitmer": 5575,
+            "Dixon": 12644,
+            "total": 18650,
+            "min_turnout": 18650,
+            "max_turnout": 19582
+        },
+        {
+            "county_name": "Houghton",
+            "Whitmer": 7030,
+            "Dixon": 8128,
+            "total": 15480,
+            "min_turnout": 15480,
+            "max_turnout": 16254
+        },
+        {
+            "county_name": "Huron",
+            "Whitmer": 5310,
+            "Dixon": 9395,
+            "total": 15008,
+            "min_turnout": 15008,
+            "max_turnout": 15758
+        },
+        {
+            "county_name": "Ingham",
+            "Whitmer": 82431,
+            "Dixon": 34870,
+            "total": 119066,
+            "min_turnout": 120269,
+            "max_turnout": 125019
+        },
+        {
+            "county_name": "Ionia",
+            "Whitmer": 10844,
+            "Dixon": 15786,
+            "total": 27205,
+            "min_turnout": 27480,
+            "max_turnout": 28565
+        },
+        {
+            "county_name": "Iosco",
+            "Whitmer": 5266,
+            "Dixon": 7111,
+            "total": 12631,
+            "min_turnout": 12657,
+            "max_turnout": 13263
+        },
+        {
+            "county_name": "Iron",
+            "Whitmer": 2236,
+            "Dixon": 3282,
+            "total": 5620,
+            "min_turnout": 5620,
+            "max_turnout": 5901
+        },
+        {
+            "county_name": "Isabella",
+            "Whitmer": 12603,
+            "Dixon": 10929,
+            "total": 23982,
+            "min_turnout": 24222,
+            "max_turnout": 24770
+        },
+        {
+            "county_name": "Jackson",
+            "Whitmer": 29011,
+            "Dixon": 34439,
+            "total": 64703,
+            "min_turnout": 64703,
+            "max_turnout": 65657
+        },
+        {
+            "county_name": "Kalamazoo",
+            "Whitmer": 72516,
+            "Dixon": 42436,
+            "total": 116776,
+            "min_turnout": 117956,
+            "max_turnout": 121002
+        },
+        {
+            "county_name": "Kalkaska",
+            "Whitmer": 2641,
+            "Dixon": 4981,
+            "total": 7817,
+            "min_turnout": 7896,
+            "max_turnout": 9080
+        },
+        {
+            "county_name": "Kent",
+            "Whitmer": 162680,
+            "Dixon": 131626,
+            "total": 299095,
+            "min_turnout": 302116,
+            "max_turnout": 314050
+        },
+        {
+            "county_name": "Keweenaw",
+            "Whitmer": 666,
+            "Dixon": 701,
+            "total": 1390,
+            "min_turnout": 1390,
+            "max_turnout": 1460
+        },
+        {
+            "county_name": "Lake",
+            "Whitmer": 2081,
+            "Dixon": 3055,
+            "total": 5260,
+            "min_turnout": 5260,
+            "max_turnout": 5523
+        },
+        {
+            "county_name": "Lapeer",
+            "Whitmer": 15982,
+            "Dixon": 26938,
+            "total": 43799,
+            "min_turnout": 44241,
+            "max_turnout": 45989
+        },
+        {
+            "county_name": "Leelanau",
+            "Whitmer": 8540,
+            "Dixon": 6752,
+            "total": 15474,
+            "min_turnout": 15630,
+            "max_turnout": 16248
+        },
+        {
+            "county_name": "Lenawee",
+            "Whitmer": 18248,
+            "Dixon": 23795,
+            "total": 42856,
+            "min_turnout": 43285,
+            "max_turnout": 44255
+        },
+        {
+            "county_name": "Livingston",
+            "Whitmer": 46522,
+            "Dixon": 60494,
+            "total": 108833,
+            "min_turnout": 109932,
+            "max_turnout": 114275
+        },
+        {
+            "county_name": "Luce",
+            "Whitmer": 786,
+            "Dixon": 1520,
+            "total": 2377,
+            "min_turnout": 2390,
+            "max_turnout": 2565
+        },
+        {
+            "county_name": "Mackinac",
+            "Whitmer": 2567,
+            "Dixon": 3325,
+            "total": 5999,
+            "min_turnout": 5999,
+            "max_turnout": 6090
+        },
+        {
+            "county_name": "Macomb",
+            "Whitmer": 199277,
+            "Dixon": 179259,
+            "total": 384541,
+            "min_turnout": 388425,
+            "max_turnout": 398458
+        },
+        {
+            "county_name": "Manistee",
+            "Whitmer": 6026,
+            "Dixon": 6364,
+            "total": 12646,
+            "min_turnout": 12646,
+            "max_turnout": 12774
+        },
+        {
+            "county_name": "Marquette",
+            "Whitmer": 18880,
+            "Dixon": 11967,
+            "total": 31369,
+            "min_turnout": 31686,
+            "max_turnout": 32937
+        },
+        {
+            "county_name": "Mason",
+            "Whitmer": 6417,
+            "Dixon": 8017,
+            "total": 14757,
+            "min_turnout": 14906,
+            "max_turnout": 15193
+        },
+        {
+            "county_name": "Mecosta",
+            "Whitmer": 6866,
+            "Dixon": 10263,
+            "total": 17510,
+            "min_turnout": 17687,
+            "max_turnout": 18386
+        },
+        {
+            "county_name": "Menominee",
+            "Whitmer": 3347,
+            "Dixon": 6129,
+            "total": 9676,
+            "min_turnout": 9774,
+            "max_turnout": 10160
+        },
+        {
+            "county_name": "Midland",
+            "Whitmer": 19497,
+            "Dixon": 20964,
+            "total": 41224,
+            "min_turnout": 41640,
+            "max_turnout": 43285
+        },
+        {
+            "county_name": "Missaukee",
+            "Whitmer": 1995,
+            "Dixon": 5306,
+            "total": 7448,
+            "min_turnout": 7448,
+            "max_turnout": 7820
+        },
+        {
+            "county_name": "Monroe",
+            "Whitmer": 28080,
+            "Dixon": 37358,
+            "total": 66599,
+            "min_turnout": 67272,
+            "max_turnout": 70882
+        },
+        {
+            "county_name": "Montcalm",
+            "Whitmer": 9622,
+            "Dixon": 16165,
+            "total": 26395,
+            "min_turnout": 26662,
+            "max_turnout": 27715
+        },
+        {
+            "county_name": "Montmorency",
+            "Whitmer": 1701,
+            "Dixon": 3300,
+            "total": 5118,
+            "min_turnout": 5118,
+            "max_turnout": 5374
+        },
+        {
+            "county_name": "Muskegon",
+            "Whitmer": 39395,
+            "Dixon": 33219,
+            "total": 74280,
+            "min_turnout": 75030,
+            "max_turnout": 76435
+        },
+        {
+            "county_name": "Newaygo",
+            "Whitmer": 7415,
+            "Dixon": 14879,
+            "total": 22759,
+            "min_turnout": 22989,
+            "max_turnout": 23897
+        },
+        {
+            "county_name": "Oakland",
+            "Whitmer": 383391,
+            "Dixon": 238137,
+            "total": 629374,
+            "min_turnout": 635196,
+            "max_turnout": 654240
+        },
+        {
+            "county_name": "Oceana",
+            "Whitmer": 4820,
+            "Dixon": 7012,
+            "total": 12086,
+            "min_turnout": 12086,
+            "max_turnout": 12690
+        },
+        {
+            "county_name": "Ogemaw",
+            "Whitmer": 3532,
+            "Dixon": 6151,
+            "total": 9892,
+            "min_turnout": 9892,
+            "max_turnout": 10016
+        },
+        {
+            "county_name": "Ontonagon",
+            "Whitmer": 1319,
+            "Dixon": 1862,
+            "total": 3259,
+            "min_turnout": 3259,
+            "max_turnout": 3422
+        },
+        {
+            "county_name": "Osceola",
+            "Whitmer": 3174,
+            "Dixon": 6954,
+            "total": 10379,
+            "min_turnout": 10484,
+            "max_turnout": 10898
+        },
+        {
+            "county_name": "Oscoda",
+            "Whitmer": 1355,
+            "Dixon": 2553,
+            "total": 4012,
+            "min_turnout": 4052,
+            "max_turnout": 4113
+        },
+        {
+            "county_name": "Otsego",
+            "Whitmer": 4819,
+            "Dixon": 7422,
+            "total": 12506,
+            "min_turnout": 12632,
+            "max_turnout": 13131
+        },
+        {
+            "county_name": "Ottawa",
+            "Whitmer": 58939,
+            "Dixon": 85350,
+            "total": 146407,
+            "min_turnout": 147886,
+            "max_turnout": 153727
+        },
+        {
+            "county_name": "Presque Isle",
+            "Whitmer": 2981,
+            "Dixon": 4165,
+            "total": 7298,
+            "min_turnout": 7372,
+            "max_turnout": 7522
+        },
+        {
+            "county_name": "Roscommon",
+            "Whitmer": 5284,
+            "Dixon": 7391,
+            "total": 12951,
+            "min_turnout": 12951,
+            "max_turnout": 13599
+        },
+        {
+            "county_name": "Saginaw",
+            "Whitmer": 43193,
+            "Dixon": 37003,
+            "total": 81572,
+            "min_turnout": 82396,
+            "max_turnout": 85548
+        },
+        {
+            "county_name": "Saint Clair",
+            "Whitmer": 30170,
+            "Dixon": 42731,
+            "total": 74504,
+            "min_turnout": 75249,
+            "max_turnout": 76737
+        },
+        {
+            "county_name": "Saint Joseph",
+            "Whitmer": 8410,
+            "Dixon": 13063,
+            "total": 21921,
+            "min_turnout": 22140,
+            "max_turnout": 22603
+        },
+        {
+            "county_name": "Sanilac",
+            "Whitmer": 5967,
+            "Dixon": 12473,
+            "total": 18804,
+            "min_turnout": 18994,
+            "max_turnout": 19744
+        },
+        {
+            "county_name": "Schoolcraft",
+            "Whitmer": 1524,
+            "Dixon": 2264,
+            "total": 3884,
+            "min_turnout": 3884,
+            "max_turnout": 4078
+        },
+        {
+            "county_name": "Shiawassee",
+            "Whitmer": 14730,
+            "Dixon": 16969,
+            "total": 31699,
+            "min_turnout": 31699,
+            "max_turnout": 33367
+        },
+        {
+            "county_name": "Tuscola",
+            "Whitmer": 8415,
+            "Dixon": 15075,
+            "total": 24001,
+            "min_turnout": 24001,
+            "max_turnout": 25201
+        },
+        {
+            "county_name": "Van Buren",
+            "Whitmer": 16266,
+            "Dixon": 16700,
+            "total": 33598,
+            "min_turnout": 33598,
+            "max_turnout": 34701
+        },
+        {
+            "county_name": "Washtenaw",
+            "Whitmer": 135902,
+            "Dixon": 42803,
+            "total": 180845,
+            "min_turnout": 182672,
+            "max_turnout": 189887
+        },
+        {
+            "county_name": "Wayne",
+            "Whitmer": 457064,
+            "Dixon": 180426,
+            "total": 645124,
+            "min_turnout": 651640,
+            "max_turnout": 700204
+        },
+        {
+            "county_name": "Wexford",
+            "Whitmer": 5645,
+            "Dixon": 9131,
+            "total": 15105,
+            "min_turnout": 15105,
+            "max_turnout": 15258
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alcona": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Alger": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Allegan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Alpena": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Antrim": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Arenac": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Baraga": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bay": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Benzie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Berrien": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Branch": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Calhoun": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cass": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Charlevoix": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cheboygan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chippewa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Clare": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Clinton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dickinson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Eaton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Emmet": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Genesee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gladwin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gogebic": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grand Traverse": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gratiot": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Hillsdale": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Houghton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Huron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ingham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ionia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Iosco": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Isabella": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Kalamazoo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kalkaska": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Kent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Keweenaw": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lapeer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Leelanau": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lenawee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Livingston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Luce": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mackinac": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Macomb": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Manistee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Marquette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mason": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mecosta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Menominee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Midland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Missaukee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montcalm": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montmorency": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Muskegon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Newaygo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Oakland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Oceana": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Ogemaw": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ontonagon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Osceola": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Oscoda": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Otsego": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ottawa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Presque Isle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Roscommon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saginaw": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saint Clair": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Saint Joseph": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Sanilac": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Schoolcraft": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shiawassee": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Tuscola": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Van Buren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washtenaw": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wexford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        }
+    }
+}

@@ -1,0 +1,1019 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Hofmeister": 481396,
+            "Stitt": 638910,
+            "total": 1152162,
+            "min_turnout": 1163708,
+            "max_turnout": 1230620
+        },
+        {
+            "county_name": "Adair",
+            "Hofmeister": 1890,
+            "Stitt": 3129,
+            "total": 5209,
+            "min_turnout": 5261,
+            "max_turnout": 5483
+        },
+        {
+            "county_name": "Alfalfa",
+            "Hofmeister": 385,
+            "Stitt": 1285,
+            "total": 1733,
+            "min_turnout": 1750,
+            "max_turnout": 1904
+        },
+        {
+            "county_name": "Atoka",
+            "Hofmeister": 1007,
+            "Stitt": 2781,
+            "total": 3907,
+            "min_turnout": 3946,
+            "max_turnout": 4246
+        },
+        {
+            "county_name": "Beaver",
+            "Hofmeister": 249,
+            "Stitt": 1380,
+            "total": 1696,
+            "min_turnout": 1713,
+            "max_turnout": 1905
+        },
+        {
+            "county_name": "Beckham",
+            "Hofmeister": 1238,
+            "Stitt": 4107,
+            "total": 5470,
+            "min_turnout": 5525,
+            "max_turnout": 6010
+        },
+        {
+            "county_name": "Blaine",
+            "Hofmeister": 886,
+            "Stitt": 1983,
+            "total": 2978,
+            "min_turnout": 3008,
+            "max_turnout": 3134
+        },
+        {
+            "county_name": "Bryan",
+            "Hofmeister": 3939,
+            "Stitt": 7137,
+            "total": 11458,
+            "min_turnout": 11573,
+            "max_turnout": 12061
+        },
+        {
+            "county_name": "Caddo",
+            "Hofmeister": 2667,
+            "Stitt": 4162,
+            "total": 7056,
+            "min_turnout": 7127,
+            "max_turnout": 7753
+        },
+        {
+            "county_name": "Canadian",
+            "Hofmeister": 19291,
+            "Stitt": 29445,
+            "total": 50170,
+            "min_turnout": 50672,
+            "max_turnout": 50677
+        },
+        {
+            "county_name": "Carter",
+            "Hofmeister": 4332,
+            "Stitt": 8621,
+            "total": 13408,
+            "min_turnout": 13543,
+            "max_turnout": 14734
+        },
+        {
+            "county_name": "Cherokee",
+            "Hofmeister": 6478,
+            "Stitt": 6656,
+            "total": 13538,
+            "min_turnout": 13673,
+            "max_turnout": 14715
+        },
+        {
+            "county_name": "Choctaw",
+            "Hofmeister": 1084,
+            "Stitt": 2797,
+            "total": 4049,
+            "min_turnout": 4089,
+            "max_turnout": 4262
+        },
+        {
+            "county_name": "Cimarron",
+            "Hofmeister": 62,
+            "Stitt": 640,
+            "total": 733,
+            "min_turnout": 740,
+            "max_turnout": 842
+        },
+        {
+            "county_name": "Cleveland",
+            "Hofmeister": 47310,
+            "Stitt": 41346,
+            "total": 91195,
+            "min_turnout": 92107,
+            "max_turnout": 95994
+        },
+        {
+            "county_name": "Coal",
+            "Hofmeister": 549,
+            "Stitt": 1287,
+            "total": 1907,
+            "min_turnout": 1926,
+            "max_turnout": 2007
+        },
+        {
+            "county_name": "Comanche",
+            "Hofmeister": 10283,
+            "Stitt": 12213,
+            "total": 23564,
+            "min_turnout": 23800,
+            "max_turnout": 24804
+        },
+        {
+            "county_name": "Cotton",
+            "Hofmeister": 545,
+            "Stitt": 1187,
+            "total": 1843,
+            "min_turnout": 1861,
+            "max_turnout": 2118
+        },
+        {
+            "county_name": "Craig",
+            "Hofmeister": 1492,
+            "Stitt": 2880,
+            "total": 4485,
+            "min_turnout": 4530,
+            "max_turnout": 4983
+        },
+        {
+            "county_name": "Creek",
+            "Hofmeister": 6808,
+            "Stitt": 15003,
+            "total": 22327,
+            "min_turnout": 22550,
+            "max_turnout": 24007
+        },
+        {
+            "county_name": "Custer",
+            "Hofmeister": 2457,
+            "Stitt": 4848,
+            "total": 7483,
+            "min_turnout": 7558,
+            "max_turnout": 8701
+        },
+        {
+            "county_name": "Delaware",
+            "Hofmeister": 3941,
+            "Stitt": 8829,
+            "total": 13182,
+            "min_turnout": 13314,
+            "max_turnout": 13875
+        },
+        {
+            "county_name": "Dewey",
+            "Hofmeister": 321,
+            "Stitt": 1400,
+            "total": 1767,
+            "min_turnout": 1785,
+            "max_turnout": 1860
+        },
+        {
+            "county_name": "Ellis",
+            "Hofmeister": 281,
+            "Stitt": 1166,
+            "total": 1485,
+            "min_turnout": 1500,
+            "max_turnout": 1563
+        },
+        {
+            "county_name": "Garfield",
+            "Hofmeister": 4960,
+            "Stitt": 10800,
+            "total": 16214,
+            "min_turnout": 16376,
+            "max_turnout": 18217
+        },
+        {
+            "county_name": "Garvin",
+            "Hofmeister": 2292,
+            "Stitt": 5585,
+            "total": 8114,
+            "min_turnout": 8195,
+            "max_turnout": 8541
+        },
+        {
+            "county_name": "Grady",
+            "Hofmeister": 5158,
+            "Stitt": 12154,
+            "total": 17808,
+            "min_turnout": 17986,
+            "max_turnout": 18745
+        },
+        {
+            "county_name": "Grant",
+            "Hofmeister": 375,
+            "Stitt": 1179,
+            "total": 1597,
+            "min_turnout": 1613,
+            "max_turnout": 1794
+        },
+        {
+            "county_name": "Greer",
+            "Hofmeister": 394,
+            "Stitt": 901,
+            "total": 1341,
+            "min_turnout": 1354,
+            "max_turnout": 1559
+        },
+        {
+            "county_name": "Harmon",
+            "Hofmeister": 179,
+            "Stitt": 457,
+            "total": 649,
+            "min_turnout": 655,
+            "max_turnout": 781
+        },
+        {
+            "county_name": "Harper",
+            "Hofmeister": 317,
+            "Stitt": 806,
+            "total": 1165,
+            "min_turnout": 1177,
+            "max_turnout": 1280
+        },
+        {
+            "county_name": "Haskell",
+            "Hofmeister": 982,
+            "Stitt": 2336,
+            "total": 3388,
+            "min_turnout": 3422,
+            "max_turnout": 3894
+        },
+        {
+            "county_name": "Hughes",
+            "Hofmeister": 1093,
+            "Stitt": 2352,
+            "total": 3545,
+            "min_turnout": 3580,
+            "max_turnout": 4028
+        },
+        {
+            "county_name": "Jackson",
+            "Hofmeister": 1449,
+            "Stitt": 3856,
+            "total": 5500,
+            "min_turnout": 5555,
+            "max_turnout": 6875
+        },
+        {
+            "county_name": "Jefferson",
+            "Hofmeister": 443,
+            "Stitt": 1098,
+            "total": 1612,
+            "min_turnout": 1628,
+            "max_turnout": 1696
+        },
+        {
+            "county_name": "Johnston",
+            "Hofmeister": 866,
+            "Stitt": 1980,
+            "total": 2956,
+            "min_turnout": 2986,
+            "max_turnout": 3178
+        },
+        {
+            "county_name": "Kay",
+            "Hofmeister": 4200,
+            "Stitt": 7922,
+            "total": 12522,
+            "min_turnout": 12647,
+            "max_turnout": 13610
+        },
+        {
+            "county_name": "Kingfisher",
+            "Hofmeister": 1121,
+            "Stitt": 3643,
+            "total": 4879,
+            "min_turnout": 4928,
+            "max_turnout": 5361
+        },
+        {
+            "county_name": "Kiowa",
+            "Hofmeister": 760,
+            "Stitt": 1646,
+            "total": 2455,
+            "min_turnout": 2480,
+            "max_turnout": 2854
+        },
+        {
+            "county_name": "Latimer",
+            "Hofmeister": 960,
+            "Stitt": 1985,
+            "total": 3064,
+            "min_turnout": 3095,
+            "max_turnout": 3225
+        },
+        {
+            "county_name": "LeFlore",
+            "Hofmeister": 3375,
+            "Stitt": 8256,
+            "total": 12129,
+            "min_turnout": 12250,
+            "max_turnout": 13476
+        },
+        {
+            "county_name": "Lincoln",
+            "Hofmeister": 3126,
+            "Stitt": 7581,
+            "total": 11087,
+            "min_turnout": 11198,
+            "max_turnout": 11921
+        },
+        {
+            "county_name": "Logan",
+            "Hofmeister": 5508,
+            "Stitt": 11062,
+            "total": 16984,
+            "min_turnout": 17154,
+            "max_turnout": 17877
+        },
+        {
+            "county_name": "Love",
+            "Hofmeister": 703,
+            "Stitt": 1948,
+            "total": 2739,
+            "min_turnout": 2766,
+            "max_turnout": 2913
+        },
+        {
+            "county_name": "Major",
+            "Hofmeister": 470,
+            "Stitt": 2149,
+            "total": 2689,
+            "min_turnout": 2716,
+            "max_turnout": 2891
+        },
+        {
+            "county_name": "Marshall",
+            "Hofmeister": 1312,
+            "Stitt": 2957,
+            "total": 4390,
+            "min_turnout": 4434,
+            "max_turnout": 4670
+        },
+        {
+            "county_name": "Mayes",
+            "Hofmeister": 4201,
+            "Stitt": 8030,
+            "total": 12645,
+            "min_turnout": 12771,
+            "max_turnout": 13596
+        },
+        {
+            "county_name": "McClain",
+            "Hofmeister": 4451,
+            "Stitt": 10149,
+            "total": 15026,
+            "min_turnout": 15176,
+            "max_turnout": 15816
+        },
+        {
+            "county_name": "McCurtain",
+            "Hofmeister": 2308,
+            "Stitt": 5558,
+            "total": 8237,
+            "min_turnout": 8319,
+            "max_turnout": 8670
+        },
+        {
+            "county_name": "McIntosh",
+            "Hofmeister": 2298,
+            "Stitt": 4026,
+            "total": 6472,
+            "min_turnout": 6537,
+            "max_turnout": 6959
+        },
+        {
+            "county_name": "Murray",
+            "Hofmeister": 1397,
+            "Stitt": 2717,
+            "total": 4249,
+            "min_turnout": 4291,
+            "max_turnout": 4618
+        },
+        {
+            "county_name": "Muskogee",
+            "Hofmeister": 7513,
+            "Stitt": 9827,
+            "total": 17783,
+            "min_turnout": 17961,
+            "max_turnout": 18718
+        },
+        {
+            "county_name": "Noble",
+            "Hofmeister": 1240,
+            "Stitt": 2460,
+            "total": 3813,
+            "min_turnout": 3851,
+            "max_turnout": 4190
+        },
+        {
+            "county_name": "Nowata",
+            "Hofmeister": 916,
+            "Stitt": 2302,
+            "total": 3323,
+            "min_turnout": 3356,
+            "max_turnout": 3692
+        },
+        {
+            "county_name": "Okfuskee",
+            "Hofmeister": 1062,
+            "Stitt": 1781,
+            "total": 2935,
+            "min_turnout": 2964,
+            "max_turnout": 3261
+        },
+        {
+            "county_name": "Oklahoma",
+            "Hofmeister": 122895,
+            "Stitt": 93411,
+            "total": 222394,
+            "min_turnout": 224640,
+            "max_turnout": 224787
+        },
+        {
+            "county_name": "Okmulgee",
+            "Hofmeister": 4177,
+            "Stitt": 6179,
+            "total": 10618,
+            "min_turnout": 10724,
+            "max_turnout": 11668
+        },
+        {
+            "county_name": "Osage",
+            "Hofmeister": 5651,
+            "Stitt": 9046,
+            "total": 15093,
+            "min_turnout": 15244,
+            "max_turnout": 16229
+        },
+        {
+            "county_name": "Ottawa",
+            "Hofmeister": 2649,
+            "Stitt": 4716,
+            "total": 7686,
+            "min_turnout": 7763,
+            "max_turnout": 8937
+        },
+        {
+            "county_name": "Pawnee",
+            "Hofmeister": 1554,
+            "Stitt": 3349,
+            "total": 5042,
+            "min_turnout": 5092,
+            "max_turnout": 5307
+        },
+        {
+            "county_name": "Payne",
+            "Hofmeister": 10554,
+            "Stitt": 11023,
+            "total": 22125,
+            "min_turnout": 22346,
+            "max_turnout": 24048
+        },
+        {
+            "county_name": "Pittsburg",
+            "Hofmeister": 3967,
+            "Stitt": 8312,
+            "total": 12674,
+            "min_turnout": 12801,
+            "max_turnout": 14082
+        },
+        {
+            "county_name": "Pontotoc",
+            "Hofmeister": 5065,
+            "Stitt": 5742,
+            "total": 11196,
+            "min_turnout": 11308,
+            "max_turnout": 12579
+        },
+        {
+            "county_name": "Pottawatomie",
+            "Hofmeister": 7643,
+            "Stitt": 12404,
+            "total": 20691,
+            "min_turnout": 20900,
+            "max_turnout": 22248
+        },
+        {
+            "county_name": "Pushmataha",
+            "Hofmeister": 870,
+            "Stitt": 2309,
+            "total": 3297,
+            "min_turnout": 3330,
+            "max_turnout": 3507
+        },
+        {
+            "county_name": "Roger Mills",
+            "Hofmeister": 191,
+            "Stitt": 1088,
+            "total": 1316,
+            "min_turnout": 1329,
+            "max_turnout": 1585
+        },
+        {
+            "county_name": "Rogers",
+            "Hofmeister": 10520,
+            "Stitt": 22557,
+            "total": 33901,
+            "min_turnout": 34240,
+            "max_turnout": 35685
+        },
+        {
+            "county_name": "Seminole",
+            "Hofmeister": 2048,
+            "Stitt": 3641,
+            "total": 5858,
+            "min_turnout": 5917,
+            "max_turnout": 6891
+        },
+        {
+            "county_name": "Sequoyah",
+            "Hofmeister": 3329,
+            "Stitt": 6513,
+            "total": 10271,
+            "min_turnout": 10374,
+            "max_turnout": 12083
+        },
+        {
+            "county_name": "Stephens",
+            "Hofmeister": 3580,
+            "Stitt": 8955,
+            "total": 13114,
+            "min_turnout": 13245,
+            "max_turnout": 14571
+        },
+        {
+            "county_name": "Texas",
+            "Hofmeister": 712,
+            "Stitt": 2806,
+            "total": 3658,
+            "min_turnout": 3695,
+            "max_turnout": 4354
+        },
+        {
+            "county_name": "Tillman",
+            "Hofmeister": 565,
+            "Stitt": 1203,
+            "total": 1850,
+            "min_turnout": 1868,
+            "max_turnout": 2202
+        },
+        {
+            "county_name": "Tulsa",
+            "Hofmeister": 95219,
+            "Stitt": 94855,
+            "total": 193782,
+            "min_turnout": 195720,
+            "max_turnout": 212947
+        },
+        {
+            "county_name": "Wagoner",
+            "Hofmeister": 8838,
+            "Stitt": 17425,
+            "total": 26853,
+            "min_turnout": 27122,
+            "max_turnout": 28266
+        },
+        {
+            "county_name": "Washington",
+            "Hofmeister": 5576,
+            "Stitt": 11148,
+            "total": 17144,
+            "min_turnout": 17315,
+            "max_turnout": 18839
+        },
+        {
+            "county_name": "Washita",
+            "Hofmeister": 841,
+            "Stitt": 2629,
+            "total": 3571,
+            "min_turnout": 3607,
+            "max_turnout": 4012
+        },
+        {
+            "county_name": "Woods",
+            "Hofmeister": 804,
+            "Stitt": 1815,
+            "total": 2701,
+            "min_turnout": 2728,
+            "max_turnout": 3001
+        },
+        {
+            "county_name": "Woodward",
+            "Hofmeister": 1224,
+            "Stitt": 3999,
+            "total": 5374,
+            "min_turnout": 5428,
+            "max_turnout": 6248
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adair": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Alfalfa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Atoka": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Beaver": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Beckham": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Blaine": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bryan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Caddo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Canadian": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Carter": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cherokee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Choctaw": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cimarron": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cleveland": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Coal": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Comanche": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cotton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Craig": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Creek": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Custer": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Delaware": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dewey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ellis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Garvin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Grady": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Greer": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Harmon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Harper": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Haskell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Hughes": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Johnston": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kay": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kingfisher": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Kiowa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Latimer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "LeFlore": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Love": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Major": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marshall": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mayes": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McClain": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McCurtain": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McIntosh": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Murray": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Muskogee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Noble": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Nowata": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Okfuskee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Oklahoma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Okmulgee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Osage": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Ottawa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pawnee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Payne": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pittsburg": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pontotoc": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pottawatomie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pushmataha": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Roger Mills": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rogers": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Seminole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sequoyah": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Stephens": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Texas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tillman": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Tulsa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wagoner": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Washita": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woods": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woodward": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        }
+    }
+}

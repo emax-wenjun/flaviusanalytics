@@ -1,0 +1,1383 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Kelly": 484806,
+            "Schmidt": 467832,
+            "total": 984029,
+            "min_turnout": 986343,
+            "max_turnout": 1099661
+        },
+        {
+            "county_name": "Allen",
+            "Kelly": 1553,
+            "Schmidt": 2399,
+            "total": 4084,
+            "min_turnout": 4084,
+            "max_turnout": 4707
+        },
+        {
+            "county_name": "Anderson",
+            "Kelly": 829,
+            "Schmidt": 1875,
+            "total": 2876,
+            "min_turnout": 2876,
+            "max_turnout": 3026
+        },
+        {
+            "county_name": "Atchison",
+            "Kelly": 2162,
+            "Schmidt": 2905,
+            "total": 5430,
+            "min_turnout": 5430,
+            "max_turnout": 5772
+        },
+        {
+            "county_name": "Barber",
+            "Kelly": 402,
+            "Schmidt": 1246,
+            "total": 1727,
+            "min_turnout": 1727,
+            "max_turnout": 1786
+        },
+        {
+            "county_name": "Barton",
+            "Kelly": 2624,
+            "Schmidt": 4983,
+            "total": 8027,
+            "min_turnout": 8027,
+            "max_turnout": 8767
+        },
+        {
+            "county_name": "Bourbon",
+            "Kelly": 1459,
+            "Schmidt": 3128,
+            "total": 4794,
+            "min_turnout": 4794,
+            "max_turnout": 5395
+        },
+        {
+            "county_name": "Brown",
+            "Kelly": 1162,
+            "Schmidt": 1823,
+            "total": 3331,
+            "min_turnout": 3331,
+            "max_turnout": 3605
+        },
+        {
+            "county_name": "Butler",
+            "Kelly": 8960,
+            "Schmidt": 13747,
+            "total": 23547,
+            "min_turnout": 23547,
+            "max_turnout": 25592
+        },
+        {
+            "county_name": "Chase",
+            "Kelly": 454,
+            "Schmidt": 687,
+            "total": 1169,
+            "min_turnout": 1169,
+            "max_turnout": 1235
+        },
+        {
+            "county_name": "Chautauqua",
+            "Kelly": 200,
+            "Schmidt": 958,
+            "total": 1180,
+            "min_turnout": 1180,
+            "max_turnout": 1239
+        },
+        {
+            "county_name": "Cherokee",
+            "Kelly": 1810,
+            "Schmidt": 4297,
+            "total": 6323,
+            "min_turnout": 6387,
+            "max_turnout": 7155
+        },
+        {
+            "county_name": "Cheyenne",
+            "Kelly": 203,
+            "Schmidt": 778,
+            "total": 1007,
+            "min_turnout": 1011,
+            "max_turnout": 1057
+        },
+        {
+            "county_name": "Clark",
+            "Kelly": 217,
+            "Schmidt": 557,
+            "total": 839,
+            "min_turnout": 839,
+            "max_turnout": 847
+        },
+        {
+            "county_name": "Clay",
+            "Kelly": 1096,
+            "Schmidt": 2031,
+            "total": 3268,
+            "min_turnout": 3268,
+            "max_turnout": 3301
+        },
+        {
+            "county_name": "Cloud",
+            "Kelly": 999,
+            "Schmidt": 2072,
+            "total": 3157,
+            "min_turnout": 3157,
+            "max_turnout": 3354
+        },
+        {
+            "county_name": "Coffey",
+            "Kelly": 1041,
+            "Schmidt": 2229,
+            "total": 3412,
+            "min_turnout": 3412,
+            "max_turnout": 3660
+        },
+        {
+            "county_name": "Comanche",
+            "Kelly": 186,
+            "Schmidt": 508,
+            "total": 736,
+            "min_turnout": 736,
+            "max_turnout": 773
+        },
+        {
+            "county_name": "Cowley",
+            "Kelly": 4288,
+            "Schmidt": 5844,
+            "total": 10572,
+            "min_turnout": 10572,
+            "max_turnout": 11101
+        },
+        {
+            "county_name": "Crawford",
+            "Kelly": 5268,
+            "Schmidt": 5906,
+            "total": 11533,
+            "min_turnout": 11649,
+            "max_turnout": 13131
+        },
+        {
+            "county_name": "Decatur",
+            "Kelly": 281,
+            "Schmidt": 790,
+            "total": 1115,
+            "min_turnout": 1115,
+            "max_turnout": 1163
+        },
+        {
+            "county_name": "Dickinson",
+            "Kelly": 2378,
+            "Schmidt": 4211,
+            "total": 6858,
+            "min_turnout": 6917,
+            "max_turnout": 7334
+        },
+        {
+            "county_name": "Doniphan",
+            "Kelly": 646,
+            "Schmidt": 1771,
+            "total": 2638,
+            "min_turnout": 2638,
+            "max_turnout": 2726
+        },
+        {
+            "county_name": "Douglas",
+            "Kelly": 33989,
+            "Schmidt": 10304,
+            "total": 45207,
+            "min_turnout": 45207,
+            "max_turnout": 50198
+        },
+        {
+            "county_name": "Edwards",
+            "Kelly": 330,
+            "Schmidt": 720,
+            "total": 1085,
+            "min_turnout": 1085,
+            "max_turnout": 1122
+        },
+        {
+            "county_name": "Elk",
+            "Kelly": 267,
+            "Schmidt": 732,
+            "total": 1042,
+            "min_turnout": 1051,
+            "max_turnout": 1081
+        },
+        {
+            "county_name": "Ellis",
+            "Kelly": 4216,
+            "Schmidt": 5935,
+            "total": 10483,
+            "min_turnout": 10573,
+            "max_turnout": 11069
+        },
+        {
+            "county_name": "Ellsworth",
+            "Kelly": 852,
+            "Schmidt": 1245,
+            "total": 2196,
+            "min_turnout": 2207,
+            "max_turnout": 2408
+        },
+        {
+            "county_name": "Finney",
+            "Kelly": 2858,
+            "Schmidt": 3955,
+            "total": 7053,
+            "min_turnout": 7124,
+            "max_turnout": 8737
+        },
+        {
+            "county_name": "Ford",
+            "Kelly": 2305,
+            "Schmidt": 3374,
+            "total": 5911,
+            "min_turnout": 5971,
+            "max_turnout": 6937
+        },
+        {
+            "county_name": "Franklin",
+            "Kelly": 3795,
+            "Schmidt": 5320,
+            "total": 9447,
+            "min_turnout": 9447,
+            "max_turnout": 10177
+        },
+        {
+            "county_name": "Geary",
+            "Kelly": 3013,
+            "Schmidt": 2695,
+            "total": 5926,
+            "min_turnout": 5986,
+            "max_turnout": 6446
+        },
+        {
+            "county_name": "Gove",
+            "Kelly": 247,
+            "Schmidt": 851,
+            "total": 1143,
+            "min_turnout": 1155,
+            "max_turnout": 1200
+        },
+        {
+            "county_name": "Graham",
+            "Kelly": 276,
+            "Schmidt": 703,
+            "total": 1021,
+            "min_turnout": 1030,
+            "max_turnout": 1078
+        },
+        {
+            "county_name": "Grant",
+            "Kelly": 481,
+            "Schmidt": 1034,
+            "total": 1581,
+            "min_turnout": 1597,
+            "max_turnout": 1803
+        },
+        {
+            "county_name": "Gray",
+            "Kelly": 419,
+            "Schmidt": 1201,
+            "total": 1688,
+            "min_turnout": 1705,
+            "max_turnout": 1844
+        },
+        {
+            "county_name": "Greeley",
+            "Kelly": 114,
+            "Schmidt": 308,
+            "total": 449,
+            "min_turnout": 454,
+            "max_turnout": 484
+        },
+        {
+            "county_name": "Greenwood",
+            "Kelly": 745,
+            "Schmidt": 1475,
+            "total": 2303,
+            "min_turnout": 2326,
+            "max_turnout": 2414
+        },
+        {
+            "county_name": "Hamilton",
+            "Kelly": 170,
+            "Schmidt": 393,
+            "total": 590,
+            "min_turnout": 592,
+            "max_turnout": 597
+        },
+        {
+            "county_name": "Harper",
+            "Kelly": 567,
+            "Schmidt": 1283,
+            "total": 1936,
+            "min_turnout": 1947,
+            "max_turnout": 2033
+        },
+        {
+            "county_name": "Harvey",
+            "Kelly": 6135,
+            "Schmidt": 6231,
+            "total": 12786,
+            "min_turnout": 12915,
+            "max_turnout": 14091
+        },
+        {
+            "county_name": "Haskell",
+            "Kelly": 249,
+            "Schmidt": 706,
+            "total": 983,
+            "min_turnout": 993,
+            "max_turnout": 1106
+        },
+        {
+            "county_name": "Hodgeman",
+            "Kelly": 181,
+            "Schmidt": 592,
+            "total": 805,
+            "min_turnout": 813,
+            "max_turnout": 863
+        },
+        {
+            "county_name": "Jackson",
+            "Kelly": 2050,
+            "Schmidt": 2640,
+            "total": 5089,
+            "min_turnout": 5089,
+            "max_turnout": 5553
+        },
+        {
+            "county_name": "Jefferson",
+            "Kelly": 3337,
+            "Schmidt": 3884,
+            "total": 7521,
+            "min_turnout": 7521,
+            "max_turnout": 8126
+        },
+        {
+            "county_name": "Jewell",
+            "Kelly": 267,
+            "Schmidt": 853,
+            "total": 1199,
+            "min_turnout": 1199,
+            "max_turnout": 1211
+        },
+        {
+            "county_name": "Johnson",
+            "Kelly": 149534,
+            "Schmidt": 99359,
+            "total": 254055,
+            "min_turnout": 254055,
+            "max_turnout": 283460
+        },
+        {
+            "county_name": "Kearny",
+            "Kelly": 214,
+            "Schmidt": 682,
+            "total": 1603,
+            "min_turnout": 1603,
+            "max_turnout": 1683
+        },
+        {
+            "county_name": "Kingman",
+            "Kelly": 963,
+            "Schmidt": 1981,
+            "total": 3072,
+            "min_turnout": 3098,
+            "max_turnout": 3149
+        },
+        {
+            "county_name": "Kiowa",
+            "Kelly": 231,
+            "Schmidt": 659,
+            "total": 938,
+            "min_turnout": 938,
+            "max_turnout": 947
+        },
+        {
+            "county_name": "Labette",
+            "Kelly": 2238,
+            "Schmidt": 3393,
+            "total": 5798,
+            "min_turnout": 5805,
+            "max_turnout": 6564
+        },
+        {
+            "county_name": "Lane",
+            "Kelly": 163,
+            "Schmidt": 481,
+            "total": 673,
+            "min_turnout": 673,
+            "max_turnout": 710
+        },
+        {
+            "county_name": "Leavenworth",
+            "Kelly": 12295,
+            "Schmidt": 13285,
+            "total": 26559,
+            "min_turnout": 26827,
+            "max_turnout": 28682
+        },
+        {
+            "county_name": "Lincoln",
+            "Kelly": 342,
+            "Schmidt": 796,
+            "total": 1195,
+            "min_turnout": 1195,
+            "max_turnout": 1285
+        },
+        {
+            "county_name": "Linn",
+            "Kelly": 955,
+            "Schmidt": 2528,
+            "total": 3649,
+            "min_turnout": 3666,
+            "max_turnout": 4004
+        },
+        {
+            "county_name": "Logan",
+            "Kelly": 237,
+            "Schmidt": 808,
+            "total": 1095,
+            "min_turnout": 1095,
+            "max_turnout": 1164
+        },
+        {
+            "county_name": "Lyon",
+            "Kelly": 5302,
+            "Schmidt": 4359,
+            "total": 9992,
+            "min_turnout": 10092,
+            "max_turnout": 10277
+        },
+        {
+            "county_name": "Marion",
+            "Kelly": 1692,
+            "Schmidt": 2914,
+            "total": 4774,
+            "min_turnout": 4822,
+            "max_turnout": 5030
+        },
+        {
+            "county_name": "Marshall",
+            "Kelly": 1503,
+            "Schmidt": 2126,
+            "total": 3844,
+            "min_turnout": 3844,
+            "max_turnout": 4095
+        },
+        {
+            "county_name": "McPherson",
+            "Kelly": 3938,
+            "Schmidt": 6301,
+            "total": 10601,
+            "min_turnout": 10708,
+            "max_turnout": 11768
+        },
+        {
+            "county_name": "Meade",
+            "Kelly": 306,
+            "Schmidt": 928,
+            "total": 1284,
+            "min_turnout": 1284,
+            "max_turnout": 1415
+        },
+        {
+            "county_name": "Miami",
+            "Kelly": 5003,
+            "Schmidt": 7941,
+            "total": 13393,
+            "min_turnout": 13393,
+            "max_turnout": 14345
+        },
+        {
+            "county_name": "Mitchell",
+            "Kelly": 710,
+            "Schmidt": 1554,
+            "total": 2344,
+            "min_turnout": 2358,
+            "max_turnout": 2527
+        },
+        {
+            "county_name": "Montgomery",
+            "Kelly": 2346,
+            "Schmidt": 5725,
+            "total": 8334,
+            "min_turnout": 8418,
+            "max_turnout": 10166
+        },
+        {
+            "county_name": "Morris",
+            "Kelly": 928,
+            "Schmidt": 1214,
+            "total": 2214,
+            "min_turnout": 2214,
+            "max_turnout": 2423
+        },
+        {
+            "county_name": "Morton",
+            "Kelly": 166,
+            "Schmidt": 583,
+            "total": 781,
+            "min_turnout": 789,
+            "max_turnout": 887
+        },
+        {
+            "county_name": "Nemaha",
+            "Kelly": 1250,
+            "Schmidt": 2917,
+            "total": 4537,
+            "min_turnout": 4537,
+            "max_turnout": 4816
+        },
+        {
+            "county_name": "Neosho",
+            "Kelly": 1804,
+            "Schmidt": 2997,
+            "total": 4997,
+            "min_turnout": 5047,
+            "max_turnout": 5688
+        },
+        {
+            "county_name": "Ness",
+            "Kelly": 206,
+            "Schmidt": 886,
+            "total": 1141,
+            "min_turnout": 1141,
+            "max_turnout": 1214
+        },
+        {
+            "county_name": "Norton",
+            "Kelly": 468,
+            "Schmidt": 1227,
+            "total": 1775,
+            "min_turnout": 1775,
+            "max_turnout": 1850
+        },
+        {
+            "county_name": "Osage",
+            "Kelly": 2409,
+            "Schmidt": 3545,
+            "total": 6204,
+            "min_turnout": 6204,
+            "max_turnout": 6644
+        },
+        {
+            "county_name": "Osborne",
+            "Kelly": 383,
+            "Schmidt": 926,
+            "total": 1416,
+            "min_turnout": 1416,
+            "max_turnout": 1533
+        },
+        {
+            "county_name": "Ottawa",
+            "Kelly": 717,
+            "Schmidt": 1576,
+            "total": 2392,
+            "min_turnout": 2392,
+            "max_turnout": 2528
+        },
+        {
+            "county_name": "Pawnee",
+            "Kelly": 819,
+            "Schmidt": 1201,
+            "total": 2140,
+            "min_turnout": 2140,
+            "max_turnout": 2219
+        },
+        {
+            "county_name": "Phillips",
+            "Kelly": 464,
+            "Schmidt": 1621,
+            "total": 2158,
+            "min_turnout": 2158,
+            "max_turnout": 2228
+        },
+        {
+            "county_name": "Pottawatomie",
+            "Kelly": 3699,
+            "Schmidt": 6111,
+            "total": 10273,
+            "min_turnout": 10273,
+            "max_turnout": 10666
+        },
+        {
+            "county_name": "Pratt",
+            "Kelly": 1160,
+            "Schmidt": 1836,
+            "total": 3115,
+            "min_turnout": 3115,
+            "max_turnout": 3271
+        },
+        {
+            "county_name": "Rawlins",
+            "Kelly": 305,
+            "Schmidt": 806,
+            "total": 1143,
+            "min_turnout": 1155,
+            "max_turnout": 1215
+        },
+        {
+            "county_name": "Reno",
+            "Kelly": 8726,
+            "Schmidt": 10978,
+            "total": 20577,
+            "min_turnout": 20577,
+            "max_turnout": 22187
+        },
+        {
+            "county_name": "Republic",
+            "Kelly": 486,
+            "Schmidt": 1382,
+            "total": 1948,
+            "min_turnout": 1948,
+            "max_turnout": 2063
+        },
+        {
+            "county_name": "Rice",
+            "Kelly": 961,
+            "Schmidt": 1811,
+            "total": 3033,
+            "min_turnout": 3033,
+            "max_turnout": 3311
+        },
+        {
+            "county_name": "Riley",
+            "Kelly": 10593,
+            "Schmidt": 6760,
+            "total": 17833,
+            "min_turnout": 17833,
+            "max_turnout": 20177
+        },
+        {
+            "county_name": "Rooks",
+            "Kelly": 534,
+            "Schmidt": 1467,
+            "total": 2081,
+            "min_turnout": 2081,
+            "max_turnout": 2192
+        },
+        {
+            "county_name": "Rush",
+            "Kelly": 386,
+            "Schmidt": 844,
+            "total": 1342,
+            "min_turnout": 1342,
+            "max_turnout": 1409
+        },
+        {
+            "county_name": "Russell",
+            "Kelly": 881,
+            "Schmidt": 1685,
+            "total": 2696,
+            "min_turnout": 2696,
+            "max_turnout": 2744
+        },
+        {
+            "county_name": "Saline",
+            "Kelly": 7772,
+            "Schmidt": 8947,
+            "total": 17267,
+            "min_turnout": 17267,
+            "max_turnout": 19313
+        },
+        {
+            "county_name": "Scott",
+            "Kelly": 333,
+            "Schmidt": 1263,
+            "total": 1668,
+            "min_turnout": 1668,
+            "max_turnout": 1882
+        },
+        {
+            "county_name": "Sedgwick",
+            "Kelly": 74409,
+            "Schmidt": 70963,
+            "total": 149773,
+            "min_turnout": 149773,
+            "max_turnout": 177235
+        },
+        {
+            "county_name": "Seward",
+            "Kelly": 1077,
+            "Schmidt": 1686,
+            "total": 2874,
+            "min_turnout": 2903,
+            "max_turnout": 3738
+        },
+        {
+            "county_name": "Shawnee",
+            "Kelly": 38797,
+            "Schmidt": 24681,
+            "total": 65172,
+            "min_turnout": 65830,
+            "max_turnout": 72143
+        },
+        {
+            "county_name": "Sheridan",
+            "Kelly": 196,
+            "Schmidt": 857,
+            "total": 1104,
+            "min_turnout": 1104,
+            "max_turnout": 1168
+        },
+        {
+            "county_name": "Sherman",
+            "Kelly": 476,
+            "Schmidt": 1456,
+            "total": 2011,
+            "min_turnout": 2011,
+            "max_turnout": 2128
+        },
+        {
+            "county_name": "Smith",
+            "Kelly": 400,
+            "Schmidt": 1150,
+            "total": 1628,
+            "min_turnout": 1628,
+            "max_turnout": 1653
+        },
+        {
+            "county_name": "Stafford",
+            "Kelly": 453,
+            "Schmidt": 1032,
+            "total": 1559,
+            "min_turnout": 1559,
+            "max_turnout": 1638
+        },
+        {
+            "county_name": "Stanton",
+            "Kelly": 120,
+            "Schmidt": 361,
+            "total": 501,
+            "min_turnout": 506,
+            "max_turnout": 570
+        },
+        {
+            "county_name": "Stevens",
+            "Kelly": 288,
+            "Schmidt": 1021,
+            "total": 1370,
+            "min_turnout": 1384,
+            "max_turnout": 1494
+        },
+        {
+            "county_name": "Sumner",
+            "Kelly": 2890,
+            "Schmidt": 4539,
+            "total": 7799,
+            "min_turnout": 7799,
+            "max_turnout": 8562
+        },
+        {
+            "county_name": "Thomas",
+            "Kelly": 770,
+            "Schmidt": 1959,
+            "total": 2839,
+            "min_turnout": 2868,
+            "max_turnout": 3151
+        },
+        {
+            "county_name": "Trego",
+            "Kelly": 338,
+            "Schmidt": 851,
+            "total": 1253,
+            "min_turnout": 1253,
+            "max_turnout": 1333
+        },
+        {
+            "county_name": "Wabaunsee",
+            "Kelly": 1238,
+            "Schmidt": 1960,
+            "total": 3315,
+            "min_turnout": 3315,
+            "max_turnout": 3481
+        },
+        {
+            "county_name": "Wallace",
+            "Kelly": 78,
+            "Schmidt": 559,
+            "total": 670,
+            "min_turnout": 670,
+            "max_turnout": 704
+        },
+        {
+            "county_name": "Washington",
+            "Kelly": 503,
+            "Schmidt": 1665,
+            "total": 2237,
+            "min_turnout": 2260,
+            "max_turnout": 2349
+        },
+        {
+            "county_name": "Wichita",
+            "Kelly": 137,
+            "Schmidt": 547,
+            "total": 710,
+            "min_turnout": 717,
+            "max_turnout": 763
+        },
+        {
+            "county_name": "Wilson",
+            "Kelly": 766,
+            "Schmidt": 2133,
+            "total": 3007,
+            "min_turnout": 3018,
+            "max_turnout": 3051
+        },
+        {
+            "county_name": "Woodson",
+            "Kelly": 322,
+            "Schmidt": 826,
+            "total": 1175,
+            "min_turnout": 1186,
+            "max_turnout": 1235
+        },
+        {
+            "county_name": "Wyandotte",
+            "Kelly": 23045,
+            "Schmidt": 10004,
+            "total": 34031,
+            "min_turnout": 34031,
+            "max_turnout": 42230
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Allen": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Anderson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Atchison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barber": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Barton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bourbon": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Butler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chase": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chautauqua": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cherokee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cheyenne": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Cloud": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Coffey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Comanche": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cowley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Decatur": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Dickinson": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Doniphan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Edwards": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Elk": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Ellis": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Ellsworth": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Finney": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Geary": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gove": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Graham": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gray": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greeley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Greenwood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Harper": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Harvey": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Haskell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hodgeman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jewell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Kearny": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Kingman": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Kiowa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Labette": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Lane": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Leavenworth": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Linn": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lyon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Marshall": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "McPherson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Meade": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Miami": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mitchell": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morris": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Morton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Nemaha": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Neosho": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ness": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Norton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Osage": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Osborne": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Ottawa": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Pawnee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Phillips": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pottawatomie": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pratt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rawlins": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Reno": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Republic": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rice": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Riley": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Rooks": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rush": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Russell": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saline": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Scott": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Sedgwick": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Seward": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Shawnee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sheridan": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Sherman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Smith": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stafford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stanton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Stevens": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sumner": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        },
+        "Thomas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Trego": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wabaunsee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wallace": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wichita": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wilson": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Woodson": {
+            "main": "ddhq",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Wyandotte": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        }
+    }
+}

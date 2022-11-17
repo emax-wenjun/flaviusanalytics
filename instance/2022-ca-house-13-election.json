@@ -1,0 +1,83 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Gray": 59121,
+            "Duarte": 60084,
+            "total": 119205,
+            "min_turnout": 130562,
+            "max_turnout": 133730
+        },
+        {
+            "county_name": "Fresno",
+            "Gray": 5072,
+            "Duarte": 6456,
+            "total": 11528,
+            "min_turnout": 13405,
+            "max_turnout": 14232
+        },
+        {
+            "county_name": "Madera",
+            "Gray": 8840,
+            "Duarte": 12394,
+            "total": 21234,
+            "min_turnout": 21926,
+            "max_turnout": 22351
+        },
+        {
+            "county_name": "Merced",
+            "Gray": 28042,
+            "Duarte": 25681,
+            "total": 53723,
+            "min_turnout": 55520,
+            "max_turnout": 56550
+        },
+        {
+            "county_name": "San Joaquin",
+            "Gray": 3590,
+            "Duarte": 3107,
+            "total": 6697,
+            "min_turnout": 7976,
+            "max_turnout": 8068
+        },
+        {
+            "county_name": "Stanislaus",
+            "Gray": 13577,
+            "Duarte": 12446,
+            "total": 26023,
+            "min_turnout": 31735,
+            "max_turnout": 32529
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Fresno": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madera": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Merced": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "San Joaquin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Stanislaus": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

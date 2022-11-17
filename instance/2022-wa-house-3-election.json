@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Perez": 158922,
+            "Kent": 155870,
+            "total": 314792,
+            "min_turnout": 320410,
+            "max_turnout": 331028
+        },
+        {
+            "county_name": "Clark",
+            "Perez": 112091,
+            "Kent": 89850,
+            "total": 201941,
+            "min_turnout": 205754,
+            "max_turnout": 212251
+        },
+        {
+            "county_name": "Cowlitz",
+            "Perez": 19490,
+            "Kent": 24623,
+            "total": 44113,
+            "min_turnout": 44559,
+            "max_turnout": 45915
+        },
+        {
+            "county_name": "Lewis",
+            "Perez": 12449,
+            "Kent": 22818,
+            "total": 35267,
+            "min_turnout": 35623,
+            "max_turnout": 37123
+        },
+        {
+            "county_name": "Pacific",
+            "Perez": 5995,
+            "Kent": 5746,
+            "total": 11741,
+            "min_turnout": 11860,
+            "max_turnout": 12358
+        },
+        {
+            "county_name": "Skamania",
+            "Perez": 2852,
+            "Kent": 3244,
+            "total": 6096,
+            "min_turnout": 6158,
+            "max_turnout": 6416
+        },
+        {
+            "county_name": "Thurston",
+            "Perez": 4961,
+            "Kent": 8218,
+            "total": 13179,
+            "min_turnout": 13872,
+            "max_turnout": 14325
+        },
+        {
+            "county_name": "Wahkiakum",
+            "Perez": 1084,
+            "Kent": 1371,
+            "total": 2455,
+            "min_turnout": 2584,
+            "max_turnout": 2640
+        }
+    ],
+    "sources": "nyt, cnn",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cowlitz": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pacific": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Skamania": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Thurston": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wahkiakum": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        }
+    }
+}

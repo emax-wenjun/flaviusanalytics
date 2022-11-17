@@ -1,0 +1,4864 @@
+{
+    "2022-11-07T19:34:53-05:00": {
+        "0": {
+            "county_name": "Total",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2497642,
+            "max_turnout": 2497642
+        },
+        "1": {
+            "county_name": "Apache",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 26932,
+            "max_turnout": 26932
+        },
+        "2": {
+            "county_name": "Cochise",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 45271,
+            "max_turnout": 45271
+        },
+        "3": {
+            "county_name": "Coconino",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 53978,
+            "max_turnout": 53978
+        },
+        "4": {
+            "county_name": "Gila",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 21786,
+            "max_turnout": 21786
+        },
+        "5": {
+            "county_name": "Graham",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 11088,
+            "max_turnout": 11088
+        },
+        "6": {
+            "county_name": "Greenlee",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2565,
+            "max_turnout": 2565
+        },
+        "7": {
+            "county_name": "La Paz",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 5117,
+            "max_turnout": 5117
+        },
+        "8": {
+            "county_name": "Maricopa",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1515886,
+            "max_turnout": 1515886
+        },
+        "9": {
+            "county_name": "Mohave",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 72999,
+            "max_turnout": 72999
+        },
+        "10": {
+            "county_name": "Navajo",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 39943,
+            "max_turnout": 39943
+        },
+        "11": {
+            "county_name": "Pima",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 396939,
+            "max_turnout": 396939
+        },
+        "12": {
+            "county_name": "Pinal",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 133939,
+            "max_turnout": 133939
+        },
+        "13": {
+            "county_name": "Santa Cruz",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 14713,
+            "max_turnout": 14713
+        },
+        "14": {
+            "county_name": "Yavapai",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 108587,
+            "max_turnout": 108587
+        },
+        "15": {
+            "county_name": "Yuma",
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 47899,
+            "max_turnout": 47899
+        }
+    },
+    "2022-11-08T15:22:25-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -51616,
+            "max_turnout": -51616,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -518,
+            "max_turnout": -518,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -799,
+            "max_turnout": -799,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1014,
+            "max_turnout": -1014,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -383,
+            "max_turnout": -383,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -217,
+            "max_turnout": -217,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -61,
+            "max_turnout": -61,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -125,
+            "max_turnout": -125,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -31949,
+            "max_turnout": -31949,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1759,
+            "max_turnout": -1759,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -764,
+            "max_turnout": -764,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -7057,
+            "max_turnout": -7057,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -3475,
+            "max_turnout": -3475,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -318,
+            "max_turnout": -318,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1877,
+            "max_turnout": -1877,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1300,
+            "max_turnout": -1300,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-08T15:24:53-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 343420,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1447,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1125,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 6193,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 697,
+            "county_name": "Gila"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 996,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 285,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 727,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 212227,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 11376,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 367,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 64990,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 23100,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1161,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 16136,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2593,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-08T22:04:25-05:00": {
+        "0": {
+            "Hobbs": 50451,
+            "Lake": 78060,
+            "total": 128511,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 1024,
+            "Lake": 1836,
+            "total": 2860,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        },
+        "9": {
+            "Hobbs": 15165,
+            "Lake": 31152,
+            "total": 46317,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "14": {
+            "Hobbs": 34262,
+            "Lake": 45072,
+            "total": 79334,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-08T22:04:55-05:00": {
+        "0": {
+            "Hobbs": 30088,
+            "Lake": 33482,
+            "total": 63570,
+            "min_turnout": -2148,
+            "max_turnout": 1143,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 5635,
+            "Lake": 8512,
+            "total": 14147,
+            "min_turnout": 0,
+            "max_turnout": 355,
+            "county_name": "Gila"
+        },
+        "10": {
+            "Hobbs": 8308,
+            "Lake": 9036,
+            "total": 17344,
+            "min_turnout": 0,
+            "max_turnout": 788,
+            "county_name": "Navajo"
+        },
+        "12": {
+            "Hobbs": 16145,
+            "Lake": 15934,
+            "total": 32079,
+            "min_turnout": -2148,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-08T22:06:44-05:00": {
+        "0": {
+            "Hobbs": 484033,
+            "Lake": 348286,
+            "total": 832319,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 484033,
+            "Lake": 348286,
+            "total": 832319,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-08T22:07:33-05:00": {
+        "0": {
+            "Hobbs": 19273,
+            "Lake": 8819,
+            "total": 28092,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 19273,
+            "Lake": 8819,
+            "total": 28092,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-08T22:07:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 613,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 613,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-08T22:38:44-05:00": {
+        "0": {
+            "Hobbs": 22279,
+            "Lake": 24432,
+            "total": 46711,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 2532,
+            "Lake": 6643,
+            "total": 9175,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        },
+        "6": {
+            "Hobbs": 573,
+            "Lake": 558,
+            "total": 1131,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        },
+        "13": {
+            "Hobbs": 5649,
+            "Lake": 1978,
+            "total": 7627,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "15": {
+            "Hobbs": 13525,
+            "Lake": 15253,
+            "total": 28778,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-08T22:40:05-05:00": {
+        "0": {
+            "Hobbs": 11572,
+            "Lake": 10878,
+            "total": 22450,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 11572,
+            "Lake": 10878,
+            "total": 22450,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-08T22:41:46-05:00": {
+        "0": {
+            "Hobbs": 130231,
+            "Lake": 59376,
+            "total": 189607,
+            "min_turnout": 0,
+            "max_turnout": 4291,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 4291,
+            "county_name": "Cochise"
+        },
+        "11": {
+            "Hobbs": 130231,
+            "Lake": 59376,
+            "total": 189607,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-08T23:01:52-05:00": {
+        "0": {
+            "Hobbs": 3684,
+            "Lake": 3860,
+            "total": 7544,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 3684,
+            "Lake": 3860,
+            "total": 7544,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-08T23:02:02-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -500,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -500,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-08T23:05:18-05:00": {
+        "0": {
+            "Hobbs": 848,
+            "Lake": 2396,
+            "total": 3244,
+            "min_turnout": 0,
+            "max_turnout": -477,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 848,
+            "Lake": 2396,
+            "total": 3244,
+            "min_turnout": 0,
+            "max_turnout": -477,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-08T23:16:38-05:00": {
+        "0": {
+            "Hobbs": 47,
+            "Lake": 174,
+            "total": 221,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 47,
+            "Lake": 174,
+            "total": 221,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-08T23:17:46-05:00": {
+        "0": {
+            "Hobbs": 9,
+            "Lake": 86,
+            "total": 95,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 9,
+            "Lake": 86,
+            "total": 95,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:19:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 27,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-08T23:26:39-05:00": {
+        "0": {
+            "Hobbs": 227,
+            "Lake": 450,
+            "total": 677,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 227,
+            "Lake": 450,
+            "total": 677,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:30:17-05:00": {
+        "0": {
+            "Hobbs": 228,
+            "Lake": 159,
+            "total": 387,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 228,
+            "Lake": 159,
+            "total": 387,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-08T23:31:04-05:00": {
+        "0": {
+            "Hobbs": 46,
+            "Lake": 25,
+            "total": 71,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 46,
+            "Lake": 25,
+            "total": 71,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:33:07-05:00": {
+        "0": {
+            "Hobbs": 2593,
+            "Lake": 2009,
+            "total": 4602,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 2593,
+            "Lake": 2009,
+            "total": 4602,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-08T23:39:05-05:00": {
+        "0": {
+            "Hobbs": 107,
+            "Lake": 609,
+            "total": 716,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 107,
+            "Lake": 609,
+            "total": 716,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:41:48-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -528,
+            "max_turnout": -126,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -528,
+            "max_turnout": -126,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:43:29-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -9272,
+            "max_turnout": -5819,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -7542,
+            "max_turnout": -4438,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1730,
+            "max_turnout": -1381,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-08T23:45:11-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -814,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -814,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-08T23:45:39-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -15923,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -15923,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-08T23:49:31-05:00": {
+        "0": {
+            "Hobbs": 714,
+            "Lake": 5224,
+            "total": 5938,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 714,
+            "Lake": 5224,
+            "total": 5938,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-08T23:55:31-05:00": {
+        "0": {
+            "Hobbs": 21,
+            "Lake": 209,
+            "total": 230,
+            "min_turnout": 185,
+            "max_turnout": 8,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 21,
+            "Lake": 209,
+            "total": 230,
+            "min_turnout": 185,
+            "max_turnout": 8,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-08T23:55:59-05:00": {
+        "0": {
+            "Hobbs": 277,
+            "Lake": 113,
+            "total": 390,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 277,
+            "Lake": 113,
+            "total": 390,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-09T00:02:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-09T00:06:15-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -67,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-09T00:10:05-05:00": {
+        "0": {
+            "Hobbs": 178,
+            "Lake": 404,
+            "total": 582,
+            "min_turnout": 728,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 178,
+            "Lake": 404,
+            "total": 582,
+            "min_turnout": 728,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T00:13:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T00:18:21-05:00": {
+        "0": {
+            "Hobbs": 482,
+            "Lake": 3428,
+            "total": 3910,
+            "min_turnout": 1055,
+            "max_turnout": -71,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 482,
+            "Lake": 3428,
+            "total": 3910,
+            "min_turnout": 1055,
+            "max_turnout": -71,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-09T00:20:53-05:00": {
+        "0": {
+            "Hobbs": 5650,
+            "Lake": 2387,
+            "total": 8037,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 5650,
+            "Lake": 2387,
+            "total": 8037,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-09T00:26:50-05:00": {
+        "0": {
+            "Hobbs": 941,
+            "Lake": 3226,
+            "total": 4167,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 941,
+            "Lake": 3226,
+            "total": 4167,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T00:29:28-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 496,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 496,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T00:38:08-05:00": {
+        "0": {
+            "Hobbs": 3697,
+            "Lake": 7242,
+            "total": 10939,
+            "min_turnout": 0,
+            "max_turnout": 579,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 1056,
+            "Lake": 1573,
+            "total": 2629,
+            "min_turnout": 0,
+            "max_turnout": 467,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 700,
+            "Lake": 1394,
+            "total": 2094,
+            "min_turnout": 0,
+            "max_turnout": 101,
+            "county_name": "Gila"
+        },
+        "10": {
+            "Hobbs": 1513,
+            "Lake": 2526,
+            "total": 4039,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 428,
+            "Lake": 1749,
+            "total": 2177,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T00:38:19-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1644,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1558,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 86,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T00:40:28-05:00": {
+        "0": {
+            "Hobbs": 437,
+            "Lake": 3311,
+            "total": 3748,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 437,
+            "Lake": 3311,
+            "total": 3748,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-09T00:42:09-05:00": {
+        "0": {
+            "Hobbs": 1035,
+            "Lake": 2630,
+            "total": 3665,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 1035,
+            "Lake": 2630,
+            "total": 3665,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-09T00:45:45-05:00": {
+        "0": {
+            "Hobbs": 8166,
+            "Lake": 6660,
+            "total": 14826,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 8166,
+            "Lake": 6660,
+            "total": 14826,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-09T00:46:15-05:00": {
+        "0": {
+            "Hobbs": 27,
+            "Lake": 181,
+            "total": 208,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 27,
+            "Lake": 181,
+            "total": 208,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T00:49:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -21,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T00:54:28-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 40,
+            "total": 40,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 40,
+            "total": 40,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-09T00:55:58-05:00": {
+        "0": {
+            "Hobbs": 834,
+            "Lake": 3887,
+            "total": 4721,
+            "min_turnout": 3163,
+            "max_turnout": 406,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 834,
+            "Lake": 3887,
+            "total": 4721,
+            "min_turnout": 3163,
+            "max_turnout": 406,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-09T00:58:05-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 701,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 701,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-09T01:06:23-05:00": {
+        "0": {
+            "Hobbs": 1,
+            "Lake": 4,
+            "total": 5,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 1,
+            "Lake": 4,
+            "total": 5,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T01:07:46-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T01:09:52-05:00": {
+        "0": {
+            "Hobbs": 783,
+            "Lake": 2130,
+            "total": 2913,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 783,
+            "Lake": 2130,
+            "total": 2913,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T03:52:30-05:00": {
+        "0": {
+            "Hobbs": 68123,
+            "Lake": 161547,
+            "total": 229670,
+            "min_turnout": 2075,
+            "max_turnout": -1785,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 3934,
+            "Lake": 798,
+            "total": 4732,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1883,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 1792,
+            "Lake": 2869,
+            "total": 4661,
+            "min_turnout": 0,
+            "max_turnout": -268,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 424,
+            "Lake": 2191,
+            "total": 2615,
+            "min_turnout": 0,
+            "max_turnout": -109,
+            "county_name": "Gila"
+        },
+        "8": {
+            "Hobbs": 41179,
+            "Lake": 114424,
+            "total": 155603,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 577,
+            "Lake": 3930,
+            "total": 4507,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Hobbs": 5126,
+            "Lake": 6246,
+            "total": 11372,
+            "min_turnout": 0,
+            "max_turnout": -400,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 8259,
+            "Lake": 16346,
+            "total": 24605,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 3749,
+            "Lake": 3754,
+            "total": 7503,
+            "min_turnout": -449,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Hobbs": 977,
+            "Lake": 1223,
+            "total": 2200,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Hobbs": 913,
+            "Lake": 6973,
+            "total": 7886,
+            "min_turnout": 0,
+            "max_turnout": -544,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 1193,
+            "Lake": 2793,
+            "total": 3986,
+            "min_turnout": 641,
+            "max_turnout": -464,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T03:53:19-05:00": {
+        "0": {
+            "Hobbs": 939,
+            "Lake": 6482,
+            "total": 7421,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 939,
+            "Lake": 6482,
+            "total": 7421,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-09T03:56:58-05:00": {
+        "0": {
+            "Hobbs": 6617,
+            "Lake": 6439,
+            "total": 13056,
+            "min_turnout": 384,
+            "max_turnout": -203,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -2,
+            "max_turnout": -203,
+            "county_name": "Graham"
+        },
+        "12": {
+            "Hobbs": 6617,
+            "Lake": 6439,
+            "total": 13056,
+            "min_turnout": 386,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T03:57:55-05:00": {
+        "0": {
+            "Hobbs": 16042,
+            "Lake": 38554,
+            "total": 54596,
+            "min_turnout": -1815,
+            "max_turnout": 218,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 296,
+            "max_turnout": 1107,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Hobbs": 16042,
+            "Lake": 38554,
+            "total": 54596,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -2111,
+            "max_turnout": -889,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-09T04:00:53-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -5229,
+            "max_turnout": -472,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -2937,
+            "max_turnout": -472,
+            "county_name": "Apache"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -5788,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 7542,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -4046,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T04:04:09-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13608,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13608,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T04:20:20-05:00": {
+        "0": {
+            "Hobbs": 930,
+            "Lake": 895,
+            "total": 1825,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 930,
+            "Lake": 895,
+            "total": 1825,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T04:33:07-05:00": {
+        "0": {
+            "Hobbs": 2096,
+            "Lake": 275,
+            "total": 2371,
+            "min_turnout": 0,
+            "max_turnout": -136,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 2096,
+            "Lake": 275,
+            "total": 2371,
+            "min_turnout": 0,
+            "max_turnout": -136,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-09T04:35:12-05:00": {
+        "0": {
+            "Hobbs": 4268,
+            "Lake": 11299,
+            "total": 15567,
+            "min_turnout": 1130,
+            "max_turnout": 938,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 3667,
+            "Lake": 7642,
+            "total": 11309,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1130,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "14": {
+            "Hobbs": 601,
+            "Lake": 3657,
+            "total": 4258,
+            "min_turnout": 0,
+            "max_turnout": 938,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-09T04:45:04-05:00": {
+        "0": {
+            "Hobbs": 305,
+            "Lake": 2426,
+            "total": 2731,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 305,
+            "Lake": 2426,
+            "total": 2731,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-09T04:59:05-05:00": {
+        "0": {
+            "Hobbs": 2588,
+            "Lake": 3835,
+            "total": 6423,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 2588,
+            "Lake": 3835,
+            "total": 6423,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T05:07:11-05:00": {
+        "0": {
+            "Hobbs": 2944,
+            "Lake": 1916,
+            "total": 4860,
+            "min_turnout": 0,
+            "max_turnout": 93,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 2944,
+            "Lake": 1916,
+            "total": 4860,
+            "min_turnout": 0,
+            "max_turnout": 93,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-09T05:16:53-05:00": {
+        "0": {
+            "Hobbs": 569,
+            "Lake": 2088,
+            "total": 2657,
+            "min_turnout": 0,
+            "max_turnout": 356,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 569,
+            "Lake": 2088,
+            "total": 2657,
+            "min_turnout": 0,
+            "max_turnout": 356,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-09T05:51:07-05:00": {
+        "0": {
+            "Hobbs": 429,
+            "Lake": 2875,
+            "total": 3304,
+            "min_turnout": 0,
+            "max_turnout": -330,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 429,
+            "Lake": 2875,
+            "total": 3304,
+            "min_turnout": 0,
+            "max_turnout": -330,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-09T06:22:55-05:00": {
+        "0": {
+            "Hobbs": 373,
+            "Lake": 2404,
+            "total": 2777,
+            "min_turnout": 0,
+            "max_turnout": -927,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 373,
+            "Lake": 2404,
+            "total": 2777,
+            "min_turnout": 0,
+            "max_turnout": -927,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-09T07:31:56-05:00": {
+        "0": {
+            "Hobbs": 8899,
+            "Lake": 8796,
+            "total": 17695,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 8899,
+            "Lake": 8796,
+            "total": 17695,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T07:33:13-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -332,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -332,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T13:28:14-05:00": {
+        "0": {
+            "Hobbs": 8440,
+            "Lake": 26787,
+            "total": 35227,
+            "min_turnout": -853,
+            "max_turnout": -121679,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -62339,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 516,
+            "county_name": "Mohave"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -31597,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 8440,
+            "Lake": 26787,
+            "total": 35227,
+            "min_turnout": -853,
+            "max_turnout": -27015,
+            "county_name": "Pinal"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1244,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T14:28:16-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -8957,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -8957,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-09T14:28:54-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 271,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 271,
+            "county_name": "Gila"
+        }
+    },
+    "2022-11-09T14:29:28-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": -209,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -37,
+            "max_turnout": -209,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-09T14:58:34-05:00": {
+        "0": {
+            "Hobbs": 528,
+            "Lake": 377,
+            "total": 905,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Hobbs": 528,
+            "Lake": 377,
+            "total": 905,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-09T14:59:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 34,
+            "county_name": "Total"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 34,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-09T15:38:48-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 8957,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 8957,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-09T15:39:21-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -140373,
+            "max_turnout": -7426,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -140373,
+            "max_turnout": -7426,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T15:39:42-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 140373,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 140373,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T16:57:46-05:00": {
+        "0": {
+            "Hobbs": 7491,
+            "Lake": 14618,
+            "total": 22109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 7491,
+            "Lake": 14618,
+            "total": 22109,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T17:11:27-05:00": {
+        "0": {
+            "Hobbs": 261,
+            "Lake": 917,
+            "total": 1178,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 261,
+            "Lake": 917,
+            "total": 1178,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-09T17:14:04-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 13,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-09T17:43:49-05:00": {
+        "0": {
+            "Hobbs": 14,
+            "Lake": 25,
+            "total": 39,
+            "min_turnout": 44,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 14,
+            "Lake": 25,
+            "total": 39,
+            "min_turnout": 44,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-09T18:29:14-05:00": {
+        "0": {
+            "Hobbs": 25,
+            "Lake": 159,
+            "total": 184,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 25,
+            "Lake": 159,
+            "total": 184,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-09T20:15:42-05:00": {
+        "0": {
+            "Hobbs": 9877,
+            "Lake": 5758,
+            "total": 15635,
+            "min_turnout": -10285,
+            "max_turnout": -109776,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 562,
+            "Lake": 612,
+            "total": 1174,
+            "min_turnout": 0,
+            "max_turnout": -442,
+            "county_name": "Cochise"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -18,
+            "max_turnout": -806,
+            "county_name": "Graham"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -94715,
+            "county_name": "Maricopa"
+        },
+        "11": {
+            "Hobbs": 8873,
+            "Lake": 4492,
+            "total": 13365,
+            "min_turnout": -14312,
+            "max_turnout": -15102,
+            "county_name": "Pima"
+        },
+        "14": {
+            "Hobbs": 442,
+            "Lake": 654,
+            "total": 1096,
+            "min_turnout": 0,
+            "max_turnout": 1289,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 4045,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-09T20:41:41-05:00": {
+        "0": {
+            "Hobbs": 48,
+            "Lake": 9,
+            "total": 57,
+            "min_turnout": 0,
+            "max_turnout": 83,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 48,
+            "Lake": 9,
+            "total": 57,
+            "min_turnout": 0,
+            "max_turnout": 83,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-09T20:50:25-05:00": {
+        "0": {
+            "Hobbs": 33018,
+            "Lake": 28058,
+            "total": 61076,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 33018,
+            "Lake": 28058,
+            "total": 61076,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-09T21:05:01-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 14312,
+            "max_turnout": 31805,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 14312,
+            "max_turnout": 31805,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-09T21:09:01-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 13351,
+            "max_turnout": 50,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 7563,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 5788,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 49,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-10T10:38:06-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 816,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 816,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-10T11:02:42-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3201,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -3201,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-10T11:03:23-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4936,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -4936,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-10T11:05:55-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2722,
+            "max_turnout": 1778,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2722,
+            "max_turnout": 1778,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-10T11:06:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1090,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1090,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-10T14:56:49-05:00": {
+        "0": {
+            "Hobbs": 1178,
+            "Lake": 1808,
+            "total": 2986,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 1178,
+            "Lake": 1808,
+            "total": 2986,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-10T15:21:36-05:00": {
+        "0": {
+            "Hobbs": 160,
+            "Lake": 16,
+            "total": 176,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 160,
+            "Lake": 16,
+            "total": 176,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-10T15:22:03-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 214,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 214,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-10T15:38:51-05:00": {
+        "0": {
+            "Hobbs": 8224,
+            "Lake": 4017,
+            "total": 12241,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 8224,
+            "Lake": 4017,
+            "total": 12241,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-10T15:57:17-05:00": {
+        "0": {
+            "Hobbs": 94,
+            "Lake": 205,
+            "total": 299,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 94,
+            "Lake": 205,
+            "total": 299,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-10T15:58:37-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 37,
+            "max_turnout": 0,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-10T17:08:40-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -33,
+            "max_turnout": -5,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -33,
+            "max_turnout": -5,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-10T18:31:13-05:00": {
+        "0": {
+            "Hobbs": 856,
+            "Lake": 2509,
+            "total": 3365,
+            "min_turnout": 818,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 856,
+            "Lake": 2509,
+            "total": 3365,
+            "min_turnout": 818,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        }
+    },
+    "2022-11-10T18:31:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 672,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 672,
+            "county_name": "Gila"
+        }
+    },
+    "2022-11-10T18:58:36-05:00": {
+        "0": {
+            "Hobbs": 566,
+            "Lake": 504,
+            "total": 1070,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 566,
+            "Lake": 504,
+            "total": 1070,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-10T18:59:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -158,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -158,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-10T19:45:52-05:00": {
+        "0": {
+            "Hobbs": 2015,
+            "Lake": 926,
+            "total": 2941,
+            "min_turnout": 0,
+            "max_turnout": 236,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 2015,
+            "Lake": 926,
+            "total": 2941,
+            "min_turnout": 0,
+            "max_turnout": 236,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-10T20:01:58-05:00": {
+        "0": {
+            "Hobbs": 1021,
+            "Lake": 405,
+            "total": 1426,
+            "min_turnout": 0,
+            "max_turnout": -53,
+            "county_name": "Total"
+        },
+        "13": {
+            "Hobbs": 1021,
+            "Lake": 405,
+            "total": 1426,
+            "min_turnout": 0,
+            "max_turnout": -53,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-10T20:05:14-05:00": {
+        "0": {
+            "Hobbs": 13023,
+            "Lake": 7065,
+            "total": 20088,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 13023,
+            "Lake": 7065,
+            "total": 20088,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-10T20:07:35-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2929,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2929,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-10T20:13:25-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 514,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 514,
+            "max_turnout": 0,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-10T20:21:10-05:00": {
+        "0": {
+            "Hobbs": 2479,
+            "Lake": 4892,
+            "total": 7371,
+            "min_turnout": 4959,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 2479,
+            "Lake": 4892,
+            "total": 7371,
+            "min_turnout": 4959,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-10T20:59:02-05:00": {
+        "0": {
+            "Hobbs": 1426,
+            "Lake": 1513,
+            "total": 2939,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 1426,
+            "Lake": 1513,
+            "total": 2939,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-10T20:59:46-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 207,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 207,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-10T21:05:32-05:00": {
+        "0": {
+            "Hobbs": 3801,
+            "Lake": 4665,
+            "total": 8466,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 3801,
+            "Lake": 4665,
+            "total": 8466,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-10T21:06:03-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -57,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -57,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-10T21:29:07-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -646,
+            "max_turnout": -394,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -646,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1,
+            "county_name": "Coconino"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -395,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-10T22:01:46-05:00": {
+        "0": {
+            "Hobbs": 42747,
+            "Lake": 35253,
+            "total": 78000,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 42747,
+            "Lake": 35253,
+            "total": 78000,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-10T22:07:00-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 713,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 713,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-10T23:20:16-05:00": {
+        "0": {
+            "Hobbs": 443,
+            "Lake": 343,
+            "total": 786,
+            "min_turnout": -86430,
+            "max_turnout": 6486,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 646,
+            "max_turnout": 1144,
+            "county_name": "Cochise"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -87353,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "13": {
+            "Hobbs": 443,
+            "Lake": 343,
+            "total": 786,
+            "min_turnout": 277,
+            "max_turnout": 61,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 5281,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-11T14:06:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 87353,
+            "max_turnout": 19998,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 87353,
+            "max_turnout": 19998,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-11T14:09:26-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2937,
+            "max_turnout": 216,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2937,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 216,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-11T14:29:49-05:00": {
+        "0": {
+            "Hobbs": 169,
+            "Lake": 238,
+            "total": 407,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 169,
+            "Lake": 238,
+            "total": 407,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-11T16:01:52-05:00": {
+        "0": {
+            "Hobbs": 460,
+            "Lake": 404,
+            "total": 864,
+            "min_turnout": 0,
+            "max_turnout": 73,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 460,
+            "Lake": 404,
+            "total": 864,
+            "min_turnout": 0,
+            "max_turnout": 73,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-11T18:48:11-05:00": {
+        "0": {
+            "Hobbs": 3774,
+            "Lake": 4052,
+            "total": 7826,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 3774,
+            "Lake": 4052,
+            "total": 7826,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-11T18:49:56-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 872,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 872,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-11T18:50:09-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -70,
+            "county_name": "Total"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1,
+            "max_turnout": -70,
+            "county_name": "Greenlee"
+        }
+    },
+    "2022-11-11T18:53:13-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 437,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1,
+            "max_turnout": 437,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-11T18:55:25-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12552,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -455,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -12097,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-11T18:57:38-05:00": {
+        "0": {
+            "Hobbs": 40,
+            "Lake": 82,
+            "total": 122,
+            "min_turnout": 122,
+            "max_turnout": -186,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 40,
+            "Lake": 82,
+            "total": 122,
+            "min_turnout": 122,
+            "max_turnout": 128,
+            "county_name": "Gila"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -314,
+            "county_name": "Santa Cruz"
+        }
+    },
+    "2022-11-11T19:09:16-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -59,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-11T19:49:22-05:00": {
+        "0": {
+            "Hobbs": 209,
+            "Lake": 629,
+            "total": 838,
+            "min_turnout": 495,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 209,
+            "Lake": 629,
+            "total": 838,
+            "min_turnout": 495,
+            "max_turnout": 0,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-11T19:53:44-05:00": {
+        "0": {
+            "Hobbs": 2093,
+            "Lake": 7866,
+            "total": 9959,
+            "min_turnout": 9565,
+            "max_turnout": 1709,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 2093,
+            "Lake": 7866,
+            "total": 9959,
+            "min_turnout": 9565,
+            "max_turnout": 1709,
+            "county_name": "Mohave"
+        }
+    },
+    "2022-11-11T20:01:35-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -866,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -866,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-11T20:10:59-05:00": {
+        "0": {
+            "Hobbs": 2705,
+            "Lake": 1180,
+            "total": 3885,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 2705,
+            "Lake": 1180,
+            "total": 3885,
+            "min_turnout": 0,
+            "max_turnout": 11,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-11T20:35:44-05:00": {
+        "0": {
+            "Hobbs": 16022,
+            "Lake": 8273,
+            "total": 24295,
+            "min_turnout": 0,
+            "max_turnout": -1420,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 16022,
+            "Lake": 8273,
+            "total": 24295,
+            "min_turnout": 0,
+            "max_turnout": -1420,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-11T21:08:45-05:00": {
+        "0": {
+            "Hobbs": 2662,
+            "Lake": 7272,
+            "total": 9934,
+            "min_turnout": 9934,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 2662,
+            "Lake": 7272,
+            "total": 9934,
+            "min_turnout": 9934,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-11T21:09:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3926,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3926,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-11T22:07:56-05:00": {
+        "0": {
+            "Hobbs": 40055,
+            "Lake": 34075,
+            "total": 74130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 40055,
+            "Lake": 34075,
+            "total": 74130,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-12T17:45:22-05:00": {
+        "0": {
+            "Hobbs": 2778,
+            "Lake": 1601,
+            "total": 4379,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 2778,
+            "Lake": 1601,
+            "total": 4379,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-12T17:45:46-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 546,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 546,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-12T18:45:44-05:00": {
+        "0": {
+            "Hobbs": 12579,
+            "Lake": 7110,
+            "total": 19689,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 12579,
+            "Lake": 7110,
+            "total": 19689,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-12T18:45:49-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1698,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -1698,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-12T19:05:18-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -82,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -82,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-12T20:02:45-05:00": {
+        "0": {
+            "Hobbs": 40796,
+            "Lake": 43797,
+            "total": 84593,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 40796,
+            "Lake": 43797,
+            "total": 84593,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-12T20:04:42-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3150,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3150,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-12T20:32:52-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -557,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -557,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-12T20:33:56-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -233,
+            "county_name": "Total"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -233,
+            "county_name": "La Paz"
+        }
+    },
+    "2022-11-12T20:35:23-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14661,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -14661,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-12T20:49:02-05:00": {
+        "0": {
+            "Hobbs": 290,
+            "Lake": 903,
+            "total": 1193,
+            "min_turnout": 1193,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 290,
+            "Lake": 903,
+            "total": 1193,
+            "min_turnout": 1193,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-12T20:49:08-05:00": {
+        "0": {
+            "Hobbs": -290,
+            "Lake": -903,
+            "total": -1193,
+            "min_turnout": -1193,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": -290,
+            "Lake": -903,
+            "total": -1193,
+            "min_turnout": -1193,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-12T20:49:16-05:00": {
+        "0": {
+            "Hobbs": 290,
+            "Lake": 903,
+            "total": 1193,
+            "min_turnout": 1193,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 290,
+            "Lake": 903,
+            "total": 1193,
+            "min_turnout": 1193,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-12T20:49:40-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1255,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1255,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-13T12:17:07-05:00": {
+        "0": {
+            "Hobbs": 1158,
+            "Lake": 1057,
+            "total": 2215,
+            "min_turnout": 698,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 1158,
+            "Lake": 1057,
+            "total": 2215,
+            "min_turnout": 698,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-13T12:17:54-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1123,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1123,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-13T15:59:45-05:00": {
+        "0": {
+            "Hobbs": 1814,
+            "Lake": 2204,
+            "total": 4018,
+            "min_turnout": 0,
+            "max_turnout": -265,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 1814,
+            "Lake": 2204,
+            "total": 4018,
+            "min_turnout": 0,
+            "max_turnout": -265,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-13T17:04:40-05:00": {
+        "0": {
+            "Hobbs": 7074,
+            "Lake": 4728,
+            "total": 11802,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 7074,
+            "Lake": 4728,
+            "total": 11802,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-13T17:05:53-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -411,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-13T19:19:30-05:00": {
+        "0": {
+            "Hobbs": 990,
+            "Lake": 2254,
+            "total": 3244,
+            "min_turnout": 232,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 990,
+            "Lake": 2254,
+            "total": 3244,
+            "min_turnout": 232,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-13T19:19:44-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 447,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 447,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-13T20:20:43-05:00": {
+        "0": {
+            "Hobbs": 44111,
+            "Lake": 53022,
+            "total": 97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 44111,
+            "Lake": 53022,
+            "total": 97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-13T20:20:47-05:00": {
+        "0": {
+            "Hobbs": -44111,
+            "Lake": -53022,
+            "total": -97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": -44111,
+            "Lake": -53022,
+            "total": -97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-13T20:20:51-05:00": {
+        "0": {
+            "Hobbs": 44111,
+            "Lake": 53022,
+            "total": 97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 44111,
+            "Lake": 53022,
+            "total": 97133,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-13T20:21:15-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3607,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3607,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T13:08:31-05:00": {
+        "0": {
+            "Hobbs": 1070,
+            "Lake": 2309,
+            "total": 3379,
+            "min_turnout": 3379,
+            "max_turnout": -929,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 1070,
+            "Lake": 2309,
+            "total": 3379,
+            "min_turnout": 3379,
+            "max_turnout": -929,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T13:33:31-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1502,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1502,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T16:29:51-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 427,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 427,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T16:33:28-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1534,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1534,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T17:58:56-05:00": {
+        "0": {
+            "Hobbs": 791,
+            "Lake": 844,
+            "total": 1635,
+            "min_turnout": 1635,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 791,
+            "Lake": 844,
+            "total": 1635,
+            "min_turnout": 1635,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-14T20:12:18-05:00": {
+        "0": {
+            "Hobbs": 16806,
+            "Lake": 12477,
+            "total": 29283,
+            "min_turnout": -100,
+            "max_turnout": -351,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 800,
+            "Lake": 390,
+            "total": 1190,
+            "min_turnout": 0,
+            "max_turnout": -337,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 1873,
+            "Lake": 1846,
+            "total": 3719,
+            "min_turnout": 0,
+            "max_turnout": -79,
+            "county_name": "Cochise"
+        },
+        "11": {
+            "Hobbs": 13937,
+            "Lake": 10070,
+            "total": 24007,
+            "min_turnout": 0,
+            "max_turnout": -321,
+            "county_name": "Pima"
+        },
+        "15": {
+            "Hobbs": 196,
+            "Lake": 171,
+            "total": 367,
+            "min_turnout": -100,
+            "max_turnout": 386,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-14T20:13:57-05:00": {
+        "0": {
+            "Hobbs": 4244,
+            "Lake": 3061,
+            "total": 7305,
+            "min_turnout": 2053,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 4244,
+            "Lake": 3061,
+            "total": 7305,
+            "min_turnout": 2053,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:14:01-05:00": {
+        "0": {
+            "Hobbs": -4244,
+            "Lake": -3061,
+            "total": -7305,
+            "min_turnout": -2053,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": -4244,
+            "Lake": -3061,
+            "total": -7305,
+            "min_turnout": -2053,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:14:06-05:00": {
+        "0": {
+            "Hobbs": 4244,
+            "Lake": 3061,
+            "total": 7305,
+            "min_turnout": 2053,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 4244,
+            "Lake": 3061,
+            "total": 7305,
+            "min_turnout": 2053,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:15:48-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7690,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 7690,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-14T20:38:51-05:00": {
+        "0": {
+            "Hobbs": 30825,
+            "Lake": 40575,
+            "total": 71400,
+            "min_turnout": 44381,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 30825,
+            "Lake": 40575,
+            "total": 71400,
+            "min_turnout": 44381,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T20:39:40-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42177,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42177,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-14T21:46:32-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 37550,
+            "max_turnout": -683,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1695,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 2302,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1571,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 42,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 45,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 15438,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 1300,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 129,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 7427,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 7142,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        },
+        "13": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -770,
+            "county_name": "Santa Cruz"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 750,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        },
+        "15": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -259,
+            "max_turnout": 0,
+            "county_name": "Yuma"
+        }
+    },
+    "2022-11-14T21:58:37-05:00": {
+        "0": {
+            "Hobbs": 409,
+            "Lake": 113,
+            "total": 522,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 409,
+            "Lake": 113,
+            "total": 522,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T22:06:07-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 389,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 74,
+            "max_turnout": 389,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T22:27:18-05:00": {
+        "0": {
+            "Hobbs": 1182,
+            "Lake": 2465,
+            "total": 3647,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 1182,
+            "Lake": 2465,
+            "total": 3647,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-14T22:27:43-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 919,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 919,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-14T23:16:16-05:00": {
+        "0": {
+            "Hobbs": 319,
+            "Lake": 431,
+            "total": 750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 319,
+            "Lake": 431,
+            "total": 750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T23:16:20-05:00": {
+        "0": {
+            "Hobbs": -319,
+            "Lake": -431,
+            "total": -750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": -319,
+            "Lake": -431,
+            "total": -750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T23:16:25-05:00": {
+        "0": {
+            "Hobbs": 319,
+            "Lake": 431,
+            "total": 750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 319,
+            "Lake": 431,
+            "total": 750,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-14T23:17:46-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -126,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -126,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-15T12:51:44-05:00": {
+        "0": {
+            "Hobbs": 433,
+            "Lake": 214,
+            "total": 647,
+            "min_turnout": 0,
+            "max_turnout": 681,
+            "county_name": "Total"
+        },
+        "3": {
+            "Hobbs": 433,
+            "Lake": 214,
+            "total": 647,
+            "min_turnout": 0,
+            "max_turnout": 681,
+            "county_name": "Coconino"
+        }
+    },
+    "2022-11-15T15:51:25-05:00": {
+        "0": {
+            "Hobbs": 1263,
+            "Lake": 2702,
+            "total": 3965,
+            "min_turnout": 1067,
+            "max_turnout": 2859,
+            "county_name": "Total"
+        },
+        "9": {
+            "Hobbs": 86,
+            "Lake": 503,
+            "total": 589,
+            "min_turnout": 0,
+            "max_turnout": 620,
+            "county_name": "Mohave"
+        },
+        "12": {
+            "Hobbs": 1177,
+            "Lake": 2199,
+            "total": 3376,
+            "min_turnout": 1067,
+            "max_turnout": 2239,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-15T16:01:31-05:00": {
+        "0": {
+            "Hobbs": 641,
+            "Lake": 938,
+            "total": 1579,
+            "min_turnout": 783,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 641,
+            "Lake": 938,
+            "total": 1579,
+            "min_turnout": 783,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-15T16:01:58-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1663,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 1663,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-15T16:55:44-05:00": {
+        "0": {
+            "Hobbs": 926,
+            "Lake": 240,
+            "total": 1166,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 926,
+            "Lake": 240,
+            "total": 1166,
+            "min_turnout": 55,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-15T18:01:44-05:00": {
+        "0": {
+            "Hobbs": 1317,
+            "Lake": 595,
+            "total": 1912,
+            "min_turnout": 0,
+            "max_turnout": 2012,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 1317,
+            "Lake": 595,
+            "total": 1912,
+            "min_turnout": 0,
+            "max_turnout": 2012,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-15T18:59:24-05:00": {
+        "0": {
+            "Hobbs": 1599,
+            "Lake": 2169,
+            "total": 3768,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 1599,
+            "Lake": 2169,
+            "total": 3768,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-15T18:59:51-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3966,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3966,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-15T19:01:27-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -8504,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -5163,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -3341,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-15T19:19:00-05:00": {
+        "0": {
+            "Hobbs": 71,
+            "Lake": 116,
+            "total": 187,
+            "min_turnout": 187,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 71,
+            "Lake": 116,
+            "total": 187,
+            "min_turnout": 187,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-15T19:19:42-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 196,
+            "county_name": "Total"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 196,
+            "county_name": "Navajo"
+        }
+    },
+    "2022-11-15T19:43:12-05:00": {
+        "0": {
+            "Hobbs": 1047,
+            "Lake": 2114,
+            "total": 3161,
+            "min_turnout": 2292,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 1047,
+            "Lake": 2114,
+            "total": 3161,
+            "min_turnout": 2292,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-15T19:43:53-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 838,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 838,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T01:02:06-05:00": {
+        "0": {
+            "Hobbs": 2399,
+            "Lake": 2741,
+            "total": 5140,
+            "min_turnout": 937,
+            "max_turnout": 3915,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 653,
+            "Lake": 392,
+            "total": 1045,
+            "min_turnout": 824,
+            "max_turnout": -276,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 462,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        },
+        "3": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -435,
+            "max_turnout": 0,
+            "county_name": "Coconino"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 47,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        },
+        "6": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -75,
+            "county_name": "Greenlee"
+        },
+        "7": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": -45,
+            "county_name": "La Paz"
+        },
+        "8": {
+            "Hobbs": 1746,
+            "Lake": 2349,
+            "total": 4095,
+            "min_turnout": 934,
+            "max_turnout": 4311,
+            "county_name": "Maricopa"
+        },
+        "9": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -11,
+            "max_turnout": 0,
+            "county_name": "Mohave"
+        },
+        "10": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 310,
+            "max_turnout": 0,
+            "county_name": "Navajo"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": -1537,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 343,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-16T13:43:51-05:00": {
+        "0": {
+            "Hobbs": 210,
+            "Lake": 430,
+            "total": 640,
+            "min_turnout": 178,
+            "max_turnout": 674,
+            "county_name": "Total"
+        },
+        "2": {
+            "Hobbs": 210,
+            "Lake": 430,
+            "total": 640,
+            "min_turnout": 178,
+            "max_turnout": 674,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T13:58:31-05:00": {
+        "0": {
+            "Hobbs": 88,
+            "Lake": 118,
+            "total": 206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 88,
+            "Lake": 118,
+            "total": 206,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-16T13:59:48-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 217,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 217,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-16T14:13:50-05:00": {
+        "0": {
+            "Hobbs": 783,
+            "Lake": 573,
+            "total": 1356,
+            "min_turnout": 1118,
+            "max_turnout": -70,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 783,
+            "Lake": 573,
+            "total": 1356,
+            "min_turnout": 1118,
+            "max_turnout": -70,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-16T14:37:12-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 547,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 251,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "2": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 296,
+            "max_turnout": 0,
+            "county_name": "Cochise"
+        }
+    },
+    "2022-11-16T19:17:48-05:00": {
+        "0": {
+            "Hobbs": 749,
+            "Lake": 460,
+            "total": 1209,
+            "min_turnout": 958,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 749,
+            "Lake": 460,
+            "total": 1209,
+            "min_turnout": 958,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-16T19:19:43-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 84,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 84,
+            "county_name": "Apache"
+        }
+    },
+    "2022-11-16T19:37:16-05:00": {
+        "0": {
+            "Hobbs": 1521,
+            "Lake": 937,
+            "total": 2458,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 1521,
+            "Lake": 937,
+            "total": 2458,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-16T19:37:42-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2588,
+            "county_name": "Total"
+        },
+        "11": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 2588,
+            "county_name": "Pima"
+        }
+    },
+    "2022-11-16T19:38:21-05:00": {
+        "0": {
+            "Hobbs": 16,
+            "Lake": 81,
+            "total": 97,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 16,
+            "Lake": 81,
+            "total": 97,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-16T19:39:39-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 102,
+            "county_name": "Total"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 102,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-16T20:27:43-05:00": {
+        "0": {
+            "Hobbs": 19,
+            "Lake": 75,
+            "total": 94,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 19,
+            "Lake": 75,
+            "total": 94,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Gila"
+        }
+    },
+    "2022-11-16T20:27:56-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 99,
+            "county_name": "Total"
+        },
+        "4": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 99,
+            "county_name": "Gila"
+        }
+    },
+    "2022-11-16T21:22:37-05:00": {
+        "0": {
+            "Hobbs": 118,
+            "Lake": 233,
+            "total": 351,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 118,
+            "Lake": 233,
+            "total": 351,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-16T21:23:54-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 370,
+            "county_name": "Total"
+        },
+        "14": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 370,
+            "county_name": "Yavapai"
+        }
+    },
+    "2022-11-16T21:37:19-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 273,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "1": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 264,
+            "max_turnout": 0,
+            "county_name": "Apache"
+        },
+        "5": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 9,
+            "max_turnout": 0,
+            "county_name": "Graham"
+        }
+    },
+    "2022-11-16T23:08:12-05:00": {
+        "0": {
+            "Hobbs": 1517,
+            "Lake": 2163,
+            "total": 3680,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 1517,
+            "Lake": 2163,
+            "total": 3680,
+            "min_turnout": 0,
+            "max_turnout": 0,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-16T23:12:56-05:00": {
+        "0": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3874,
+            "county_name": "Total"
+        },
+        "8": {
+            "Hobbs": 0,
+            "Lake": 0,
+            "total": 0,
+            "min_turnout": 0,
+            "max_turnout": 3874,
+            "county_name": "Maricopa"
+        }
+    },
+    "2022-11-17T11:03:56-05:00": {
+        "0": {
+            "Hobbs": 3,
+            "Lake": 5,
+            "total": 8,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 3,
+            "Lake": 5,
+            "total": 8,
+            "min_turnout": 0,
+            "max_turnout": 8,
+            "county_name": "Pinal"
+        }
+    },
+    "2022-11-17T11:43:46-05:00": {
+        "0": {
+            "Hobbs": 36,
+            "Lake": 79,
+            "total": 115,
+            "min_turnout": 0,
+            "max_turnout": 121,
+            "county_name": "Total"
+        },
+        "12": {
+            "Hobbs": 36,
+            "Lake": 79,
+            "total": 115,
+            "min_turnout": 0,
+            "max_turnout": 121,
+            "county_name": "Pinal"
+        }
+    }
+}

@@ -1,0 +1,954 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Barnes": 1310652,
+            "Johnson": 1336918,
+            "total": 2647570,
+            "min_turnout": 2673912,
+            "max_turnout": 2674370
+        },
+        {
+            "county_name": "Adams",
+            "Barnes": 3644,
+            "Johnson": 6202,
+            "total": 9846,
+            "min_turnout": 9944,
+            "max_turnout": 9945
+        },
+        {
+            "county_name": "Ashland",
+            "Barnes": 3901,
+            "Johnson": 3075,
+            "total": 6976,
+            "min_turnout": 7046,
+            "max_turnout": 7046
+        },
+        {
+            "county_name": "Barron",
+            "Barnes": 7121,
+            "Johnson": 12928,
+            "total": 20049,
+            "min_turnout": 20249,
+            "max_turnout": 20252
+        },
+        {
+            "county_name": "Bayfield",
+            "Barnes": 5184,
+            "Johnson": 4082,
+            "total": 9266,
+            "min_turnout": 9359,
+            "max_turnout": 9360
+        },
+        {
+            "county_name": "Brown",
+            "Barnes": 51417,
+            "Johnson": 62219,
+            "total": 113636,
+            "min_turnout": 114772,
+            "max_turnout": 114784
+        },
+        {
+            "county_name": "Buffalo",
+            "Barnes": 2201,
+            "Johnson": 3907,
+            "total": 6108,
+            "min_turnout": 6169,
+            "max_turnout": 6170
+        },
+        {
+            "county_name": "Burnett",
+            "Barnes": 2835,
+            "Johnson": 5363,
+            "total": 8198,
+            "min_turnout": 8280,
+            "max_turnout": 8281
+        },
+        {
+            "county_name": "Calumet",
+            "Barnes": 9444,
+            "Johnson": 15459,
+            "total": 24903,
+            "min_turnout": 25152,
+            "max_turnout": 25155
+        },
+        {
+            "county_name": "Chippewa",
+            "Barnes": 11069,
+            "Johnson": 17683,
+            "total": 28752,
+            "min_turnout": 29040,
+            "max_turnout": 29042
+        },
+        {
+            "county_name": "Clark",
+            "Barnes": 3450,
+            "Johnson": 8181,
+            "total": 11631,
+            "min_turnout": 11747,
+            "max_turnout": 11748
+        },
+        {
+            "county_name": "Columbia",
+            "Barnes": 13400,
+            "Johnson": 13899,
+            "total": 27299,
+            "min_turnout": 27572,
+            "max_turnout": 27575
+        },
+        {
+            "county_name": "Crawford",
+            "Barnes": 3179,
+            "Johnson": 3797,
+            "total": 6976,
+            "min_turnout": 7046,
+            "max_turnout": 7046
+        },
+        {
+            "county_name": "Dane",
+            "Barnes": 231818,
+            "Johnson": 68228,
+            "total": 300046,
+            "min_turnout": 302958,
+            "max_turnout": 303046
+        },
+        {
+            "county_name": "Dodge",
+            "Barnes": 12830,
+            "Johnson": 25914,
+            "total": 38744,
+            "min_turnout": 39131,
+            "max_turnout": 39135
+        },
+        {
+            "county_name": "Door",
+            "Barnes": 8610,
+            "Johnson": 8685,
+            "total": 17295,
+            "min_turnout": 17468,
+            "max_turnout": 17470
+        },
+        {
+            "county_name": "Douglas",
+            "Barnes": 10267,
+            "Johnson": 8373,
+            "total": 18640,
+            "min_turnout": 18826,
+            "max_turnout": 18828
+        },
+        {
+            "county_name": "Dunn",
+            "Barnes": 7875,
+            "Johnson": 10544,
+            "total": 18419,
+            "min_turnout": 18603,
+            "max_turnout": 18605
+        },
+        {
+            "county_name": "Eau Claire",
+            "Barnes": 26524,
+            "Johnson": 21205,
+            "total": 47729,
+            "min_turnout": 48206,
+            "max_turnout": 48211
+        },
+        {
+            "county_name": "Florence",
+            "Barnes": 620,
+            "Johnson": 1898,
+            "total": 2518,
+            "min_turnout": 2543,
+            "max_turnout": 2543
+        },
+        {
+            "county_name": "Fond du Lac",
+            "Barnes": 15979,
+            "Johnson": 30582,
+            "total": 46561,
+            "min_turnout": 47027,
+            "max_turnout": 47031
+        },
+        {
+            "county_name": "Forest",
+            "Barnes": 1371,
+            "Johnson": 2783,
+            "total": 4154,
+            "min_turnout": 4195,
+            "max_turnout": 4196
+        },
+        {
+            "county_name": "Grant",
+            "Barnes": 8670,
+            "Johnson": 11397,
+            "total": 20067,
+            "min_turnout": 20268,
+            "max_turnout": 20270
+        },
+        {
+            "county_name": "Green",
+            "Barnes": 9097,
+            "Johnson": 8350,
+            "total": 17447,
+            "min_turnout": 17621,
+            "max_turnout": 17623
+        },
+        {
+            "county_name": "Green Lake",
+            "Barnes": 2626,
+            "Johnson": 6061,
+            "total": 8687,
+            "min_turnout": 8774,
+            "max_turnout": 8775
+        },
+        {
+            "county_name": "Iowa",
+            "Barnes": 6514,
+            "Johnson": 5082,
+            "total": 11596,
+            "min_turnout": 11712,
+            "max_turnout": 11713
+        },
+        {
+            "county_name": "Iron",
+            "Barnes": 1197,
+            "Johnson": 2064,
+            "total": 3261,
+            "min_turnout": 3293,
+            "max_turnout": 3294
+        },
+        {
+            "county_name": "Jackson",
+            "Barnes": 3288,
+            "Johnson": 4700,
+            "total": 7988,
+            "min_turnout": 8068,
+            "max_turnout": 8069
+        },
+        {
+            "county_name": "Jefferson",
+            "Barnes": 16141,
+            "Johnson": 22402,
+            "total": 38543,
+            "min_turnout": 38926,
+            "max_turnout": 38932
+        },
+        {
+            "county_name": "Juneau",
+            "Barnes": 3782,
+            "Johnson": 6944,
+            "total": 10726,
+            "min_turnout": 10833,
+            "max_turnout": 10834
+        },
+        {
+            "county_name": "Kenosha",
+            "Barnes": 31368,
+            "Johnson": 34389,
+            "total": 65757,
+            "min_turnout": 66415,
+            "max_turnout": 66421
+        },
+        {
+            "county_name": "Kewaunee",
+            "Barnes": 3273,
+            "Johnson": 6627,
+            "total": 9900,
+            "min_turnout": 9999,
+            "max_turnout": 10000
+        },
+        {
+            "county_name": "La Crosse",
+            "Barnes": 30693,
+            "Johnson": 24412,
+            "total": 55105,
+            "min_turnout": 55656,
+            "max_turnout": 55662
+        },
+        {
+            "county_name": "Lafayette",
+            "Barnes": 2787,
+            "Johnson": 3778,
+            "total": 6565,
+            "min_turnout": 6631,
+            "max_turnout": 6631
+        },
+        {
+            "county_name": "Langlade",
+            "Barnes": 2818,
+            "Johnson": 6190,
+            "total": 9008,
+            "min_turnout": 9098,
+            "max_turnout": 9099
+        },
+        {
+            "county_name": "Lincoln",
+            "Barnes": 4917,
+            "Johnson": 8533,
+            "total": 13450,
+            "min_turnout": 13584,
+            "max_turnout": 13586
+        },
+        {
+            "county_name": "Manitowoc",
+            "Barnes": 13288,
+            "Johnson": 22561,
+            "total": 35849,
+            "min_turnout": 36207,
+            "max_turnout": 36211
+        },
+        {
+            "county_name": "Marathon",
+            "Barnes": 23904,
+            "Johnson": 37525,
+            "total": 61429,
+            "min_turnout": 62043,
+            "max_turnout": 62049
+        },
+        {
+            "county_name": "Marinette",
+            "Barnes": 5815,
+            "Johnson": 12676,
+            "total": 18491,
+            "min_turnout": 18676,
+            "max_turnout": 18678
+        },
+        {
+            "county_name": "Marquette",
+            "Barnes": 2589,
+            "Johnson": 4753,
+            "total": 7342,
+            "min_turnout": 7415,
+            "max_turnout": 7416
+        },
+        {
+            "county_name": "Menominee",
+            "Barnes": 962,
+            "Johnson": 264,
+            "total": 1226,
+            "min_turnout": 1226,
+            "max_turnout": 1238
+        },
+        {
+            "county_name": "Milwaukee",
+            "Barnes": 243912,
+            "Johnson": 103667,
+            "total": 347579,
+            "min_turnout": 351055,
+            "max_turnout": 351090
+        },
+        {
+            "county_name": "Monroe",
+            "Barnes": 6452,
+            "Johnson": 10798,
+            "total": 17250,
+            "min_turnout": 17422,
+            "max_turnout": 17424
+        },
+        {
+            "county_name": "Oconto",
+            "Barnes": 5501,
+            "Johnson": 13888,
+            "total": 19389,
+            "min_turnout": 19583,
+            "max_turnout": 19585
+        },
+        {
+            "county_name": "Oneida",
+            "Barnes": 8278,
+            "Johnson": 11866,
+            "total": 20144,
+            "min_turnout": 20345,
+            "max_turnout": 20347
+        },
+        {
+            "county_name": "Outagamie",
+            "Barnes": 37921,
+            "Johnson": 47805,
+            "total": 85726,
+            "min_turnout": 86583,
+            "max_turnout": 86592
+        },
+        {
+            "county_name": "Ozaukee",
+            "Barnes": 21953,
+            "Johnson": 30208,
+            "total": 52161,
+            "min_turnout": 52683,
+            "max_turnout": 52688
+        },
+        {
+            "county_name": "Pepin",
+            "Barnes": 1177,
+            "Johnson": 2122,
+            "total": 3299,
+            "min_turnout": 3332,
+            "max_turnout": 3332
+        },
+        {
+            "county_name": "Pierce",
+            "Barnes": 7709,
+            "Johnson": 10313,
+            "total": 18022,
+            "min_turnout": 18202,
+            "max_turnout": 18204
+        },
+        {
+            "county_name": "Polk",
+            "Barnes": 7312,
+            "Johnson": 13138,
+            "total": 20450,
+            "min_turnout": 20654,
+            "max_turnout": 20657
+        },
+        {
+            "county_name": "Portage",
+            "Barnes": 17185,
+            "Johnson": 16358,
+            "total": 33543,
+            "min_turnout": 33878,
+            "max_turnout": 33882
+        },
+        {
+            "county_name": "Price",
+            "Barnes": 2459,
+            "Johnson": 4584,
+            "total": 7043,
+            "min_turnout": 7113,
+            "max_turnout": 7114
+        },
+        {
+            "county_name": "Racine",
+            "Barnes": 37221,
+            "Johnson": 44185,
+            "total": 81406,
+            "min_turnout": 82220,
+            "max_turnout": 82228
+        },
+        {
+            "county_name": "Richland",
+            "Barnes": 3173,
+            "Johnson": 3827,
+            "total": 7000,
+            "min_turnout": 7070,
+            "max_turnout": 7071
+        },
+        {
+            "county_name": "Rock",
+            "Barnes": 36032,
+            "Johnson": 28757,
+            "total": 64789,
+            "min_turnout": 65430,
+            "max_turnout": 65443
+        },
+        {
+            "county_name": "Rusk",
+            "Barnes": 2056,
+            "Johnson": 4326,
+            "total": 6382,
+            "min_turnout": 6445,
+            "max_turnout": 6446
+        },
+        {
+            "county_name": "Saint Croix",
+            "Barnes": 17826,
+            "Johnson": 26142,
+            "total": 43968,
+            "min_turnout": 44408,
+            "max_turnout": 44412
+        },
+        {
+            "county_name": "Sauk",
+            "Barnes": 14617,
+            "Johnson": 14288,
+            "total": 28905,
+            "min_turnout": 29194,
+            "max_turnout": 29197
+        },
+        {
+            "county_name": "Sawyer",
+            "Barnes": 3631,
+            "Johnson": 5002,
+            "total": 8633,
+            "min_turnout": 8718,
+            "max_turnout": 8719
+        },
+        {
+            "county_name": "Shawano",
+            "Barnes": 5533,
+            "Johnson": 12414,
+            "total": 17947,
+            "min_turnout": 18126,
+            "max_turnout": 18128
+        },
+        {
+            "county_name": "Sheboygan",
+            "Barnes": 21349,
+            "Johnson": 32057,
+            "total": 53406,
+            "min_turnout": 53940,
+            "max_turnout": 53945
+        },
+        {
+            "county_name": "Taylor",
+            "Barnes": 2130,
+            "Johnson": 6407,
+            "total": 8537,
+            "min_turnout": 8622,
+            "max_turnout": 8711
+        },
+        {
+            "county_name": "Trempealeau",
+            "Barnes": 4922,
+            "Johnson": 7329,
+            "total": 12251,
+            "min_turnout": 12374,
+            "max_turnout": 12375
+        },
+        {
+            "county_name": "Vernon",
+            "Barnes": 6189,
+            "Johnson": 6914,
+            "total": 13103,
+            "min_turnout": 13234,
+            "max_turnout": 13244
+        },
+        {
+            "county_name": "Vilas",
+            "Barnes": 4801,
+            "Johnson": 8349,
+            "total": 13150,
+            "min_turnout": 13282,
+            "max_turnout": 13283
+        },
+        {
+            "county_name": "Walworth",
+            "Barnes": 17820,
+            "Johnson": 27990,
+            "total": 45810,
+            "min_turnout": 46268,
+            "max_turnout": 46273
+        },
+        {
+            "county_name": "Washburn",
+            "Barnes": 3074,
+            "Johnson": 5277,
+            "total": 8351,
+            "min_turnout": 8435,
+            "max_turnout": 8435
+        },
+        {
+            "county_name": "Washington",
+            "Barnes": 21556,
+            "Johnson": 52395,
+            "total": 73951,
+            "min_turnout": 74691,
+            "max_turnout": 74698
+        },
+        {
+            "county_name": "Waukesha",
+            "Barnes": 83398,
+            "Johnson": 140142,
+            "total": 223540,
+            "min_turnout": 225775,
+            "max_turnout": 225798
+        },
+        {
+            "county_name": "Waupaca",
+            "Barnes": 7647,
+            "Johnson": 15521,
+            "total": 23168,
+            "min_turnout": 23400,
+            "max_turnout": 23402
+        },
+        {
+            "county_name": "Waushara",
+            "Barnes": 3565,
+            "Johnson": 7759,
+            "total": 11324,
+            "min_turnout": 11437,
+            "max_turnout": 11438
+        },
+        {
+            "county_name": "Winnebago",
+            "Barnes": 34860,
+            "Johnson": 39371,
+            "total": 74231,
+            "min_turnout": 74973,
+            "max_turnout": 74981
+        },
+        {
+            "county_name": "Wood",
+            "Barnes": 12925,
+            "Johnson": 20004,
+            "total": 32929,
+            "min_turnout": 33242,
+            "max_turnout": 33258
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Ashland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Barron": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Bayfield": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Brown": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Buffalo": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Burnett": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Calumet": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Chippewa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dane": {
+            "main": "ddhq",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Dodge": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Door": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Dunn": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Eau Claire": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Florence": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Fond du Lac": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Forest": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Green": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Green Lake": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Iowa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Iron": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Juneau": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Kenosha": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Kewaunee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "La Crosse": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Langlade": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Manitowoc": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Marathon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Marinette": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Marquette": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Menominee": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Milwaukee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Oconto": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Oneida": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Outagamie": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Ozaukee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Pepin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pierce": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Portage": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Price": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Racine": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Richland": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Rock": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Rusk": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Saint Croix": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Sauk": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Sawyer": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Shawano": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Sheboygan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Taylor": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Trempealeau": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Vernon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Vilas": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Walworth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Washburn": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Waukesha": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Waupaca": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Waushara": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Winnebago": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wood": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

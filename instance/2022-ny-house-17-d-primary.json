@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Maloney": 24134,
+            "Biaggi": 11946,
+            "total": 36080,
+            "min_turnout": 36995,
+            "max_turnout": 37643
+        },
+        {
+            "county_name": "Dutchess",
+            "Maloney": 999,
+            "Biaggi": 382,
+            "total": 1381,
+            "min_turnout": 1426,
+            "max_turnout": 1490
+        },
+        {
+            "county_name": "Putnam",
+            "Maloney": 2864,
+            "Biaggi": 975,
+            "total": 3839,
+            "min_turnout": 4031,
+            "max_turnout": 4173
+        },
+        {
+            "county_name": "Rockland",
+            "Maloney": 8582,
+            "Biaggi": 4300,
+            "total": 12882,
+            "min_turnout": 13560,
+            "max_turnout": 14002
+        },
+        {
+            "county_name": "Westchester",
+            "Maloney": 11689,
+            "Biaggi": 6289,
+            "total": 17978,
+            "min_turnout": 17978,
+            "max_turnout": 17978
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Dutchess": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Rockland": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Westchester": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "ddhq"
+        }
+    }
+}

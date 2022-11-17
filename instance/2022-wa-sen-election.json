@@ -1,0 +1,525 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Murray": 1420767,
+            "Smiley": 1083026,
+            "total": 2503793,
+            "min_turnout": 2830895,
+            "max_turnout": 3074834
+        },
+        {
+            "county_name": "Adams",
+            "Murray": 622,
+            "Smiley": 2120,
+            "total": 2742,
+            "min_turnout": 3917,
+            "max_turnout": 4093
+        },
+        {
+            "county_name": "Asotin",
+            "Murray": 3122,
+            "Smiley": 5710,
+            "total": 8832,
+            "min_turnout": 8832,
+            "max_turnout": 9296
+        },
+        {
+            "county_name": "Benton",
+            "Murray": 19020,
+            "Smiley": 37449,
+            "total": 56469,
+            "min_turnout": 69714,
+            "max_turnout": 77355
+        },
+        {
+            "county_name": "Chelan",
+            "Murray": 11526,
+            "Smiley": 15688,
+            "total": 27214,
+            "min_turnout": 32962,
+            "max_turnout": 36270
+        },
+        {
+            "county_name": "Clallam",
+            "Murray": 17336,
+            "Smiley": 15579,
+            "total": 32915,
+            "min_turnout": 36877,
+            "max_turnout": 43887
+        },
+        {
+            "county_name": "Clark",
+            "Murray": 95687,
+            "Smiley": 89618,
+            "total": 185305,
+            "min_turnout": 185305,
+            "max_turnout": 208878
+        },
+        {
+            "county_name": "Columbia",
+            "Murray": 523,
+            "Smiley": 1389,
+            "total": 1912,
+            "min_turnout": 2028,
+            "max_turnout": 2148
+        },
+        {
+            "county_name": "Cowlitz",
+            "Murray": 16595,
+            "Smiley": 25084,
+            "total": 41679,
+            "min_turnout": 42017,
+            "max_turnout": 45978
+        },
+        {
+            "county_name": "Douglas",
+            "Murray": 4102,
+            "Smiley": 8098,
+            "total": 12200,
+            "min_turnout": 15303,
+            "max_turnout": 18949
+        },
+        {
+            "county_name": "Ferry",
+            "Murray": 905,
+            "Smiley": 2021,
+            "total": 2926,
+            "min_turnout": 3080,
+            "max_turnout": 3483
+        },
+        {
+            "county_name": "Franklin",
+            "Murray": 6199,
+            "Smiley": 13745,
+            "total": 19944,
+            "min_turnout": 21678,
+            "max_turnout": 22924
+        },
+        {
+            "county_name": "Garfield",
+            "Murray": 304,
+            "Smiley": 974,
+            "total": 1278,
+            "min_turnout": 1278,
+            "max_turnout": 1345
+        },
+        {
+            "county_name": "Grant",
+            "Murray": 4107,
+            "Smiley": 10845,
+            "total": 14952,
+            "min_turnout": 21988,
+            "max_turnout": 26294
+        },
+        {
+            "county_name": "Grays Harbor",
+            "Murray": 8698,
+            "Smiley": 9495,
+            "total": 18193,
+            "min_turnout": 23324,
+            "max_turnout": 27915
+        },
+        {
+            "county_name": "Island",
+            "Murray": 19399,
+            "Smiley": 15507,
+            "total": 34906,
+            "min_turnout": 39949,
+            "max_turnout": 44847
+        },
+        {
+            "county_name": "Jefferson",
+            "Murray": 12202,
+            "Smiley": 4643,
+            "total": 16845,
+            "min_turnout": 19829,
+            "max_turnout": 21323
+        },
+        {
+            "county_name": "King",
+            "Murray": 486145,
+            "Smiley": 162812,
+            "total": 648957,
+            "min_turnout": 791410,
+            "max_turnout": 848077
+        },
+        {
+            "county_name": "Kitsap",
+            "Murray": 50667,
+            "Smiley": 34113,
+            "total": 84780,
+            "min_turnout": 112998,
+            "max_turnout": 124488
+        },
+        {
+            "county_name": "Kittitas",
+            "Murray": 7393,
+            "Smiley": 11253,
+            "total": 18646,
+            "min_turnout": 19696,
+            "max_turnout": 21432
+        },
+        {
+            "county_name": "Klickitat",
+            "Murray": 3912,
+            "Smiley": 5210,
+            "total": 9122,
+            "min_turnout": 10047,
+            "max_turnout": 12505
+        },
+        {
+            "county_name": "Lewis",
+            "Murray": 11048,
+            "Smiley": 24167,
+            "total": 35215,
+            "min_turnout": 35215,
+            "max_turnout": 37068
+        },
+        {
+            "county_name": "Lincoln",
+            "Murray": 1341,
+            "Smiley": 4496,
+            "total": 5837,
+            "min_turnout": 5837,
+            "max_turnout": 6231
+        },
+        {
+            "county_name": "Mason",
+            "Murray": 12907,
+            "Smiley": 14618,
+            "total": 27525,
+            "min_turnout": 27525,
+            "max_turnout": 29597
+        },
+        {
+            "county_name": "Okanogan",
+            "Murray": 3097,
+            "Smiley": 4611,
+            "total": 7708,
+            "min_turnout": 16246,
+            "max_turnout": 18800
+        },
+        {
+            "county_name": "Pacific",
+            "Murray": 4698,
+            "Smiley": 4760,
+            "total": 9458,
+            "min_turnout": 10492,
+            "max_turnout": 12126
+        },
+        {
+            "county_name": "Pend Oreille",
+            "Murray": 2014,
+            "Smiley": 4682,
+            "total": 6696,
+            "min_turnout": 6696,
+            "max_turnout": 7048
+        },
+        {
+            "county_name": "Pierce",
+            "Murray": 172503,
+            "Smiley": 154200,
+            "total": 326703,
+            "min_turnout": 326703,
+            "max_turnout": 343897
+        },
+        {
+            "county_name": "San Juan",
+            "Murray": 8053,
+            "Smiley": 2993,
+            "total": 11046,
+            "min_turnout": 11046,
+            "max_turnout": 11627
+        },
+        {
+            "county_name": "Skagit",
+            "Murray": 17554,
+            "Smiley": 14131,
+            "total": 31685,
+            "min_turnout": 53827,
+            "max_turnout": 63843
+        },
+        {
+            "county_name": "Skamania",
+            "Murray": 2527,
+            "Smiley": 3437,
+            "total": 5964,
+            "min_turnout": 5964,
+            "max_turnout": 6413
+        },
+        {
+            "county_name": "Snohomish",
+            "Murray": 180661,
+            "Smiley": 132974,
+            "total": 313635,
+            "min_turnout": 313635,
+            "max_turnout": 330142
+        },
+        {
+            "county_name": "Spokane",
+            "Murray": 95873,
+            "Smiley": 114949,
+            "total": 210822,
+            "min_turnout": 216875,
+            "max_turnout": 224505
+        },
+        {
+            "county_name": "Stevens",
+            "Murray": 2473,
+            "Smiley": 6012,
+            "total": 8485,
+            "min_turnout": 17316,
+            "max_turnout": 24956
+        },
+        {
+            "county_name": "Thurston",
+            "Murray": 48768,
+            "Smiley": 35156,
+            "total": 83924,
+            "min_turnout": 117654,
+            "max_turnout": 130972
+        },
+        {
+            "county_name": "Wahkiakum",
+            "Murray": 980,
+            "Smiley": 1491,
+            "total": 2471,
+            "min_turnout": 2471,
+            "max_turnout": 2758
+        },
+        {
+            "county_name": "Walla Walla",
+            "Murray": 4489,
+            "Smiley": 6980,
+            "total": 11469,
+            "min_turnout": 22488,
+            "max_turnout": 25876
+        },
+        {
+            "county_name": "Whatcom",
+            "Murray": 59969,
+            "Smiley": 41366,
+            "total": 101335,
+            "min_turnout": 102499,
+            "max_turnout": 114447
+        },
+        {
+            "county_name": "Whitman",
+            "Murray": 4495,
+            "Smiley": 5597,
+            "total": 10092,
+            "min_turnout": 14214,
+            "max_turnout": 16558
+        },
+        {
+            "county_name": "Yakima",
+            "Murray": 18853,
+            "Smiley": 35053,
+            "total": 53906,
+            "min_turnout": 61960,
+            "max_turnout": 66483
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Asotin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Benton": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Chelan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Clallam": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Clark": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Cowlitz": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Ferry": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grant": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Grays Harbor": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Island": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "King": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Kitsap": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Kittitas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Klickitat": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Lewis": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Mason": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Okanogan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Pacific": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Pend Oreille": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Pierce": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Skagit": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Skamania": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Snohomish": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Spokane": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Stevens": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Thurston": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wahkiakum": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Walla Walla": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Whatcom": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Whitman": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Yakima": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}

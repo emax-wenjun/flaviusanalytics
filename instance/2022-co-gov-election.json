@@ -1,0 +1,850 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Polis": 1369545,
+            "Ganahl": 951051,
+            "total": 2374540,
+            "min_turnout": 2483373,
+            "max_turnout": 2571267
+        },
+        {
+            "county_name": "Adams",
+            "Polis": 97631,
+            "Ganahl": 62267,
+            "total": 163831,
+            "min_turnout": 167174,
+            "max_turnout": 172508
+        },
+        {
+            "county_name": "Alamosa",
+            "Polis": 2986,
+            "Ganahl": 2644,
+            "total": 5849,
+            "min_turnout": 5926,
+            "max_turnout": 6141
+        },
+        {
+            "county_name": "Arapahoe",
+            "Polis": 150746,
+            "Ganahl": 83114,
+            "total": 238413,
+            "min_turnout": 251462,
+            "max_turnout": 266360
+        },
+        {
+            "county_name": "Archuleta",
+            "Polis": 3601,
+            "Ganahl": 3906,
+            "total": 7703,
+            "min_turnout": 7703,
+            "max_turnout": 8088
+        },
+        {
+            "county_name": "Baca",
+            "Polis": 295,
+            "Ganahl": 1092,
+            "total": 1730,
+            "min_turnout": 1730,
+            "max_turnout": 1809
+        },
+        {
+            "county_name": "Bent",
+            "Polis": 622,
+            "Ganahl": 1070,
+            "total": 1804,
+            "min_turnout": 1804,
+            "max_turnout": 1894
+        },
+        {
+            "county_name": "Boulder",
+            "Polis": 120438,
+            "Ganahl": 27163,
+            "total": 149673,
+            "min_turnout": 160455,
+            "max_turnout": 165843
+        },
+        {
+            "county_name": "Broomfield",
+            "Polis": 24698,
+            "Ganahl": 11696,
+            "total": 37047,
+            "min_turnout": 37421,
+            "max_turnout": 38899
+        },
+        {
+            "county_name": "Chaffee",
+            "Polis": 6665,
+            "Ganahl": 4581,
+            "total": 11539,
+            "min_turnout": 11656,
+            "max_turnout": 12116
+        },
+        {
+            "county_name": "Cheyenne",
+            "Polis": 110,
+            "Ganahl": 736,
+            "total": 888,
+            "min_turnout": 890,
+            "max_turnout": 978
+        },
+        {
+            "county_name": "Clear Creek",
+            "Polis": 3088,
+            "Ganahl": 1898,
+            "total": 5127,
+            "min_turnout": 5179,
+            "max_turnout": 5248
+        },
+        {
+            "county_name": "Conejos",
+            "Polis": 1647,
+            "Ganahl": 1685,
+            "total": 3417,
+            "min_turnout": 3452,
+            "max_turnout": 3588
+        },
+        {
+            "county_name": "Costilla",
+            "Polis": 1097,
+            "Ganahl": 495,
+            "total": 1641,
+            "min_turnout": 1658,
+            "max_turnout": 1723
+        },
+        {
+            "county_name": "Crowley",
+            "Polis": 398,
+            "Ganahl": 850,
+            "total": 1358,
+            "min_turnout": 1358,
+            "max_turnout": 1426
+        },
+        {
+            "county_name": "Custer",
+            "Polis": 1127,
+            "Ganahl": 2082,
+            "total": 3306,
+            "min_turnout": 3339,
+            "max_turnout": 3471
+        },
+        {
+            "county_name": "Delta",
+            "Polis": 5591,
+            "Ganahl": 9649,
+            "total": 15747,
+            "min_turnout": 15906,
+            "max_turnout": 16534
+        },
+        {
+            "county_name": "Denver",
+            "Polis": 169303,
+            "Ganahl": 33244,
+            "total": 205140,
+            "min_turnout": 275241,
+            "max_turnout": 289352
+        },
+        {
+            "county_name": "Dolores",
+            "Polis": 330,
+            "Ganahl": 795,
+            "total": 1267,
+            "min_turnout": 1267,
+            "max_turnout": 1330
+        },
+        {
+            "county_name": "Douglas",
+            "Polis": 91448,
+            "Ganahl": 92155,
+            "total": 186829,
+            "min_turnout": 188697,
+            "max_turnout": 193540
+        },
+        {
+            "county_name": "Eagle",
+            "Polis": 14908,
+            "Ganahl": 6543,
+            "total": 21766,
+            "min_turnout": 21986,
+            "max_turnout": 22854
+        },
+        {
+            "county_name": "El Paso",
+            "Polis": 132532,
+            "Ganahl": 143763,
+            "total": 283407,
+            "min_turnout": 283407,
+            "max_turnout": 290836
+        },
+        {
+            "county_name": "Elbert",
+            "Polis": 4056,
+            "Ganahl": 11534,
+            "total": 16122,
+            "min_turnout": 16285,
+            "max_turnout": 16928
+        },
+        {
+            "county_name": "Fremont",
+            "Polis": 6923,
+            "Ganahl": 11824,
+            "total": 19448,
+            "min_turnout": 19644,
+            "max_turnout": 19836
+        },
+        {
+            "county_name": "Garfield",
+            "Polis": 13063,
+            "Ganahl": 10281,
+            "total": 23973,
+            "min_turnout": 24213,
+            "max_turnout": 24572
+        },
+        {
+            "county_name": "Gilpin",
+            "Polis": 1993,
+            "Ganahl": 1286,
+            "total": 3365,
+            "min_turnout": 3399,
+            "max_turnout": 3451
+        },
+        {
+            "county_name": "Grand",
+            "Polis": 4112,
+            "Ganahl": 3609,
+            "total": 7912,
+            "min_turnout": 7992,
+            "max_turnout": 8308
+        },
+        {
+            "county_name": "Gunnison",
+            "Polis": 6141,
+            "Ganahl": 2721,
+            "total": 9077,
+            "min_turnout": 9077,
+            "max_turnout": 9531
+        },
+        {
+            "county_name": "Hinsdale",
+            "Polis": 245,
+            "Ganahl": 251,
+            "total": 510,
+            "min_turnout": 515,
+            "max_turnout": 522
+        },
+        {
+            "county_name": "Huerfano",
+            "Polis": 2082,
+            "Ganahl": 1648,
+            "total": 3829,
+            "min_turnout": 3829,
+            "max_turnout": 4020
+        },
+        {
+            "county_name": "Jackson",
+            "Polis": 140,
+            "Ganahl": 526,
+            "total": 682,
+            "min_turnout": 689,
+            "max_turnout": 723
+        },
+        {
+            "county_name": "Jefferson",
+            "Polis": 184557,
+            "Ganahl": 108332,
+            "total": 298974,
+            "min_turnout": 301991,
+            "max_turnout": 308304
+        },
+        {
+            "county_name": "Kiowa",
+            "Polis": 99,
+            "Ganahl": 561,
+            "total": 758,
+            "min_turnout": 758,
+            "max_turnout": 796
+        },
+        {
+            "county_name": "Kit Carson",
+            "Polis": 468,
+            "Ganahl": 2427,
+            "total": 2979,
+            "min_turnout": 3009,
+            "max_turnout": 3120
+        },
+        {
+            "county_name": "La Plata",
+            "Polis": 18234,
+            "Ganahl": 10628,
+            "total": 29520,
+            "min_turnout": 29818,
+            "max_turnout": 30996
+        },
+        {
+            "county_name": "Lake",
+            "Polis": 1886,
+            "Ganahl": 984,
+            "total": 2954,
+            "min_turnout": 2954,
+            "max_turnout": 3102
+        },
+        {
+            "county_name": "Larimer",
+            "Polis": 105276,
+            "Ganahl": 66636,
+            "total": 175882,
+            "min_turnout": 175882,
+            "max_turnout": 180960
+        },
+        {
+            "county_name": "Las Animas",
+            "Polis": 3374,
+            "Ganahl": 3045,
+            "total": 6623,
+            "min_turnout": 6690,
+            "max_turnout": 6954
+        },
+        {
+            "county_name": "Lincoln",
+            "Polis": 382,
+            "Ganahl": 1597,
+            "total": 2079,
+            "min_turnout": 2083,
+            "max_turnout": 2183
+        },
+        {
+            "county_name": "Logan",
+            "Polis": 1832,
+            "Ganahl": 5860,
+            "total": 8154,
+            "min_turnout": 8154,
+            "max_turnout": 8496
+        },
+        {
+            "county_name": "Mesa",
+            "Polis": 30179,
+            "Ganahl": 40017,
+            "total": 72753,
+            "min_turnout": 73488,
+            "max_turnout": 76391
+        },
+        {
+            "county_name": "Mineral",
+            "Polis": 320,
+            "Ganahl": 362,
+            "total": 708,
+            "min_turnout": 715,
+            "max_turnout": 743
+        },
+        {
+            "county_name": "Moffat",
+            "Polis": 1046,
+            "Ganahl": 4151,
+            "total": 5380,
+            "min_turnout": 5434,
+            "max_turnout": 5649
+        },
+        {
+            "county_name": "Montezuma",
+            "Polis": 5120,
+            "Ganahl": 6678,
+            "total": 12348,
+            "min_turnout": 12418,
+            "max_turnout": 12965
+        },
+        {
+            "county_name": "Montrose",
+            "Polis": 7405,
+            "Ganahl": 12625,
+            "total": 20554,
+            "min_turnout": 20762,
+            "max_turnout": 21582
+        },
+        {
+            "county_name": "Morgan",
+            "Polis": 2595,
+            "Ganahl": 6900,
+            "total": 9864,
+            "min_turnout": 9964,
+            "max_turnout": 10890
+        },
+        {
+            "county_name": "Otero",
+            "Polis": 2881,
+            "Ganahl": 3979,
+            "total": 7095,
+            "min_turnout": 7167,
+            "max_turnout": 7221
+        },
+        {
+            "county_name": "Ouray",
+            "Polis": 2206,
+            "Ganahl": 1239,
+            "total": 3512,
+            "min_turnout": 3512,
+            "max_turnout": 3688
+        },
+        {
+            "county_name": "Park",
+            "Polis": 4379,
+            "Ganahl": 5216,
+            "total": 9903,
+            "min_turnout": 9903,
+            "max_turnout": 10100
+        },
+        {
+            "county_name": "Phillips",
+            "Polis": 382,
+            "Ganahl": 1508,
+            "total": 1956,
+            "min_turnout": 1976,
+            "max_turnout": 1997
+        },
+        {
+            "county_name": "Pitkin",
+            "Polis": 7378,
+            "Ganahl": 1862,
+            "total": 9341,
+            "min_turnout": 9434,
+            "max_turnout": 9726
+        },
+        {
+            "county_name": "Prowers",
+            "Polis": 1124,
+            "Ganahl": 2841,
+            "total": 4263,
+            "min_turnout": 4263,
+            "max_turnout": 4476
+        },
+        {
+            "county_name": "Pueblo",
+            "Polis": 36101,
+            "Ganahl": 28287,
+            "total": 66607,
+            "min_turnout": 66607,
+            "max_turnout": 67776
+        },
+        {
+            "county_name": "Rio Blanco",
+            "Polis": 496,
+            "Ganahl": 2373,
+            "total": 3006,
+            "min_turnout": 3020,
+            "max_turnout": 3156
+        },
+        {
+            "county_name": "Rio Grande",
+            "Polis": 2132,
+            "Ganahl": 2481,
+            "total": 4942,
+            "min_turnout": 4942,
+            "max_turnout": 5189
+        },
+        {
+            "county_name": "Routt",
+            "Polis": 9140,
+            "Ganahl": 4378,
+            "total": 13729,
+            "min_turnout": 13868,
+            "max_turnout": 14415
+        },
+        {
+            "county_name": "Saguache",
+            "Polis": 1538,
+            "Ganahl": 1037,
+            "total": 2696,
+            "min_turnout": 2710,
+            "max_turnout": 2831
+        },
+        {
+            "county_name": "San Juan",
+            "Polis": 343,
+            "Ganahl": 142,
+            "total": 499,
+            "min_turnout": 504,
+            "max_turnout": 524
+        },
+        {
+            "county_name": "San Miguel",
+            "Polis": 3159,
+            "Ganahl": 793,
+            "total": 4021,
+            "min_turnout": 4062,
+            "max_turnout": 4222
+        },
+        {
+            "county_name": "Sedgwick",
+            "Polis": 312,
+            "Ganahl": 803,
+            "total": 1158,
+            "min_turnout": 1170,
+            "max_turnout": 1173
+        },
+        {
+            "county_name": "Summit",
+            "Polis": 10285,
+            "Ganahl": 3630,
+            "total": 14153,
+            "min_turnout": 14296,
+            "max_turnout": 14861
+        },
+        {
+            "county_name": "Teller",
+            "Polis": 4817,
+            "Ganahl": 8309,
+            "total": 13399,
+            "min_turnout": 13545,
+            "max_turnout": 14069
+        },
+        {
+            "county_name": "Washington",
+            "Polis": 310,
+            "Ganahl": 1937,
+            "total": 2348,
+            "min_turnout": 2365,
+            "max_turnout": 2422
+        },
+        {
+            "county_name": "Weld",
+            "Polis": 51130,
+            "Ganahl": 71288,
+            "total": 126075,
+            "min_turnout": 128648,
+            "max_turnout": 133849
+        },
+        {
+            "county_name": "Yuma",
+            "Polis": 643,
+            "Ganahl": 3037,
+            "total": 3907,
+            "min_turnout": 3907,
+            "max_turnout": 4012
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Adams": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Alamosa": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Arapahoe": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Archuleta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Baca": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Bent": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Boulder": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Broomfield": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Chaffee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Cheyenne": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Clear Creek": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Conejos": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Costilla": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Crowley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Custer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Delta": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Denver": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dolores": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Eagle": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "El Paso": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Elbert": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Fremont": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Garfield": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Gilpin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Grand": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Gunnison": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hinsdale": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Huerfano": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Kiowa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Kit Carson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "La Plata": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Larimer": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Las Animas": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Logan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mesa": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Mineral": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Moffat": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Montezuma": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Montrose": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Otero": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Ouray": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Park": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Phillips": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pitkin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Prowers": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Pueblo": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rio Blanco": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Rio Grande": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Routt": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Saguache": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "San Juan": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "San Miguel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sedgwick": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Summit": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Teller": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Weld": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Yuma": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        }
+    }
+}

@@ -1,0 +1,2085 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Abrams": 1809787,
+            "Kemp": 2109228,
+            "total": 3947117,
+            "min_turnout": 3985761,
+            "max_turnout": 4195777
+        },
+        {
+            "county_name": "Appling",
+            "Abrams": 1131,
+            "Kemp": 5551,
+            "total": 6702,
+            "min_turnout": 6769,
+            "max_turnout": 7054
+        },
+        {
+            "county_name": "Atkinson",
+            "Abrams": 467,
+            "Kemp": 1764,
+            "total": 2243,
+            "min_turnout": 2265,
+            "max_turnout": 2638
+        },
+        {
+            "county_name": "Bacon",
+            "Abrams": 393,
+            "Kemp": 3312,
+            "total": 3721,
+            "min_turnout": 3758,
+            "max_turnout": 4001
+        },
+        {
+            "county_name": "Baker",
+            "Abrams": 496,
+            "Kemp": 752,
+            "total": 1251,
+            "min_turnout": 1264,
+            "max_turnout": 1345
+        },
+        {
+            "county_name": "Baldwin",
+            "Abrams": 6910,
+            "Kemp": 7987,
+            "total": 14999,
+            "min_turnout": 15149,
+            "max_turnout": 15151
+        },
+        {
+            "county_name": "Banks",
+            "Abrams": 607,
+            "Kemp": 6638,
+            "total": 7313,
+            "min_turnout": 7386,
+            "max_turnout": 7697
+        },
+        {
+            "county_name": "Barrow",
+            "Abrams": 7301,
+            "Kemp": 21823,
+            "total": 29412,
+            "min_turnout": 29706,
+            "max_turnout": 30960
+        },
+        {
+            "county_name": "Bartow",
+            "Abrams": 8126,
+            "Kemp": 31501,
+            "total": 39959,
+            "min_turnout": 40359,
+            "max_turnout": 40363
+        },
+        {
+            "county_name": "Ben Hill",
+            "Abrams": 1680,
+            "Kemp": 3410,
+            "total": 5116,
+            "min_turnout": 5167,
+            "max_turnout": 5748
+        },
+        {
+            "county_name": "Berrien",
+            "Abrams": 772,
+            "Kemp": 5207,
+            "total": 6017,
+            "min_turnout": 6077,
+            "max_turnout": 6540
+        },
+        {
+            "county_name": "Bibb",
+            "Abrams": 31409,
+            "Kemp": 22368,
+            "total": 54067,
+            "min_turnout": 54608,
+            "max_turnout": 62868
+        },
+        {
+            "county_name": "Bleckley",
+            "Abrams": 883,
+            "Kemp": 3885,
+            "total": 4804,
+            "min_turnout": 4852,
+            "max_turnout": 5056
+        },
+        {
+            "county_name": "Brantley",
+            "Abrams": 393,
+            "Kemp": 5416,
+            "total": 5859,
+            "min_turnout": 5918,
+            "max_turnout": 6167
+        },
+        {
+            "county_name": "Brooks",
+            "Abrams": 1954,
+            "Kemp": 3631,
+            "total": 5623,
+            "min_turnout": 5679,
+            "max_turnout": 5981
+        },
+        {
+            "county_name": "Bryan",
+            "Abrams": 4673,
+            "Kemp": 12186,
+            "total": 17001,
+            "min_turnout": 17171,
+            "max_turnout": 17895
+        },
+        {
+            "county_name": "Bulloch",
+            "Abrams": 7340,
+            "Kemp": 16048,
+            "total": 23560,
+            "min_turnout": 23796,
+            "max_turnout": 24800
+        },
+        {
+            "county_name": "Burke",
+            "Abrams": 3714,
+            "Kemp": 4682,
+            "total": 8458,
+            "min_turnout": 8543,
+            "max_turnout": 9094
+        },
+        {
+            "county_name": "Butts",
+            "Abrams": 2418,
+            "Kemp": 7220,
+            "total": 9690,
+            "min_turnout": 9787,
+            "max_turnout": 9788
+        },
+        {
+            "county_name": "Calhoun",
+            "Abrams": 918,
+            "Kemp": 793,
+            "total": 1714,
+            "min_turnout": 1731,
+            "max_turnout": 1970
+        },
+        {
+            "county_name": "Camden",
+            "Abrams": 5262,
+            "Kemp": 12491,
+            "total": 17940,
+            "min_turnout": 18119,
+            "max_turnout": 18121
+        },
+        {
+            "county_name": "Candler",
+            "Abrams": 885,
+            "Kemp": 2664,
+            "total": 3560,
+            "min_turnout": 3596,
+            "max_turnout": 3747
+        },
+        {
+            "county_name": "Carroll",
+            "Abrams": 11257,
+            "Kemp": 32088,
+            "total": 43719,
+            "min_turnout": 44151,
+            "max_turnout": 44160
+        },
+        {
+            "county_name": "Catoosa",
+            "Abrams": 4254,
+            "Kemp": 19992,
+            "total": 24484,
+            "min_turnout": 24729,
+            "max_turnout": 25772
+        },
+        {
+            "county_name": "Charlton",
+            "Abrams": 728,
+            "Kemp": 2654,
+            "total": 3405,
+            "min_turnout": 3434,
+            "max_turnout": 3510
+        },
+        {
+            "county_name": "Chatham",
+            "Abrams": 58862,
+            "Kemp": 46522,
+            "total": 106142,
+            "min_turnout": 107203,
+            "max_turnout": 111728
+        },
+        {
+            "county_name": "Chattahoochee",
+            "Abrams": 427,
+            "Kemp": 583,
+            "total": 1020,
+            "min_turnout": 1030,
+            "max_turnout": 1232
+        },
+        {
+            "county_name": "Chattooga",
+            "Abrams": 1191,
+            "Kemp": 6471,
+            "total": 7711,
+            "min_turnout": 7788,
+            "max_turnout": 7789
+        },
+        {
+            "county_name": "Cherokee",
+            "Abrams": 29870,
+            "Kemp": 89292,
+            "total": 120319,
+            "min_turnout": 121522,
+            "max_turnout": 126651
+        },
+        {
+            "county_name": "Clarke",
+            "Abrams": 26889,
+            "Kemp": 13087,
+            "total": 40297,
+            "min_turnout": 40700,
+            "max_turnout": 40704
+        },
+        {
+            "county_name": "Clay",
+            "Abrams": 553,
+            "Kemp": 569,
+            "total": 1125,
+            "min_turnout": 1136,
+            "max_turnout": 1236
+        },
+        {
+            "county_name": "Clayton",
+            "Abrams": 72301,
+            "Kemp": 11291,
+            "total": 84044,
+            "min_turnout": 84862,
+            "max_turnout": 95504
+        },
+        {
+            "county_name": "Clinch",
+            "Abrams": 433,
+            "Kemp": 1668,
+            "total": 2114,
+            "min_turnout": 2135,
+            "max_turnout": 2348
+        },
+        {
+            "county_name": "Cobb",
+            "Abrams": 160952,
+            "Kemp": 147135,
+            "total": 310709,
+            "min_turnout": 313816,
+            "max_turnout": 331236
+        },
+        {
+            "county_name": "Coffee",
+            "Abrams": 3017,
+            "Kemp": 8813,
+            "total": 11896,
+            "min_turnout": 12015,
+            "max_turnout": 13072
+        },
+        {
+            "county_name": "Colquitt",
+            "Abrams": 2682,
+            "Kemp": 9859,
+            "total": 12595,
+            "min_turnout": 12721,
+            "max_turnout": 13543
+        },
+        {
+            "county_name": "Columbia",
+            "Abrams": 20651,
+            "Kemp": 43397,
+            "total": 64564,
+            "min_turnout": 65210,
+            "max_turnout": 67962
+        },
+        {
+            "county_name": "Cook",
+            "Abrams": 1387,
+            "Kemp": 4138,
+            "total": 5557,
+            "min_turnout": 5613,
+            "max_turnout": 6040
+        },
+        {
+            "county_name": "Coweta",
+            "Abrams": 17829,
+            "Kemp": 45359,
+            "total": 63691,
+            "min_turnout": 64328,
+            "max_turnout": 67043
+        },
+        {
+            "county_name": "Crawford",
+            "Abrams": 1168,
+            "Kemp": 3631,
+            "total": 4830,
+            "min_turnout": 4878,
+            "max_turnout": 5138
+        },
+        {
+            "county_name": "Crisp",
+            "Abrams": 2012,
+            "Kemp": 4295,
+            "total": 6320,
+            "min_turnout": 6383,
+            "max_turnout": 7348
+        },
+        {
+            "county_name": "Dade",
+            "Abrams": 807,
+            "Kemp": 4966,
+            "total": 5841,
+            "min_turnout": 5899,
+            "max_turnout": 6148
+        },
+        {
+            "county_name": "Dawson",
+            "Abrams": 1811,
+            "Kemp": 11991,
+            "total": 13941,
+            "min_turnout": 14080,
+            "max_turnout": 14674
+        },
+        {
+            "county_name": "DeKalb",
+            "Abrams": 241280,
+            "Kemp": 54428,
+            "total": 297505,
+            "min_turnout": 300480,
+            "max_turnout": 326928
+        },
+        {
+            "county_name": "Decatur",
+            "Abrams": 3181,
+            "Kemp": 5629,
+            "total": 8842,
+            "min_turnout": 8930,
+            "max_turnout": 9507
+        },
+        {
+            "county_name": "Dodge",
+            "Abrams": 1518,
+            "Kemp": 5086,
+            "total": 6629,
+            "min_turnout": 6695,
+            "max_turnout": 7365
+        },
+        {
+            "county_name": "Dooly",
+            "Abrams": 1416,
+            "Kemp": 1860,
+            "total": 3286,
+            "min_turnout": 3319,
+            "max_turnout": 3959
+        },
+        {
+            "county_name": "Dougherty",
+            "Abrams": 18055,
+            "Kemp": 8516,
+            "total": 26665,
+            "min_turnout": 26932,
+            "max_turnout": 32518
+        },
+        {
+            "county_name": "Douglas",
+            "Abrams": 32801,
+            "Kemp": 19702,
+            "total": 52856,
+            "min_turnout": 53385,
+            "max_turnout": 57452
+        },
+        {
+            "county_name": "Early",
+            "Abrams": 1576,
+            "Kemp": 2317,
+            "total": 3904,
+            "min_turnout": 3943,
+            "max_turnout": 4290
+        },
+        {
+            "county_name": "Echols",
+            "Abrams": 94,
+            "Kemp": 956,
+            "total": 1065,
+            "min_turnout": 1075,
+            "max_turnout": 1196
+        },
+        {
+            "county_name": "Effingham",
+            "Abrams": 5598,
+            "Kemp": 19543,
+            "total": 25382,
+            "min_turnout": 25636,
+            "max_turnout": 26717
+        },
+        {
+            "county_name": "Elbert",
+            "Abrams": 1909,
+            "Kemp": 5362,
+            "total": 7310,
+            "min_turnout": 7383,
+            "max_turnout": 7694
+        },
+        {
+            "county_name": "Emanuel",
+            "Abrams": 2024,
+            "Kemp": 5498,
+            "total": 7555,
+            "min_turnout": 7631,
+            "max_turnout": 8037
+        },
+        {
+            "county_name": "Evans",
+            "Abrams": 882,
+            "Kemp": 2467,
+            "total": 3361,
+            "min_turnout": 3395,
+            "max_turnout": 3575
+        },
+        {
+            "county_name": "Fannin",
+            "Abrams": 1795,
+            "Kemp": 10736,
+            "total": 12620,
+            "min_turnout": 12746,
+            "max_turnout": 12747
+        },
+        {
+            "county_name": "Fayette",
+            "Abrams": 25736,
+            "Kemp": 34097,
+            "total": 60293,
+            "min_turnout": 60896,
+            "max_turnout": 63466
+        },
+        {
+            "county_name": "Floyd",
+            "Abrams": 7831,
+            "Kemp": 23892,
+            "total": 32014,
+            "min_turnout": 32334,
+            "max_turnout": 33698
+        },
+        {
+            "county_name": "Forsyth",
+            "Abrams": 27397,
+            "Kemp": 74048,
+            "total": 102337,
+            "min_turnout": 103360,
+            "max_turnout": 107723
+        },
+        {
+            "county_name": "Franklin",
+            "Abrams": 948,
+            "Kemp": 7734,
+            "total": 8739,
+            "min_turnout": 8826,
+            "max_turnout": 8827
+        },
+        {
+            "county_name": "Fulton",
+            "Abrams": 288388,
+            "Kemp": 127990,
+            "total": 419002,
+            "min_turnout": 422452,
+            "max_turnout": 441054
+        },
+        {
+            "county_name": "Gilmer",
+            "Abrams": 2004,
+            "Kemp": 11936,
+            "total": 14064,
+            "min_turnout": 14205,
+            "max_turnout": 14804
+        },
+        {
+            "county_name": "Glascock",
+            "Abrams": 89,
+            "Kemp": 1211,
+            "total": 1305,
+            "min_turnout": 1318,
+            "max_turnout": 1318
+        },
+        {
+            "county_name": "Glynn",
+            "Abrams": 10767,
+            "Kemp": 22220,
+            "total": 33242,
+            "min_turnout": 33574,
+            "max_turnout": 35392
+        },
+        {
+            "county_name": "Gordon",
+            "Abrams": 2740,
+            "Kemp": 15986,
+            "total": 18887,
+            "min_turnout": 19076,
+            "max_turnout": 19881
+        },
+        {
+            "county_name": "Grady",
+            "Abrams": 2402,
+            "Kemp": 5617,
+            "total": 8054,
+            "min_turnout": 8135,
+            "max_turnout": 8754
+        },
+        {
+            "county_name": "Greene",
+            "Abrams": 3054,
+            "Kemp": 7401,
+            "total": 10500,
+            "min_turnout": 10605,
+            "max_turnout": 10606
+        },
+        {
+            "county_name": "Gwinnett",
+            "Abrams": 163738,
+            "Kemp": 132942,
+            "total": 299031,
+            "min_turnout": 302021,
+            "max_turnout": 328605
+        },
+        {
+            "county_name": "Habersham",
+            "Abrams": 2320,
+            "Kemp": 14504,
+            "total": 16979,
+            "min_turnout": 17149,
+            "max_turnout": 17975
+        },
+        {
+            "county_name": "Hall",
+            "Abrams": 16277,
+            "Kemp": 56546,
+            "total": 73467,
+            "min_turnout": 74202,
+            "max_turnout": 74209
+        },
+        {
+            "county_name": "Hancock",
+            "Abrams": 2311,
+            "Kemp": 1073,
+            "total": 3400,
+            "min_turnout": 3434,
+            "max_turnout": 3695
+        },
+        {
+            "county_name": "Haralson",
+            "Abrams": 1166,
+            "Kemp": 10395,
+            "total": 11648,
+            "min_turnout": 11764,
+            "max_turnout": 11766
+        },
+        {
+            "county_name": "Harris",
+            "Abrams": 4006,
+            "Kemp": 12919,
+            "total": 17032,
+            "min_turnout": 17202,
+            "max_turnout": 17204
+        },
+        {
+            "county_name": "Hart",
+            "Abrams": 2038,
+            "Kemp": 8423,
+            "total": 10555,
+            "min_turnout": 10661,
+            "max_turnout": 10662
+        },
+        {
+            "county_name": "Heard",
+            "Abrams": 567,
+            "Kemp": 3857,
+            "total": 4460,
+            "min_turnout": 4505,
+            "max_turnout": 4505
+        },
+        {
+            "county_name": "Henry",
+            "Abrams": 58505,
+            "Kemp": 36421,
+            "total": 95459,
+            "min_turnout": 96414,
+            "max_turnout": 102644
+        },
+        {
+            "county_name": "Houston",
+            "Abrams": 23902,
+            "Kemp": 34827,
+            "total": 59169,
+            "min_turnout": 59761,
+            "max_turnout": 59767
+        },
+        {
+            "county_name": "Irwin",
+            "Abrams": 702,
+            "Kemp": 2695,
+            "total": 3418,
+            "min_turnout": 3447,
+            "max_turnout": 3715
+        },
+        {
+            "county_name": "Jackson",
+            "Abrams": 5414,
+            "Kemp": 26216,
+            "total": 31868,
+            "min_turnout": 32187,
+            "max_turnout": 32190
+        },
+        {
+            "county_name": "Jasper",
+            "Abrams": 1286,
+            "Kemp": 5230,
+            "total": 6567,
+            "min_turnout": 6633,
+            "max_turnout": 6912
+        },
+        {
+            "county_name": "Jeff Davis",
+            "Abrams": 646,
+            "Kemp": 3864,
+            "total": 4542,
+            "min_turnout": 4587,
+            "max_turnout": 4991
+        },
+        {
+            "county_name": "Jefferson",
+            "Abrams": 3089,
+            "Kemp": 3161,
+            "total": 6277,
+            "min_turnout": 6340,
+            "max_turnout": 7052
+        },
+        {
+            "county_name": "Jenkins",
+            "Abrams": 871,
+            "Kemp": 1891,
+            "total": 2772,
+            "min_turnout": 2800,
+            "max_turnout": 2980
+        },
+        {
+            "county_name": "Johnson",
+            "Abrams": 867,
+            "Kemp": 2502,
+            "total": 3381,
+            "min_turnout": 3415,
+            "max_turnout": 3635
+        },
+        {
+            "county_name": "Jones",
+            "Abrams": 3657,
+            "Kemp": 8583,
+            "total": 12312,
+            "min_turnout": 12435,
+            "max_turnout": 12958
+        },
+        {
+            "county_name": "Lamar",
+            "Abrams": 1962,
+            "Kemp": 5730,
+            "total": 7748,
+            "min_turnout": 7825,
+            "max_turnout": 8155
+        },
+        {
+            "county_name": "Lanier",
+            "Abrams": 691,
+            "Kemp": 1932,
+            "total": 2638,
+            "min_turnout": 2664,
+            "max_turnout": 2776
+        },
+        {
+            "county_name": "Laurens",
+            "Abrams": 5971,
+            "Kemp": 12499,
+            "total": 18539,
+            "min_turnout": 18724,
+            "max_turnout": 19722
+        },
+        {
+            "county_name": "Lee",
+            "Abrams": 3409,
+            "Kemp": 10091,
+            "total": 13580,
+            "min_turnout": 13716,
+            "max_turnout": 14145
+        },
+        {
+            "county_name": "Liberty",
+            "Abrams": 9225,
+            "Kemp": 6066,
+            "total": 15401,
+            "min_turnout": 15555,
+            "max_turnout": 16042
+        },
+        {
+            "county_name": "Lincoln",
+            "Abrams": 992,
+            "Kemp": 2965,
+            "total": 3981,
+            "min_turnout": 4021,
+            "max_turnout": 4190
+        },
+        {
+            "county_name": "Long",
+            "Abrams": 1438,
+            "Kemp": 2938,
+            "total": 4415,
+            "min_turnout": 4459,
+            "max_turnout": 4460
+        },
+        {
+            "county_name": "Lowndes",
+            "Abrams": 13211,
+            "Kemp": 21205,
+            "total": 34643,
+            "min_turnout": 34989,
+            "max_turnout": 37250
+        },
+        {
+            "county_name": "Lumpkin",
+            "Abrams": 2067,
+            "Kemp": 10518,
+            "total": 12727,
+            "min_turnout": 12854,
+            "max_turnout": 12856
+        },
+        {
+            "county_name": "Macon",
+            "Abrams": 2209,
+            "Kemp": 1551,
+            "total": 3778,
+            "min_turnout": 3816,
+            "max_turnout": 4393
+        },
+        {
+            "county_name": "Madison",
+            "Abrams": 2497,
+            "Kemp": 9947,
+            "total": 12542,
+            "min_turnout": 12667,
+            "max_turnout": 12669
+        },
+        {
+            "county_name": "Marion",
+            "Abrams": 954,
+            "Kemp": 1868,
+            "total": 2846,
+            "min_turnout": 2874,
+            "max_turnout": 3060
+        },
+        {
+            "county_name": "McDuffie",
+            "Abrams": 2976,
+            "Kemp": 5282,
+            "total": 8313,
+            "min_turnout": 8396,
+            "max_turnout": 9135
+        },
+        {
+            "county_name": "McIntosh",
+            "Abrams": 1923,
+            "Kemp": 3570,
+            "total": 5517,
+            "min_turnout": 5569,
+            "max_turnout": 5807
+        },
+        {
+            "county_name": "Meriwether",
+            "Abrams": 3158,
+            "Kemp": 5701,
+            "total": 8903,
+            "min_turnout": 8992,
+            "max_turnout": 9371
+        },
+        {
+            "county_name": "Miller",
+            "Abrams": 462,
+            "Kemp": 1689,
+            "total": 2164,
+            "min_turnout": 2186,
+            "max_turnout": 2404
+        },
+        {
+            "county_name": "Mitchell",
+            "Abrams": 2829,
+            "Kemp": 4195,
+            "total": 7050,
+            "min_turnout": 7120,
+            "max_turnout": 7747
+        },
+        {
+            "county_name": "Monroe",
+            "Abrams": 3314,
+            "Kemp": 10309,
+            "total": 13712,
+            "min_turnout": 13849,
+            "max_turnout": 13851
+        },
+        {
+            "county_name": "Montgomery",
+            "Abrams": 670,
+            "Kemp": 2545,
+            "total": 3226,
+            "min_turnout": 3258,
+            "max_turnout": 3665
+        },
+        {
+            "county_name": "Morgan",
+            "Abrams": 2470,
+            "Kemp": 7756,
+            "total": 10315,
+            "min_turnout": 10418,
+            "max_turnout": 10419
+        },
+        {
+            "county_name": "Murray",
+            "Abrams": 1160,
+            "Kemp": 10289,
+            "total": 11532,
+            "min_turnout": 11647,
+            "max_turnout": 12138
+        },
+        {
+            "county_name": "Muscogee",
+            "Abrams": 35099,
+            "Kemp": 23909,
+            "total": 59396,
+            "min_turnout": 59990,
+            "max_turnout": 65995
+        },
+        {
+            "county_name": "Newton",
+            "Abrams": 23492,
+            "Kemp": 19062,
+            "total": 42805,
+            "min_turnout": 43233,
+            "max_turnout": 45057
+        },
+        {
+            "county_name": "Oconee",
+            "Abrams": 5780,
+            "Kemp": 16549,
+            "total": 22471,
+            "min_turnout": 22696,
+            "max_turnout": 23407
+        },
+        {
+            "county_name": "Oglethorpe",
+            "Abrams": 1765,
+            "Kemp": 4996,
+            "total": 6808,
+            "min_turnout": 6876,
+            "max_turnout": 7166
+        },
+        {
+            "county_name": "Paulding",
+            "Abrams": 22377,
+            "Kemp": 43953,
+            "total": 66912,
+            "min_turnout": 67581,
+            "max_turnout": 68863
+        },
+        {
+            "county_name": "Peach",
+            "Abrams": 4425,
+            "Kemp": 5535,
+            "total": 10026,
+            "min_turnout": 10126,
+            "max_turnout": 10897
+        },
+        {
+            "county_name": "Pickens",
+            "Abrams": 2040,
+            "Kemp": 12933,
+            "total": 15081,
+            "min_turnout": 15232,
+            "max_turnout": 15233
+        },
+        {
+            "county_name": "Pierce",
+            "Abrams": 674,
+            "Kemp": 6462,
+            "total": 7177,
+            "min_turnout": 7249,
+            "max_turnout": 7249
+        },
+        {
+            "county_name": "Pike",
+            "Abrams": 1075,
+            "Kemp": 8301,
+            "total": 9429,
+            "min_turnout": 9523,
+            "max_turnout": 9524
+        },
+        {
+            "county_name": "Polk",
+            "Abrams": 2424,
+            "Kemp": 11089,
+            "total": 13608,
+            "min_turnout": 13744,
+            "max_turnout": 14324
+        },
+        {
+            "county_name": "Pulaski",
+            "Abrams": 904,
+            "Kemp": 2451,
+            "total": 3371,
+            "min_turnout": 3405,
+            "max_turnout": 3787
+        },
+        {
+            "county_name": "Putnam",
+            "Abrams": 2493,
+            "Kemp": 7677,
+            "total": 10219,
+            "min_turnout": 10321,
+            "max_turnout": 10756
+        },
+        {
+            "county_name": "Quitman",
+            "Abrams": 350,
+            "Kemp": 555,
+            "total": 906,
+            "min_turnout": 915,
+            "max_turnout": 974
+        },
+        {
+            "county_name": "Rabun",
+            "Abrams": 1415,
+            "Kemp": 6765,
+            "total": 8261,
+            "min_turnout": 8344,
+            "max_turnout": 8695
+        },
+        {
+            "county_name": "Randolph",
+            "Abrams": 1316,
+            "Kemp": 1242,
+            "total": 2563,
+            "min_turnout": 2589,
+            "max_turnout": 2912
+        },
+        {
+            "county_name": "Richmond",
+            "Abrams": 42069,
+            "Kemp": 21595,
+            "total": 64087,
+            "min_turnout": 64728,
+            "max_turnout": 64734
+        },
+        {
+            "county_name": "Rockdale",
+            "Abrams": 24702,
+            "Kemp": 9922,
+            "total": 34837,
+            "min_turnout": 35185,
+            "max_turnout": 38282
+        },
+        {
+            "county_name": "Schley",
+            "Abrams": 339,
+            "Kemp": 1526,
+            "total": 1876,
+            "min_turnout": 1895,
+            "max_turnout": 2017
+        },
+        {
+            "county_name": "Screven",
+            "Abrams": 1865,
+            "Kemp": 3419,
+            "total": 5302,
+            "min_turnout": 5355,
+            "max_turnout": 5640
+        },
+        {
+            "county_name": "Seminole",
+            "Abrams": 773,
+            "Kemp": 2254,
+            "total": 3044,
+            "min_turnout": 3072,
+            "max_turnout": 3075
+        },
+        {
+            "county_name": "Spalding",
+            "Abrams": 9135,
+            "Kemp": 15081,
+            "total": 24375,
+            "min_turnout": 24619,
+            "max_turnout": 25390
+        },
+        {
+            "county_name": "Stephens",
+            "Abrams": 1499,
+            "Kemp": 7818,
+            "total": 9398,
+            "min_turnout": 9492,
+            "max_turnout": 9892
+        },
+        {
+            "county_name": "Stewart",
+            "Abrams": 893,
+            "Kemp": 667,
+            "total": 1565,
+            "min_turnout": 1581,
+            "max_turnout": 1885
+        },
+        {
+            "county_name": "Sumter",
+            "Abrams": 4646,
+            "Kemp": 4917,
+            "total": 9597,
+            "min_turnout": 9693,
+            "max_turnout": 11031
+        },
+        {
+            "county_name": "Talbot",
+            "Abrams": 1628,
+            "Kemp": 1214,
+            "total": 2864,
+            "min_turnout": 2892,
+            "max_turnout": 2893
+        },
+        {
+            "county_name": "Taliaferro",
+            "Abrams": 476,
+            "Kemp": 327,
+            "total": 806,
+            "min_turnout": 814,
+            "max_turnout": 959
+        },
+        {
+            "county_name": "Tattnall",
+            "Abrams": 1359,
+            "Kemp": 5122,
+            "total": 6526,
+            "min_turnout": 6591,
+            "max_turnout": 6942
+        },
+        {
+            "county_name": "Taylor",
+            "Abrams": 1062,
+            "Kemp": 2130,
+            "total": 3202,
+            "min_turnout": 3234,
+            "max_turnout": 3443
+        },
+        {
+            "county_name": "Telfair",
+            "Abrams": 960,
+            "Kemp": 2433,
+            "total": 3413,
+            "min_turnout": 3447,
+            "max_turnout": 3792
+        },
+        {
+            "county_name": "Terrell",
+            "Abrams": 1856,
+            "Kemp": 1809,
+            "total": 3687,
+            "min_turnout": 3692,
+            "max_turnout": 4096
+        },
+        {
+            "county_name": "Thomas",
+            "Abrams": 6136,
+            "Kemp": 11053,
+            "total": 17276,
+            "min_turnout": 17449,
+            "max_turnout": 17451
+        },
+        {
+            "county_name": "Tift",
+            "Abrams": 3539,
+            "Kemp": 9412,
+            "total": 13031,
+            "min_turnout": 13161,
+            "max_turnout": 13163
+        },
+        {
+            "county_name": "Toombs",
+            "Abrams": 1918,
+            "Kemp": 6520,
+            "total": 8482,
+            "min_turnout": 8567,
+            "max_turnout": 9219
+        },
+        {
+            "county_name": "Towns",
+            "Abrams": 1049,
+            "Kemp": 6061,
+            "total": 7172,
+            "min_turnout": 7244,
+            "max_turnout": 7244
+        },
+        {
+            "county_name": "Treutlen",
+            "Abrams": 676,
+            "Kemp": 1764,
+            "total": 2448,
+            "min_turnout": 2469,
+            "max_turnout": 2720
+        },
+        {
+            "county_name": "Troup",
+            "Abrams": 8253,
+            "Kemp": 14854,
+            "total": 23237,
+            "min_turnout": 23469,
+            "max_turnout": 23472
+        },
+        {
+            "county_name": "Turner",
+            "Abrams": 1081,
+            "Kemp": 1992,
+            "total": 3095,
+            "min_turnout": 3126,
+            "max_turnout": 3401
+        },
+        {
+            "county_name": "Twiggs",
+            "Abrams": 1537,
+            "Kemp": 1980,
+            "total": 3535,
+            "min_turnout": 3570,
+            "max_turnout": 3927
+        },
+        {
+            "county_name": "Union",
+            "Abrams": 2070,
+            "Kemp": 12118,
+            "total": 14307,
+            "min_turnout": 14450,
+            "max_turnout": 14452
+        },
+        {
+            "county_name": "Upson",
+            "Abrams": 2967,
+            "Kemp": 7094,
+            "total": 10131,
+            "min_turnout": 10232,
+            "max_turnout": 11011
+        },
+        {
+            "county_name": "Walker",
+            "Abrams": 3505,
+            "Kemp": 18403,
+            "total": 22106,
+            "min_turnout": 22327,
+            "max_turnout": 23269
+        },
+        {
+            "county_name": "Walton",
+            "Abrams": 9563,
+            "Kemp": 32558,
+            "total": 42432,
+            "min_turnout": 42856,
+            "max_turnout": 44665
+        },
+        {
+            "county_name": "Ware",
+            "Abrams": 2828,
+            "Kemp": 7852,
+            "total": 10749,
+            "min_turnout": 10856,
+            "max_turnout": 10858
+        },
+        {
+            "county_name": "Warren",
+            "Abrams": 1080,
+            "Kemp": 1063,
+            "total": 2156,
+            "min_turnout": 2178,
+            "max_turnout": 2343
+        },
+        {
+            "county_name": "Washington",
+            "Abrams": 3662,
+            "Kemp": 4095,
+            "total": 7788,
+            "min_turnout": 7866,
+            "max_turnout": 8465
+        },
+        {
+            "county_name": "Wayne",
+            "Abrams": 1794,
+            "Kemp": 8169,
+            "total": 10022,
+            "min_turnout": 10122,
+            "max_turnout": 10549
+        },
+        {
+            "county_name": "Webster",
+            "Abrams": 424,
+            "Kemp": 708,
+            "total": 1135,
+            "min_turnout": 1146,
+            "max_turnout": 1146
+        },
+        {
+            "county_name": "Wheeler",
+            "Abrams": 501,
+            "Kemp": 1318,
+            "total": 1826,
+            "min_turnout": 1841,
+            "max_turnout": 2006
+        },
+        {
+            "county_name": "White",
+            "Abrams": 1618,
+            "Kemp": 10995,
+            "total": 12726,
+            "min_turnout": 12853,
+            "max_turnout": 13395
+        },
+        {
+            "county_name": "Whitfield",
+            "Abrams": 5865,
+            "Kemp": 20899,
+            "total": 26985,
+            "min_turnout": 27255,
+            "max_turnout": 27258
+        },
+        {
+            "county_name": "Wilcox",
+            "Abrams": 613,
+            "Kemp": 1998,
+            "total": 2621,
+            "min_turnout": 2647,
+            "max_turnout": 2944
+        },
+        {
+            "county_name": "Wilkes",
+            "Abrams": 1582,
+            "Kemp": 2544,
+            "total": 4146,
+            "min_turnout": 4187,
+            "max_turnout": 4556
+        },
+        {
+            "county_name": "Wilkinson",
+            "Abrams": 1673,
+            "Kemp": 2365,
+            "total": 4055,
+            "min_turnout": 4095,
+            "max_turnout": 4096
+        },
+        {
+            "county_name": "Worth",
+            "Abrams": 1714,
+            "Kemp": 5643,
+            "total": 7387,
+            "min_turnout": 7461,
+            "max_turnout": 8207
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Appling": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Atkinson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bacon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Baker": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Baldwin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Banks": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Barrow": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bartow": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Ben Hill": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Berrien": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bibb": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bleckley": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Brantley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Brooks": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bryan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Bulloch": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Burke": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Butts": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Calhoun": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Camden": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Candler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Carroll": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Catoosa": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Charlton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Chatham": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Chattahoochee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Chattooga": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Cherokee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clarke": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Clay": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clayton": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Clinch": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Cobb": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Coffee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Colquitt": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Columbia": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Cook": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Coweta": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Crawford": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Crisp": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dade": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dawson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "DeKalb": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Decatur": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dodge": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Dooly": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Dougherty": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Douglas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Early": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Echols": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Effingham": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Elbert": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Emanuel": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Evans": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Fannin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Fayette": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Floyd": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Forsyth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Fulton": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gilmer": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Glascock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Glynn": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Gordon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Grady": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Greene": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Gwinnett": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Habersham": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Hall": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Hancock": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Haralson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Harris": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Hart": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Heard": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Henry": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Houston": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Irwin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Jasper": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jeff Davis": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jenkins": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Johnson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Jones": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lamar": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lanier": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Laurens": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Liberty": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lincoln": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Long": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lowndes": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Lumpkin": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Macon": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Marion": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McDuffie": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "McIntosh": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Meriwether": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Miller": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Mitchell": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Monroe": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Montgomery": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Morgan": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Murray": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Muscogee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Newton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Oconee": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Oglethorpe": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Paulding": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Peach": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pickens": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Pierce": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Pike": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Pulaski": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Quitman": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Rabun": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Randolph": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Richmond": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Rockdale": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Schley": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Screven": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Seminole": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Spalding": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Stephens": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Stewart": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sumter": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Talbot": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Taliaferro": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Tattnall": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Taylor": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Telfair": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Terrell": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Thomas": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Tift": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Toombs": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Towns": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Treutlen": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Troup": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Turner": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Twiggs": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Upson": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Walker": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Walton": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Ware": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Warren": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wayne": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Webster": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Wheeler": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "White": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Whitfield": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Wilcox": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Wilkes": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Wilkinson": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Worth": {
+            "main": "nyt",
+            "min": "ddhq",
+            "max": "cnn"
+        }
+    }
+}

@@ -1,0 +1,889 @@
+{
+    "data": [
+        {
+            "county_name": "Total",
+            "Crist": 904305,
+            "Fried": 535325,
+            "total": 1514583,
+            "min_turnout": 1525541,
+            "max_turnout": 1545345
+        },
+        {
+            "county_name": "Alachua",
+            "Crist": 14072,
+            "Fried": 14733,
+            "total": 30066,
+            "min_turnout": 30336,
+            "max_turnout": 32726
+        },
+        {
+            "county_name": "Baker",
+            "Crist": 439,
+            "Fried": 340,
+            "total": 1012,
+            "min_turnout": 1022,
+            "max_turnout": 1022
+        },
+        {
+            "county_name": "Bay",
+            "Crist": 3045,
+            "Fried": 3080,
+            "total": 6686,
+            "min_turnout": 6731,
+            "max_turnout": 6753
+        },
+        {
+            "county_name": "Bradford",
+            "Crist": 752,
+            "Fried": 485,
+            "total": 1417,
+            "min_turnout": 1430,
+            "max_turnout": 1431
+        },
+        {
+            "county_name": "Brevard",
+            "Crist": 26766,
+            "Fried": 17247,
+            "total": 46703,
+            "min_turnout": 46703,
+            "max_turnout": 47174
+        },
+        {
+            "county_name": "Broward",
+            "Crist": 106667,
+            "Fried": 54312,
+            "total": 168165,
+            "min_turnout": 169696,
+            "max_turnout": 169863
+        },
+        {
+            "county_name": "Calhoun",
+            "Crist": 397,
+            "Fried": 280,
+            "total": 850,
+            "min_turnout": 858,
+            "max_turnout": 859
+        },
+        {
+            "county_name": "Charlotte",
+            "Crist": 7424,
+            "Fried": 5066,
+            "total": 13006,
+            "min_turnout": 13137,
+            "max_turnout": 13137
+        },
+        {
+            "county_name": "Citrus",
+            "Crist": 6266,
+            "Fried": 3144,
+            "total": 9902,
+            "min_turnout": 9996,
+            "max_turnout": 10002
+        },
+        {
+            "county_name": "Clay",
+            "Crist": 4364,
+            "Fried": 3616,
+            "total": 8568,
+            "min_turnout": 8651,
+            "max_turnout": 8654
+        },
+        {
+            "county_name": "Collier",
+            "Crist": 10257,
+            "Fried": 7088,
+            "total": 17971,
+            "min_turnout": 18144,
+            "max_turnout": 18152
+        },
+        {
+            "county_name": "Columbia",
+            "Crist": 1468,
+            "Fried": 1228,
+            "total": 2994,
+            "min_turnout": 3023,
+            "max_turnout": 3024
+        },
+        {
+            "county_name": "DeSoto",
+            "Crist": 694,
+            "Fried": 547,
+            "total": 1409,
+            "min_turnout": 1423,
+            "max_turnout": 1423
+        },
+        {
+            "county_name": "Dixie",
+            "Crist": 327,
+            "Fried": 213,
+            "total": 625,
+            "min_turnout": 630,
+            "max_turnout": 631
+        },
+        {
+            "county_name": "Duval",
+            "Crist": 39976,
+            "Fried": 36169,
+            "total": 82163,
+            "min_turnout": 82839,
+            "max_turnout": 82992
+        },
+        {
+            "county_name": "Escambia",
+            "Crist": 11991,
+            "Fried": 7100,
+            "total": 20615,
+            "min_turnout": 20615,
+            "max_turnout": 20823
+        },
+        {
+            "county_name": "Flagler",
+            "Crist": 6172,
+            "Fried": 3809,
+            "total": 10493,
+            "min_turnout": 10598,
+            "max_turnout": 10599
+        },
+        {
+            "county_name": "Franklin",
+            "Crist": 437,
+            "Fried": 431,
+            "total": 957,
+            "min_turnout": 966,
+            "max_turnout": 967
+        },
+        {
+            "county_name": "Gadsden",
+            "Crist": 5305,
+            "Fried": 2250,
+            "total": 7941,
+            "min_turnout": 8021,
+            "max_turnout": 8021
+        },
+        {
+            "county_name": "Gilchrist",
+            "Crist": 330,
+            "Fried": 273,
+            "total": 692,
+            "min_turnout": 698,
+            "max_turnout": 699
+        },
+        {
+            "county_name": "Glades",
+            "Crist": 247,
+            "Fried": 203,
+            "total": 515,
+            "min_turnout": 520,
+            "max_turnout": 578
+        },
+        {
+            "county_name": "Gulf",
+            "Crist": 367,
+            "Fried": 262,
+            "total": 707,
+            "min_turnout": 714,
+            "max_turnout": 714
+        },
+        {
+            "county_name": "Hamilton",
+            "Crist": 554,
+            "Fried": 295,
+            "total": 1019,
+            "min_turnout": 1029,
+            "max_turnout": 1029
+        },
+        {
+            "county_name": "Hardee",
+            "Crist": 360,
+            "Fried": 191,
+            "total": 604,
+            "min_turnout": 610,
+            "max_turnout": 610
+        },
+        {
+            "county_name": "Hendry",
+            "Crist": 651,
+            "Fried": 515,
+            "total": 1294,
+            "min_turnout": 1307,
+            "max_turnout": 1646
+        },
+        {
+            "county_name": "Hernando",
+            "Crist": 7639,
+            "Fried": 3548,
+            "total": 11765,
+            "min_turnout": 11865,
+            "max_turnout": 11883
+        },
+        {
+            "county_name": "Highlands",
+            "Crist": 3120,
+            "Fried": 1607,
+            "total": 5033,
+            "min_turnout": 5083,
+            "max_turnout": 5084
+        },
+        {
+            "county_name": "Hillsborough",
+            "Crist": 63109,
+            "Fried": 35621,
+            "total": 103603,
+            "min_turnout": 104519,
+            "max_turnout": 104649
+        },
+        {
+            "county_name": "Holmes",
+            "Crist": 256,
+            "Fried": 179,
+            "total": 554,
+            "min_turnout": 559,
+            "max_turnout": 560
+        },
+        {
+            "county_name": "Indian River",
+            "Crist": 6857,
+            "Fried": 4102,
+            "total": 11444,
+            "min_turnout": 11559,
+            "max_turnout": 11560
+        },
+        {
+            "county_name": "Jackson",
+            "Crist": 1672,
+            "Fried": 1036,
+            "total": 3065,
+            "min_turnout": 3095,
+            "max_turnout": 3096
+        },
+        {
+            "county_name": "Jefferson",
+            "Crist": 1362,
+            "Fried": 616,
+            "total": 2134,
+            "min_turnout": 2155,
+            "max_turnout": 2156
+        },
+        {
+            "county_name": "Lafayette",
+            "Crist": 136,
+            "Fried": 90,
+            "total": 271,
+            "min_turnout": 273,
+            "max_turnout": 451
+        },
+        {
+            "county_name": "Lake",
+            "Crist": 13727,
+            "Fried": 7844,
+            "total": 22813,
+            "min_turnout": 22993,
+            "max_turnout": 23043
+        },
+        {
+            "county_name": "Lee",
+            "Crist": 21736,
+            "Fried": 17069,
+            "total": 40518,
+            "min_turnout": 40927,
+            "max_turnout": 40927
+        },
+        {
+            "county_name": "Leon",
+            "Crist": 24083,
+            "Fried": 15106,
+            "total": 40733,
+            "min_turnout": 41103,
+            "max_turnout": 44761
+        },
+        {
+            "county_name": "Levy",
+            "Crist": 1187,
+            "Fried": 888,
+            "total": 2287,
+            "min_turnout": 2309,
+            "max_turnout": 2310
+        },
+        {
+            "county_name": "Liberty",
+            "Crist": 293,
+            "Fried": 182,
+            "total": 606,
+            "min_turnout": 611,
+            "max_turnout": 612
+        },
+        {
+            "county_name": "Madison",
+            "Crist": 1194,
+            "Fried": 368,
+            "total": 1733,
+            "min_turnout": 1750,
+            "max_turnout": 1751
+        },
+        {
+            "county_name": "Manatee",
+            "Crist": 18480,
+            "Fried": 10024,
+            "total": 29594,
+            "min_turnout": 29869,
+            "max_turnout": 29892
+        },
+        {
+            "county_name": "Marion",
+            "Crist": 15322,
+            "Fried": 7877,
+            "total": 24806,
+            "min_turnout": 25023,
+            "max_turnout": 25056
+        },
+        {
+            "county_name": "Martin",
+            "Crist": 6511,
+            "Fried": 3850,
+            "total": 10739,
+            "min_turnout": 10847,
+            "max_turnout": 11813
+        },
+        {
+            "county_name": "Miami-Dade",
+            "Crist": 81907,
+            "Fried": 42842,
+            "total": 131819,
+            "min_turnout": 132805,
+            "max_turnout": 133150
+        },
+        {
+            "county_name": "Monroe",
+            "Crist": 3890,
+            "Fried": 3073,
+            "total": 7340,
+            "min_turnout": 7410,
+            "max_turnout": 7414
+        },
+        {
+            "county_name": "Nassau",
+            "Crist": 2667,
+            "Fried": 1981,
+            "total": 4945,
+            "min_turnout": 4986,
+            "max_turnout": 4994
+        },
+        {
+            "county_name": "Okaloosa",
+            "Crist": 3645,
+            "Fried": 3237,
+            "total": 7488,
+            "min_turnout": 7563,
+            "max_turnout": 8237
+        },
+        {
+            "county_name": "Okeechobee",
+            "Crist": 644,
+            "Fried": 412,
+            "total": 1169,
+            "min_turnout": 1180,
+            "max_turnout": 1181
+        },
+        {
+            "county_name": "Orange",
+            "Crist": 56869,
+            "Fried": 36136,
+            "total": 97810,
+            "min_turnout": 97810,
+            "max_turnout": 98768
+        },
+        {
+            "county_name": "Osceola",
+            "Crist": 11464,
+            "Fried": 7656,
+            "total": 20876,
+            "min_turnout": 21069,
+            "max_turnout": 21086
+        },
+        {
+            "county_name": "Palm Beach",
+            "Crist": 80955,
+            "Fried": 44024,
+            "total": 129404,
+            "min_turnout": 129661,
+            "max_turnout": 130479
+        },
+        {
+            "county_name": "Pasco",
+            "Crist": 21049,
+            "Fried": 11719,
+            "total": 34376,
+            "min_turnout": 34376,
+            "max_turnout": 34723
+        },
+        {
+            "county_name": "Pinellas",
+            "Crist": 66551,
+            "Fried": 25414,
+            "total": 94506,
+            "min_turnout": 95397,
+            "max_turnout": 95460
+        },
+        {
+            "county_name": "Polk",
+            "Crist": 24460,
+            "Fried": 13805,
+            "total": 40553,
+            "min_turnout": 40962,
+            "max_turnout": 40963
+        },
+        {
+            "county_name": "Putnam",
+            "Crist": 2061,
+            "Fried": 1383,
+            "total": 3853,
+            "min_turnout": 3891,
+            "max_turnout": 3892
+        },
+        {
+            "county_name": "Saint Johns",
+            "Crist": 9305,
+            "Fried": 8322,
+            "total": 18299,
+            "min_turnout": 18483,
+            "max_turnout": 18484
+        },
+        {
+            "county_name": "Saint Lucie",
+            "Crist": 14172,
+            "Fried": 7851,
+            "total": 23239,
+            "min_turnout": 23372,
+            "max_turnout": 23473
+        },
+        {
+            "county_name": "Santa Rosa",
+            "Crist": 3006,
+            "Fried": 2780,
+            "total": 6295,
+            "min_turnout": 6352,
+            "max_turnout": 6358
+        },
+        {
+            "county_name": "Sarasota",
+            "Crist": 28706,
+            "Fried": 16499,
+            "total": 46499,
+            "min_turnout": 46968,
+            "max_turnout": 51149
+        },
+        {
+            "county_name": "Seminole",
+            "Crist": 19753,
+            "Fried": 13054,
+            "total": 34408,
+            "min_turnout": 34756,
+            "max_turnout": 37849
+        },
+        {
+            "county_name": "Sumter",
+            "Crist": 8016,
+            "Fried": 3621,
+            "total": 12197,
+            "min_turnout": 12314,
+            "max_turnout": 12320
+        },
+        {
+            "county_name": "Suwannee",
+            "Crist": 1184,
+            "Fried": 809,
+            "total": 2307,
+            "min_turnout": 2330,
+            "max_turnout": 2330
+        },
+        {
+            "county_name": "Taylor",
+            "Crist": 602,
+            "Fried": 350,
+            "total": 1086,
+            "min_turnout": 1096,
+            "max_turnout": 1096
+        },
+        {
+            "county_name": "Union",
+            "Crist": 187,
+            "Fried": 130,
+            "total": 401,
+            "min_turnout": 405,
+            "max_turnout": 507
+        },
+        {
+            "county_name": "Volusia",
+            "Crist": 24112,
+            "Fried": 14830,
+            "total": 41450,
+            "min_turnout": 41868,
+            "max_turnout": 41869
+        },
+        {
+            "county_name": "Wakulla",
+            "Crist": 1465,
+            "Fried": 955,
+            "total": 2652,
+            "min_turnout": 2678,
+            "max_turnout": 2678
+        },
+        {
+            "county_name": "Walton",
+            "Crist": 1082,
+            "Fried": 1198,
+            "total": 2460,
+            "min_turnout": 2483,
+            "max_turnout": 2484
+        },
+        {
+            "county_name": "Washington",
+            "Crist": 541,
+            "Fried": 360,
+            "total": 1079,
+            "min_turnout": 1089,
+            "max_turnout": 1268
+        }
+    ],
+    "sources": "nyt, cnn, ddhq",
+    "labels": {
+        "Total": {
+            "main": "nyt"
+        },
+        "Alachua": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Baker": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Bay": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Bradford": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Brevard": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Broward": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Calhoun": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Charlotte": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Citrus": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Clay": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Collier": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Columbia": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "DeSoto": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Dixie": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Duval": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Escambia": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Flagler": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Franklin": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Gadsden": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Gilchrist": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Glades": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Gulf": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hamilton": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hardee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Hendry": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Hernando": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Highlands": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Hillsborough": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Holmes": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Indian River": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Jackson": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Jefferson": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Lafayette": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Lake": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Lee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Leon": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Levy": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Liberty": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Madison": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Manatee": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Marion": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Martin": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Miami-Dade": {
+            "main": "cnn",
+            "min": "ddhq",
+            "max": "cnn"
+        },
+        "Monroe": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Nassau": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Okaloosa": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Okeechobee": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Orange": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Osceola": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Palm Beach": {
+            "main": "ddhq",
+            "min": "ddhq",
+            "max": "nyt"
+        },
+        "Pasco": {
+            "main": "cnn",
+            "min": "cnn",
+            "max": "cnn"
+        },
+        "Pinellas": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Polk": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Putnam": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Saint Johns": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Saint Lucie": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Santa Rosa": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Sarasota": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        },
+        "Seminole": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "ddhq"
+        },
+        "Sumter": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Suwannee": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Taylor": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Union": {
+            "main": "nyt",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Volusia": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "nyt"
+        },
+        "Wakulla": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "nyt"
+        },
+        "Walton": {
+            "main": "cnn",
+            "min": "nyt",
+            "max": "cnn"
+        },
+        "Washington": {
+            "main": "nyt",
+            "min": "cnn",
+            "max": "ddhq"
+        }
+    }
+}
